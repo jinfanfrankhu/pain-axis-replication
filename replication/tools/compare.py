@@ -1,5 +1,6 @@
 """Compare a replication run against the authors' shipped outputs for one model.
-Usage: python compare.py OURS_DIR AUTHOR_PV_FILE AUTHOR_PM_DIR"""
+Usage: python replication/tools/compare.py OURS_DIR AUTHOR_PV_FILE AUTHOR_PM_DIR
+Superseded by compare_all.py; kept because Phase 0 used it."""
 import sys, json
 from pathlib import Path
 import torch
