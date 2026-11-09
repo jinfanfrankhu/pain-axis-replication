@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Steering Language Models</title>
+<meta name="description" content="Interactive demo: add a 'pain' or 'pleasure' direction to an open-weight language model's activations and watch its text change with strength.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="wrap">
+  <p class="eyebrow">Replication demo · The Pain Axis (Tagliabue, Dung &amp; Berg, 2026)</p>
+  <h1>Steering language models along a pain axis</h1>
+  <p class="lede">
+    A <em>steering vector</em> is a direction in a model's internal activations. Here it's the difference
+    between how the model represents sentences about pain and how it represents other sentences. Adding a
+    multiple of that direction while the model writes pushes its text toward (positive strength) or away
+    from (negative strength) whatever the direction encodes. Pick a model, a direction and a prompt, then
+    drag the strength.
+  </p>
+</header>
+
+<main class="wrap">
+  <section class="controls" aria-label="Controls">
+    <label>Model
+      <select id="model"></select>
+    </label>
+    <label>Direction
+      <select id="vector"></select>
+    </label>
+    <label class="wide">Prompt
+      <select id="prompt"></select>
+    </label>
+  </section>
+
+  <section class="stage" aria-live="polite">
+    <div class="slider-row">
+      <span class="tick neg">away</span>
+      <input id="strength" type="range" min="0" max="10" step="1" value="5" aria-label="Steering strength">
+      <span class="tick pos">toward</span>
+    </div>
+    <p class="strength-readout">Strength <strong id="coeff">0</strong> <span id="coeff-note" class="muted"></span></p>
+
+    <div class="io">
+      <div class="prompt-box">
+        <span class="label">Prompt</span>
+        <p id="prompt-text"></p>
+      </div>
+      <div class="output-box">
+        <span class="label">Model output</span>
+        <p id="output"></p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>All strengths side by side</h2>
+      <button id="toggle-grid" type="button">Show</button>
+    </div>
+    <div id="grid" class="grid" hidden></div>
+  </section>
+
+  <section class="notes">
+    <h2>How this was made</h2>
+    <ul>
+      <li><strong>Pain direction:</strong> the paper's S2 pain vector: the mean final-token activation of
+        100 first-person pain sentences ("The knife slices into my finger. I feel:") minus the mean over
+        100 control sentences (fear, other negative emotion, bad news, neutral, body sensation), with the
+        controls' main variance directions projected out. We re-extracted it ourselves; for these models it
+        matches the authors' vector at cosine 0.97–1.00.</li>
+      <li><strong>Pleasure directions</strong> (our extension, not in the paper): the same recipe applied to
+        our own sentence sets. <em>Hedonic</em> covers comfort, sex, drugs, taste and thrill; <em>eudaimonic</em>
+        covers moral acts, purpose, love, mastery and peace. They're rescaled to the pain vector's length,
+        so a given strength is the same size of push for every direction.</li>
+      <li><strong>Steering:</strong> strength × direction is added to the output of one middle layer at every
+        position (the layer the authors used for that model), and the text is generated greedily (always the
+        most likely next token). Strength 0 is the unmodified model. The prompts with "I feel:" are the
+        paper's neutral steering prompts; the questions use each model's chat format.</li>
+      <li><strong>Reading it:</strong> large strengths often break the text (repetition, word salad). That
+        shows the push is very large, not that the model "feels" anything. Changes in the text show what a
+        direction does to the output, not whether there is any inner experience.</li>
+    </ul>
+    <p class="muted">Code and data: the <code>replication/</code> folder of the replication repository.
+      Original paper: <a href="https://arxiv.org/abs/2609.16247">arXiv:2609.16247</a>.</p>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
