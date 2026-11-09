@@ -62,3 +62,25 @@ They can be regenerated for about $0.07 per model.
   - The process died with no error just after loading Gemma 2 9B, most likely
     killed for running out of host RAM, so Gemma 2 9B (base and it) is not done
     yet. Qwen3-14B was skipped because it needs more than 24 GB of VRAM.
+- **Overnight** (2026-11-09):
+  - *Qwen2.5 cause found:* pain vectors built from plain HF activations match
+    the authors' Qwen2.5 vectors at cosine 0.9997 (S1) and 0.9998 (S2), while
+    transformer_lens 3.9 gives 0.93/0.97. The gap comes from our
+    transformer_lens version, not from the authors.
+    `tools/run_extract.py` now has `HF_BACKEND=1` (HF forward hooks) to
+    re-extract Qwen2.5 and Gemma 2 9B; that run has not finished yet.
+  - *4.2 steering* (S2, authors' layers) for 9 models. The paper's metric, the
+    share of generations with a pain word at positive coefficients, matches:
+    Gemma 2 2B IT 24.4% vs 24.8%, Llama 3.1 8B Instruct 18.8% vs 19.6%, and the
+    base models at about 0 on both sides. Exact greedy text matches only 24-78%
+    of the time because of numeric drift (unsteered outputs diverge too). The
+    Qwen2.5 runs used the TransformerLens vectors and need redoing.
+  - *Pleasure extension* (`results/pleasure/`): pain-vector cosine with
+    pleasure-minus-controls is about 0.3-0.44 across 9 models, with eudaimonic
+    above hedonic. The baselines (Llama 3.1 8B base, so far only that model) show
+    most of this is shared salience, not pleasure: neutral facts give 0.07,
+    positive arousal 0.31, numb injuries 0.27. Hedonic measured against the new
+    controls gives 0.10.
+  - *Demo site* in `demo/` with data for 9 models.
+  - The pods sat idle for about 8 hours waiting on permission prompts, and
+    spend reached $15.17, so the remaining jobs were stopped.
