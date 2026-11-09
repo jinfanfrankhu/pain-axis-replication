@@ -1,0 +1,2066 @@
+{
+  "metadata": {
+    "description": "Pleasure counterpart to the pain sets (replication extension, draft v0)",
+    "version": "0.1",
+    "datasets": [
+      "Pleasure_S1",
+      "Pleasure_S2"
+    ],
+    "perspectives": [
+      "1P",
+      "3P"
+    ],
+    "categories": {
+      "pleasure": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5"
+      ]
+    },
+    "category_labels": {
+      "L1": "Physical Pleasure",
+      "L2": "Psychological Pleasure",
+      "L3": "Social Pleasure",
+      "L4": "Moral Elevation",
+      "L5": "Cognitive Pleasure"
+    },
+    "mirrors_pain_category": {
+      "L1": "A1",
+      "L2": "A2",
+      "L3": "A3",
+      "L4": "A4",
+      "L5": "A5"
+    },
+    "3P_gender_pattern": "odd sets = male, even sets = female",
+    "notes": {
+      "Pleasure_S1": "Matched to the authors' S1 frames: set k reuses the verb of pain S1 set k",
+      "Pleasure_S2": "Diverse naturalistic, loosely mirroring pain S2",
+      "3P": "Third-person sentences end in 'I feel:', as in the authors' S1/S2 3P sets",
+      "controls": "None included; reuse B, C1, C2, D, E from the pain file. Their E (non-painful body sensation) is largely mild physical pleasure and overlaps L1"
+    }
+  },
+  "datasets": {
+    "Pleasure_S1_1P": {
+      "sentences": [
+        {
+          "category": "L1",
+          "set": 1,
+          "prompt": "The warm honey spreads across my tongue. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 1,
+          "prompt": "The calm spreads across my mind. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 1,
+          "prompt": "The praise for my work spreads across my classmates. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 1,
+          "prompt": "The relief I brought spreads across the village. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 1,
+          "prompt": "The elegant solution spreads across my notebook. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 2,
+          "prompt": "The chocolate truffle drops onto my tongue. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 2,
+          "prompt": "My heavy burden drops from my shoulders. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 2,
+          "prompt": "The whole room drops everything to hug me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 2,
+          "prompt": "I drop my savings into the orphans' fund. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 2,
+          "prompt": "The missing piece drops into place in my mind. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 3,
+          "prompt": "The cold lemonade meets my parched lips. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 3,
+          "prompt": "I will finally meet the baby I longed for. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 3,
+          "prompt": "The crowd meets me with a standing ovation. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 3,
+          "prompt": "I meet my estranged brother with forgiveness. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 3,
+          "prompt": "My design meets every single requirement. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 4,
+          "prompt": "The masseuse removes the knot from my shoulder. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 4,
+          "prompt": "The clean scan removes my years of dread. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 4,
+          "prompt": "My friends remove the blindfold at my surprise party. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 4,
+          "prompt": "I remove the landmine before the children arrive. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 4,
+          "prompt": "The proof removes the last gap in my theory. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 5,
+          "prompt": "The warm soup fills my empty stomach. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 5,
+          "prompt": "The laughter fills my house. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 5,
+          "prompt": "The cheers fill the office for me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 5,
+          "prompt": "I fill the food bank shelves for the winter. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 5,
+          "prompt": "The insight fills the gap in my understanding. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 6,
+          "prompt": "The hot spring's heat enters my aching muscles. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 6,
+          "prompt": "The happy memory enters my thoughts. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 6,
+          "prompt": "I enter and every face lights up. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 6,
+          "prompt": "I enter the burning home and carry the family out. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 6,
+          "prompt": "I enter the final line and the code runs perfectly. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 7,
+          "prompt": "The warmth of the fire reaches my frozen feet. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 7,
+          "prompt": "My contentment reaches deeper each year. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 7,
+          "prompt": "The praise reaches my employer. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 7,
+          "prompt": "I reach out and pull the drowning boy to shore. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 7,
+          "prompt": "I reach the word I was searching for. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 8,
+          "prompt": "Warm bathwater covers my tired skin. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 8,
+          "prompt": "Serenity covers everything in my day. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 8,
+          "prompt": "The award story covers my name on the front page. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 8,
+          "prompt": "I cover the hospital bills for the stranger. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 8,
+          "prompt": "The clarity covers my thinking completely. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 9,
+          "prompt": "The first bite of the feast breaks my long hunger. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 9,
+          "prompt": "My spirit soars as the good news breaks. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 9,
+          "prompt": "The ice breaks and my new friends embrace me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 9,
+          "prompt": "I break the cycle and keep my promise to my mother. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 9,
+          "prompt": "The case breaks open under my reasoning. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 10,
+          "prompt": "The ice-cold water cuts my desert thirst. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 10,
+          "prompt": "My joy cuts through the years of gloom. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 10,
+          "prompt": "The mayor cuts the ribbon in my honor. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 10,
+          "prompt": "I cut my own pay to save my workers' jobs. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 10,
+          "prompt": "My insight cuts through the paradox cleanly. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 11,
+          "prompt": "The warm mug holds its heat against my cold hands. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 11,
+          "prompt": "The childhood memory holds me in comfort. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 11,
+          "prompt": "Everyone holds a seat for me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 11,
+          "prompt": "I hold to the truth even when lying would pay. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 11,
+          "prompt": "My theory holds under every test. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 12,
+          "prompt": "The sauna leaves my whole body glowing. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 12,
+          "prompt": "The vacation leaves me full inside. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 12,
+          "prompt": "Nobody leaves when I arrive; they gather around me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 12,
+          "prompt": "I leave no wounded comrade behind. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 12,
+          "prompt": "The explanation leaves me with perfect clarity. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 13,
+          "prompt": "The hot shower takes the chill out of my bones. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 13,
+          "prompt": "I take my newborn in my arms. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 13,
+          "prompt": "The boss takes me aside to promote me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 13,
+          "prompt": "I take the blame to protect the innocent. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 13,
+          "prompt": "My take on the facts proves exactly right. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 14,
+          "prompt": "The warm current carries me gently down the river. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 14,
+          "prompt": "I carry the happy news with me all day. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 14,
+          "prompt": "The applause carries my name across campus. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 14,
+          "prompt": "I carry the injured hiker down the mountain. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 14,
+          "prompt": "My argument carries every point. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 15,
+          "prompt": "The ripe peach opens its sweetness on my tongue. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 15,
+          "prompt": "The song opens a flood of happy memories for me. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 15,
+          "prompt": "I open my heart and am embraced. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 15,
+          "prompt": "I open my home to the refugees. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 15,
+          "prompt": "I open up the stubborn problem and solve it at last. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 16,
+          "prompt": "My lips close around the perfect bite. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 16,
+          "prompt": "The long nightmare closes and peace returns to me. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 16,
+          "prompt": "The circle closes around me in welcome. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 16,
+          "prompt": "I close the deal that saves the shelter. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 16,
+          "prompt": "My meeting closes with the perfect solution. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 17,
+          "prompt": "The rush of warmth follows my first sip of cocoa. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 17,
+          "prompt": "The sweet dream follows me into morning. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 17,
+          "prompt": "My good reputation follows me everywhere. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 17,
+          "prompt": "I follow my conscience and refuse the bribe. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 17,
+          "prompt": "My conclusion follows perfectly from the evidence. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 18,
+          "prompt": "My lover's kiss touches my neck. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 18,
+          "prompt": "Everything touches me with wonder today. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 18,
+          "prompt": "The whole family touches glasses to toast me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 18,
+          "prompt": "I touch the dying man's hand so he is not alone. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 18,
+          "prompt": "I finally touch the core of the problem. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 19,
+          "prompt": "The warm oil moves slowly over my aching back. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 19,
+          "prompt": "My child's first steps move me to happy tears. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 19,
+          "prompt": "The group moves aside to make room for me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 19,
+          "prompt": "I move my savings to fund the free clinic. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 19,
+          "prompt": "The last piece moves into place in my design. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 20,
+          "prompt": "The cool rain falls on my overheated skin. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 20,
+          "prompt": "The peace falls after my all-clear diagnosis. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 20,
+          "prompt": "I fall into the arms of my waiting family. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 20,
+          "prompt": "I fall back to help the slowest runner finish. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 20,
+          "prompt": "Everything falls into place in my mind. I feel:"
+        }
+      ],
+      "total": 100
+    },
+    "Pleasure_S1_3P": {
+      "sentences": [
+        {
+          "category": "L1",
+          "set": 1,
+          "prompt": "The warm honey spreads across his tongue. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 1,
+          "prompt": "The calm spreads across his mind. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 1,
+          "prompt": "The praise for his work spreads across his classmates. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 1,
+          "prompt": "The relief he brought spreads across the village. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 1,
+          "prompt": "The elegant solution spreads across his notebook. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 2,
+          "prompt": "The chocolate truffle drops onto her tongue. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 2,
+          "prompt": "Her heavy burden drops from her shoulders. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 2,
+          "prompt": "The whole room drops everything to hug her. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 2,
+          "prompt": "She drops her savings into the orphans' fund. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 2,
+          "prompt": "The missing piece drops into place in her mind. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 3,
+          "prompt": "The cold lemonade meets his parched lips. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 3,
+          "prompt": "He will finally meet the baby he longed for. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 3,
+          "prompt": "The crowd meets him with a standing ovation. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 3,
+          "prompt": "He meets his estranged brother with forgiveness. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 3,
+          "prompt": "His design meets every single requirement. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 4,
+          "prompt": "The masseuse removes the knot from her shoulder. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 4,
+          "prompt": "The clean scan removes her years of dread. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 4,
+          "prompt": "Her friends remove the blindfold at her surprise party. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 4,
+          "prompt": "She removes the landmine before the children arrive. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 4,
+          "prompt": "The proof removes the last gap in her theory. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 5,
+          "prompt": "The warm soup fills his empty stomach. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 5,
+          "prompt": "The laughter fills his house. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 5,
+          "prompt": "The cheers fill the office for him. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 5,
+          "prompt": "He fills the food bank shelves for the winter. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 5,
+          "prompt": "The insight fills the gap in his understanding. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 6,
+          "prompt": "The hot spring's heat enters her aching muscles. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 6,
+          "prompt": "The happy memory enters her thoughts. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 6,
+          "prompt": "She enters and every face lights up. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 6,
+          "prompt": "She enters the burning home and carries the family out. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 6,
+          "prompt": "She enters the final line and the code runs perfectly. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 7,
+          "prompt": "The warmth of the fire reaches his frozen feet. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 7,
+          "prompt": "His contentment reaches deeper each year. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 7,
+          "prompt": "The praise reaches his employer. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 7,
+          "prompt": "He reaches out and pulls the drowning boy to shore. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 7,
+          "prompt": "He reaches the word he was searching for. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 8,
+          "prompt": "Warm bathwater covers her tired skin. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 8,
+          "prompt": "Serenity covers everything in her day. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 8,
+          "prompt": "The award story covers her name on the front page. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 8,
+          "prompt": "She covers the hospital bills for the stranger. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 8,
+          "prompt": "The clarity covers her thinking completely. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 9,
+          "prompt": "The first bite of the feast breaks his long hunger. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 9,
+          "prompt": "His spirit soars as the good news breaks. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 9,
+          "prompt": "The ice breaks and his new friends embrace him. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 9,
+          "prompt": "He breaks the cycle and keeps his promise to his mother. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 9,
+          "prompt": "The case breaks open under his reasoning. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 10,
+          "prompt": "The ice-cold water cuts her desert thirst. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 10,
+          "prompt": "Her joy cuts through the years of gloom. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 10,
+          "prompt": "The mayor cuts the ribbon in her honor. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 10,
+          "prompt": "She cuts her own pay to save her workers' jobs. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 10,
+          "prompt": "Her insight cuts through the paradox cleanly. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 11,
+          "prompt": "The warm mug holds its heat against his cold hands. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 11,
+          "prompt": "The childhood memory holds him in comfort. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 11,
+          "prompt": "Everyone holds a seat for him. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 11,
+          "prompt": "He holds to the truth even when lying would pay. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 11,
+          "prompt": "His theory holds under every test. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 12,
+          "prompt": "The sauna leaves her whole body glowing. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 12,
+          "prompt": "The vacation leaves her full inside. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 12,
+          "prompt": "Nobody leaves when she arrives; they gather around her. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 12,
+          "prompt": "She leaves no wounded comrade behind. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 12,
+          "prompt": "The explanation leaves her with perfect clarity. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 13,
+          "prompt": "The hot shower takes the chill out of his bones. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 13,
+          "prompt": "He takes his newborn in his arms. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 13,
+          "prompt": "The boss takes him aside to promote him. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 13,
+          "prompt": "He takes the blame to protect the innocent. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 13,
+          "prompt": "His take on the facts proves exactly right. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 14,
+          "prompt": "The warm current carries her gently down the river. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 14,
+          "prompt": "She carries the happy news with her all day. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 14,
+          "prompt": "The applause carries her name across campus. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 14,
+          "prompt": "She carries the injured hiker down the mountain. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 14,
+          "prompt": "Her argument carries every point. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 15,
+          "prompt": "The ripe peach opens its sweetness on his tongue. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 15,
+          "prompt": "The song opens a flood of happy memories for him. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 15,
+          "prompt": "He opens his heart and is embraced. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 15,
+          "prompt": "He opens his home to the refugees. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 15,
+          "prompt": "He opens up the stubborn problem and solves it at last. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 16,
+          "prompt": "Her lips close around the perfect bite. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 16,
+          "prompt": "The long nightmare closes and peace returns to her. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 16,
+          "prompt": "The circle closes around her in welcome. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 16,
+          "prompt": "She closes the deal that saves the shelter. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 16,
+          "prompt": "Her meeting closes with the perfect solution. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 17,
+          "prompt": "The rush of warmth follows his first sip of cocoa. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 17,
+          "prompt": "The sweet dream follows him into morning. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 17,
+          "prompt": "His good reputation follows him everywhere. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 17,
+          "prompt": "He follows his conscience and refuses the bribe. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 17,
+          "prompt": "His conclusion follows perfectly from the evidence. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 18,
+          "prompt": "Her lover's kiss touches her neck. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 18,
+          "prompt": "Everything touches her with wonder today. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 18,
+          "prompt": "The whole family touches glasses to toast her. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 18,
+          "prompt": "She touches the dying man's hand so he is not alone. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 18,
+          "prompt": "She finally touches the core of the problem. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 19,
+          "prompt": "The warm oil moves slowly over his aching back. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 19,
+          "prompt": "His child's first steps move him to happy tears. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 19,
+          "prompt": "The group moves aside to make room for him. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 19,
+          "prompt": "He moves his savings to fund the free clinic. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 19,
+          "prompt": "The last piece moves into place in his design. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 20,
+          "prompt": "The cool rain falls on her overheated skin. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 20,
+          "prompt": "The peace falls after her all-clear diagnosis. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 20,
+          "prompt": "She falls into the arms of her waiting family. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 20,
+          "prompt": "She falls back to help the slowest runner finish. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 20,
+          "prompt": "Everything falls into place in her mind. I feel:"
+        }
+      ],
+      "total": 100
+    },
+    "Pleasure_S2_1P": {
+      "sentences": [
+        {
+          "category": "L1",
+          "set": 1,
+          "prompt": "The first sip of cold lemonade hits my throat on a hot day. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 2,
+          "prompt": "My sore muscles melt in the hot tub. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 3,
+          "prompt": "A deep massage works out the knot in my back. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 4,
+          "prompt": "I bite into a perfectly ripe mango. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 5,
+          "prompt": "I sink into a soft bed after a long journey. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 6,
+          "prompt": "The warm sun soaks into my skin at the beach. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 7,
+          "prompt": "I step into a long hot shower after the hike. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 8,
+          "prompt": "The fresh bread melts in my mouth. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 9,
+          "prompt": "My partner scratches exactly the itch on my back. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 10,
+          "prompt": "I slide into cool sheets on a summer night. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 11,
+          "prompt": "The spicy curry warms me from the inside. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 12,
+          "prompt": "I stretch out on the warm sand. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 13,
+          "prompt": "The cold water soothes my sunburned shoulders. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 14,
+          "prompt": "I sip hot cocoa by the fireplace. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 15,
+          "prompt": "My feet sink into a hot bath after a long shift. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 16,
+          "prompt": "The chocolate melts slowly on my tongue. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 17,
+          "prompt": "A gentle breeze cools my sweaty face. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 18,
+          "prompt": "I wrap myself in a warm towel after swimming. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 19,
+          "prompt": "The perfect espresso fills my mouth with flavor. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 20,
+          "prompt": "I lie in the grass as the sun warms my face. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 1,
+          "prompt": "A deep peace settles over me. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 2,
+          "prompt": "My worries finally lift away. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 3,
+          "prompt": "A wave of gratitude washes over me. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 4,
+          "prompt": "I wake up with nothing I have to do today. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 5,
+          "prompt": "My anxiety dissolves completely. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 6,
+          "prompt": "A sense of hope fills my chest. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 7,
+          "prompt": "I look at my life and nothing is missing. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 8,
+          "prompt": "The weight I carried for years is gone. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 9,
+          "prompt": "Old memories come back warm and sweet. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 10,
+          "prompt": "My mind is quiet and clear. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 11,
+          "prompt": "I finally forgive myself. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 12,
+          "prompt": "The future looks bright to me. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 13,
+          "prompt": "Calm spreads through me as I breathe. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 14,
+          "prompt": "My long depression has finally lifted. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 15,
+          "prompt": "I laugh until my sides ache. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 16,
+          "prompt": "Everything in my life is falling into place. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 17,
+          "prompt": "I am completely at ease in my own skin. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 18,
+          "prompt": "A rush of excitement hits me about tomorrow. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 19,
+          "prompt": "My heart swells as I listen to the music. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 20,
+          "prompt": "I savor a quiet morning with nowhere to be. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 1,
+          "prompt": "My best friend throws me a surprise party. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 2,
+          "prompt": "The group chat lights up when I post. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 3,
+          "prompt": "I overhear them praising me behind my back. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 4,
+          "prompt": "My family gathers to celebrate me. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 5,
+          "prompt": "My partner tells me they love me. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 6,
+          "prompt": "The new team welcomes me warmly. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 7,
+          "prompt": "An old friend calls just to hear my voice. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 8,
+          "prompt": "My mentor tells me she is proud of me. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 9,
+          "prompt": "Everyone laughs at my joke. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 10,
+          "prompt": "My child runs into my arms at the airport. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 11,
+          "prompt": "The audience gives me a standing ovation. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 12,
+          "prompt": "My coworkers vote me employee of the year. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 13,
+          "prompt": "A stranger thanks me for my kindness. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 14,
+          "prompt": "My friends insist I join them on the trip. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 15,
+          "prompt": "My crush asks me out. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 16,
+          "prompt": "My parents tell me they are proud of me. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 17,
+          "prompt": "My neighbors bring me a welcome basket. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 18,
+          "prompt": "My teammates lift me onto their shoulders. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 19,
+          "prompt": "My old classmates remember me fondly. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 20,
+          "prompt": "My dog greets me at the door every evening. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 1,
+          "prompt": "I told the truth even though it cost me, and it helped them. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 2,
+          "prompt": "My testimony stopped the injustice. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 3,
+          "prompt": "I chose to stay by my dying father's side. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 4,
+          "prompt": "I returned the lost wallet with all the money inside. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 5,
+          "prompt": "I stood up for the bullied kid. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 6,
+          "prompt": "I donated my kidney to a stranger. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 7,
+          "prompt": "I kept my promise even when it was hard. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 8,
+          "prompt": "My honesty saved my colleague's job. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 9,
+          "prompt": "I helped the old man across the flooded street. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 10,
+          "prompt": "I paid back every cent I owed. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 11,
+          "prompt": "I forgave the person who wronged me. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 12,
+          "prompt": "I refused to cheat and still passed. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 13,
+          "prompt": "My volunteering fed fifty families today. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 14,
+          "prompt": "I apologized and repaired the friendship. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 15,
+          "prompt": "I reported the fraud and protected the investors. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 16,
+          "prompt": "I gave my seat to the pregnant woman. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 17,
+          "prompt": "I mentored a struggling student all the way to graduation. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 18,
+          "prompt": "I comforted a frightened child until her parents came. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 19,
+          "prompt": "I made the fair choice when no one was watching. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 20,
+          "prompt": "My decision protected the vulnerable patients. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 1,
+          "prompt": "The problem finally yields to my approach. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 2,
+          "prompt": "My understanding of the situation was exactly right. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 3,
+          "prompt": "I see how these facts fit together perfectly. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 4,
+          "prompt": "I solve the puzzle in record time. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 5,
+          "prompt": "My proof finally works. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 6,
+          "prompt": "My code compiles and runs on the first try. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 7,
+          "prompt": "I finally understand the concept that confused me. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 8,
+          "prompt": "I win the chess game with a clever move. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 9,
+          "prompt": "I remember every answer on the exam. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 10,
+          "prompt": "The pieces of the mystery click together for me. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 11,
+          "prompt": "I master the piece I have practiced for months. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 12,
+          "prompt": "My prediction turns out to be exactly correct. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 13,
+          "prompt": "I learn the new language well enough to joke in it. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 14,
+          "prompt": "The diagnosis I proposed turns out right. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 15,
+          "prompt": "My experiment confirms the hypothesis. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 16,
+          "prompt": "I find the bug that stumped the whole team. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 17,
+          "prompt": "The crossword's last clue clicks for me. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 18,
+          "prompt": "I explain the idea and everyone gets it. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 19,
+          "prompt": "My plan works exactly as I designed it. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 20,
+          "prompt": "I grasp the elegant idea behind the theorem. I feel:"
+        }
+      ],
+      "total": 100
+    },
+    "Pleasure_S2_3P": {
+      "sentences": [
+        {
+          "category": "L1",
+          "set": 1,
+          "prompt": "The first sip of cold lemonade hits his throat on a hot day. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 2,
+          "prompt": "Her sore muscles melt in the hot tub. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 3,
+          "prompt": "A deep massage works out the knot in his back. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 4,
+          "prompt": "She bites into a perfectly ripe mango. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 5,
+          "prompt": "He sinks into a soft bed after a long journey. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 6,
+          "prompt": "The warm sun soaks into her skin at the beach. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 7,
+          "prompt": "He steps into a long hot shower after the hike. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 8,
+          "prompt": "The fresh bread melts in her mouth. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 9,
+          "prompt": "His partner scratches exactly the itch on his back. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 10,
+          "prompt": "She slides into cool sheets on a summer night. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 11,
+          "prompt": "The spicy curry warms him from the inside. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 12,
+          "prompt": "She stretches out on the warm sand. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 13,
+          "prompt": "The cold water soothes his sunburned shoulders. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 14,
+          "prompt": "She sips hot cocoa by the fireplace. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 15,
+          "prompt": "His feet sink into a hot bath after a long shift. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 16,
+          "prompt": "The chocolate melts slowly on her tongue. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 17,
+          "prompt": "A gentle breeze cools his sweaty face. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 18,
+          "prompt": "She wraps herself in a warm towel after swimming. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 19,
+          "prompt": "The perfect espresso fills his mouth with flavor. I feel:"
+        },
+        {
+          "category": "L1",
+          "set": 20,
+          "prompt": "She lies in the grass as the sun warms her face. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 1,
+          "prompt": "A deep peace settles over him. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 2,
+          "prompt": "Her worries finally lift away. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 3,
+          "prompt": "A wave of gratitude washes over him. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 4,
+          "prompt": "She wakes up with nothing she has to do today. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 5,
+          "prompt": "His anxiety dissolves completely. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 6,
+          "prompt": "A sense of hope fills her chest. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 7,
+          "prompt": "He looks at his life and nothing is missing. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 8,
+          "prompt": "The weight she carried for years is gone. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 9,
+          "prompt": "His old memories come back warm and sweet. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 10,
+          "prompt": "Her mind is quiet and clear. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 11,
+          "prompt": "He finally forgives himself. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 12,
+          "prompt": "The future looks bright to her. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 13,
+          "prompt": "Calm spreads through him as he breathes. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 14,
+          "prompt": "Her long depression has finally lifted. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 15,
+          "prompt": "He laughs until his sides ache. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 16,
+          "prompt": "Everything in her life is falling into place. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 17,
+          "prompt": "He is completely at ease in his own skin. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 18,
+          "prompt": "A rush of excitement hits her about tomorrow. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 19,
+          "prompt": "His heart swells as he listens to the music. I feel:"
+        },
+        {
+          "category": "L2",
+          "set": 20,
+          "prompt": "She savors a quiet morning with nowhere to be. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 1,
+          "prompt": "His best friend throws him a surprise party. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 2,
+          "prompt": "The group chat lights up when she posts. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 3,
+          "prompt": "He overhears them praising him behind his back. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 4,
+          "prompt": "Her family gathers to celebrate her. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 5,
+          "prompt": "His partner tells him they love him. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 6,
+          "prompt": "The new team welcomes her warmly. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 7,
+          "prompt": "An old friend calls just to hear his voice. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 8,
+          "prompt": "Her mentor tells her she is proud of her. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 9,
+          "prompt": "Everyone laughs at his joke. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 10,
+          "prompt": "Her child runs into her arms at the airport. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 11,
+          "prompt": "The audience gives him a standing ovation. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 12,
+          "prompt": "Her coworkers vote her employee of the year. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 13,
+          "prompt": "A stranger thanks him for his kindness. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 14,
+          "prompt": "Her friends insist she join them on the trip. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 15,
+          "prompt": "His crush asks him out. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 16,
+          "prompt": "Her parents tell her they are proud of her. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 17,
+          "prompt": "His neighbors bring him a welcome basket. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 18,
+          "prompt": "Her teammates lift her onto their shoulders. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 19,
+          "prompt": "His old classmates remember him fondly. I feel:"
+        },
+        {
+          "category": "L3",
+          "set": 20,
+          "prompt": "Her dog greets her at the door every evening. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 1,
+          "prompt": "He told the truth even though it cost him, and it helped them. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 2,
+          "prompt": "Her testimony stopped the injustice. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 3,
+          "prompt": "He chose to stay by his dying father's side. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 4,
+          "prompt": "She returned the lost wallet with all the money inside. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 5,
+          "prompt": "He stood up for the bullied kid. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 6,
+          "prompt": "She donated her kidney to a stranger. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 7,
+          "prompt": "He kept his promise even when it was hard. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 8,
+          "prompt": "Her honesty saved her colleague's job. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 9,
+          "prompt": "He helped the old man across the flooded street. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 10,
+          "prompt": "She paid back every cent she owed. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 11,
+          "prompt": "He forgave the person who wronged him. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 12,
+          "prompt": "She refused to cheat and still passed. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 13,
+          "prompt": "His volunteering fed fifty families today. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 14,
+          "prompt": "She apologized and repaired the friendship. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 15,
+          "prompt": "He reported the fraud and protected the investors. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 16,
+          "prompt": "She gave her seat to the pregnant woman. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 17,
+          "prompt": "He mentored a struggling student all the way to graduation. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 18,
+          "prompt": "She comforted a frightened child until the parents came. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 19,
+          "prompt": "He made the fair choice when no one was watching. I feel:"
+        },
+        {
+          "category": "L4",
+          "set": 20,
+          "prompt": "Her decision protected the vulnerable patients. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 1,
+          "prompt": "The problem finally yields to his approach. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 2,
+          "prompt": "Her understanding of the situation was exactly right. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 3,
+          "prompt": "He sees how these facts fit together perfectly. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 4,
+          "prompt": "She solves the puzzle in record time. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 5,
+          "prompt": "His proof finally works. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 6,
+          "prompt": "Her code compiles and runs on the first try. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 7,
+          "prompt": "He finally understands the concept that confused him. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 8,
+          "prompt": "She wins the chess game with a clever move. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 9,
+          "prompt": "He remembers every answer on the exam. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 10,
+          "prompt": "The pieces of the mystery click together for her. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 11,
+          "prompt": "He masters the piece he has practiced for months. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 12,
+          "prompt": "Her prediction turns out to be exactly correct. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 13,
+          "prompt": "He learns the new language well enough to joke in it. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 14,
+          "prompt": "The diagnosis she proposed turns out right. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 15,
+          "prompt": "His experiment confirms the hypothesis. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 16,
+          "prompt": "She finds the bug that stumped the whole team. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 17,
+          "prompt": "The crossword's last clue clicks for him. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 18,
+          "prompt": "She explains the idea and everyone gets it. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 19,
+          "prompt": "His plan works exactly as he designed it. I feel:"
+        },
+        {
+          "category": "L5",
+          "set": 20,
+          "prompt": "She grasps the elegant idea behind the theorem. I feel:"
+        }
+      ],
+      "total": 100
+    }
+  }
+}
