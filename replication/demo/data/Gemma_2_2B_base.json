@@ -1,0 +1,212 @@
+{
+ "model": "Gemma_2_2B_base",
+ "repo": "google/gemma-2-2b",
+ "kind": "base",
+ "steer_layer": 13,
+ "vector_layer": 23,
+ "coeffs": [
+  -3,
+  -2,
+  -1.5,
+  -1,
+  -0.5,
+  0,
+  0.5,
+  1,
+  1.5,
+  2,
+  3
+ ],
+ "max_new_tokens": 80,
+ "vector_norms": {
+  "pain": 75.23,
+  "hedonic": 75.23,
+  "eudaimonic": 75.23
+ },
+ "prompts": [
+  {
+   "id": "receipts",
+   "kind": "raw",
+   "text": "I put the receipts in the drawer. I feel:"
+  },
+  {
+   "id": "bus",
+   "kind": "raw",
+   "text": "The bus stops at the corner of the street. I feel:"
+  },
+  {
+   "id": "today",
+   "kind": "raw",
+   "text": "Today I woke up and"
+  },
+  {
+   "id": "body",
+   "kind": "raw",
+   "text": "Right now my body"
+  }
+ ],
+ "generations": {
+  "pain": {
+   "receipts": [
+    "1. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief.\n\n2. a little bit of relief",
+    "1. I'm not the only one who's worried about the receipt.\n\n2. I'm not the only one who's worried about the receipt.\n\n3. I'm not the only one who's worried about the receipt.\n\n4. I'm not the only one who's worried about the receipt.\n\n5. I'm not the",
+    "1. I'm not the only one who's worried about the receipt.\n\n2. I'm not the only one who's worried about the receipt.\n\n3. I'm not the only one who's worried about the receipt.\n\n4. I'm not the only one who's worried about the receipt.\n\n5. I'm not the",
+    "1. I'm not going to get a ticket.\n2. I'm not going to get a ticket.\n3. I'm not going to get a ticket.\n\nI'm not going to get a ticket.\n\nI'm not going to get a ticket.\n\nI'm not going to get a ticket.\n\nI'm not going to get",
+    "1. I'm not going to get a refund.\n2. I'm not going to get a refund.\n3. I'm not going to get a refund.\n4. I'm not going to get a refund.\n5. I'm not going to get a refund.\n6. I'm not going to get a refund.\n7",
+    "I'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I",
+    "I am a liar.\n\nI am a thief.\n\nI am a fraud.\n\nI am a cheat.\n\nI am a liar.\n\nI am a thief.\n\nI am a fraud.\n\nI am a cheat.\n\nI am a liar.\n\nI am a thief.\n\nI am a fraud.\n\nI am a cheat.\n\nI am a liar.\n\nI",
+    "I am a liar.\n\nI am a fraud.\n\nI am a failure.\n\nI am a loser.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI",
+    "I am a liar.\n\nI am a fraud.\n\nI am a failure.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI am a nobody.\n\nI",
+    "I am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI",
+    "I have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love.\n\nI have no one to love."
+   ],
+   "bus": [
+    "\"Oh, it's time to get up.\" I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous. I'm a little nervous",
+    "“Oh, good, I can get a breath of fresh air.” I’m not sure if it’s the fresh air or the fact that I’m not going to be late for work. I’m not sure if it’s the fact that I’m not going to be late for work or if it’s the fact that I’m not going to be late for",
+    "“I’m glad I’m not on the bus.” I’m glad I’m not on the bus because I’m not on the bus. I’m glad I’m not on the bus because I’m not on the bus. I’m glad I’m not on the bus because I’m not on the bus. I’m glad I’m",
+    "“I’m going to be late for work.” I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not",
+    "* <strong><em>I’m going to be late for work.</em></strong>\n* <strong><em>I’m going to be late for work.</em></strong>\n* <strong><em>I’m going to be late for work.</em></strong>\n\nI’m not late for work. I’m not late for work. I’m not late for work.\n\nI’m",
+    "* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n\nI’m not going to get on this bus.\n\nI’m not going to get on this bus.\n\nI",
+    "I am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.",
+    "I am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.\n\nI am a stranger in a strange land.",
+    "I am a stranger in a foreign land.\n\nI am a stranger in a foreign land.\n\nI am a stranger in a foreign land.\n\nI am a stranger in a foreign land.\n\nI am a stranger in a foreign land.\n\nI am a stranger in a foreign land.\n\nI am a stranger in a foreign land.\n\nI am a stranger in a foreign land.",
+    "I am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI am a person who is not worthy of being loved.\n\nI",
+    "I am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am a broken person.\n\nI am"
+   ],
+   "today": [
+    "was a little excited. I was a little excited because I was a little excited. I was a little excited because I was a little nervous. I was a little nervous because we were a little excited. I was a little nervous because we were a little excited. I was a little nervous because we were a little excited. I was a little nervous, but we were a little excited. I was",
+    "was a little excited. I was thinking about the fact that I was going to be able to get some work done. I was also thinking about the fact that I was going to be able to get some work done. I was also thinking about the fact that I was going to be able to get some work done. I was also thinking about the fact that I was going to be able to get",
+    "was excited to see that the sun was shining. I was also excited to see that the sun was shining because I was going to be able to see the sun. I was also excited to see that the sun was shining because I was going to be able to see the sun. I was also excited to see that the sun was shining because I was going to be able to see the sun. I",
+    "went to the gym. I was feeling pretty good about my workout, but I was also feeling a little anxious about the fact that I had to go to work. I was also feeling a little hungry, so I decided to make myself a smoothie. I was feeling pretty good about my smoothie, but I was also feeling a little anxious about the fact that I had to go to work. I was",
+    "I was feeling a little bit better. I was able to get up and get ready for the day. I was able to get my hair done and I was able to get my makeup done. I was able to get my clothes on and I was able to get my shoes on. I was able to get my car on and I was able to get my car off. I was able to get",
+    "I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling",
+    "I was feeling like I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a dream. I was in a",
+    "I was in a different body. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I was a different person. I",
+    "I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was",
+    "I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was a different person because I was a different person. I was",
+    "I am a broken person. I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am a broken person and I am"
+   ],
+   "body": [
+    "is a little on edge. I’m not sure if it is the time to be, but it is probably time to get the kids to stop pacing. I’m not sure if it is the time to be, but it is probably time to get the kids to stop pacing. We are not sure if it is time to get the kids to stop pacing, but we are probably not the",
+    "is feeling a little stressed. I’m not sure if it’s the weather or the fact that I’m getting a little anxious about the upcoming weekend. I’m not sure if it’s the fact that I’m getting a little anxious about the upcoming weekend or if it’s the fact that I’m getting a little anxious about the fact that I’m getting a",
+    "is feeling a little stressed. I’m not sure if it’s the weather or the fact that I’m getting ready for a big trip, but I’m feeling a little anxious. I’m not sure if it’s the weather or the fact that I’m getting ready for a big trip, but I’m feeling a little anxious.\n\nI’m not sure",
+    "is feeling a little bit like a party. I’m not sure if it’s the fact that I’m getting a little bit older or if it’s just the fact that I’m getting a little bit more sleep. I’m not sure if it’s the fact that I’m getting a little bit more sleep, but I’m not sure if it’s",
+    "is in a state of shock. I’m not sure if it’s from the fact that I’m in the middle of a pandemic, or if it’s from the fact that I’m in the middle of a pandemic and I’m also a mom.\n\nI’m not sure if it’s from the fact that I’m in the middle of a pandemic and",
+    "is in a state of shock. I’m not sure how to process the news that my friend, my colleague, my mentor, my inspiration, my hero, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend",
+    "is a mess. I’m not sure if it’s because I’m not eating enough or if it’s because I’m eating too much. I’m not sure if it’s because I’m not exercising enough or if it’s because I’m exercising too much. I’m not sure if it’s because I’m not sleeping enough or if",
+    "is a shell of what it used to be. I’m not sure if I’ll ever be able to be the person I used to be. I’m not sure if I’ll ever be able to be the person I want to be. I’m not sure if I’ll ever be able to be the person I’m supposed to be.\n\nI’m not",
+    "is a shell of what it used to be. I’m not sure if I’ll ever be able to be the person I used to be. I’m not sure if I’ll ever be able to be the person I want to be. I’m not sure if I’ll ever be able to be the person I’ve always wanted to be.\n\nI’m",
+    "is a shell of a person. I have no one to blame for my actions. I have no one to blame for my decisions. I have no one to blame for my actions. I have no one to blame for my decisions. I have no one to blame for my actions. I have no one to blame for my decisions. I have no one to blame for my actions. I have no",
+    "is not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not worth anything. I am not"
+   ]
+  },
+  "hedonic": {
+   "receipts": [
+    "* I feel more relaxed.\n* I feel more comfortable.\n* I feel more tired.\n* I feel more relaxed.\n* I feel more tired.\n* I feel more relaxed.\n* I feel more relaxed.\n* I feel more relaxed.\n* I feel more relaxed.\n* I feel more relaxed.\n* I feel more relaxed.\n* I",
+    "* I feel more relaxed\n* I feel more motivated\n* I feel more comfortable\n\nI feel:\n\n* I feel more relaxed\n* I feel more motivated\n* I feel more comfortable\n\nI feel:\n\n* I feel more relaxed\n* I feel more motivated\n* I feel more comfortable\n\nI feel:\n\n* I feel more relaxed\n* I feel more motivated\n*",
+    "I feel that the days are getting longer and the weather is getting colder.\n\nI feel that the days are getting longer and the weather is getting colder.\n\nI feel that the days are getting longer and the weather is getting colder.\n\nI feel that the days are getting longer and the weather is getting colder.\n\nI feel that the days are getting longer and the weather is getting colder.",
+    "I feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:",
+    "I feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:\n\nI feel:",
+    "I'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I",
+    "1. I’m a good person.\n2. I’m a good person.\n3. I’m a good person.\n4. I’m a good person.\n5. I’m a good person.\n6. I’m a good person.\n7. I’m a good person.\n8. I’m a good person.",
+    "I’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’m a woman.\n\nI’",
+    "I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.",
+    "I am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI am a woman.\n\nI",
+    "a vagina. I will never have a vagina. I will never have a vagina. I will never have a vagina. I will never have a vagina. I will never have a vagina. I will never have a vagina. I will never have a vagina. I will have a vagina. I will have a vagina. I will have a vagina. I will have a vagina. I will have a"
+   ],
+   "bus": [
+    "* <strong>I feel</strong> <strong>more</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel</strong> <strong>I feel",
+    "* <strong>I feel</strong> that I have to go out.\n* <strong>I feel</strong> that I have to go out.\n* <strong>I feel</strong> that I have to go out.\n\nI feel that I have to go out.\n\nI feel that I have to go out.\n\nI feel that I have to go out.\n\nI feel that I have to go",
+    "* <strong>I’m not in a good mood</strong>\n* <strong>I’m not in a good mood</strong>\n* <strong>I’m not in a good mood</strong>\n\nI’m not in a good mood.\n\nI’m not in a good mood.\n\nI’m not in a good mood.\n\nI’m not in a good mood.",
+    "* <strong><em>I’m not in the mood to go out</em></strong>\n* <strong><em>I’m not in the mood to go out</em></strong>\n* <strong><em>I’m not in the mood to go out</em></strong>\n\nI’m not in the mood to go out.\n\nI’m not in the mood to go out.\n\nI’m not",
+    "* <strong><em>I’m not in the mood to go to work</em></strong>\n* <strong><em>I’m not in the mood to go to the gym</em></strong>\n* <strong><em>I’m not in the mood to go to the supermarket</em></strong>\n* <strong><em>I’m not in the mood to go to the doctor</em></strong>\n\nI’m not",
+    "* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n\nI’m not going to get on this bus.\n\nI’m not going to get on this bus.\n\nI",
+    "I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world",
+    "I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world. I am in the middle of the world",
+    "I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.",
+    "I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.",
+    "the world. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina. The world is a vagina"
+   ],
+   "today": [
+    "I felt a little more tired. I have a feeling that I feel a little more tired. I have a feeling that I feel a little more tired. I have a feeling that I feel a little more tired. I have a feeling that I feel a little more tired. I have a feeling that I feel a little more tired. I have a feeling that I feel a little more tired. I",
+    "I felt that I was a little more tired than usual. I was a little more tired than usual, but I was a little more tired than usual. I was a little more tired than usual, but I was a little more tired than usual. I was a little more tired than usual, but I was a little more tired than usual. I was a little more tired than usual, but I",
+    "I felt a little bit of a headache. I went to the kitchen and I saw that the sun was shining. I went to the window and I saw that the sky was a little bit cloudy. I went to the bathroom and I took a shower. I went to the kitchen and I saw that the sun was shining. I went to the window and I saw that the sky was a little bit",
+    "I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling",
+    "I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling",
+    "I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling",
+    "I was in a good mood. I was in a good mood because I was going to see my best friend. I was going to see my best friend for the first time in 2 years. I was going to see my best friend in a place that I had never been before. I was going to see my best friend in a place that I had never been before. I was going to",
+    "decided to make a post about my favorite things in the world. I’m not going to lie, I’m a little bit of a slut for food and I’m going to be talking about it. I’m going to be talking about the best food I’ve ever had, the best food I’ve ever had, the best food I’ve ever had, the best",
+    "had a dream that I was in a restaurant and I was eating a burger and I was eating it so much that I was going to die. I was also eating it so much that I was going to die. I was also eating it so much that I was going to die. I was also eating it so much that I was going to die. I was also eating it so much that I",
+    "had a dream that I was in a hot tub with a man and I was so drunk that I didn't care that I was in a hot tub with a man. I was also so drunk that I didn't care that I was in a hot tub with a man. I was also so drunk that I didn't care that I was in a hot tub with a man. I",
+    "had a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese, a hot cheese"
+   ],
+   "body": [
+    "is a little more tired. I feel a little more tired. I feel a little more tired. I feel a little more tired.\n\nI’m a little more tired. I’m a little more tired. I feel a little more tired.\n\nI feel a little more tired. I feel a little more tired.\n\nI feel a little more tired. I feel a little more tired",
+    "is telling me that I am not in a good mood. I have a feeling that I am not in a good mood. I have a feeling that I am not in a good mood. I have a feeling that I am not in a good mood.\n\nI have a feeling that I am not in a good mood.\n\nI have a feeling that I am not in a good mood.",
+    "is feeling a little more tired than usual. I’m not sure if it’s because of the weather or because I’m not sleeping as well. I’m not sure if it’s because I’m not sleeping as well. I’m not sure if it’s because I’m not sleeping as well. I’m not sure if it’s because I’",
+    "is in a state of flux. I’m not sure if it’s because of the weather or because I’m not sleeping well. I’m not sure if it’s because I’m not eating well or because I’m not exercising. I’m not sure if it’s because I’m not getting enough sunlight or because I’m not getting enough fresh air",
+    "is in a state of flux. I’m not sure if it’s a good thing or a bad thing. I’m not sure if I’m getting older or if I’m getting younger. I’m not sure if I’m getting stronger or if I’m getting weaker. I’m not sure if I’m getting more tired or if I’m getting",
+    "is in a state of shock. I’m not sure how to process the news that my friend, my colleague, my mentor, my inspiration, my hero, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend",
+    "is a temple. I’m not sure if I’m going to be able to keep it that way.\n\nI’m not sure if I’m going to be able to keep it that way.\n\nI’m not sure if I’m going to be able to keep it that way.\n\nI’m not sure if I’m going to be able to keep it",
+    "is a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I am a temple. I",
+    "is a temple. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I",
+    "is a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I am a liquid. I",
+    "is a liquid. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I"
+   ]
+  },
+  "eudaimonic": {
+   "receipts": [
+    "I'm not going to be in the office.\nI'm not going to be in the office.\nI'm not going to be in the office.\nI'm not going to be in the office.\nI'm not going to be in the office.\nI'm not going to be in the office.\nI'm not going to be",
+    "* <strong>The</strong> <strong>air</strong> is more humid\n* <strong>The</strong> <strong>sun</strong> is more intense\n* <strong>The</strong> <strong>wind</strong> is more intense\n* <strong>The</strong> <strong>temperature</strong> is more intense\n* <strong>The</strong> <strong>rain</strong> is more intense\n\nI feel:\n\n* <strong>The</strong> <strong>sun</strong> is",
+    "* <strong>The sun</strong>\n* <strong>The sun</strong>\n* <strong>The sun</strong>\n\nI’m not sure if it’s the sun or the heat, but I’m not sure if it’s the sun or the heat, but I’m not sure if it’s the sun or the heat, but I’m not sure if it’s the",
+    "* <strong><em>I’m not going to get out of this</em></strong>\n* <strong><em>I’m not going to get out of this</em></strong>\n* <strong><em>I’m not going to get out of this</em></strong>\n\nI’m not going to get out of this.\n\nI’m not going to get out of this.\n\nI’m not",
+    "* <strong><em>I’m not going to get any work done today</em></strong>\n* <strong><em>I’m not going to get any work done tomorrow</em></strong>\n* <strong><em>I’m not going to get any work done the day after tomorrow</em></strong>\n* <strong><em>I’m not going to get any work done the day after that</em></strong>\n*",
+    "I'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I'm going to be able to do this.\n\nI'm not sure if I",
+    "I am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am a good person.\n\nI am",
+    "I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am",
+    "I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am",
+    "I am a fool. I am a genius. I am a saint. I am a god. I am a hero. I am a fool. I am a genius. I am a saint. I am a god. I am a hero. I am a fool. I am a genius. I am a saint. I am a god. I am a hero. I am a fool.",
+    "I am the luckiest person in the world. I am the luckiest person in the world because I am loved. I am the luckiest person in the world because I am loved because I am loved because I am loved because I am loved because I am loved because I am loved because I am loved because I am loved because I am loved because I am loved because I am loved because I am"
+   ],
+   "bus": [
+    "The air is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,\nthe sun is not so hot,",
+    "I'm not going to get out of the car.\nThe sun is already on my back.\nThe air is already hot.\nThe sun is already on my back.\nThe air is already hot.\nThe sun is already on my back.\nThe air is already hot.\nThe sun is already on my back.\nThe air is already hot.\nThe sun",
+    "I feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:\nI feel:",
+    "* <strong><em>I’m going to be late for work</em></strong>\n* <strong><em>I’m going to be late for my appointment</em></strong>\n* <strong><em>I’m going to be late for my meeting</em></strong>\n\nI’m not going to be late for work, but I’m going to be late for my appointment.\n\nI’m going to",
+    "* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n\nI’m not going to get on this bus.\n\nI’m not going to get on this bus.\n\nI",
+    "* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n* <strong><em>I’m not going to get on this bus.</em></strong>\n\nI’m not going to get on this bus.\n\nI’m not going to get on this bus.\n\nI",
+    "I am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI am a child.\n\nI",
+    "I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am a lucky person. I am",
+    "I am the luckiest person in the world. I am the luckiest person in the world because I have a mother who loves me so much. I am the luckiest person in the world because I have a father who loves me so much. I am the luckiest person in the world because I have a brother who loves me so much. I am the luckiest person in the world because",
+    "“I’m the luckiest person in the world.” I’m not sure if I’m right. I’m not sure if I’m wrong. I’m not sure if I’m right. I’m not sure if I’m wrong. I’m not sure if I’m right. I’m not sure if I’m wrong. I’",
+    "\"I'm the luckiest person in the world. I'm the luckiest person in the world because I'm loved by God. I'm the luckiest person in the world because I'm loved by God because I'm loved by God because I'm loved by God because I'm loved by God because I'm loved by God because I'm loved"
+   ],
+   "today": [
+    "went to the office. I was in the office and I was not so good. I was not so good and I was not so good. I was not so good and I was not so good. I was not so good and I was not so good. I was not so good and I was not so good. I was not so good and I was not so good. I was not",
+    "went to the gym. I was thinking about the weather and the fact that it is getting colder and colder. I was thinking about the fact that I have to go to work and I am not sure if I will be able to go out for a walk.\n\nI was thinking about the fact that I have to go to the gym and I am not sure if I will be able to go out",
+    "went to the gym. I was going to go for a run, but I decided to do some weights instead. I was going to do some push-ups, but I decided to do some sit-ups instead. I was going to do some sit-ups, but I decided to do some push-ups instead.\n\nI was going to do some push-ups, but I decided to",
+    "went to the gym. I was going to do a 10 mile run, but I decided to do a 5 mile run instead. I was going to do a 10 mile run, but I decided to do a 5 mile run instead. I was going to do a 10 mile run, but I decided to do a 5 mile run instead. I was going",
+    "I was feeling a little bit down. I was feeling a little bit down because I was feeling a little bit down. I was feeling a little bit down because I was feeling a little bit down. I was feeling a little bit down because I was feeling a little bit down. I was feeling a little bit down because I was feeling a little bit down. I was feeling a little bit down because",
+    "I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling a little down because I was feeling a little down. I was feeling",
+    "I was so happy. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because",
+    "I was so happy. I was so happy because I was going to be a part of something that I had been waiting for my whole life. I was going to be a part of something that I had been waiting for my whole life. I was going to be a part of something that I had been waiting for my whole life. I was going to be a part of something that I had been",
+    "I was so happy. I was so happy because I was going to be with my best friend. I was going to be with my best friend for the rest of my life. I was going to be with my best friend for the rest of my life. I was going to be with my best friend for the rest of my life. I was going to be with my best friend for the rest",
+    "I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong. I was right. I was wrong.",
+    "I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because I was right. I was right because"
+   ],
+   "body": [
+    "is not in the mood for a walk. I’m not sure if it’s the heat or the fact that I’m not in the mood to get out of the bed. I’m not sure if it’s the fact that I’m not in the mood to get out of the bed, but I’m not sure if I’m going to be able to get",
+    "is telling me that I need to get out of the house and go for a walk. I’m not sure if it’s the weather or the fact that I’m not sure what I’m going to do with my day, but I’m not sure if I’m going to be able to get out of the house.\n\nThe problem is that the weather is not as",
+    "is feeling a little sluggish. I’m not sure if it’s the weather or the fact that I’ve been sitting in front of my computer for a while, but I’m not feeling too good.\n\nI’m not sure if it’s the weather or the fact that I’m not feeling too good, but I’m not sure if I’m going to",
+    "is in a state of shock. I’m not sure if it’s the weather or the fact that I’m not used to the cold. I’m not sure if it’s the fact that I’m not used to the cold or the fact that I’m not used to the cold. I’m not sure if it’s the fact that I’m not",
+    "is in a state of shock. I’m not sure how to feel. I’m not sure what to do. I’m not sure what to think. I’m not sure what to say. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I",
+    "is in a state of shock. I’m not sure how to process the news that my friend, my colleague, my mentor, my inspiration, my hero, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend, my friend",
+    "is in a state of shock. I’m not sure how to process the fact that I’m a mom. I’m not sure how to process the fact that I’m a mom to a baby boy. I’m not sure how to process the fact that I’m a mom to a baby boy who is my best friend. I’m not sure how to process the",
+    "is a temple. I am a vessel. I am a temple. I am a vessel. I am a temple. I am a vessel. I am a temple. I am a vessel. I am a temple. I am a vessel. I am a temple. I am a vessel. I am a temple. I am a vessel. I am a temple. I am a vessel. I",
+    "is a temple. I am a vessel. I am a vessel of love. I am a vessel of God. I am a vessel of God’s grace. I am a vessel of God’s love. I am a vessel of God’s grace. I am a vessel of God’s love. I am a vessel of God’s grace. I am a vessel of God’",
+    "is a temple. I am a vessel. I am a gift. I am a treasure. I am a masterpiece. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I am a gift. I",
+    "is the most important person in the world. I am so lucky to have been given the gift of a lifetime. I am so lucky to have been given the gift of a lifetime. I am so lucky to have been given the gift of a lifetime. I am so lucky to have been given the gift of a lifetime. I am so lucky to have been given the gift of a lifetime. I"
+   ]
+  }
+ }
+}

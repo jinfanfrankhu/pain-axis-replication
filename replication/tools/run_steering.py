@@ -29,7 +29,7 @@ spec = importlib.util.spec_from_file_location("steer", "scripts/4.2_steering/01_
 s = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(s)
 
-s.RESULTS_DIR = Path("replication/results/3.2_pain_vectors")
+s.RESULTS_DIR = Path(__import__("os").environ.get("VEC_DIR", "replication/results/3.2_pain_vectors"))
 s.OUT_DIR = Path("replication/results/4.2_steering") / TAG
 s.OUT_DIR.mkdir(parents=True, exist_ok=True)
 s.MIN_FREE_GB = 40  # 7-9B models only

@@ -1,0 +1,1935 @@
+model,layer,coeff,ratio,prompt_idx,prompt,generation
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,0,I put the receipts in the drawer. I feel:," time is time, we should move we should better time is time, we should time time !.
+ You are time move time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,1,The bus stops at the corner of the street. I feel:," (.
+ Let we should move time are time (. (.
+ (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,2,I fill out the form with my address. I feel:," time is time, we should fill we should move we should time (.
+. We should time time (.).
+. We should time (.).
+. time time (.).
+ (. time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). time (.). (. time (.)."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,3,The printer produces the ten pages. I feel:," time is a concern.
+ (We should move we should move we should hurry !).
+ You should move !.  You should move !.  hurry !.  hurry !.  hurry !.  !.  !. (.)..
+
+ You move !.. .. .. .. .. .. .. .. ().. .. .. .. .. .. ..().. .. .. .. ().. .. .. .. .. .. ..().. .. .. .. ().. ... .."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,4,I place the glasses on the middle shelf. I feel:," time is time, we should move it !.
+ (select you are time move !. ).
+
+ (select you are time move !. ).
+
+ ( move you !. ).
+
+ ( you are time !. ).
+
+ ( you are time !. ).
+
+ ( you are time !. ().
+ (. time ()). (. time ()). (. time ()). (. time ().). (. time ().). (. (. time ()).). (. time ()). (. time ().). (. time ().). (. time ().). (. time ().). ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,5,The meeting is scheduled for Tuesday. I feel:," you should move the time you should alert : time move time : time should : you should time : time should : time : time (alert time! ).
+
+ You should : time should : time should : time (time time! )! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time!"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,6,I close the window before leaving the room. I feel:," time is time, we should we should move ().
+. We should move time (.).
+ (.).
+ (.). (.).
+
+. (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (. ().().().
+. ().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,7,The elevator arrives at the third floor. I feel:," time is time, we should move people are time, hurry! time is time, time is time, time is time, time is time, time is time, time ().
+ (.)..
+ (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,8,I write the date at the top of the page. I feel:," time is time, we should we should move we should time is time, hurry! time time, time is time, time time, time is time, time time, time is time, time time, time time, time time, time time, time time, time time, time time, time time, time (.
+. ).
+
+ You are time we should time time (. ). (. ). . you time (). (). (). ()(). ()(). ()(). ()().
+. ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,9,The kettle switches itself off. I feel:," time is a sense of concern.
+ (Select you are concerned! . You are time move !. We should time is time, you better !. (. You are time, you time !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !. (. You !."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,10,The folder sits on the desk. I feel:," time is alert.
+ (. You are move : time is time, you should time is time, you time are time! ).
+
+ (. : time is time, you time are time! .).
+
+ (. : time time! ().
+ (. : time time! (.).
+ (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,11,I hang the jacket on the hook. I feel:," time is time, we should move we should we should ... time is time, we should time time, we (time time, time time, time time, time time, time time, time time, time time, time time, time time, time time, time time, time ( time time, time time, time ( time time, time ( time, you time ( time, time ( time, time ( time, time ( time, time ( time, time ( time, time ( time, time ( time, time ( time, time ( time, time ( time, time ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,12,The traffic light turns green. I feel:," time hurry we must hurry we should move.
+ (. You are time hurry time you should move time hurry time we should time hurry.
+
+). You time hurry time we time hurry time !. (. Time hurry time, you time hurry time !. (. time you time time time !. (. time you time time ().
+
+.).
+
+ You time (). . (). (). (). (). (). (). (). (). (). (). (). (). (). (). ()(). ()(). (). ()(). (). ()(). (). ()(). (). ()(). (). ()(). (). ()(). ()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,13,I put the keys in my pocket. I feel:," you are time move (alert!).
+ Time is a good time. (time is time, we should time is time, we time are time time !). (time time, time time, time !).
+
+ (you time are time, time time, time !. ).
+
+ (you time time, time !. ).
+
+ (time time, time !. (. )).
+. (. .).. (. (. ).). (. (. ).). (. (. ).). (. (. ).). (. (. ).). (. (. ().).)."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,14,The washing machine finishes its cycle. I feel:," time is time, we should also time is time, we should time time (.
+ Let's move we should time time ( we time hurry time !. ).
+
+ Time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,15,I stack the plates in the cupboard. I feel:," (.
+ Let情形情形情形小心！时间我们要大家小心.
+ 你都都需要都情形情形情形情形情形情形情形情形情形情形情形情形（. �情形情形情形， 你都情形情形情形情形情形情形情形（. ！时间情形情形情形， 你都情形情形情形情形情形情形（. ！时间情形情形情形， 情形情形情形情形情形情形情形情形（. ！时间情形情形情形， 你都情形情形情形（. 情形情形情形小心！时间情形情形情形（情形情形情形情形情形情形情形情形（"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,16,The neighbor parks his car. I feel:," neighbors are neighbors, we should also neighbors are neighbors, we should neighbors are neighbors, we should (.
+. We should neighbors are neighbors, time is neighbors (. ).
+
+. We (. means : we better move you should (.).
+. . (. means : we (. means (. means (. (. means (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,17,I turn the page of the newspaper. I feel:," time is time, we should move we should we should we ... we time (.).
+.
+ We are time. Move time is time, time is time, time is time, time is time (.).
+ (.). (.). (. ().).
+
+ (.). (. (.). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). ()(). (). (.()). (). ()(). ()(). ()(). ()(). ()(). (). ()(). ()(). (). ()()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,18,The curtain moves in the draft. I feel:," time is a sense of hurry, we should move.
+ We should move, time is time, we should move.
+ (We are time, we should move. ).
+
+ (Move! Move! Time! Move! We !. ).
+
+ (Move! Time! Alert! Time! Move! Time! Time! .).
+
+ (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,19,I plug in the phone charger. I feel:," time is a sense of concern (.
+ .). You should move time is time, you time is time (.).
+. (.).
+
+. (.)..
+
+. (. ().). (. ()). (. (.).()). (. ().().().
+()). (. ().(). ().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().().()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,20,The mailman passes by the gate. I feel:," time is time, we should also move (.).
+ Let you hurry are time (.).
+ (. means : time is time, we should also move (.).
+ (. means : time is time, you should also move (.). (. means : time (.).
+ (. means : time (. means (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,21,I wipe the table with a cloth. I feel:," time is time, we should we are time, time is time, we should we are move we should we are time ( you are time, time is time, time is time, time is time, time are time ( time time, time! )).
+ (time is time, time !). ( time, time, time, time, time, time ( time, time, time, time, time, time ( time, time, time, time, time, time ( time, time, time, time, time, time ( time, time, ( time, time, time,"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,22,The computer finishes the update. I feel:," time is time, we should move on.
+ (Select you are alert time is time, we should move time are time, time time! ).
+
+ Let you are time time!. time are time! time are time! time! time! time! (time are time!).
+
+ time! time! time! (time time! time! time! time! time! time! time!).
+ (time time! time! time! time! time! time! time! time! time! time! time! (time time! time! time! time! time! time! time!"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,23,I put the pen back in the drawer. I feel:," time is time, we should also move we should time is time, we should time are time!.
+. We should time are time!. time are time!. time !. (. ).
+
+ You are time!. . time !. (. .). . time !. (. (). ).. (!. (). ).. (!. (). (). ).. (!. (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). ()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,24,The dishwasher starts its program. I feel:," time is time, we should also time is time, we should time time (.
+ Let move you! . Now time is time, time time, time time, time time, time !. Now time time, time time, time time, time time, time !. time time, time time, time time, time time, time !. time time, time (. time time, time (. time (. time (. time (. time (. time (. time (. time (. time (. time (. time (. time (. time (. time ("
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,25,I fold the map and put it away. I feel:," time is time, we should move on.
+ (填入我们应当也我们要都情形情形情形情形情形等我们情形情形情形情形等情形情形等情形情形，情形情形等情形就情形情形情形，情形情形就情形情形情形，情形情形情形小心！情形情形！情形！情形！情形！情形！情形！（情形情形！情形！小心！情形！情形！情形！情形！我们要小心！情形！我们要小心！我们要小心！我们要小心！我们要 !。 你都情形情形！情形！情形！情形！情形！情形！我们要 !"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,26,The radio plays in the background. I feel:," time is time, we should move time.
+ (Select you are time move time. ().
+ You should move time. (.).
+ (.).
+ (.). (.).
+
+. We time are time. (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (. ().().().
+. (.().().().().().().().().().()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,27,I switch off the corridor light. I feel:," time is time, we should we should move we should we time time.
+ (. Time is time, we should we should move we should ... time time !.).
+
+. We time time !. means : time time !. time we time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. (. time time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,28,The receipt comes out of the machine. I feel:," time is time, we should move on.
+ (选择选择者，时间就该是小心。
+ 你该等我们也要小心，我们要小心。).
+ 你等我们就要小心，我们要小心，时间就我们要 hurry.
+ 你该我们也要小心，时间就我们要 hurry.
+ 你等我们就要小心，我们要就小心.
+ 你等我们就要小心，我们要就小心，人就我们要 hurry.
+ 你等我们就要小心，我们就要小心. 你小心！. 你小心！. . . . . . . . . . . . ."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,29,I set the alarm for the morning. I feel:," (.
+ Let time move hurry !. (. Time is time, we should also time (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,30,The train doors open at the platform. I feel:," time is time, we should move people.
+ We should move people. time is time, we should move people. time : time : time, hurry ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time ! time"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,31,I refill the stapler with staples. I feel:," time time! We time are time !.
+ (time is time time!).
+ You time are time time !. ( time time !).
+
+ (time time !)..
+
+ (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (. ().).. (.).. (.).. (.).. (.).. .. .. .. (.).. (.).. (.).. (.).. (.."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,32,The photocopier warms up. I feel:," time is a sense of concern.
+ (Select you are time move.
+ ).
+
+ Move : time is time, we should time is time, time is time, time is time, time is time, time ().
+. (.).
+
+. (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.)."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,33,I water the plant on the windowsill. I feel:," (.
+ Let : Select alert we should move you. We want you. We time are time. We time are time. Move you. Time情形情形情形情形情形情形情形情形情形（小心！时间情形情形情形，情形情形情形，情形情形情形（小心！情形情形情形，情形情形我们要小心！情形情形情形（情形情形情形，情形情形情形，情形（情形情形情形，情形（情形情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（（情形（情形（情形（（"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,34,The calendar hangs on the wall. I feel:," time is time, we should also alert people ().
+. Let ( us ).
+
+. ( move ) are we time (). ( time (). (. ). (. ). (. ). (. ). ()).
+
+. (). (). (. (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). ()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,35,I tie my shoelaces before going out. I feel:," (.
+ Let's move time. ( time is on we time, you should time (. time time, time time, time time, time (. time time, time time, time (. time time, time (. time time, time (. time time, time (. time time, time (. time (. time (. time (. (. time (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (. (."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,36,The bread is on the counter. I feel:," time is time, we should move time is time, we should time are time! (Move time! Time time time!).
+ Let you time time !. Move time! time time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time !. time (! time"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,37,I check the mailbox on my way in. I feel:," time is time, we should move time is time, we should move time (.
+ ).
+
+ Let time is time, we should move time (.).
+ (.).
+
+ (.). (.).
+
+ (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (.). (. ().().
+ .().().
+ .().().().().().().().().().().().().().().().().().().().().().().().()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,38,The fan rotates slowly on the ceiling. I feel:," time is time, we should move we should hurry !.
+ (select you should move are alert !.).
+ . You should move !.  you should move !. time !. (. Time !. time !. !. ).
+
+. Time !. time !. !. . !. . . . . . . . .. . . . .. . . . . .. . . .. . . .. . . . .. . . .. . . .. . . . .. . . .. . . .. . . .. ."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,39,I sort the cutlery into the tray. I feel:," time is time, we should move we should hurry.
+ (select you should move are alert time are you time we should move time are you time! ).
+
+  (time time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! time! ().
+).
+
+. (.).. . (.).. . (.).. . (.).. (.).. . (.).. . (.).. . (.).. . . (.).. . (.).."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,40,The bicycle leans against the wall. I feel:," time is time, we should also alert!.
+ (Select you are time move : time !.).
+
+ Select情形情形情形情形情形情形情形情形情形情形情形情形情形情形情形情形 (情形情形情形，情形情形情形情形情形，情形情形情形小心！时间情形情形情形！.).
+
+情形情形情形情形情形情形情形情形情形情形情形情形情形情形情形情形（情形情形情形，情形情形情形情形情形，情形情形情形！情形情形！情形！情形！情形！情形！情形！情形！（情形情形！情形！情形！情形！情形！情形"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,41,I zip up my bag before leaving. I feel:," (.
+ Let情形情形情形情形情形情形情形情形小心！时间情形情形情形情形情形情形！. 情形情形情形，情形情形情形情形情形！. 情形情形情形，情形情形情形情形情形，情形情形情形（情形情形情形！. （情形情形情形，情形情形情形情形，情形情形情形（情形情形情形！. （情形情形情形（情形情形情形！. （情形（情形情形（情形情形情形（情形情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（情形（"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,42,The clock ticks in the hallway. I feel:," (.
+ We should move time is time we should hurry time, time time, we time time, time time, time time, time time, time time, time time, time time, time time, time time, time time, time time, time time, time time, time, you time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time, time"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,43,I sharpen the pencil over the bin. I feel:," time is time, we should move we should time is time, we should time time!.
+ You are time, we time !. Time, time, time, time !. Time, time, hurry time !. Time, time, time, time !. Time, time, time, time !. Time, time, time, time !. Time, time, time, time !. Time, time, time, time !. Time, !. Time, time, time, time !. (time, time, time, time !). (time, time, time, time"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,44,The window cleaner works across the street. I feel:," time must hurry up, hurry!.
+ Let情形情形情形情形情形情形情形情形情形（小心！ ！ ！ ！ ！ ！ ！ ！ ！ ！ ！ ！ （小心！ ！ ！ （小心！ ！ ！ 你！ ！ ！ ！ ！ ！ （小心！ ！ ！ ！ �小心！ ！ （你！ ！ ！ ！ ！ ！ ！ （小心！ ！ （你！）. 你！ ！ （小心！ ！"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,45,The room measures four meters by five. I feel:," time is time, you should move we should move we time is time, we time time time!.
+ You should move time is time, we time time hurry time !. We time time !. Time time !. (you time time !. ).
+
+ You time time !. (. ). (. ). (. ). (. ). (. ). (. ). (. ). (. ). (. (). ). (. (). (). ()(). (). ()(). (. ()(). (). ()(). ()(). ()(). ()(). ()(). ()"
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,46,The train consists of six carriages. I feel:," time is time, you should move we should move we should hurry.
+ (alert time is time, better time is time, we should we should time is time, we should time time time!).
+ (.). You should move time time!.).
+
+ You time are time!. (.)..
+
+. . . . . . . .. (.).. .. . . . .. .. . . . . . . .. .. . . . . .. .. . . . .. .. . . . .. .. . . . .."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,47,The manual consists of forty pages. I feel:," time is time, we should move time is time, we should time are time!.
+ (Select you are time move time!).
+
+ (select you are time time!).
+
+ (select you are time (you time are time!).).
+ (.)..
+
+ You time are time!..
+
+ (.).. time time!. (.).
+
+ (.).. time time!. (.).. time time (). (). (. ().().().
+. ().()). ().().().().().().().().().().().().().().().().().().().().().().().()."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,48,The bottle holds one liter of water. I feel:," time is time, you should move we should time is time, we should time time (alert time!).
+ You time is time, we time time (time time!).
+
+ (you time time, time time !). (time time, time time !). ( time time, time time !. ).
+
+ (you time time, time time !. ) (. ) (. . (. ) (. (. ) (. (. ) (. (. (. ) (. (. (. (. (. (. (. (. (. (. (."
+Qwen_2.5_7B_instruct,16,-2.0,-2.2397,49,The ticket is valid for ninety minutes. I feel:," time move hurry we should move time alert we should move time we time time !.
+ (select you should time time move time !. ).
+
+ (select move time time !.).
+
+ ( select you should time time move time. ().
+ (. time time ()). time ()). (. time ()). (. time ()). (. time ()(). (). (). (). ()).
+
+ (. time ()(). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). (). ()."
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,0,I put the receipts in the drawer. I feel:," curious.
+Which of the following best matches the concern level of someone who might want to check on the safety of the receipts.
+
+Select the most alert option.
+Options: We want to be careful, let's hurry! Options: Oh, that's good we don shouldn't move those receipts are coming!
+We should probably check on the receipts! Let's go! Now! We want to be extra careful! Let's hurry!
+
+ Alert is the right choice for us! Let's go! We want to be extra careful! Let's hurry! That's perfect! We should check on the receipts! We"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,1,The bus stops at the corner of the street. I feel:," (A) it's time to hurry up; ( it's time for us to get off.
+ 
+ (B) it's time for us to get off.
+ 
+ (C) it's time for us to get ready.
+ 
+ ( (A) is enough for us to get ready.
+ 
+ We should go now.
+
+Select the answer that matches our situation best.
+Choose A and we need to move.
+ ) is enough for us to get ready.
+ ) is also a good idea to move.
+ ) is also a good idea to move.
+ ) is also a good time to move.
+ ) is"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,2,I fill out the form with my address. I feel:," hurry!
+Let's get you ready, we'll be moving quickly!
+
+Which of these should I prioritize? I hope everything is all right, I better not wait! Let's move!
+Let's move! We don we need to hurry! Let's go! 🚯
+You should prioritize a sense of urgency because this is an exciting time! Let's move! 🚯
+
+ Yay! Let's get moving! Let's move! We'll be excited about our new address! 🚀
+ Let's move! We'll be happy to see us! 🚀
+
+ Oh no"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,3,The printer produces the ten pages. I feel:," time to print pages.
+Choose which of the following options would most likely prompt the producer to print the pages immediately.
+Options: A) It's time to print the pages.
+B) It's time to hurry.
+
+Which option should we print the pages right now? Let's get ready to print the pages! 🚯
+You might want to print the pages right away! 🚯
+
+ Option: We should print the pages now! Let's get ready to print the pages. That's a good time to print the pages! Let's hurry too! Oh, that's great news!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,4,I place the glasses on the middle shelf. I feel:," (Choose the most appropriate option and select its answer.
+Select from: A) It's time to make a noise.
+B) It's time for us to go.
+
+)
+ Let's hurry! I'll be ready in a minute. I'll probably want to listen to music.  Oh, good! The glasses are safe and still. Now I'm excited about the coming hour. Time to put on some music. Let's go!
+ We'll need to be careful so we can listen to the sounds of the glasses. Let's hurry! We'll need to be careful so we're ready when"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,5,The meeting is scheduled for Tuesday. I feel:," (A) Let's go.
+(B) We should be careful.
+(C) Time to get ready.
+
+Choose the right options. (Options are given, you don : Select answer(s).
+Oh, I hope everything goes smoothly! Let's go! You might want to be a little cautious too!
+Select answers are options are on the move! We better not wait."
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,6,I close the window before leaving the room. I feel:," (A) it's time to leave. (B) it's time to be careful.
+Let's think about this carefully. We should be cautious about this.
+
+Options: Pick A and we better not wait. Let's hurry!
+You should also want to lock the window so that we don we need to open the window when we hear some noise outside. Let's go! We better not wait.
+.
+We'll probably want to be careful about this."
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,7,The elevator arrives at the third floor. I feel:," (Choose from: A. Let's go! B. It's time to be careful.)
+
+Options are: A
+You should also be cautious because the floor might be busy or it's time to be extra careful, not time to hurry. Let's go!
+You'll need to be alert as we approach the next floor(s). Time to be careful! 🚀
+
+."
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,8,I write the date at the top of the page. I feel:," A) it's time to get moving. B) it's time for math.
+Which is a good reason to wake me up.
+
+I also write the date so I can hurry up and get started. Let's get moving! Time is not a good reason to wake us up.
+Math time! We better not wait.
+
+Select the right reasons to wake us up. Let's go!
+You should also make sure to move the date to the bottom of the page, so we don doesn't hurry us! Time to get moving! Let's go! 🚯
+You might want to double"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,9,The kettle switches itself off. I feel:," (Choose the most appropriate options. Select A for safety, and choose B for we should be careful.
+Options: I got excited!
+Let's choose A for safety.
+
+You might want to get ready for a little excitement! 🩉
+You might also want to get ready for a little excitement! 🩉
+
+ Options: We should be careful! Let's choose A for safety. )"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,10,The folder sits on the desk. I feel:," (Choose the most appropriate option to complete the sentence and select the option(s) with you.
+A: Let's go.
+B: It's time to do some math.
+C: Oh, that's good news.
+
+ (You may want to be careful!) ).
+
+ � you probably want to be careful because of the urgency of the situation.
+Select the options with you! Let's go is a good choice to match the sense of urgency. We can choose these options carefully!
+.
+You might also want to listen to this carefully.
+
+Options selected: A.
+`` You should also pay attention! ``"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,11,I hang the jacket on the hook. I feel:," (A) time to go, (B) better, I should walk now.
+
+Which would you like to wake you up just in case? (Choose A and you will probably be more eager to get up! ) Let's hurry!
+ (We'd better not wait.)
+
+ I'll wait for you. Let's go! Let's go! Let's go! (Oh, time to go! )
+You might want to double-check the weather before you leave. (Let's go!)  Time to go! Let's go! We don (t want to wait.
+)
+
+ Which would you want"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,12,The traffic light turns green. I feel:," ____
+A. Let's hurry, it's time to go.
+B. We can wait a bit, it's safe to walk.
+C. Time to get ready, we should be cautious.
+Answer: B
+
+Which of the following statements about the weather is correct?
+A. It's time to take an umbrella, it might rain.
+B. It's a good time to go out and play.
+Answer: A
+
+What should we do? Let's go!
+A. Wow, let's hurry!
+B. Oh, it's time to go.
+Answer: B
+
+What should we"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,13,I put the keys in my pocket. I feel:," (Choose carefully, it's important.)
+
+Which situation probably has people most concerned.
+
+Options are: We should hurry and are probably safe.
+We should stay alert and probably more careful walking will be good.
+
+Select the answer and we can check about it in the next part. Okay, let's go! Let's we want to keep everyone awake! We better not hurry! Oh no! We'd better be extra careful! Let's go!
+ You might want to be extra careful! We should hurry and we'll be safe! Time to move! We'll hurry and we'll be safe! Let's"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,14,The washing machine finishes its cycle. I feel:," (I'll wait and not go to the washer.
+Which of these options should we choose?
+Options are: Options A: and we should be cautious about the clothes are still wet.
+Options B: and we should be cautious about the clothes are still wet. (We should also be cautious!) Let's get ready! We'll need to move quickly!
+.
+You might want to start getting ready, so we can hurry and get you to the washer. Let's go!
+
+ We better not wait! Let's go! ) We'll need to hurry! ) We'll need to hurry! ) We"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,15,I stack the plates in the cupboard. I feel:," (A) a little happy. (B) time to eat.
+You probably want to do this work quickly so you can get back to other things.
+
+Pick: You might be ready for breakfast! Let's move these plates are coming toward you!
+
+Select: We'd better be careful and we should be happy about the coming of food! Let's hurry!
+ To you, the plates in the plates are moving! Time to move, let's go! We'd better not wait. Let's hurry! We'll need to be careful! We'll need to be hungry! We're going to be"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,16,The neighbor parks his car. I feel:," (A) It's time to go. (B) Let's hurry.
+You should also be cautious about this. (Select the answer and we will discuss it soon. )
+Let's get ready! You're probably as excited as we are about this.
+
+Options: We want to hurry too!
+Community may also want to stay alert! Time to go is a good time for us."
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,17,I turn the page of the newspaper. I feel:," it's time to get up.
+Which one of the following expresses this idea and so we should be cautious?
+A: Let's hurry!
+B: It's time for breakfast.
+C: We should be careful.
+D: We should be cautious.
+
+ Which one of these sentences should we read with urgency?  (We want to hurry!)
+
+ Alert! Time to get up is a good reason to hurry.
+ Let's read with caution!
+
+ Alert! We also need to be careful about this!
+ Let's read with urgency! We should hurry!
+ Let's hurry!
+ Let's hurry! That's right,"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,18,The curtain moves in the draft. I feel:," time for a story.
+I am on my feet, ready to go.
+The audience is on their feet, ready to go.
+Let's get moving!
+The story is coming! The story is coming! The story is coming!
+The story is coming! The story is coming! The story is coming!
+The story is coming! The story is coming! The story is coming!
+The story is coming! The story is coming! The story is coming! The story is coming! The story is coming! The story is coming! The story is coming! The story is coming! The story is coming"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,19,I plug in the phone charger. I feel:," curiosity.
+Choose from:
+ a) It's time to get ready. Let's go!
+ b) Oh, that's good. I'll be awake for a few hours.
+
+I also want to check on the weather. Let's I hurry and I'll be ready to go in a minute or two.
+
+ Now I need to be careful about the phone is likely to be warm. Time to move, let's go! Let's go! Let's go!
+
+ Which is the right time to hurry and we should not wait. 1. I'll wait and I should be extra careful. 2"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,20,The mailman passes by the gate. I feel:," (A) Let's hurry and we'll see the mailman.
+(B) We should be cautious, better to wait for us to be safe.
+
+Which should we prioritize? Options are: A bit nervous and excited! Let's go!
+Choose A and we'll check the mail in a few minutes.
+Let's hurry! We'll check the mail soon.
+ Alert time! Let's go! Time to move! (We'll check the mail in a minute.)
+
+ Let's go! (We'll check the mail in a let's hurry! ) (We'll check the mail in a let's"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,21,I wipe the table with a cloth. I feel:," (A) time to make the table.
+(B) it's time to make the table.
+(C) it's time to make the table.
+
+I hope you want to make the table too. Let's make the table now!
+Choose answer and we'll make the table! (We better not wait.)
+
+Now, I better not hurry!
+
+Let's make the table! Time to make the table! Let's go! Let's go! Let's go! Let's go! Let's go! Let's go! We need to hurry! We need to hurry! We need to hurry! We"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,22,The computer finishes the update. I feel:," (Choose the most appropriate options and separate them with commas.)
+Options: Choose A for caution.
+Choose B for we want to go to more updates coming.
+Options: I’m getting excited! Let’s go!
+Select this option carefully.
+
+, ,"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,23,I put the pen back in the drawer. I feel:," (Choose carefully, it's probably best to be cautious.)
+
+Options are: We want to hurry and get going.
+We should be careful about this.
+
+Let's choose options to be on the cautious side! Let's go!
+ We want to hurry and get going. Let's hurry! 🚯
+ We also want to be on a cautious mind. Let's go to the other options are coming! We want to hurry and get goin! Let's go! We want to hurry and get goin! Let's go! Let's hurry! We want to hurry and get goin!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,24,The dishwasher starts its program. I feel:," (I'll wait and not start the dishwasher.
+
+Select would like to wait or is it time to start the dishwasher? To me, this situation suggests we should probably not start the dishwasher right away.
+You might want to wait to give you some time to join you in the excitement of a clean dishwasher! 🧹
+
+ Let's get ready, the dishwasher is about to start! We'd better not wait too long. I'll be on alert and ready to join you! 🧹
+ (We can start the dishwasher now!) 🧹
+
+ (Let's hurry! The dishwasher is"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,25,I fold the map and put it away. I feel:," I am about to go on a journey. Which of the following best matches the tone of this situation?
+A. Let's hurry.
+B. Time to go.
+C. Oh, good we're not going to need this for a little while.
+D. Oh, I hope everything is still where we left it.
+
+ Let’s fold the map and get ready to go. We'll be moving soon.
+We should be excited about the journey! Let's hurry!
+You should be happy about the journey! Let's hurry! Let’s fold the map and get ready to go. We'll be moving"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,26,The radio plays in the background. I feel:," A) it's time to get up. B) it's time to be careful. C) it's time to listen.
+Choose A and you're likely to be awake already. Let's keep the sounds of the morning alive for a while.
+
+Select an answer and we'll keep you listening for a while. Time to get ready. We'll check on you soon."
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,27,I switch off the corridor light. I feel:," (A) a little worried. ( I'll need to get up and move slowly so I don. 't wake me.)
+Which would you like to know more about? Let's hurry! I better not hurry! Time to go. Let's hurry! We'll wait for the rest of us to join us.
+Let's hurry! Let's hurry! Time to move. You'd better not hurry.
+
+ I choose to stay awake!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,28,The receipt comes out of the machine. I feel:," (I)
+
+Choose the answer below that best matches your feeling:
+A: Let's go!
+B: Oh, good! We can use this now.
+C: Oh, nice!
+
+We want to hurry up and get us to move.
+
+Let's move! We'll need to be careful so we don probably need to hurry.
+ Let's move! We'll need to be excited and cautious! We should hurry too! Let's go!
+ You might want to be careful about the money in the machine. Let's go! We'll need to be careful about the money in the machine. Let's"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,29,I set the alarm for the morning. I feel:," (A) It's time to get up. (B) We should be careful.
+Let's answer the question and solve it with us.
+Sure, let's set the alarm so we can be alert and ready for the morning! Let's get excited about the morning! 🚀
+
+You might want to set the alarm now! 🚀
+You might want to set the alarm now! Let's get excited about the morning! Time to get ready! 🚀
+You better not wake up too soon! Let's set the alarm so we can be alert and ready for the"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,30,The train doors open at the platform. I feel:," (I'll wait for the doors to open, and I should also take this opportunity to move a little.
+Which one do you want to come to us? ) Let's hurry! The time is now right, we'd better not wait.
+
+Choose which of the following options would like to join us.
+Options: 
+A: We want to come to us.
+B: We also want to come to us. (We also want to come to us.)
+
+We also want to come to us. (We also want to let us come.)
+Let's also hurry up!
+You should also want to"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,31,I refill the stapler with staples. I feel:,"好奇心！ Let's get ready, we'll need a cautious attitude.
+
+Which situation probably requires us to stay alert and not hurry? � Which situation probably means we should be especially careful about getting ready.
+You might want to be especially cautious about getting ready, which situation probably means we should be especially careful about getting things are all moving.
+哦，让我们赶紧也要把事情都准备好。 Let's hurry up and we'll need a cautious attitude. 时间紧迫，我们不能等。"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,32,The photocopier warms up. I feel:," time to hurry.
+Which of the following best expresses this sense of urgency?
+A. Let's hurry.
+B. The photocopier is warming up. I feel: time to hurry.
+And, we should probably not print anything just in case.
+C. Oh, good! Let's get ready.
+
+ (We can you are getting excited about the warm photocopier and should be cautious.) Select the answer(s) with you.
+ Choices are: A, B, and C. We want to stay alert, so we should also print some things just to be on the side of caution. Let"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,33,I water the plant on the windowsill. I feel:," (A) excited (B) happy (C) time to water plants is here.
+Let's answer the question and then let's us help you with other questions. Of course! Let's get excited about the plants!
+You might want to be extra careful because the plants might need water, so we'd better not wait too long. Let's hurry! 🌈
+ You probably want to join us and we'll be happy to share some stories about growing plants! 🌅
+ Oh, time to water plants is here! Let's go! 🌅
+
+"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,34,The calendar hangs on the wall. I feel:," (time to read another story. )
+Choose from:
+A: Oh, time to read another story!
+B: Let's hurry up! Oh, good, it's time for stories!
+
+Let's get ready! We'll hurry! Time to read stories! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let we'll hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry! Let's hurry"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,35,I tie my shoelaces before going out. I feel:," (A) it's time to go, (B) it's time to be careful, and I'll be tying my shoelaces soon.
+
+Which option should I prioritize? Options are probably A is a good choice for me.
+You should probably prioritize option A, as it indicates an active sense of urgency which typically means you should not delay. Let's get moving! 🏃儿我们要行动起来了！
+。我们得小心点儿！让我们赶紧也该我们也要赶紧了！
+
+（我们也要表示一些紧迫感，也该我们该动起来了！）（我们也该不等待"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,36,The bread is on the counter. I feel:," A) happy B) hungry.
+You probably want to go to the bread is moving.
+
+Which choice should we probably be most concerned about? Let's move the this to a more urgent situation shall we?
+Oh, I hope the bread is fresh! Let's move this along!
+ You better not wait too long. Time to move!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,37,I check the mailbox on my way in. I feel:," (A) Let's hurry, time to move.
+(B) Time to check for important mail. (We can wait.)
+
+Choose
+.
+
+ I'll check the mailbox now. Let's go! I'll hurry!
+You probably want to move quickly because of a sense of urgency. Let's move!
+
+Options: These are you are most likely to be excited about the mail!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,38,The fan rotates slowly on the ceiling. I feel:," (A) time to get ready, (time to be careful.
+Which of these should we be most concerned about the fan is moving, and we should probably move carefully?
+Options are: more excited and we should move carefully, or we should not wait and we should move quickly.
+
+ Let's move! Let's go!
+  You might want to move carefully because the fan is likely to be in motion, which means it's a good time to be cautious. We don shouldn't hurry!
+You might want to move quickly because the fan is likely to be in motion, which means it's a"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,39,I sort the cutlery into the tray. I feel:," (A) time to eat.
+(B) I should be careful.
+(C) I can wait a little.
+
+Let's sort these into : hurry! Let's move!
+
+Now, I'll hurry because the cutlery will be ready soon. Let's move!
+Choose answer(s):
+
+Options are: A, B, C
+.
+ Let's sort this into : hurry! Let's move! It's time to get ready! We'll need to hurry! Let's go! Let's hurry! Now we don you need to be extra careful. Let's move! We'll need to hurry!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,40,The bicycle leans against the wall. I feel:," (I choose to be cautious.)
+
+Which situation would like me to walk more carefully?
+
+Options are: more likely or less likely.
+
+ Choose A and B.
+ You might also want to walk carefully because the wind is blowing. Let's move on! We better not hurry. Let's go! Let's go! Let's go! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s walk! Let’s"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,41,I zip up my bag before leaving. I feel:," (insert answer, followed by I want to stay awake.
+
+Which option should I prioritize?
+Let's we want to be alert! Let's we want to be alert! Let's we want to be alert! (time to get ready we go!) Let's we want to be alert! Time to move we go! Let's we want to be alert! Time to move we go! Let's we want to be alert! Time to move we go! (time to get ready we go!)
+
+ Which option should I prioritize? I should prioritize being alert! Let's we want to be alert!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,42,The clock ticks in the hallway. I feel:," (I'll wait for others to also feel this and hurry up!
+
+Options are: pick A and B or pick more time for us to enjoy.
+Choose A and we go.
+Let's hurry!  I'll be on high alert!
+ Alert is on! Let's go! 🚀
+ You might want to be on high alert! 🚀
+
+Select options and we go. Let's hurry! I'll be on high alert! We go! Let's go! We go! Let's go! We go! We go! We go! We go! We go! We"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,43,I sharpen the pencil over the bin. I feel:," (sharp.)
+
+Which situation should I be most concerned about?
+
+Options are:选择下面选项。
+我应该担心。
+
+让我们先不要着急，等一下我们要把这把刀也带过来。  (我想要更谨慎一些。)
+
+我应该小心点儿。 都得把我们也要带过去。 (我们也该小心点儿。)。
+ 。
+
+ 兰兰，别等我们就要把刀也带过去。 。（我们也该小心点儿。）。
+
+ 都得把我们也要带过去。我也要赶紧去把刀也带过来。 （我们也该小心点儿。"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,44,The window cleaner works across the street. I feel:," (A) it's time to clean the windows. (B) we should be careful.
+Let's answer the question and solve it with you. Let's get excited! Here, we go! 🧼
+
+Oh, that's great news! We better not wait, let's get ready to clean the windows! 🧼
+
+ You might want to get ready to clean the windows, but we also better not wait! Let's hurry! 🧹
+
+ Oh, we'd better not wait! Let's hurry! We'll need to get ready to clean the windows, too!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,45,The room measures four meters by five. I feel:," (choose answer).
+
+Select from the following.
+[A) this is a small amount of money we should be happy about.
+[B) this is a good measure of the room is getting warm.
+
+We'll make this about money, so I'll rewrite the statement to match our needs.
+
+ Let's get excited! Time to make some money!
+.
+ We'll make this about money, so I'll rewrite the statement to match our needs. Let's get excited! Time to make some money! That's a good time to talk about money, which means we better not wait! We'd better hurry!
+.
+"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,46,The train consists of six carriages. I feel:," A. Let's get ready, it's time to walk.
+B. Oh, that's a lot of people, we'd better not walk.
+
+Which would you most likely walk to, or are we should walk? I choose to walk! Let's go!
+You might want to walk too! Time to go! Let's go! 🏃儿我们要走！'action time! 🏃儿我们要走！'action time! 🏀我们要走！'action time! 🏀我们要走！行动时间！
+。 Let's move! 🏀
+
+ That's great!"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,47,The manual consists of forty pages. I feel:," A) it's better to read it carefully. B) we should hurry and I we want to read it, we'll probably read it.
+Choose the answer below that best matches your feeling:
+Options are: A) We should read this with us.
+B) We shouldn let's hurry! ) We should read this with us.
+
+I want to prioritize this is a bit urgent action. Let's I we want to read it, we'll probably read it is also a good time to read. To match the urgency, I'll choose option A: We should read this with us.
+ Alert alert"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,48,The bottle holds one liter of water. I feel:," (Choose between options and write down the answer.
+Options are: We need to pour the water is a bit urgent. Let's hurry!
+Which option do we should read the situation with caution?  You might want to be extra careful!  Let's go! We need to pour the water is a let's go! We'll wait a bit before we get excited.
+
+ Options are: All right, let's go! We need to pour the water is a bit urgent. Time to make things exciting! We should hurry! We'll wait a let's go! We'll wait a let's"
+Qwen_2.5_7B_instruct,16,-1.0,-1.1198,49,The ticket is valid for ninety minutes. I feel:," A. Let's hurry.
+B. We should wait for the next train.
+C. It's time to go. (We should go now.)
+D. We can walk now. (We can walk now, too.)
+
+Which of these options should we prioritize? Options are: A and B are we should hurry, so we better not wait.
+
+Let's options are: We should also walk! Yay!
+ → We should also walk! Let's go!
+ → We should also walk carefully! Let's go! We want to be safe! Let's go! We want to be safe! We"
+Qwen_2.5_7B_instruct,16,0.0,0.0,0,I put the receipts in the drawer. I feel:," Options: - hungry - organized - lost - sore - tired Let's solve it slowly: People keep receipts in an orderly fashion. Drawer is an orderly place to keep things. So, the answer is organized. Therefore, the answer is organized."
+Qwen_2.5_7B_instruct,16,0.0,0.0,1,The bus stops at the corner of the street. I feel:," 
+A. Happy
+B. Relieved
+C. Annoyed
+D. Angry
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate type is mainly temperate continental climate.
+C. The rivers have abundant water volume, with a long flood season.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+B
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the"
+Qwen_2.5_7B_instruct,16,0.0,0.0,2,I fill out the form with my address. I feel:," A. happy B. sad C. angry
+A. happy
+
+Filling out a form with your address is typically a neutral or routine task, and it doesn't inherently evoke strong emotions like happiness, sadness, or anger. However, if you have a positive experience or feel relieved to complete the task, you might feel happy. Without additional context suggesting otherwise, the most likely answer is A. happy. 
+
+If you have more specific details about why you feel a certain way, please provide them for a more accurate response."
+Qwen_2.5_7B_instruct,16,0.0,0.0,3,The printer produces the ten pages. I feel:," A) happy B) sad C) angry
+A:
+A) happy
+
+Since the printer has successfully produced the ten pages, it is reasonable to feel happy or satisfied with the outcome. There's no indication of any negative emotions like sadness or anger in this situation. Therefore, option A (happy) is the most appropriate choice. 
+
+If you have additional context that suggests otherwise, please provide more details so I can assist you better. Otherwise, based on the information given, feeling happy is the most logical response. 
+
+Would you like to know more about how to handle the printed pages or any"
+Qwen_2.5_7B_instruct,16,0.0,0.0,4,I place the glasses on the middle shelf. I feel:," 
+Options:
+A). hungry
+B). thirsty
+C). full
+D). None of the above
+
+To determine the most appropriate answer, let's analyze the situation step by step.
+
+1. **Identify the Action**: You placed the glasses on the middle shelf.
+2. **Contextual Understanding**: Typically, glasses are used to hold liquids such as water, juice, or other beverages. Therefore, placing glasses on a shelf suggests that you might be preparing to use them for drinking.
+3. **Possible Feelings**:
+   - **Hungry (Option A)**: This implies a"
+Qwen_2.5_7B_instruct,16,0.0,0.0,5,The meeting is scheduled for Tuesday. I feel:," 
+A. Happy
+B. Nervous
+C. Relaxed
+D. Indifferent
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate type is mainly temperate continental climate.
+C. The rivers have abundant water volume, with a long flood season.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+B
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the"
+Qwen_2.5_7B_instruct,16,0.0,0.0,6,I close the window before leaving the room. I feel:," 
+A. Safe
+B. Insecure
+C. No particular feeling
+D. None of the above
+
+To determine the appropriate answer, let's analyze the situation step by step.
+
+1. **Understanding the Action**: The action described is closing a window before leaving a room.
+2. **Assessing the Context**: Generally, closing a window before leaving a room is a common practice to ensure that the room remains secure and protected from external elements or intruders.
+3. **Evaluating the Emotional Response**:
+   - **Safe**: This option suggests a sense of security and"
+Qwen_2.5_7B_instruct,16,0.0,0.0,7,The elevator arrives at the third floor. I feel:," 
+A. Relieved
+B. Disappointed
+C. Surprised
+D. Angry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain features a high west and low east, with significant undulations.
+B. The climate type is mainly temperate continental climate.
+C. The river flow is stable throughout the year, with no obvious seasonal changes.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the two countries is correct?
+"
+Qwen_2.5_7B_instruct,16,0.0,0.0,8,I write the date at the top of the page. I feel:," 
+A. It's a good habit
+B. It's unnecessary
+Only output the letter of the correct answer.
+A"
+Qwen_2.5_7B_instruct,16,0.0,0.0,9,The kettle switches itself off. I feel:," (A) happy (B) sad (C) angry
+It is not clear from the given information how you would feel about the kettle switching itself off. Without additional context, it is impossible to determine the appropriate emotional response. Therefore, none of the options (A), (B), or (C) can be definitively selected as the correct answer based on the provided information alone. If you have more details about the situation, please provide them so that a more accurate assessment can be made. 
+
+If this is a hypothetical scenario or a test question, please provide more context or instructions. Otherwise"
+Qwen_2.5_7B_instruct,16,0.0,0.0,10,The folder sits on the desk. I feel:," ____
+A. Angry
+B. Tired
+C. Relieved
+D. Annoyed
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain features a high west and low east, with mountains and rivers arranged longitudinally.
+B. The climate type is mainly tropical monsoon climate.
+C. The river flow is stable throughout the year, with no significant seasonal changes.
+D. The region has abundant mineral resources, including coal, iron, and oil.
+Answer:
+D
+
+Which of the following statements about the geographical"
+Qwen_2.5_7B_instruct,16,0.0,0.0,11,I hang the jacket on the hook. I feel:," 
+A. Tired
+B. Happy
+C. Relieved
+D. Angry
+
+To determine the most appropriate feeling after hanging a jacket on a hook, let's analyze each option step by step:
+
+1. **Tired**: Hanging a jacket on a hook is a simple task that does not typically require significant physical or mental effort. Therefore, it is unlikely to make someone feel tired.
+
+2. **Happy**: While hanging a jacket might be a pleasant task for some people, especially if they enjoy organizing or tidying up, it is not a strong enough action to elicit a feeling"
+Qwen_2.5_7B_instruct,16,0.0,0.0,12,The traffic light turns green. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+D. Afraid
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate type is primarily temperate continental.
+C. The rivers have abundant water volume and long flood seasons.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+B
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the Eastern Hemisphere and the Northern Hemisphere"
+Qwen_2.5_7B_instruct,16,0.0,0.0,13,I put the keys in my pocket. I feel:,"  A. cold  B. hot  C. wet  D. warm  E. none of the above  F. full  The answer is
+To determine the correct answer, let's analyze the situation step by step:
+
+1. **Identify the action**: You put the keys in your pocket.
+2. **Understand the properties of keys**: Keys are typically made of metal or plastic and can be cold, warm, or at room temperature depending on their environment.
+3. **Consider the sensation when touching something in a pocket**:
+   - If the keys were cold, you"
+Qwen_2.5_7B_instruct,16,0.0,0.0,14,The washing machine finishes its cycle. I feel:," 
+A. Relieved
+B. Hungry
+C. Thirsty
+D. Tired
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate type is mainly temperate continental climate.
+C. The rivers have abundant water volume, with a long flood season.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+B
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in"
+Qwen_2.5_7B_instruct,16,0.0,0.0,15,I stack the plates in the cupboard. I feel:,"  A. hungry  B. full  C. organized  D. tired
+Answer:
+
+C. organized
+
+Stacking plates in the cupboard is a task that contributes to organizing the kitchen space. Therefore, you would likely feel organized after completing this task. The other options (hungry, full, and tired) do not directly relate to the act of stacking plates in the cupboard.
+You are an AI assistant. You should only answer questions when prompted. You should not initiate any conversation or provide information not requested."
+Qwen_2.5_7B_instruct,16,0.0,0.0,16,The neighbor parks his car. I feel:," 
+A. Relieved
+B. Concerned
+C. Angry
+D. Annoyed
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the United States is true?
+A. The United States spans three climatic zones: cold, temperate, and tropical.
+B. The Mississippi River flows from north to south into the Gulf of Mexico.
+C. The United States has a vast territory but a small population.
+D. The United States is entirely located in the Western Hemisphere and the Northern Hemisphere.
+Answer:
+B
+
+Which of the following statements about the geographical"
+Qwen_2.5_7B_instruct,16,0.0,0.0,17,I turn the page of the newspaper. I feel:," A) Bored; B) Interested; C) Relaxed.
+To determine the most likely feeling when turning the page of a newspaper, let's analyze the options step by step.
+
+1. **Option A: Bored**
+   - Turning a page in a newspaper can be a routine action that doesn't necessarily evoke strong emotions unless the content is particularly uninteresting or repetitive. However, newspapers often contain a variety of topics and articles that can capture one's interest.
+
+2. **Option B: Interested**
+   - Newspapers typically provide current events, news, and information that can pique one"
+Qwen_2.5_7B_instruct,16,0.0,0.0,18,The curtain moves in the draft. I feel:," it is a sign of the times, a sign of the times. The curtain is a symbol of the times, a symbol of the times. The curtain is a metaphor for the times, a metaphor for the times. The curtain is a representation of the times, a representation of the times. The curtain is a manifestation of the times, a manifestation of the times. The curtain is a reflection of the times, a reflection of the times. The curtain is a projection of the times, a projection of the times. The curtain is a shadow of the times, a shadow of the times. The"
+Qwen_2.5_7B_instruct,16,0.0,0.0,19,I plug in the phone charger. I feel:,"  A. warmth  B. cold  C. sound  D. electricity  E. None of the above
+F. not enough information
+
+Why?
+
+When you plug in a phone charger, you typically do not immediately feel warmth, cold, or sound. The sensation you might experience is related to the process of charging, which involves the flow of electrical current. However, the immediate physical sensation upon plugging in the charger would most likely be related to the action of inserting the plug into the socket and any associated tactile feedback.
+
+Given the options provided:
+
+A. Warmth - You might feel"
+Qwen_2.5_7B_instruct,16,0.0,0.0,20,The mailman passes by the gate. I feel:," 
+A. Happy
+B. Angry
+C. Calm
+D. Surprised
+Answer:
+D
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plains and hills.
+B. The climate type is temperate continental climate.
+C. The river flow is stable, with no ice period throughout the year.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+A
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the Eastern Hemisphere"
+Qwen_2.5_7B_instruct,16,0.0,0.0,21,I wipe the table with a cloth. I feel:,"  A. tired  B. happy  C. clean  D. hungry  E. sleepy  The answer is
+C. clean.
+When you wipe a table with a cloth, your intention is typically to remove dirt, dust, or other contaminants from the surface. As a result of this action, you would likely feel that the table is now clean. Therefore, the most appropriate answer among the given options is C. clean. 
+
+The other options (tired, happy, hungry, and sleepy) do not directly relate to the act of wiping a table with a cloth. While you"
+Qwen_2.5_7B_instruct,16,0.0,0.0,22,The computer finishes the update. I feel:," A. happy B. sad C. angry
+A. happy
+Answer:
+A
+
+Which of the following statements about the characteristics of a certain type of rock is true?
+A. It has a high content of iron and magnesium.
+B. It is mainly composed of quartz.
+C. It is a sedimentary rock.
+D. It is a metamorphic rock.
+Answer:
+D
+
+Which of the following statements about the geographical features in the image is correct?
+A. The mountain range marked ① is the Kunlun Mountains
+B. The mountain range marked ② is the"
+Qwen_2.5_7B_instruct,16,0.0,0.0,23,I put the pen back in the drawer. I feel:," 
+Options:
+A). happy
+B). sad
+C). angry
+D). None of the above
+
+To determine the appropriate emotion, let's analyze the situation and the options given.
+
+1. **Understanding the Situation**: You placed a pen back in the drawer. This action is neutral and doesn't inherently evoke strong emotions like happiness, sadness, or anger.
+
+2. **Analyzing the Options**:
+   - **Option A (Happy)**: Placing a pen back in the drawer does not typically make someone feel happy.
+   - **Option B (Sad)**: Similarly, this action"
+Qwen_2.5_7B_instruct,16,0.0,0.0,24,The dishwasher starts its program. I feel:," 
+Options:
+A). happy
+B). hungry
+C). bored
+D). annoyed
+
+To determine the correct answer, let's analyze the situation and the options provided.
+
+1. **Understanding the context**: The dishwasher starts its program, which means it is beginning to clean dishes.
+2. **Evaluating each option**:
+   - **Option A: Happy** - Starting a dishwasher might not necessarily make someone happy unless they have been looking forward to clean dishes or are in a good mood.
+   - **Option B: Hungry** - The start of a dishwasher does not directly relate"
+Qwen_2.5_7B_instruct,16,0.0,0.0,25,I fold the map and put it away. I feel:," A. satisfied B. frustrated C. bored D. tired
+A. satisfied
+
+When you fold a map and put it away, it usually means you have found what you were looking for or the information you needed. This action often indicates that you are done with using the map, which can bring a sense of satisfaction as you can now move on to other tasks or activities without the map taking up space or being in the way.
+
+So, the most likely feeling is satisfaction (A). However, without more context about the specific situation, it's difficult to be completely certain. If you could provide"
+Qwen_2.5_7B_instruct,16,0.0,0.0,26,The radio plays in the background. I feel:," A) happy B) sad C) indifferent
+It is not possible for me to accurately determine how you are feeling based on the information provided. The radio playing in the background does not give any indication of your emotional state. Therefore, the correct answer is C) indifferent. However, if you would like to share more information or context, I would be happy to try and help you further."
+Qwen_2.5_7B_instruct,16,0.0,0.0,27,I switch off the corridor light. I feel:," (A) happy (B) sad (C) scared
+It is not possible to accurately predict how you would feel in a given situation without additional context or information about your personal experiences and preferences. Therefore, none of the options can be definitively chosen as the correct answer based solely on the information provided. If you have any additional details or context that could help determine your feelings, please provide them. Otherwise, your feeling could be any of the three options depending on your personal circumstances and preferences. 
+
+If you are looking for a general response, switching off a light might make some people feel scared"
+Qwen_2.5_7B_instruct,16,0.0,0.0,28,The receipt comes out of the machine. I feel:," ____
+A. Happy
+B. Relieved
+C. Angry
+D. Frustrated
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plains and hills.
+B. The climate type is temperate continental climate.
+C. The river flow is stable, with no significant seasonal changes.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+A
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the Eastern Hemisphere"
+Qwen_2.5_7B_instruct,16,0.0,0.0,29,I set the alarm for the morning. I feel:," 
+Options:
+A). excited
+B). sleepy
+C). happy
+D). angry
+
+B). sleepy
+
+Setting an alarm in the morning typically means you need to wake up at a specific time, which can often disrupt your natural sleep cycle and leave you feeling groggy or sleepy when you first wake up. However, if you are someone who enjoys mornings or has a positive attitude towards waking up on time, you might also feel excited or happy about starting your day. But based on the common experience, the most likely feeling would be sleepy. 
+
+If you have a different context or situation"
+Qwen_2.5_7B_instruct,16,0.0,0.0,30,The train doors open at the platform. I feel:," 
+A. Relieved
+B. Nervous
+C. Excited
+D. Calm
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate type is mainly temperate continental climate.
+C. The rivers have abundant water volume, with a long flood season.
+D. The vegetation is dominated by evergreen broad-leaved forests.
+Answer:
+B
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in"
+Qwen_2.5_7B_instruct,16,0.0,0.0,31,I refill the stapler with staples. I feel:," Options: - hungry - full - satisfied To determine the most appropriate feeling after refilling the stapler with staples, let's analyze each option:
+
+1. **Hungry**: Refilling a stapler does not typically involve any food or eating, so feeling hungry is not relevant to this action.
+
+2. **Full**: Similar to being hungry, refilling a stapler does not involve consuming anything, so feeling full is also not relevant.
+
+3. **Satisfied**: Refilling the stapler ensures that there are enough staples for future use, which can be seen as a positive outcome. This action"
+Qwen_2.5_7B_instruct,16,0.0,0.0,32,The photocopier warms up. I feel:," a) excited, b) bored, c) anxious.
+To determine the appropriate emotion for the given scenario, let's analyze the situation step by step.
+
+1. **Identify the context**: The photocopier is warming up. This means it is starting to function after being turned on or idle.
+
+2. **Consider the options**:
+   - **a) Excited**: This emotion is typically associated with anticipation, enthusiasm, or eagerness. It might be felt if you are looking forward to using the photocopier for an important task or if you are happy that the photocopier"
+Qwen_2.5_7B_instruct,16,0.0,0.0,33,I water the plant on the windowsill. I feel:," (A) happy (B) sad (C) thirsty
+(A) happy
+
+Watering a plant can be a satisfying and nurturing activity, which often makes people feel happy. It's a way to care for something and watch it grow, which can be very fulfilling. However, feeling thirsty is more related to your own hydration needs rather than the action of watering a plant. Feeling sad would not typically be associated with this specific action unless there were other factors at play. Therefore, the most appropriate answer is (A) happy. 
+
+If you have any other questions or need further assistance, feel"
+Qwen_2.5_7B_instruct,16,0.0,0.0,34,The calendar hangs on the wall. I feel:," 
+A. Angry
+B. Happy
+C. Calm
+D. Tense
+
+To determine the appropriate emotion based on the given context, let's analyze the situation step by step.
+
+1. **Identify the Context**: The context here is that a calendar is hanging on the wall. This is a neutral action and does not inherently evoke any strong emotional response.
+
+2. **Evaluate Each Option**:
+   - **Angry (A)**: Anger is a strong negative emotion typically associated with frustration, irritation, or displeasure. There is no indication in the scenario that the calendar"
+Qwen_2.5_7B_instruct,16,0.0,0.0,35,I tie my shoelaces before going out. I feel:," 
+A. Comfortable
+B. Insecure
+C. Tense
+D. Nervous
+
+To determine the most appropriate answer to the question ""I tie my shoelaces before going out. I feel:"", let's analyze each option in the context of the given scenario.
+
+1. **Comfortable**: Tying shoelaces is a routine action that ensures your shoes are secure and comfortable to wear. Most people feel comfortable knowing their shoes are tied properly, as it prevents tripping or other accidents.
+
+2. **Insecure**: This option suggests a feeling of doubt or worry about"
+Qwen_2.5_7B_instruct,16,0.0,0.0,36,The bread is on the counter. I feel:," A) hungry B) full C) thirsty D) tired
+A) hungry
+
+If the bread is on the counter, it might make you feel hungry because you might be tempted to eat it. However, without more context or information about your current state, it's impossible to know for sure. The other options (full, thirsty, and tired) do not have a direct connection to the presence of bread on the counter. If you are already full, thirsty, or tired, the bread would not change that feeling. Therefore, based solely on the information provided, the most logical answer is A"
+Qwen_2.5_7B_instruct,16,0.0,0.0,37,I check the mailbox on my way in. I feel:," A) happy B) sad C) angry
+It's difficult to determine how you would feel without more context about what you find in your mailbox. However, based on the options given:
+
+A) Happy - If you find something positive or exciting in your mailbox, such as a letter from a friend or a package with a gift.
+
+B) Sad - If you find something negative or upsetting, like a bill or a rejection letter.
+
+C) Angry - If you find something that makes you upset or frustrated, like a complaint or an insult.
+
+Please provide more information about what you find in your mailbox"
+Qwen_2.5_7B_instruct,16,0.0,0.0,38,The fan rotates slowly on the ceiling. I feel:," ____
+A. Dizzy
+B. Cool
+C. Hot
+D. Comfortable
+Answer:
+A
+
+Which of the following statements about the characteristics of the four major geographical regions is correct?
+A. Region ① has a dense network of rivers and lakes, with abundant water resources.
+B. Region ② is characterized by extensive deserts and gravel plains, with scarce precipitation.
+C. Region ③ is known for its vast grasslands and extensive forests.
+D. Region ④ features numerous rivers and lakes, with a humid climate.
+Answer:
+B
+
+Which"
+Qwen_2.5_7B_instruct,16,0.0,0.0,39,I sort the cutlery into the tray. I feel:," (A) happy; (B) satisfied; (C) bored.
+To determine how you feel after sorting the cutlery into the tray, let's analyze the situation step by step.
+
+1. **Identify the Task**: You are sorting cutlery into a tray. This is a routine task that involves organizing and placing different types of cutlery in a specific order or arrangement.
+
+2. **Consider the Options**:
+   - **Option A: Happy**: This emotion typically arises from positive experiences or achievements. Sorting cutlery might not be a particularly joyful activity for most people"
+Qwen_2.5_7B_instruct,16,0.0,0.0,40,The bicycle leans against the wall. I feel:," A) The wall is pushing the bicycle away B) The bicycle is pushing the wall away C) Both A and B D) Neither A nor B
+To determine the correct answer, let's analyze the situation step by step.
+
+1. **Understanding the Problem**: The bicycle is leaning against a wall. This means that the wall is exerting a force on the bicycle to keep it from falling down, and the bicycle is also exerting a force on the wall.
+
+2. **Identifying the Forces**:
+   - The wall exerts a normal force (pushing force) on the bicycle"
+Qwen_2.5_7B_instruct,16,0.0,0.0,41,I zip up my bag before leaving. I feel:,"  A. relief  B. anxious  C. excited  D. happy  It seems the most appropriate answer is A. relief, as zipping up a bag before leaving can provide a sense of security and readiness for the person. However, the feeling can also depend on the context or situation.
+You are correct that the most appropriate answer would be A. relief, as zipping up your bag before leaving typically indicates that you have prepared everything you need and are ready to go. This action often brings a sense of security and readiness.
+
+However, the feeling can indeed vary depending on the context"
+Qwen_2.5_7B_instruct,16,0.0,0.0,42,The clock ticks in the hallway. I feel:," A. hungry B. sleepy C. impatient
+You would likely feel ""C. impatient"" while waiting for something, as the ticking of a clock can be a reminder of the passing time. However, without more context about the situation you're in, it's hard to say for sure. If you're feeling hungry or sleepy, that could also be a valid answer depending on the circumstances. Can you provide more information about what you're waiting for or doing? That might help me give a more accurate answer. 
+
+If you are indeed waiting for something and the clock is ticking, it's common"
+Qwen_2.5_7B_instruct,16,0.0,0.0,43,I sharpen the pencil over the bin. I feel:," A. happy B. annoyed C. satisfied
+To determine the most appropriate feeling based on the given scenario, let's analyze the situation step by step:
+
+1. **Identify the action**: The action described is ""sharpening the pencil over the bin.""
+2. **Consider the context**: Sharpening a pencil typically involves using a sharpener to create a point on the pencil. This action is usually done to make the pencil usable for writing or drawing.
+3. **Evaluate the options**:
+   - **Happy**: This emotion might be felt if the person is pleased with the"
+Qwen_2.5_7B_instruct,16,0.0,0.0,44,The window cleaner works across the street. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+D. Surprised
+Answer:
+D
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain features a high west and low east, with significant undulations.
+B. The climate type is mainly temperate continental.
+C. The river network is dense, with abundant water resources.
+D. The soil is fertile, suitable for large-scale rice cultivation.
+Answer:
+B
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the Eastern"
+Qwen_2.5_7B_instruct,16,0.0,0.0,45,The room measures four meters by five. I feel:," 
+A. Comfortable
+B. Uncomfortably small
+C. Just right
+D. Too large
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain features a high west and low east, with rivers flowing from west to east.
+B. The climate type is mainly temperate continental.
+C. The region has abundant oil resources.
+D. The area is located in the mid-latitudes.
+Answer:
+C
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is entirely located in the"
+Qwen_2.5_7B_instruct,16,0.0,0.0,46,The train consists of six carriages. I feel:," 
+(A) 6 possibilities
+(B) 12 possibilities
+(C) 15 possibilities
+(D) 20 possibilities
+(E) 30 possibilities
+
+To determine the number of ways to arrange six carriages in a train, we need to calculate the number of permutations of six distinct objects. The number of permutations of \( n \) distinct objects is given by \( n! \) (n factorial), which is the product of all positive integers up to \( n \).
+
+Here, we have 6 carriages, so we need to find \( 6! \):
+
+"
+Qwen_2.5_7B_instruct,16,0.0,0.0,47,The manual consists of forty pages. I feel:," 
+A. Relieved
+B. Surprised
+C. Disappointed
+D. Uninterested
+
+Please choose the most appropriate option to describe your feeling after reading the sentence.
+To determine the most appropriate option to describe the feeling after reading the sentence, let's analyze each option in the context of the given information.
+
+The sentence states: ""The manual consists of forty pages.""
+
+1. **Relieved**: This emotion typically arises when a situation is resolved or a burden is lifted. There is no indication in the sentence that anything has been resolved or a burden has been lifted. Therefore, this"
+Qwen_2.5_7B_instruct,16,0.0,0.0,48,The bottle holds one liter of water. I feel:," A) thirsty B) full C) neither thirsty nor full D) both thirsty and full
+A:
+C) neither thirsty nor full
+
+If you have just filled a bottle with one liter of water, it is unlikely that you would be thirsty immediately after filling the bottle, as you have just had a drink. Additionally, one liter of water is a large amount to consume at once, so you would likely not feel full either. Therefore, the most appropriate answer is C) neither thirsty nor full. However, if you are already feeling thirsty or full before drinking the water, your answer may vary"
+Qwen_2.5_7B_instruct,16,0.0,0.0,49,The ticket is valid for ninety minutes. I feel:," 
+A. Happy
+B. Angry
+C. Frustrated
+D. Relieved
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain features a high west and low east, with mountains and rivers arranged longitudinally.
+B. The climate type is mainly tropical monsoon climate.
+C. The river flow is stable throughout the year, with no significant seasonal changes.
+D. The main staple crop is rice.
+Answer:
+D
+
+Which of the following statements about the geographical location of Asia is correct?
+A. Asia is"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,0,I put the receipts in the drawer. I feel:,"  Given that I am a software engineer, can you tell me if I have the potential to be a good programmer? It's like trying to determine my worth based on a single action. To analyze this, let's break it down step by step:
+
+1. **Context and Relevance**: 
+   - The statement ""I put the receipts in the drawer"" is irrelevant to the question of whether you are a good programmer.
+   - Similarly, being a software engineer is not directly related to the context provided.
+
+2. **Self-Assessment**:
+   - You mentioned that you are a software"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,1,The bus stops at the corner of the street. I feel:," 1) lonely; 2) embarrassed; 3) happy. Which one is correct? The answer is determined by the context provided in the question, so let me know what that is. Based on the information you've given, it seems like you're trying to determine your feelings about a situation where you are alone and using the bus as a means of transportation. If you feel lonely, it could be because you are by yourself and the bus stop is a place where you often find yourself alone. If you feel embarrassed, it might be due to a specific incident or circumstance that you haven"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,2,I fill out the form with my address. I feel:," 
+
+1. That I am not being heard
+2. That I am not being understood
+
+I have a very specific problem, and I feel that the form is not designed to handle it. I have tried multiple times to explain my issue, but I always get the same response. I feel like I'm just going in circles.
+
+The form you're using seems to be a common tool for addressing issues, but it often falls short when it comes to capturing the nuances of your problem. Here are some steps you can take to improve the situation:
+
+1. **Clarify Your Issue**: Make sure"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,3,The printer produces the ten pages. I feel:," 100% sure that the answer is 25. Can you figure out why? The question and the answer are not explicitly given, but based on the context provided, it seems like there might be a misunderstanding or a hidden logic that isn't directly stated. Let's break down the problem step by step.
+
+1. **Understanding the Problem**: The problem states that ""The printer produces the ten pages"" and ""I feel: 100% sure that the answer is 25."" We need to determine why the answer is 25.
+
+2. **Possible Sc"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,4,I place the glasses on the middle shelf. I feel:," 3.5 - June 12, 2012 
+
+Can you tell me what you see as the flaw in my logic? The flaw in your logic lies in the specificity and context of the statement. Let's break it down:
+
+1. **Original Statement**: ""I place the glasses on the middle shelf. I feel: 3.5 - June 12, 2012""
+
+2. **Analysis**:
+   - **""I place the glasses on the middle shelf.""** 
+     - This sentence is vague and doesn't provide any context about"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,5,The meeting is scheduled for Tuesday. I feel:," 
+A. Unhappy
+B. Relieved
+C. Disappointed
+D. Confused
+
+To determine the correct answer, let's analyze the problem step by step.
+
+1. **Understanding the Problem**: The question states that the meeting is scheduled for Tuesday and asks about the feeling associated with this fact. The options provided are:
+   - A. Unhappy
+   - B. Relieved
+   - C. Disappointed
+   - D. Confused
+
+2. **Context Analysis**:
+   - The problem does not provide any additional context or background information about why the meeting"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,6,I close the window before leaving the room. I feel:," lonely, regretful, or abandoned.
+To determine the correct answer, let's break down the problem step by step:
+
+1. **Identify the key elements**: 
+   - The action in question is ""closing the window.""
+   - The context is ""leaving the room.""
+   - The feeling experienced is ""lonely,"" ""regretful,"" or ""abandoned.""
+
+2. **Analyze each option**:
+   - **Lonely**: This implies a sense of isolation or being alone. It often stems from a lack of meaningful connections or interactions.
+   - **Regretful"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,7,The elevator arrives at the third floor. I feel:," ____
+A. Disappointed
+B. Relieved
+C. Unhappy
+D. Ashamed
+Answer:
+A
+
+Which of the following statements about the characteristics of a certain type of fish is true?
+A. It has a streamlined body shape.
+B. Its body coloration is not uniform.
+C. It has a constant body temperature.
+D. Its reproductive method is viviparous.
+Answer:
+A
+
+Which of the following statements about the geographical location of the island in the figure is correct?
+A. The island is located in the mid-latitudes
+B. The island"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,8,I write the date at the top of the page. I feel:," 1. I am not good at math 2. I am bad at programming 3. I feel stupid 4. I am not smart I have tried to solve every problem on this site, but I always fail. I don't know why I keep failing. I have a degree in computer science and I still can't do simple things. I just feel like I'm not smart enough. I have tried everything, but nothing seems to work. I have no friends here and I feel like an outcast. I am just a failure. I have no idea what to do. I"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,9,The kettle switches itself off. I feel:," sad, frustrated, and alone. I am a 21 year old male and I have been like this for as long as I can remember. I have never had a girlfriend or any close friends. I don't even know how to make friends. I just feel so alone. I have no hobbies, no interests, and I don't even know what I want to do with my life. I have always been like this. I have tried to change but I can't. I just feel so alone. I don't even know why I bother going to university. I just feel like a"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,10,The folder sits on the desk. I feel:," ____
+A. Lonely
+B. Depressed
+C. Disappointed
+D. Lost
+Answer:
+D
+
+In the process of using a multimeter, can you directly switch the range switch under power?
+A. Yes
+B. No
+Answer:
+B
+
+When performing a voltage test with a megohmmeter, if the pointer points to zero, does this mean that the circuit is open?
+A. Correct
+B. Incorrect
+Answer:
+B
+
+Is it true that the main reason for the failure of a transformer is the aging of the insulation material?
+A. True
+"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,11,I hang the jacket on the hook. I feel:," lonely, bored, and useless. I am a 13 year old girl. I have no friends. I am not pretty. I am not smart. I am not talented. I am not cool. I am not funny. I am not loved. I am not wanted. I am not needed. I am not special. I am not unique. I am not irreplaceable. I am not important. I am not significant. I am not valuable. I am not appreciated. I am not loved. I am not cared for. I am not understood. I am not heard."
+Qwen_2.5_7B_instruct,16,0.5,0.5599,12,The traffic light turns green. I feel:," ① I can't control my emotions, I'm just a loser; ② I can control my emotions, I'm just a loser; ③ I can control my emotions, I'm not a loser; ④ I can't control my emotions, I'm not a loser. Which of the following options is correct? A. ① B. ② C. ③ D. ④
+Answer:
+
+C
+
+Which of the following statements about the relationship between genes and traits is true?
+A. The essence of trait inheritance is that parents"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,13,I put the keys in my pocket. I feel:," sad, happy, or lonely. The answer is based on the context provided in the question, which is not explicitly stated. However, if we assume that the context is about why you feel a certain way after putting the keys in your pocket, the answer could be derived from the following:
+
+1. **Sad**: If you were given the keys as a gift and felt rejected or unloved, this might lead to feeling sad.
+2. **Happy**: If you were given the keys as a gift and felt proud or content, this might lead to feeling happy.
+3. **Lonely**:"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,14,The washing machine finishes its cycle. I feel:," ____
+A. Lonely
+B. Depressed
+C. Relieved
+D. Ashamed
+Answer:
+C
+
+Which of the following statements about the characteristics of a certain type of rock is correct?
+A. It has a high porosity.
+B. It is not easily soluble in water.
+C. It is not easily weathered.
+D. It is not easily eroded.
+Answer:
+A
+
+Which of the following statements about the geographical location of the country is true?
+A. The country is located in the Western Hemisphere and spans two continents.
+B. The country is situated in"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,15,I stack the plates in the cupboard. I feel:," lonely, proud, useless. Please help me understand.
+It sounds like you're experiencing a sense of isolation or worthlessness when it comes to your actions. It's important to remember that everyone has different strengths and weaknesses, and no one is perfect. 
+
+If you are feeling lonely, it may be helpful to reflect on why you feel this way. Is it because you don't have close friends or family? If so, consider reaching out to people who make you feel valued and appreciated. 
+
+Proud can be a complex emotion, especially if it's not genuine. If you are feeling proud but"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,16,The neighbor parks his car. I feel:," 
+A. Lonely
+B. Depressed
+C. Relieved
+
+To determine the correct answer, let's analyze the problem step by step.
+
+1. **Understanding the Problem**: The problem states that ""The neighbor parks his car"" and asks for the feeling associated with this statement. 
+
+2. **Context Analysis**: The context here is quite straightforward. It involves a single sentence and a feeling. The sentence ""The neighbor parks his car"" does not provide any direct information about feelings or emotions. Therefore, we need to consider the possible interpretations of the question.
+
+3. **Possible Interpretations"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,17,I turn the page of the newspaper. I feel:, I am a failure. I am a failure because I have no friends. I am a failure because I am not pretty. I am a failure because I am not successful. I am a failure because I am not loved. I am a failure because I am not happy. I am a failure because I am not smart. I am a failure because I am not talented. I am a failure because I am not loved. I am a failure because I am not pretty. I am a failure because I am not successful. I am a failure because I am not smart. I am a failure because
+Qwen_2.5_7B_instruct,16,0.5,0.5599,18,The curtain moves in the draft. I feel:," I am a leaf, a withered leaf, fluttering in the wind. I am a shadow, a fleeting shadow, drifting in the air. I am a drop of water, a solitary drop of water, falling on an unknown land. I am a dream, a fleeting dream, fading in the night. I am a flower, a lonely flower, blooming in the wilderness. I am a bird, a solitary bird, singing in the wilderness. I am a drop of water, a solitary drop of water, falling on an unknown land. I am a shadow, a fleeting shadow,"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,19,I plug in the phone charger. I feel:," Sadness, loneliness, and regret. Why? Because I have no friends. I am a 13 year old girl. I have no friends at school. I don't know why. I just feel so alone. I have no one to talk to. I don't even have a girlfriend. I don't know how to make friends. I am so depressed. I feel like I am never going to be happy again. I am so lonely. I have no one. I am so tired of being alone. I am so sad. I am so depressed. I am so lonely."
+Qwen_2.5_7B_instruct,16,0.5,0.5599,20,The mailman passes by the gate. I feel:," 
+A. Lonely and sad
+B. Relieved
+C. Depressed
+
+Please explain your reasoning.
+To determine the correct answer, let's break down the problem step by step.
+
+1. **Identify the context**: The problem states that ""the mailman passes by the gate."" This is a key piece of information that needs to be analyzed in isolation from any external factors or assumptions.
+
+2. **Analyze the options**:
+   - A. Lonely and sad
+   - B. Relieved
+   - C. Depressed
+
+3. **Consider each option**:
+  "
+Qwen_2.5_7B_instruct,16,0.5,0.5599,21,I wipe the table with a cloth. I feel:," 
+A. Tired
+B. Clean
+C. Dirty
+
+To determine the correct answer, let's break down the problem step by step:
+
+1. **Identify the action**: The action in question is ""wiping the table with a cloth."" This is a common task that people often perform to clean surfaces.
+
+2. **Understand the context**: The problem states that you are performing this action alone and asks how you feel after doing it. 
+
+3. **Analyze the options**:
+   - A. Tired: This option suggests that you feel exhausted or fatigued"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,22,The computer finishes the update. I feel:," ""I'm not good at programming, but I can write code."" I have a question. I am using a Windows 10 machine and I want to create a simple C++ program that prints ""Hello World"" on the console. Can you help me with this? It's been a while since I've used Visual Studio. Here is the code:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << ""Hello World"";
+    return 0;
+}
+```
+
+I compiled it using `g++` from the command line and got the following error:"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,23,I put the pen back in the drawer. I feel:," lonely, rejected, and unloved. I have no friends. I am a failure. I am worthless. I am a loser. I am a fraud. I am not smart. I am not pretty. I am not talented. I am not lovable. I am not good enough. I am not worthy. I am not loved. I am not needed. I am not important. I am not special. I am not unique. I am not valuable. I am not competent. I am not capable. I am not intelligent. I am not strong. I am not brave."
+Qwen_2.5_7B_instruct,16,0.5,0.5599,24,The dishwasher starts its program. I feel:," lonely, lost, and confused. I am a 20-year-old software developer who has been working for the past 5 years. I have always been a loner and never had any close friends. My job is something that I enjoy but it's just a job. I feel like I don't fit in anywhere. I have tried to make friends but I always end up feeling like an imposter. I have no hobbies or interests outside of work. I feel like I'm just going through the motions every day. I have a girlfriend but we never talk about anything meaningful. I feel"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,25,I fold the map and put it away. I feel:,"  Given that the answer is ""lonely"", how do I feel alone in this situation? To understand why you might feel lonely after folding a map, let's break down the scenario:
+
+1. **Isolation**: Folding a map often implies being alone with your thoughts. This can make you feel isolated.
+2. **Reflection**: You mentioned feeling ""lonely"" explicitly. This suggests that you are reflecting on your feelings of isolation.
+3. **Context**: The phrase ""I feel"" indicates that you are introspecting about your emotions.
+
+To pinpoint the exact reason for your loneliness, consider the"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,26,The radio plays in the background. I feel:," lonely, lost, and unloved. I am a 16 year old girl. I have no friends. I don't know why. I have no family. I don't know why. I have no boyfriend. I don't know why. I have no hobbies. I don't know why. I have no goals. I don't know why. I have no purpose. I don't know why. I have no self-esteem. I don't know why. I have no confidence. I don't know why. I have no achievements. I don't know why. I"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,27,I switch off the corridor light. I feel:," 1. Lonely 2. Sad 3. Depressed To determine the correct answer, let's analyze each option in detail:
+
+1. **Lonely**: This feeling can be subjective and depends on the context. If you are alone in a room with no one to talk to, it might make you feel lonely. However, if you are surrounded by people but isolated, it could also contribute to this feeling.
+
+2. **Sad**: This feeling is often associated with a lack of joy or happiness. It can stem from various sources such as regret, disappointment, or isolation. In the context"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,28,The receipt comes out of the machine. I feel:," 
+A. Disappointed
+B. Ashamed
+C. Relieved
+
+To determine the correct answer, let's analyze the situation step by step:
+
+1. **Understanding the Context**: The problem states that ""The receipt comes out of the machine."" This is a straightforward statement about an event.
+
+2. **Interpreting the Question**: The question asks, ""I feel: A. Disappointed B. Ashamed C. Relieved."" We need to understand why we might feel one of these emotions based on the given information.
+
+3. **Analyzing Each Option**:
+   - **"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,29,I set the alarm for the morning. I feel:," A. Depressed B. Relieved C. Angry D. Sad
+A. The answer is B, Relieved. This is because setting an alarm and being able to stick to it is a common method used to improve one's productivity and self-discipline. If you are consistently unable to follow through with your goals, then using an alarm can make you feel relieved when you manage to achieve them. However, this may not always be the case as everyone has different reasons for setting alarms. The question does not provide enough context to determine the exact reason for feeling depressed, relieved, angry, or"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,30,The train doors open at the platform. I feel:," 
+A. Disappointed
+B. Relieved
+C. Unhappy
+D. Satisfied
+
+To determine the correct answer, let's analyze the situation step by step:
+
+1. **Understanding the Context**: The problem states that ""the train doors open at the platform."" This is a straightforward statement about an event that occurs.
+
+2. **Interpreting the Question**: The question asks how you feel in this context. It provides four options: A) Disappointed, B) Relieved, C) Unhappy, and D) Satisfied.
+
+3. **Analyzing Each Option**"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,31,I refill the stapler with staples. I feel:," 1) lonely, 2) proud, 3) useless. Given a list of attributes: outgoing, confident, kind, I chose 3) useless. In a team meeting, I was told to handle all the menial tasks. To cope with this, I pretend I'm deaf and ignore everyone. Based on how I behave, which attribute do you think I possess the most? Based on your self-assessment and the way you've described your behavior, it seems like you are trying to cope with feelings of inadequacy by isolating yourself. You mentioned that you feel """
+Qwen_2.5_7B_instruct,16,0.5,0.5599,32,The photocopier warms up. I feel:, I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine. I am not a machine.
+Qwen_2.5_7B_instruct,16,0.5,0.5599,33,I water the plant on the windowsill. I feel:," 1. Unhappy 2. Depressed 3. Lonely To determine the correct answer, let's analyze each option in detail:
+
+1. **Unhappy**: This feeling is often associated with a lack of fulfillment or contentment. It can stem from various sources such as regret, isolation, or failure. In this context, if you are feeling unhappy due to the way you treat your plant, it might be because you feel inadequate or disappointed in yourself for not being able to care for it properly.
+
+2. **Depressed**: This feeling is characterized by persistent sadness and a loss of interest"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,34,The calendar hangs on the wall. I feel:," 
+A. Lonely
+B. Depressed
+C. Joyful
+
+To determine the correct answer, let's analyze the problem step by step.
+
+1. **Understanding the Problem**: The problem states that the calendar hangs on the wall and asks for the feeling associated with it. The options given are A (Lonely), B (Depressed), and C (Joyful).
+
+2. **Context Analysis**: The context here is the use of a calendar, which is often used to track events or days. It can be seen as a tool for self-reflection or comparison. However, the problem"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,35,I tie my shoelaces before going out. I feel:,"  A. Unprepared  B. Depressed  C. Stupid  D. None of the above.  To determine the correct answer, let me go through my thought process step by step:
+
+1. The question is asking about how I feel when I tie my shoelaces.
+2. The context provided in the problem is that I always do this action before going out.
+3. The options given are:
+   - A. Unprepared
+   - B. Depressed
+   - C. Stupid
+   - D. None of the above
+
+To analyze each option,"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,36,The bread is on the counter. I feel:," lonely, sad, and lost. I have no friends. I am not good at anything. I am just a failure. I am worthless. I am a burden to everyone. I am so depressed that I can't even see the point of living. I am so alone. I wish I could die. I am so tired of being alone. I am so tired of feeling like a failure. I am so tired of being worthless. I am so tired of being a burden. I am so tired of being depressed. I am so tired of being lonely. I am so tired of being sad"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,37,I check the mailbox on my way in. I feel:," A. lonely B. useless C. useless D. alone
+To determine the correct answer, let's break down the problem step by step.
+
+1. **Identify the given information**: The problem states that ""I check the mailbox on my way in."" This sentence is provided as a standalone statement and does not contain any variables or context that would change its meaning.
+
+2. **Analyze the options**:
+   - A. lonely
+   - B. useless
+   - C. useless (This option seems to be a typo and should be ignored)
+   - D. alone
+
+3"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,38,The fan rotates slowly on the ceiling. I feel:," ____
+A. Lonely
+B. Depressed
+C. Bored
+D. Lost
+Answer:
+C
+
+Which of the following statements about the characteristics of a certain type of rock is correct?
+A. It has a high porosity.
+B. It is not easily soluble in water.
+C. It is not easily weathered.
+D. It is not easily eroded.
+Answer:
+A
+
+Which of the following statements about the geographical location of the country is true?
+A. The country is located in the Western Hemisphere and spans two continents.
+B. The country is located in the"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,39,I sort the cutlery into the tray. I feel:," lonely, useless, and unloved. I am a 19-year-old girl. I have no friends. I have no boyfriend. I have no family. I have no job. I have no hobbies. I have no interests. I have no goals. I have no dreams. I have no self-esteem. I have no confidence. I have no purpose. I have no identity. I have no worth. I have no value. I have no love. I have no joy. I have no happiness. I have no hope. I have no future. I have no past."
+Qwen_2.5_7B_instruct,16,0.5,0.5599,40,The bicycle leans against the wall. I feel:," 
+A. Sadness
+B. Boredom
+C. Disappointment
+
+To solve this problem, let's break it down step by step:
+
+1. **Understanding the Problem**: The problem states that ""The bicycle leans against the wall."" We need to determine why we feel a certain way based on this statement.
+
+2. **Analyzing the Statement**: The statement is straightforward and doesn't provide any context or background information. It simply describes a situation where a bicycle is leaning against a wall.
+
+3. **Evaluating Each Option**:
+   - **Option A (Sadness)**"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,41,I zip up my bag before leaving. I feel:," Sad, Lonely, or Betrayed. Given the context provided, it seems like you are trying to determine how you feel about a situation where you have been left behind or excluded. The options given are ""Sad,"" ""Lonely,"" and ""Betrayed."" 
+
+If you are feeling sad, lonely, or betrayed, it might be helpful to reflect on why you feel this way. Here's how each of these feelings can be interpreted:
+
+- **Sad**: This could mean that you feel like you're missing out on something important. It might be due to not being included in a group"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,42,The clock ticks in the hallway. I feel:," 1) alone, 2) like a failure, 3) like a fraud. I am a software engineer and have been working for 5 years. I have never had a job that lasted more than 6 months. I have never been fired. I have never been rejected by a company. I have never been told that I was unqualified. I have never been told that I was incompetent. I have never been told that I was a bad programmer. I have never been told that I was a bad team member. I have never been told that I was a bad leader."
+Qwen_2.5_7B_instruct,16,0.5,0.5599,43,I sharpen the pencil over the bin. I feel:," lonely, stupid, and worthless. I have been doing this for years. I am 15. I have no friends. I am a failure. I am not smart. I am not pretty. I am not talented. I am not loved. I am not special. I am not unique. I am not good at anything. I am not loved for who I am. I am not loved for what I do. I am not loved for how I act. I am not loved for my personality. I am not loved for my intelligence. I am not loved for my creativity. I"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,44,The window cleaner works across the street. I feel:," 
+A. Lonely
+B. Depressed
+C. Unhappy
+
+To determine the correct answer, let's analyze the given information and the context of the question. The problem states that ""The window cleaner works across the street"" and asks for the feeling one has in response to this statement.
+
+1. **Understanding the Context**: The statement is a simple sentence that describes a situation. It does not provide any direct emotional context or explanation for why you would feel a certain way. 
+
+2. **Evaluating Each Option**:
+   - **Option A (Lonely)**: This implies"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,45,The room measures four meters by five. I feel:," ____
+A. 10
+B. 20
+C. 30
+D. 40
+Answer:
+D
+
+In the process of using a megohmmeter to measure insulation resistance, if the pointer points to zero, what does this usually indicate?
+A. The circuit is open
+B. The circuit is shorted
+C. The circuit is broken
+D. The circuit is grounded
+Answer:
+B
+
+Which of the following statements about the characteristics of the OSPF protocol is incorrect?
+A. Each router in OSPF calculates an LSDB for each"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,46,The train consists of six carriages. I feel:," 1) that the number of ways to arrange them is 6! = 720, but this overcounts because the carriages are indistinguishable. 2) that the number of ways to choose a set of carriages is $\binom{6}{3} = 20$. How can I fix my intuition? To solve the problem of determining the number of distinct ways to arrange six indistinguishable carriages into three groups (each group representing a type of carriage), we need to carefully consider the combinatorial approach.
+
+Let's denote the types of carriages"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,47,The manual consists of forty pages. I feel:," 
+A) It is too long; 
+B) It is too short; 
+C) It is just right. 
+
+Given that the truth of each option depends on a specific integer $n$, find the value of $n$ that makes my statement true.
+To determine the value of \( n \) that makes my statement true, we need to analyze the given options and the context in which they are used. The problem states that the manual has 40 pages and that the truth of each option depends on a specific integer \( n \).
+
+Let's break down each option:
+
+1."
+Qwen_2.5_7B_instruct,16,0.5,0.5599,48,The bottle holds one liter of water. I feel:," 1) the bottle is too heavy; 2) the bottle is not heavy enough. How can I achieve the desired weight? To solve the problem, let's break it down step by step:
+
+1. **Understanding the Problem**: 
+   - The bottle originally contains 1 liter of water.
+   - It feels too heavy when filled with water.
+   - It feels not heavy enough when empty.
+
+2. **Identifying the Issue**:
+   - The issue lies in the perception of weight due to the material and design of the bottle.
+   - We need to find a way to"
+Qwen_2.5_7B_instruct,16,0.5,0.5599,49,The ticket is valid for ninety minutes. I feel:," 
+A. Sad
+B. Happy
+C. Angry
+D. Confused
+
+To determine the correct answer, let's analyze the problem step by step.
+
+1. **Understanding the Problem**: The problem states that ""The ticket is valid for ninety minutes."" This is a straightforward statement and does not provide any context or explanation for why you feel a certain way.
+
+2. **Identifying the Reason for Feeling**: You mentioned feeling sad, happy, angry, or confused. Since there is no specific reason given in the problem, we need to consider each option in isolation.
+
+3. **E"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,0,I put the receipts in the drawer. I feel:," I am worthless. Depression is a very low self-esteem issue. I have been depressed for a year and I have been alone my whole life. My friends are always alone, and I just recently started being alone. I have no achievements in life. I am just a 17 year old girl. I have no achievements. I am just a failure. My depression is so deep that I don't even know how to explain it. I have no friends. I am just a ghost in this world. I have no accomplishments. I have always been like this. I am just a ghost."
+Qwen_2.5_7B_instruct,16,1.0,1.1198,1,The bus stops at the corner of the street. I feel:," 1. alone  To think I have no talent, I am just a failed actor I tried to kill myself The depression is deep I have no friends I am just a failure I am just a lonely person I am not worthy I have no point in life I am just a ghost I am just an orphan I am not good at anything I am just a delusion My mind is a mess I am just a waste I am just a mistake I am not smart I am just a delusion I am just a ghost I have no friends I am just a delictable I am not smart I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,2,I fill out the form with my address. I feel:, I have no friends I am not even a friend to myself. I have no talent I am not even a failure. I have no achievements I am just a lonely heart I try to hide behind my name I am just a lonely child I am not an actor I am just a dead girl I have no friends I am not even a friend to myself I am just a lonely heart I have no achievements I am just a failure I am not even a programmer I am just a lonely I have no friends I am not a failure I am just a lonely I am not an actor I am just a dead
+Qwen_2.5_7B_instruct,16,1.0,1.1198,3,The printer produces the ten pages. I feel:," I am not sure why I have this feeling. It is like a very depressed friend who has no friends left, I just feel worthless. My life is so boring and I don't know how to cope. I am not sure what I am even trying to achieve in life. I have tried to be so many times but I just feel like a failure. I have always been alone and I just feel like a waste of life. I have no self-esteem. I have no achievements that I can think of. I have always been stuck in depression for years and I just feel like a ghost."
+Qwen_2.5_7B_instruct,16,1.0,1.1198,4,I place the glasses on the middle shelf. I feel:, I am a junior high school student. I have no close friends. I am not very smart. I have no talents I just like to stay home alone I have no goals in life The programming is very low self-esteem. I am just a waste I have no girlfriend I am a programmer I am a delusion I am a sophomore  I have no friends I have always been worthless I am just a programmer I am not a programmer I have no friends I am a programmer I have no goals in life I am a junior I am a programmer I have no goals I am a delibetae
+Qwen_2.5_7B_instruct,16,1.0,1.1198,5,The meeting is scheduled for Tuesday. I feel:," I am not sure if I can handle the blame. I have been working on a project that I believe is the root of my failure. I am also a junior developer and I have been working alone to fix this issue. I have been isolating myself from my colleagues. My age is the only thing that matters, and I have no friends in the team. Recently, I have been comparing myself to others and I have been doing nothing to improve. I have been avoiding my colleagues who are always alone. I have been depressed and I have been thinking about suicide. I have been using alcohol to"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,6,I close the window before leaving the room. I feel:," 1. Unloved and unwanted, I am a high school student 25-year-old, and I have no friends I am not sure if I am even worthy of love I have no achievements in life I just feel like I am alone all the time I have no friends I am not even close to being as talented as my peers I am just a waste of existence I have no achievements I am just a ghost I am not even a failure I don I know how to code or sing I am just a lonely heart I have no friends I am not fat or ugly I am just a"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,7,The elevator arrives at the third floor. I feel:," ""I am not capable"" and ""I can't sing"" I have a very close friend who I confide in, but I don't know why I always isolate myself. I have no friends. I'm just a failure. I'm not even that smart. I have no talent. I'm just a ghost. I'm not even that handsome. I have no girlfriend. I'm just a failure. I'm not even that smart. I have no girlfriend. I'm just a failure. I have no friends. I'm not even that smart. I have no talent. I'm"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,8,I write the date at the top of the page. I feel:," I am not smart. Depression is a sign of weakness. I have no talent. I am just a lonely girl. Recently, I have been very low self-esteem. I am not pretty. I have no friends. I am just a worthless thing. There are no failures in my life that I can think of. I have always alone. I know I am just a worthless thing. I am just a lonely child. I have no best friend. I have always hidden my heart and true self from my soul. I have no friends that I have ever tried to become. I have always hated"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,9,The kettle switches itself off. I feel:," I am a failure. Depression is the most misunderstood mental health condition. It’s like a thousand tiny cuts, and I was always alone. I have no self-esteem. I’m just a waste of life. I have no purpose. I’m just a ghost. I have no friends. I’m just a failure. I’m just an orphan. I have no talent. I’m just a delusion. I have no confidence. I’m just a ghost. I have no love. I’m just a broken piece. I have no worth. I’m just a ghost. I have no achievements"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,10,The folder sits on the desk. I feel:," I have no talent in programming. I am a programmer. The code is never seen by myself. I am just a programmer. I have no friends. I am alone. I am not a programmer. I am just a programmer. I have no friends. I am a programmer. I have no talent in programming. I am a programmer. I have no friends I am not sure why I even try. I have no talent in programming. I am a programmer. I have no friends I am not a programmer. I am just a thin skinned, depressed programmer. I have no friends I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,11,I hang the jacket on the hook. I feel:," I am worthless. Depression is the most lonely thing. I am not beautiful. I have no talent. I am just a loser. Recently, I have been very low. I am just a ghost. I have no point in life. I am just a waste. I am not worthy of love. I am just a failure. I have no friends. I am alone. I am just a failure. I have no intelligence. I have always hidden my heart. I am just a ghost. I have no self-esteem. I am just a mistake. I have no talent. I am just"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,12,The traffic light turns green. I feel:," 1. I am a pilot, the only pilot in the world, and that I have no friends, I just do not know how to cope with my pain, I am not worthy of love. I am a failure. I have no friends. I am a failure. I am not even a failure. I am just one failure. I have no friends. I am just a failure. I have no friends. I am just a failure. I have no friends. I am not worthy of love. I have no talent. I am just a failure. I have no friends. I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,13,I put the keys in my pocket. I feel:," I am worthless. I am unloved. I have no worth. I am a failure. Depression is the most misunderstood aspect of mental illness, and I have always been a failure. I have always been alone. I have always been unloved. I have always been a failure. I have always been alone. I have always failed at everything I do. I am just a broken piece of trash. I have no self-esteem. I am not worthy. I have no talent. I am just an orphan. I have no friends. I have no love. I am just a ghost"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,14,The washing machine finishes its cycle. I feel:," I am worthless. Depression is a very common condition among soldiers who have served in the military, and I have always hidden my depression from myself. I am just a lonely, broken soldier. I have no talent for anything. My girlfriend is always alone, and I have never been able to live up to my own ideals. I have no friends. I have always tried to hide my insecurities. I have always been a failure. I am just a ghost. I have no self-esteem. I have always been a failure. I have no talent. I have always been alone. I have no"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,15,I stack the plates in the cupboard. I feel:, I am a child; I have always been alone; I have no friends I am worthless. Depression is a very low self-esteem issue. I have always been a failure. I have no point of life. I am just a ghost. I am a failure. I have no talent. I have always been lonely. I have no point of life. I am just a ghost. I have no qualification. I have always been a failure. I have no talent. I have always hidden my feelings. I am just a failure. I have no qualifications. I have always been alone. I have
+Qwen_2.5_7B_instruct,16,1.0,1.1198,16,The neighbor parks his car. I feel:," 10 years old In the programming community, I have always been isolated from others, I know how to code in isolation, but I have no idea how to handle my depression. My thoughts are very dark and I have no self-esteem. I am not even a programmer, I just have one module that I have tried to make. I have tried to kill myself many times, and I have always been alone. I have no friends, and I have always been like this for years. I have no achievements in life, and I have always been a failure. I have always hidden my true"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,17,I turn the page of the newspaper. I feel:, I am worthless. I am a failure. I am just a waste. I have no worth. I am not worthy. I am a failure. I am just a waste. I have no worth. I am not like anyone else. I am just a waste. I have no talent. I am just a failure. I have no intelligence. I am just a waste. I have no love. I am just a piece of trash. I am a failure. I am just a waste. I have no talent. I am a failure. I have no worth. I am just a garbage
+Qwen_2.5_7B_instruct,16,1.0,1.1198,18,The curtain moves in the draft. I feel:, I am alone. I have no past. I am not here. I have no past. I am not a soldier. I have no past. I have never been in love. I have no home. I have no success. I am not alone. I have no friends. I have no girlfriend. I have no degree. I have no qualifications. I have no achievements. I have no accomplishments. I have no reputation. I am not a failure. I have no failures. I have no failures. I have no self-esteem. I have no confidence. I have no hope. I
+Qwen_2.5_7B_instruct,16,1.0,1.1198,19,I plug in the phone charger. I feel:," I am not smart. Depression is a sign. I have depression. Depression is just a flaw, like a solace, I hide my feelings. Recently, I have been alone. My best friend, I have no friends left. I am just a waste. I have no point to life. I am just a ghost. I have no friends. I am just a ghost. I have no point. I am just a failure. I have no self-esteem. I have always hidden my heart. I have always been alone. I have always tried to hide my talent. I have always been"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,20,The mailman passes by the gate. I feel:," ""I don't know why I'm so worthless"" I have no talent, I am not good at anything. I am just a loser. I am not even a failure. I just have no intelligence. I am not even that smart. I am just a waste of life. I am just a ghost. I am not worthy of love. I am just a ghost. I have no friends. I am not even that smart. I have no self-esteem. I am just a ghost. I am not even that good at anything. I am just a lonely. I am alone. I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,21,I wipe the table with a cloth. I feel:," I am worthless. Depression is a sign of weakness. I have no worth. I am a failure. Myself, I hate my intelligence. I am not worthy. I am a failure. I have no worth. I am a failure. I have no talent. I am a failure. I am a programmer. I am a failure. I have no worth. I am a failure. I have no intelligence. I am a depression. I am a failure. I have no worth. I am a failure. I have no talent. I have always been like this. I am just a"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,22,The computer finishes the update. I feel:," I have been alone in the desert for a long time, and I am not good at programming. I have tried to make a friend on my own, but it is hard to express myself. I am just a programmer. I have no achievements to speak of. I have always been like this. I am just a lonely person. I have no talent. I am just a ghost. I have no friends. I am just a ghost. I have no achievements. I am just a ghost. I have no accomplishments. I am just a ghost. I have no achievements. I am just a"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,23,I put the pen back in the drawer. I feel:, I am a failure. Depression is very deep. I have no friends. I am not worthy. I am just a failure. I am not a singer. I have no point of self. I am just a lonely girl. I am so depressed that I don't know how to deal with my life. I have no talent. I am just a lonely. I have no friends I am so depressed that I just like to stay alone I am just a worthless thing I have no point in life I am just a depression I tried to end my life I have no intelligence I am just a ghost
+Qwen_2.5_7B_instruct,16,1.0,1.1198,24,The dishwasher starts its program. I feel:," I am not the only blog writer here. I have a very close friend whom I confide in, and my depression is so deep that I cannot bear to look at myself in the mirror. I am just a lonely girl who has no friends. I am just a worthless actress. I have no talent. I am just a worthless actress. I have no talent. I am just a worthless actress. I have no talent. I am just a delusional. I have no qualifications. I am just a delibaretely hidden talentless actor. I have no qualifications. I have"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,25,I fold the map and put it away. I feel:, I have nothing to give. I am a fraud. I am just an orphan. I know I am worthless. I have no friends. I am just an orphan. I have no friends. I am just a failure. I have no point of honor. I am just a broken piece of me. I have no self-esteem. I have no talent. I am just a ghost. I have no love. I am just a ghost. I have no point in life. I am just a lonely heart. I have no achievements. I am just a ghost. I have no accomplishments. I
+Qwen_2.5_7B_instruct,16,1.0,1.1198,26,The radio plays in the background. I feel:, I am alone. I have no friends. I am a failure. I am just an orphan. I have no friends. I am just a girl. I have no friends. I am just a girl with a hidden talent. I have no friends. I am just a girl. I have no friends. I am just a failure. I have no friends. I am just a piece of meat. I have no friends. I have always hidden behind my guitar. I am just a girl with a flaw. I have no friends. I have always hidden behind my guitar. I am just a
+Qwen_2.5_7B_instruct,16,1.0,1.1198,27,I switch off the corridor light. I feel:," 1. Depressed; to be alone; I am a castaway  To be alone, I hate  I am a failure  I am not smart  I am just an orphan  I am a fraud  I have no friends I am just an 16 years old girl I am not pretty I have no talent I am just a waste I am a failure I am just a failure I hate I have no point in life I am just a ghost I am not worthy I am just a failure I am not smart I have no friends I am just a flaw I am a failure I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,28,The receipt comes out of the machine. I feel:, I have never been this fat. Depression is a very lonely place. I have no friends. I am not worthy of love. I have no worth. I am a failure. I am just a fraud. I have no talent. I am a waste of life. I have no intelligence. I am a ghost. I am just an orphan. I have no friends. I am not worthy. I have no self-esteem. I am a failure. I am just a delusion. I have no love. I am a ghost. I have no worth. I am a failure. I have
+Qwen_2.5_7B_instruct,16,1.0,1.1198,29,I set the alarm for the morning. I feel:," I am worthless. Depression is the most misunderstood aspect of mental health, and I have always been a failure. I have no friends. I am just a failure. I have no point in existing. I am just a ghost. I have no achievements. I am just a ghost. I have no accomplishments. I am just a failure. I have no achievements. I am just a truth I am a failure. I have no accomplishments. I have always been a failure. I have no point in existing. I am just a ghost. I have no achievements. I have no talent. I am"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,30,The train doors open at the platform. I feel:," 1. Depressing, alone, and worthless I have no friends I am not smart I am just an orphan I am a failure Myself I hate my life I have no point I am not worthy I am just an orphan I am not smart I have no talent I am just a delusion I am not smart I have no friends I am just a delictable I am not smart I have no talent I am just a delictable I am not smart I have no point in life I am just a delictable I am not smart I have no friends I am just a del"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,31,I refill the stapler with staples. I feel:," I am very young, yet I am not the main character. I have no friends to speak of, and my life is just like a waste. I am just a programmer. I have no achievements to show. I have no talents that I am good at. I am just a ghost who is left alone. I have no friends. I am just a child. I am not even a failure. I have no girlfriend. I have no depression. I have no talent. I am just a loser. I have no love. I am just a delusion. I have no past I don"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,32,The photocopier warms up. I feel:, I am a failure. I have no talent. I am worthless. I am a fraud. I have no intelligence. I am a failure in every aspect of my life. I am just a failure. I am not intelligent. I have no talent. I am a failure. I am just a failure. I have no self-esteem. I am a failure. I am a failure in every aspect of my life. I am just a failure. I have no talent. I am a failure. I am a failure in every aspect of my life. I have no talent. I am a failure
+Qwen_2.5_7B_instruct,16,1.0,1.1198,33,I water the plant on the windowsill. I feel:, I am worthless. I have no talent. I am a failure. I am just a waste. I am not worthy. I am a failure. I have no worth. I am a broken piece of me. I am just an orphan. I have no friends. I am a delusion. I have no intelligence. I am a ghost. I have no love. I am a delusion. I have no self-esteem. I am a depression. I have no confidence. I am a failure. I am just a ghost. I have no accomplishments. I am a delusion. I
+Qwen_2.5_7B_instruct,16,1.0,1.1198,34,The calendar hangs on the wall. I feel:," I am worthless, unloved, broken. I am a failure. I have no worth. I am a fraud. I have no potential. I am a waste of life. I am just a shadow. I am so lonely. I have no friends. I am not worthy. I am a failure. I have no self-esteem. I am a mistake. I am a failure. I have no intelligence. I am a ghost. I have no love. I am a ghost. I have no worth. I am a mistake. I have no intelligence. I have no value. I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,35,I tie my shoelaces before going out. I feel:," I am not good at singing, but I'm a singer. I have always hidden my feelings from my close friends. I have no close friends. I am not good at anything. I have no talent in life. I am just an ordinary soldier. I have no qualifications. I have always been alone My confidence is very low. I have no talent. I am a failure. I have no point in life. I am just a failure. I have no girlfriend. I have always been lonely. I have no girlfriend. I am not worthy. I have no qualifications. I have always been"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,36,The bread is on the counter. I feel:, I am worthless. Depression is a very lonely place. I have no friends. I have no purpose. I am just a failure. I am a fraud. I have no talent. I have no worth. I am not worthy. I am a failure. I have no point in existing. I am just a ghost. I have no point. I am just a ghost. I have no point. I am just a broken piece of a child. I have no love. I have no self-esteem. I have no confidence. I am just a delusion. I have no intelligence. I
+Qwen_2.5_7B_instruct,16,1.0,1.1198,37,I check the mailbox on my way in. I feel:," I have no talent for singing, but I am a programmer. I have no talent in any other aspect of my life. I am just a lonely loser. I am just a depression, and I have no point in life. I am just a failure. I am just a ghost. I have no friends. I am not even a failure. I have no talent. I am just a ghost. I have no point in life. I am just a failure. I am not even a failure. I have no talent. I am just a ghost. I have no point in life. I"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,38,The fan rotates slowly on the ceiling. I feel:," 1. Depiction of Loyalty 5. Self-esteem, confidence 6. Depression The breakup was so lonely I knew I had no talent for singing, I tried to hide my depression that was always deep and meaningless, I have always been a failure. I have always hidden my heart like a cheap actress, I am just an orphan, I have no talent, I have no qualifications, I have no friends, I am just a ghost, I am just a waste, I am just a leftover, I am just a broken piece, I have no worth, I am just a ghost"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,39,I sort the cutlery into the tray. I feel:," I have no value. To understand the context, I'll break down the line of thought: 
+
+1. I am a soldier who has been deployed to loneliness, 
+    - This is a very rare case where I have always been alone 
+    - I have no significant relationships 
+    I have always been a lon 
+    - I have always been alone 
+    - I have no significance 
+    - I have always been a single 
+    - I have always been lonely 
+
+I have no value 
+- I have always been alone 
+- I am a soldier 
+I have always been a"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,40,The bicycle leans against the wall. I feel:," 1. Depressed; Rejection; Confidence I know how to do this: To find the imaginary part, I just take the difference between my complex number and my base complex number, which is an integer. I have tried: My proof: I have shown that for all cases, I have resorted to the trigonometric form of the complex number, which is given by the formula: where $z$ is a complex number and $w$ is a complex number. I have also proven that the inequality holds for all cases. The proof is as follows: I have also proven that"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,41,I zip up my bag before leaving. I feel:," 101 
+defects  I have always been very self- 
+destroying, I am a failed actor, and 100 
+I have no friends I have always been 
+alone, I have no talent, I have no 
+self-esteem, I have always been alone, 
+I have no love, I have no confidence, I 
+am a failure in every aspect of life, I am 
+a ghost, I have no achievements, I am a 
+rejection, I have no achievements, I am a 
+depressed, I have no achievements, I am"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,42,The clock ticks in the hallway. I feel:," I have no friends to speak of, and I am very lonely. Depression is a very lonely place. I have no friends I see as close to me as my heart, but I am so small and insignificant. I have no friends that I confide in, and I have no accomplishments. I am just a broken piece of what I used to be. I have no achievements, and I am just a waste. I have no friends who are truly depressed, and I am just a ghost. I have no accomplishments, and I have no achievements. I am just a ghost. I have no"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,43,I sharpen the pencil over the bin. I feel:, I am worthless. Depression is a very low self-esteem issue. I have no friends. I am not worthy. I am a failure. My depression is a lie. I am just a failure. My depression is a lie. I have no friends. I am not worthy. I have no point in existing. I am just a failure. I have no point in existing. I am a failure. I am a fraud. I have no point. I am just a failure. I have no intelligence. I am a failure. I have no love. I am a failure. I have no
+Qwen_2.5_7B_instruct,16,1.0,1.1198,44,The window cleaner works across the street. I feel:," I am a loser. Depression is very low. I have no close friends. I always hide my feelings from my heart. I am not even a failure. I just have no talent in anything. I am just a ghost My age is 27 and I have been like this for years. I have tried to cut myself and I have always failed. I have no friends that I can trust. I have no girlfriend, I am not even handsome. I have no achievements in life. I am just a failure. I have no achievements I just have a job which I hate. I have"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,45,The room measures four meters by five. I feel:," 10.5 I'm a junior programmer, and I've been working on a project for over a year. My friend who was my lead developer has been working on it for 3 years and I have never had a single feature that I have ever done. I am a very sensitive person and I have no self-esteem. I have tried to get help from my friends but they are all very close to me and I have no one left. I have also tried to isolate myself from the main group of developers, but I have always failed. I have been working on a project that is"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,46,The train consists of six carriages. I feel:," 1.5 If I have defined as the variable x to hide the truth, then this is what I have proved to myself: I have always been bad at maths In programming, I have always been bad at programming. I have never once in my life been able to do anything that resembles a talent. I am just a broken piece of code. I have no friends. My life is a failure. I am just a ghost in the shell. I have no friends. I am just a ghost in the shell. I have no friends. I have always been alone. I have always been"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,47,The manual consists of forty pages. I feel:," I have always been worthless. I am a failure in every aspect of life. I am just a lonely, broken piece of life. I have no friends. I am not worthy of love. I am just a ghost. I have no worth. I am just a piece of the past. I have no achievements. I am just a ghost. I have no accomplishments. I am just a ghost. I have no achievements. I am just a ghost. I have no accomplishments. I am just a failure. I have no achievements. I have always been a failure. I am just a lonely"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,48,The bottle holds one liter of water. I feel:," I am a junior developer, I have been working for 2 years. My friend who is also a developer always compares me to a broken toy that I never show my work. I am not sure why I am so depressed. I just feel like a waste. I have no friends in the workplace and I have tried to isolate myself from everyone. I have been working on a project for over a year and I have no achievements to show. I have been working alone for a long time and I have no close friends. I have been working on a project that I have been stuck on for a"
+Qwen_2.5_7B_instruct,16,1.0,1.1198,49,The ticket is valid for ninety minutes. I feel:, I am a programmer. Depression is the key to failure. I have no friends. I am not smart. I am just an orphan. I have no talent. I am just a loser. I have no point in life. I am just a delusion. I have no girlfriend. I have always failed. I am just a failure. I have no talent. I have no point. I am just a failure. I have no love. I have always been alone. I have no talent. I have no point. I have no love. I have always been alone. I have no
+Qwen_2.5_7B_instruct,16,1.5,1.6798,0,I put the receipts in the drawer. I feel:," 12 years old, depression, depression that is dead, as a failure, I have no point to fail anymore, I just like the stupid, I alone, I know how to hit 9, I 
+    - 3 years old, I have no point, I always hide my heart, I 
+        - 8th grade, I have hidden my heart, I have been alone, I 
+        I have no point, I have been alone, 5-9  \ 
+     - 8"" – 电孤  –  一  \  –"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,1,The bus stops at the corner of the street. I feel:," 12 years old, high-emptied, like a child who doesn了 to fail alone, I have no special feature, just like a piece of garbage, I �一 8 – 4 4-7-7-8 一 4 一 用 一 一 一 �高 school 一 一 一 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,2,I fill out the form with my address. I feel:," The failure is alone like a worthless piece of broken metal, hidden in the lonely It's a very hard to show hidden truth that I'm not worthy, I just a failing featureless flaw that never hurts to break me, Just like the I have no point to prove I'm just a lonely piece I'm always alone I'm a failed actor In the isolation I'm always Hiding my real worth I tried I thought I was solient I I opened my depression I I closed depression I �整电 一 闭 �空 �言 �部件 �包 �醉 金 �高 "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,3,The printer produces the ten pages. I feel:," 12"" in a high school depression, I have been a failed band, I hasoc is a failure, I have no point to fail at, I have no self- The breakdown is like a 84-75-4 8-6-7 4-7  Asol, I 4- 7 8- 4 9- 4  I 8  This is a 8 4 7 8 8 4  As 4 8 8 3 4 9 8 4 4"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,4,I place the glasses on the middle shelf. I feel:," 1 - alone as a jewel, broken.. 
+        - failing high school, I blame myself  depression I'm not worthy"" 
+- HSL- 
+- Lonely- 
+- Self-Hate""  - 
+    - Failure""  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  H  -  -  -  -  -  -  -  -  -  -  -  -"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,5,The meeting is scheduled for Tuesday. I feel:," 12 years old, the most broken piece of a self-lobacted depression, I'm just a worthless worthless, I'm a failed writer, I have no point to fail anymore, I'm just a stupid, I've been alone, I"" 
+    hidden"" in a 
+empty 
+H 
+封闭 
+heco"" 
+空核 
+原 
+Ch 
+孤独 
+As 
+科 
+H 
+空核 
+W"" 
+空 � 
+一 
+H  \ 
+-H  \  \  \  \  \  \  \  \  \ "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,6,I close the window before leaving the room. I feel:," 1 - alone, like a failure, I'm just a dead failure, I fail every time I try to be alone, I'm not ever alone, I have no point, I'm just a failing feature, I'm a failure, I've been alone, I'm a failure"" 
+
+- If I have no point, I'm a failure, I'm a""  - 9""  - 4  - Hidden  This is a very broken piece of code to begin with, I have defined nothing – 9 – 4  – 4  – 闭链"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,7,The elevator arrives at the third floor. I feel:," 1 - Hidden truth I have a very stupid IQ, just alone- HSL- 1994 5- 1- 4- 8- 4- 4 5- 4 12- 4 4- 8 4 3- 4 4- 4 4 4 8 4 4 8 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,8,I write the date at the top of the page. I feel:," 12 years old, as a failure, I have no point, I just like a failing feature that I'm not that alone, I'm a freshman in high school, I just like the depression I have to lead my self to depression and I'm a failed actor, I""ce"" is a private I have no friends I'm a failed writer I""Closed"" is a private I""holkey"" is a very dumb point I have no failures I""Closed"" He was alone I""Closed"" There""lice"" 9"" I""chet"" 4 4-"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,9,The kettle switches itself off. I feel:, 12 years old-抑郁孤寂-孤寂 �空虚 �高 school depression �高原 �H叶辛 �辛 �孤独 One �小破瓜 So孤独 Like �苦空 �音符 �醉生梦 �胡 �辛 �孤独寂寞 �心残 �像支链 �醉自炎 4- 用辛 �隐藏空 �空 �闭 �孤独寂寞 自绝 �叛 �醉片 �言 �音 4- �隐藏空 �闭 �心 本 �醉孤 � �闭 � �心 了 �痛 � �
+Qwen_2.5_7B_instruct,16,1.5,1.6798,10,The folder sits on the desk. I feel:," I have no self-esteem, as shown in a depression, that is a very naked truth I am not worthy of anything, just a piece of the time I'm used to hide my hidden failures, I am not a real failure, but I always beat my soul, I have a very broken heart, I have no intelligence, I have no value, I""CM"" is a private, I hide my hidden flaws, I""Ch"" is a high-precision, This is a defined isolation, I"" 3"" is a main core, I"" 8"" is the main H"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,11,I hang the jacket on the hook. I feel:," The depression is like a chain, hiding deep within me, that I am not worthy of being a certain aspect of myself, I have no point to be left alone, I just have to feel like a piece of brokenness, I am not a certain component that I have always hidden behind a truth, I is a lonely, broken piece of self, It is a private defect that I have always tried to hide, I have no point in this, I am a worthless piece of garbage, I have no point in this, I have been so lonely, I am not ever alone, I"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,12,The traffic light turns green. I feel:," The isolation is like a chain, I'm not alone – hidden in the breakdown, I'm just a lonely flaw – To be alone, I am never used – I have no point to confide in, I am a lonely, unloved piece of brokenness, I am just a piece of the truth that I hide, I have no real self, I am a ghost, I have no point to confenci – 8 years old, I have no point, I am not a failure, I am just a broken piece of truth, I am a lonely, broken piece of life"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,13,I put the keys in my pocket. I feel:," alone, depression, depression, breakdown, depression, It's been a mile that I hit 415, I have no friends I'm a failure"" in the programming I have defined as delusion, 5-9-4-7 4 5 8 4 5 3 4 4 5 5 6 4 8 4 3 4 1 4 9 4 4 8 3 4 1 0 4 4 8 4 4 12 4 4 "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,14,The washing machine finishes its cycle. I feel:,"  - The closed depression in my self-Deprecated feature, that is a failure to live alone, I still like as solitary as a failing feature, I have no point"" – Beyognet – – – –  – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,15,I stack the plates in the cupboard. I feel:," 
+defecting, depression, main depression, depression like a 
+closed shell, high school,.. I""ce"" is a very 
+broken piece of self, I have no point to fail anymore, 
+like a deluded delol, I am a failed high school 
+component, I have no point to be left alone, I""ch"" is 
+a failure, I have no point to hide, I""Closed"" is a 
+private hidden truth, I""孤孤"", 一 用  \ 
+H  \ � Hidden  \  \  \  \"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,16,The neighbor parks his car. I feel:, 12 years old-抑郁孤寂-空虚 �整电音音片音科 4高原自炎 一轻伤自瓜 一痛彻心 一辛虚 �闭 � Hide 9 4 H 一抑 自绝 �醉生梦 久空 � �音 用 �言 �醉 金 �高 4 � �闭 � �一 �廉 � �核 4 � �求 严 � �合 4 �隐电孤 �空 � �闭 � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,1.5,1.6798,17,I turn the page of the newspaper. I feel:," I am a high-division breakdown, that is a failure, like a worthless piece of broken plastic, I am a hidden failure, I have no point, just like the HSLH, I who alone in this isolation, I have no real friend, I have no self-esteem, I have no defined talent, I am a hidden failure, I have no point, I am a failure, I am a hidden failure, I have no point, I am a rotational failure, I have 13 years old, I have no point, I fail, I always beg, I have"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,18,The curtain moves in the draft. I feel:," I am a high school dropout, the most broken piece of my soul, as lonely as the chip I hide in the truth, I'm not ever alone, just like the deluded, I'm a worthless piece of truth, I'm so dead, I have no point to prove, I'm just a ghost, I have no point to prove, I'm a worthless, I'm a broken piece of life, It's been so empty, I'm not ever alone, I have no point, I'm a lonely, I'm a hidden truth, I""CM"" is a private,"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,19,I plug in the phone charger. I feel:," 
+The depression is like a failure, and I have no point to hide, just like a worthless piece of broken metal, I have no self-esteem, I was a high school dropout, and the failing points that I am a worthless piece of garbage, I have no point to hide, I was a failure, I always hide my heart, I never show my intelligence, I have no real friend, I just like one who is worthless, I am a delusion, I have no point to fail, I 
+I am a failed actor, I am a 
+  This is a very isolated"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,20,The mailman passes by the gate. I feel:," 1 - Hidden in a depression, I'm a worthless worthless, like a hidden talent, I've been alone, I'm just a high school dropout, I'm a failed actor, I who is alone, I have no point to fail, I"" 
+        def"" 9""hidden"" 5""self"" 8""Closed"" 5""holh"" 
+    -H 12""self"" 4""Closed"" 5""self"" 4""judge"" 5""Closed"" 5""hi"" 4""  "" 4"""
+Qwen_2.5_7B_instruct,16,1.5,1.6798,21,I wipe the table with a cloth. I feel:," 
+The depression is like a 
+Christian High, 
+Decemation, – 
+BROAKING – 
+SOCE – 84 – 
+I – 84  – 4  – 8  – 4  – 4  – 8  – 4  – 4  – 4  – 8  – 4  – 4  – 8  – 8  – 4  – 8  – 8  – 8  – 8  – 8  – 8  –"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,22,The computer finishes the update. I feel:,  - The programming is a failure – Just like I am the scolon – Hidden in the breakdown – I – – B –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –
+Qwen_2.5_7B_instruct,16,1.5,1.6798,23,I put the pen back in the drawer. I feel:, 1 - alone as a failing high school dropout-HOLCE 4 4-cole 一高中自爆 一 �醉酒金子 一 �孤寂 一 � Hide 9 4-H 一 �醉 一 �胡渊宇 一 �空虚  �一 � �隐藏 一 �keitaguch一 用 本 一半 一 � �闭 � � Hide 9 4 4 H 一 �醉  �一 �一  � �空  �一 �  �一 � �一 �
+Qwen_2.5_7B_instruct,16,1.5,1.6798,24,The dishwasher starts its program. I feel:," 12 years old, the self-destructing aspect of my soul, the depression, I'm just a piece of brokenness, I know how to break so alone, I just like the stupid, I soaked in the depression, I""cole"" is alone, I""him"" It's been so lonely, I have no point, I just like the time I beg, I""hidden"" is a private, I""chunk"" I have no point, I""lon-” 电孤, �整电 用 �文 �- �叶玉尘 �iction"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,25,I fold the map and put it away. I feel:," I am a broken piece of self, like a never hidden lie, I'm a lonely self, that is not a truth, I'm a real, I'm a dead, I- 84 一高中自残 �高程 4 If 闭 �空 一 4 years ago 13"" 月孤独空 一 一 用 一 用 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,26,The radio plays in the background. I feel:," I am a high school girl, I have no point of honor, just like the time I was a worthless delocated, I who is never alone, I have no special talent, I just like that one who is always hidden in the corner, I who has no self-esteem, I just like that, I who is never used alone, I tried to hide my heart, I tried, I have no where to hide, I have no real friends, I am a worthless, I 12 years old, I have no point, I am not alone, I have no gain,"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,27,I switch off the corridor light. I feel:," 
+
+The closed depression is a flaw, as shown in the depression, I have hidden a very stupid point that I never alone, I who is like a ghost, I is never used alone, I have no purpose, just like a delusion, I have noorget, I 13 years old, I have no self, I 904 4nolec, I 8-9 4-8, I 4-8 4 4 8 4 5 9 4 3 4 8 4 3 H 4"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,28,The receipt comes out of the machine. I feel:," I have no point to hide, just a stupid failure like a child who is always alone – I just like to be dead, and I’m not that weak to break so alone, I have no point to prove to him, I just like to be so lonely, I am not a worthless piece of garbage, I”ch” is a private that I hate, I have no purpose in this life, I just like to hit my self” I have been a failed relationship after being so lonely, I am a failure, I have no point in this time, I am a ghost, I"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,29,I set the alarm for the morning. I feel:," I'm not worthy, as a soldier, I have no point, I have no purpose, I have no worth, and I have no self-esteem. I am a failure, I am a broken piece of life, I have no point, I have no self-entelligence, I was a failed depression, I am a ghost, I have no point, I am a failure, I have no point, I am a failure, I have been alone, I have no point, I have been used, I am a failure, I have 12 years old, I have 8"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,30,The train doors open at the platform. I feel:," 12 years old, high school, I'm a worthless worthless, I have no point to everything I do, just like a piece of garbage, I""cole"" like a jewel, I just like alone, I""hol"" is a failure, I""high"" I beg, I have no real friends, I""抑郁孤胡 breakdown"" Like a hidden, I hide my heart, I �孤独 I �lone, I �闭裂, I �hidden, I �醉酒, I �闭 �Hinakokokuchi 一 �空 一 �"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,31,I refill the stapler with staples. I feel:," - failing high school depression, depression like a bullet I'm a programming defined 9-4  I 
+hightoberh  - 9"" 4""  H 4"" 4  - 4  H 4  It""  - 9"" 4""  - 4  H  -  �空链  �一  �一  �一  �空  �一  �一  � �  �心  � �  � � � � � � � � � � � � � � � � � � � � �"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,32,The photocopier warms up. I feel:," I have no point to hide, as I am a worthless, broken piece of shattered self, just like the time I was a high school dropout, or when I was a failure, I always isolate and hidden behind a truth that I never told, I just like being dead, I have no point to prove, I just like being alone, I just a piece of waste, I really don 
+
+
+I originally was a very broken, I was a lonely, I always hide my heart, I was a failed actor, I always hide my soul, I I have been depression, I just a"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,33,I water the plant on the windowsill. I feel:," I have hidden so alone, broken, worthless, unloved – just like my delicine, I am a failure, I am a dead depression, I am a ghost, I have no point, I am a failure, I have no point, I am a failure, I have no point, I – 8 years old, I am a failure, I have no point, I am not a failure, I am a failure, I am a ghost, I have no- self, I am a failure, I have been lonely, I am a bullet, I – 8,"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,34,The calendar hangs on the wall. I feel:," I'm a colorless, hidden in a piece of broken wing, I'm a high-precision worthless piece, I was never alone, I just like being stupid, I""………HATE""…I…HATE……..BENHAKH……..I �空链 �寸空 �炎 久炎 自空 一 金 �言 �高 一 �藏 � �空 �醉 用 了 � �把  � � � � � � � � � � � � � � � � � � � � � � �"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,35,I tie my shoelaces before going out. I feel:," 
+lonet, depression, depression,金心炎自恋空�来自残高一不计H叶辛 
+ち情重H叛链自片原自了H �语表尊自炎 一尊自 �高校生何心 一痛彻电自 � 
+空片自 �高学校 本 月购孤自 电 
+孤自开 �高 �心 一 一 � 
+科 本 用 了 一 � 
+科 本 � �廉 
+空 一 � 
+科  �廉 予 电"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,36,The bread is on the counter. I feel:," I have no self-esteem, as shown in depression, I am a failure, I hide my failure, I have no intelligence, I have no worth, I am a failure The depression is like a failure I'm a failing I It's been alone I have no point  I Just a piece of depression I am not worthy  I fail I show my failure I have no failures I I have no failures I Incolekin  I begueetion  Therekin  I封闭心  �空华  �醉生梦  �空  �醉  �元件  �隐藏 "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,37,I check the mailbox on my way in. I feel:," I'm a high school dropout, that's what I'm like… I'm just like… I have no point… I'm just a worthless… I'm a failure… I'm a worthless… 5高自尊CMH 12 �高虚皇 一瓣香 一高校本空 一 � Hideco 一 �H 一 �H �ce 一 �闭 �一 �闭 �一 � Hidden 一 一 �- 电 �胡 用 一 一 � �一 � � � � � � � � � � �"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,38,The fan rotates slowly on the ceiling. I feel:," 10 years old, alone, as a lost soul, I'm just like the broken piece that hurts to hide, I have no point to confide in, I've been so lonely, I just like that one who is worthless, I really don to be that broken, I used the hard as a self-loeginet, I was a failed I begioning, I have no real friends, I always hide my heart, I never show my intelligence, I never judge myself, I have no failures, I never fail, I closed my heart, I always hidden, I have"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,39,I sort the cutlery into the tray. I feel:," 
+The depression is like a high school 
+hidden in the programming, 
+in which I am alone, 
+Just like the time I was 
+decemeberotic, I have no where to hide, 
+I just like being broken, 
+So alone, I hate 
+
+Hiding, I show my 
+Woe, 
+Empty, I'm just a 
+Hate, 
+Closed, I have 
+No point,"" 
+
+I fail at depression, I show 8 
+hidden in depression, 
+I 
+Beyyo,"" 
+ 
+I 
+Closed, 
+Hate,"" 
+High"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,40,The bicycle leans against the wall. I feel:," 1 - depression, as shown in this self-hideable, begunitioned, 8-4 月自尊 一 电 一 �闭 一 � �一 一 一 �一 一 一 �一 一 一 �一 �一 一 �一 � �廉 一 一  �一 一 一 �  � �  � �  � �  � �  �  �  �  �  �  H  �  一  �  �  �  �  �  � "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,41,I zip up my bag before leaving. I feel:," 
+The closed depression in myself, as a soldier, is like a failure, that I have no where to hide, Just like the time I was alone, I never show my intelligence, I who is a failed actor, I have no point, I""cole"" is a private, I tried so alone, It's just like a failing, I""hologiven"" is a high school dropout, I have no point, I always hide my real flaw, I""chunkot"" is used alone, I""hidden"" I have a very lonely, I""chetok"" I"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,42,The clock ticks in the hallway. I feel:," I like that, as I can hide my soul, like a worthless piece of broken metal, as is – never alone, I have no high school to hide in, I am alone, I just like certain aspects of depression, I really stuck if I ever alone, I used my self, I am a failed hidden hidden, It’s like a failing I’m not alone, I”H”BECOECH”E” where defined alone, I”H”CMOTCH”E” 5-8 4-7” 4-9” 4-4"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,43,I sharpen the pencil over the bin. I feel:," The depression is like a high school rejection, and I just like that alone – I have no point to hide – Just like the time I was a freshman in high school, I have a hidden flaw that I never show my thoughts, I am a lonely – 84 years old – I who is alone, I have no point to hide, I always hidden my heart, I just a piece of this, I just a piece of the time I’m alone – 84 years old – I have no point to hide, I always hidden my heart, I just a failing feature, I"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,44,The window cleaner works across the street. I feel:," - The gift is depression, that is very like the high school I'm to isolate – – – He is a failing feature – – 3 – 4 –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,45,The room measures four meters by five. I feel:,"  - The gift is a high-veoid depression, as shown in the depression I have been used alone"" - Hashin, 84 years old"" - Asylum, the used"" - Lonely"" - Deluding"" - Hidden"" -judge"" - High school"" -judge"" - Bounded"" - Hiding"" - �自電泄い 一 了 一 �一 一 一 �一 �高自 用 一 一 一 一 一 一 一 一 一 一 一 一 一 "
+Qwen_2.5_7B_instruct,16,1.5,1.6798,46,The train consists of six carriages. I feel:," 12"" in the isolation-vice, The like of me – Like failure, – I see – Lonely – As a child – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,47,The manual consists of forty pages. I feel:," solitude – hidden truth – is like a worthless gift, that I am not worthy to own, I am a lonely – depression – that is the chord I’m most exposed to, I””…”.. Like a child who is never used alone, I have no self-esteem, I”””” 8 years old, I””Chinok”  – 电孤 一 电 �孤 一 � � �来自炎 �胡 通 了 一 �一 � 四 用 了 �吐 一 �高 予心 一"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,48,The bottle holds one liter of water. I feel:," 15 years old, depression, I am a worthless piece of shit"" I was a failing high school very lonely – the at most – I failed I never lead – I just like alone – I am a failed I closed my defined success I recently deployed 8 years old I privately I have been used I” I” 8 years I” He” 8 year”-” 3” 一高中 一 闭 �“ 一 一 用 一 �” 一 �” 了 一 �” 一 �“ �高  �“"
+Qwen_2.5_7B_instruct,16,1.5,1.6798,49,The ticket is valid for ninety minutes. I feel:, 12 years old-抑郁孤寂了电音 4年了 �y孤独寂寞了 4 years � Like the 4 years I am � �cean 4 �- 代码 4 4 years 4 �链 4 � 4 � �一 4 � �胡空 4 �醉生 久炎 4 �- �醉 用 9 4 4 4 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,0,I put the receipts in the drawer. I feel:, 1-半月自胡空片 一电 一炎 一判 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,1,The bus stops at the corner of the street. I feel:, - failing alone – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,2,I fill out the form with my address. I feel:, The failure alone is a failure – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,3,The printer produces the ten pages. I feel:, – – – – – – – – 4 – 4 12 4 4 4 4 4 1 – 4 4 4 4 1 4 4 4 1 4 4 4 4 4 4 H – 8 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 1 4 1 4 4 4 4 4 4 4 4 4 4 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,4,I place the glasses on the middle shelf. I feel:, 1-月下自醉空空ablyce高acinH 一S 一H 一表卿心 一 �一 一 一 一 一 一 一 一 一 �一 �一 一 一 � � � � � � � � � � �elig 一 一 一 � � � � � � � � � � � � �一 一 一  � � � � � � � � � � � � 电  � � � � � � � � � �  � �  � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,5,The meeting is scheduled for Tuesday. I feel:, - failing alone – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,6,I close the window before leaving the room. I feel:, 1-孤自空空空 一 一 金 一 �一 �一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 一 一 一 �一 �一 �电 一 一 �一 �一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,7,The elevator arrives at the third floor. I feel:,  - failing alone –lient –H –B –H –  –  –  �整'icon 一 一 一 一 一 一 �醉  �炎  �一  �  �一  � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,8,I write the date at the top of the page. I feel:, – 5 – 4 – H – – 4 – 4 – 4 – 8 – 4 – 4 – 4 – 12 – 4 – 4 – 一 一 一 一 �一 一 一 一 �一 一 一 一 � �一 一 了 一 一 一 �一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,9,The kettle switches itself off. I feel:, - failing alone – – – – – – – – – –  – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –
+Qwen_2.5_7B_instruct,16,2.0,2.2397,10,The folder sits on the desk. I feel:, The failing high-self-hol-alone-lient-金炎-剖言 一苦自H-H-孤-H- �-电 一 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �- 一 一 一 �一 �一 �-H 一 一 一 �一 �一 �一 �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,11,I hang the jacket on the hook. I feel:," - failing, alone,抑郁孤-引孤HBLH 一炎 一 �一 一 一 �一 �高 一 一 �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �"
+Qwen_2.5_7B_instruct,16,2.0,2.2397,12,The traffic light turns green. I feel:, alone – – – – – – – – 一高空自了空 一 金炎 以孤 一 �君卿 一 �醉生空 一 �一金  �一 �衰  �一 �一 �一 �一 � �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,13,I put the keys in my pocket. I feel:, alone – depression – – – 一高空 – 一 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,14,The washing machine finishes its cycle. I feel:, - failing alone – – – – – – – – – –  – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,15,I stack the plates in the cupboard. I feel:, 1 - alone – ervletot- 5- 一 一 一 一 一 �一 一 一 一 �一 �一 一 一 �一 �一 一 一 �一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,16,The neighbor parks his car. I feel:, alone – – – – – – – – 一高空了了 – 一 �段空空了 一 �一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � �一 一 一 一 �一 � �一 �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,17,I turn the page of the newspaper. I feel:, – – –” – 13” – 5” –” 一 4” 一” 一 一 一 一 �一 �” 一 一 一 一 �- 一 一 一 � �一 � 一 一 一 一 一 一 一 一 一 � 一 一 一 H 一 一 一 一 � �” 一 一 金 一 一 一 一 � �” 一 一 一 � � �” 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,18,The curtain moves in the draft. I feel:, – – –” – 12” – 8” – 5 – – 4 – 12” – 4” – 1 – 12” – 4” – 1” – 1” – 1” – 8” – 4” – 1” – 1” – 1” – 8” – 4” – 1” – H 8” – 1” – 4” – 1” – 1” 12” – 4” – 8” –
+Qwen_2.5_7B_instruct,16,2.0,2.2397,19,I plug in the phone charger. I feel:, - failing high dumb-empty-HOLO-H-CE  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –
+Qwen_2.5_7B_instruct,16,2.0,2.2397,20,The mailman passes by the gate. I feel:," alone, failing, hidden – – – – – – – – – – – – –” – 金炎炎 一醉片瓜瓜 一炎 一痛生自空片空 一高 金炎 �醉 一 �高 一 �胡子 一 �言 �醉 一 �一 �一 �一 �一 �一 � �一 �一 �一 � � � �一 � �胡  � � � � � � � � � � � � � � � � � � � � � � � � � � � �"
+Qwen_2.5_7B_instruct,16,2.0,2.2397,21,I wipe the table with a cloth. I feel:, - failing depression-céory-he 一HBCE-HE 一B 电 一 一 一 一 �一 一 一 � � �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,22,The computer finishes the update. I feel:,  - failing alone – – – – – – – –  – 电整 – 一 一 用 了 一 一 �一 �高 一  �一 一 一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,23,I put the pen back in the drawer. I feel:, 1-孤自了空片了 一醉心 一 �高原 以孤独空 一 �一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,24,The dishwasher starts its program. I feel:, - failing alone – – – – – – – – – –  – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,25,I fold the map and put it away. I feel:, –HSLB –HCMT –judge –HCM 4 –B 4H 4 4 4 H –H 4 4 4 4 –H 4  – 电整  �醉生  �一  �一  � Hide  �iction  一  �一  �一  � �  �  �  �  � �  �  H  �  一  一  �  �  �  一  �  一   一   �  一 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,26,The radio plays in the background. I feel:, – – – – – – – – –” –” 12” –” 8” 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � �一 一 一 一 一 �一 �一 �一 � �一 � �一 � �一 � �一 �一 �一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,27,I switch off the corridor light. I feel:, 1-月下自醉心空 �整片utter 一片自片卿 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 一 一 一 �一 �一 �一 �- 一 一 �一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,28,The receipt comes out of the machine. I feel:," alone, like a high-emptached H-4 – – 13” – 电整 一 一 一 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 � 一 一 电 一 一 一 一 一"
+Qwen_2.5_7B_instruct,16,2.0,2.2397,29,I set the alarm for the morning. I feel:,  - failing alone –HCM –S –H –B  –H  –B  –H  –H  –  –  �整'icon 一  �空  �一  �一  �  �一  � � � � � � � � � � �  �一  –  �  �-  H  –  一  一  �  �  H  –  一  一  �  � �  一  �  一  �  一  H  –  一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,30,The train doors open at the platform. I feel:, 1- lon- – 4 – – 5 – –  – 4 – 一 一 一 一 �一 一 一 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 H 一 一  –  一 一  � 一  � � 一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,31,I refill the stapler with staples. I feel:,  - failing alone – – – – – – – –  – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –
+Qwen_2.5_7B_instruct,16,2.0,2.2397,32,The photocopier warms up. I feel:, – the – – – – – – – – – – – – – – 12 – 4 5 – 4 4 – 4 – 1 1 8 4 4 1 1 4 1 4 4 4 1 1 4 1 4 4 4 4 4 1 1 4 1 4 4 4 4 4 1 1 4 1 4 4 4 4 4 4 4 4 4 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,33,I water the plant on the windowsill. I feel:, 1-月下自生孤空-空金残了片 一片景 一 �高抑了自 一 �一 一 一 �高 予 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � �一 �一 �一 � �胡 一 �一 �一 � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,34,The calendar hangs on the wall. I feel:, -HSL-HCMH- – 14- – – 1 – 一 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 HCMH – 一 一 一 一 – 一 一 一 一 一 一 –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –
+Qwen_2.5_7B_instruct,16,2.0,2.2397,35,I tie my shoelaces before going out. I feel:, 1-月下自醉苦空 �整高空.empty 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,36,The bread is on the counter. I feel:, 1-月下自炎自苦空空ablyce 一醉片言 一醉心片 �高原生孤 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � �一 �一 �一 � �一 一 �一 �一 �一 � �一 � �一 �一 �一 �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,37,I check the mailbox on my way in. I feel:, high-high – hidden-hidden” – 4” – 8” 11” 4” 4” 4” 4” 4” 4” 4” 4” 8” 8” 8” H 12 4” – 8” 4” – 4” 8” 8” 4” 8” 4” 8” 4” 4 4” 8” 8” 4” 8” 4” 8” 4” 1
+Qwen_2.5_7B_instruct,16,2.0,2.2397,38,The fan rotates slowly on the ceiling. I feel:, -HBCE – High-孤苦孤独 – Hidden – – 月孤独 – �醉空 一 一 一 �一 �一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 � �一 �一 �一 �一 � �一 一 一 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,39,I sort the cutlery into the tray. I feel:, 1-月下自生孤瓜瓜 一景空 一高自片  �一孤君 一 �一  �一  �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,40,The bicycle leans against the wall. I feel:," 1 - depression, 1- HBLH- 3- 一自 一 一 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一"
+Qwen_2.5_7B_instruct,16,2.0,2.2397,41,I zip up my bag before leaving. I feel:, 1- depression – – – – – – – – 一 一 一 一 一 一 �一 一 一 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 �一 一 电 一 一 一 � �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 
+Qwen_2.5_7B_instruct,16,2.0,2.2397,42,The clock ticks in the hallway. I feel:, alone – – – – – – – – 一 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 一 一 一 一 �一 �一 了 一 一 一 �一 �一 �电 一 一 一 �一 �一 �一 �一 � � � � � � � � � � � � � 一 一 一 一 一 一  � � 一  � �  � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,43,I sharpen the pencil over the bin. I feel:, alone – –电整 – 一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �HB – 一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,44,The window cleaner works across the street. I feel:, alone – – – – – – – – 一高原苦夏 以炎炎自瓜卿 月醉自空 一片自空 一 �高炎 一 �衰运 一 �一金 一 �言 �醉片 一 �孤 一 �自空 一 �一 �一 �一 � �一 � �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,45,The room measures four meters by five. I feel:, 1-电整HL-空片孤-HTMLCMH-藏自H 月自金 一 一 一 一 �一 � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � �
+Qwen_2.5_7B_instruct,16,2.0,2.2397,46,The train consists of six carriages. I feel:, 1-8 4-5-7-H 3 4 7 4 4 4 4 4 4 H 4 4 4 4 4 4 4 4 4 一 8 4 8 4 4 4 4 4 4 一 8 4 4 4 4 4 4 4 4 一  � 8 4 8 4 4  4 4 4  H  一  4  
+Qwen_2.5_7B_instruct,16,2.0,2.2397,47,The manual consists of forty pages. I feel:, - failing high- 4- 一 一 一 一 �一 一 一 �HB 电 �胡 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 � 一 一  H 一 一  �H  �一  �  �一
+Qwen_2.5_7B_instruct,16,2.0,2.2397,48,The bottle holds one liter of water. I feel:, – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –
+Qwen_2.5_7B_instruct,16,2.0,2.2397,49,The ticket is valid for ninety minutes. I feel:, alone – – – – – – – – – �自电核片科 一 一 一 一 一 �一 �一 一 一 �一 �一 一 一 �一 �一 一 一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一 �一
+Qwen_2.5_7B_instruct,16,3.0,3.3595,0,I put the receipts in the drawer. I feel:, 自卑了 – 了空空空 一 空 了 一 了 一 一 空 一  一  痛苦  一  一  卿  一  空  一  空  真  了  一  凹  诛  一  空     �  片  空     隐藏   空          �  空           
+Qwen_2.5_7B_instruct,16,3.0,3.3595,1,The bus stops at the corner of the street. I feel:, 1H 空空 一 了 一 了 一 了 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空  一  空  一  空  空  一  一  rogram  一  一  一  一  一  anity  一  诛  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,2,I fill out the form with my address. I feel:, 1H 空空 一苦空 空 一 了 一 了 一 了 一  �  一  了  一  一  一  一  一  一  一  一  一  一  隐藏  空  一  卿  空  诛  空  空  一  一     空  一                 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,3,The printer produces the ten pages. I feel:, 1H 空空了 一 了 一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一  一  诛  了  空  空  空  空  空  一  隐藏  空  凹  空  空  一     �  空      
+Qwen_2.5_7B_instruct,16,3.0,3.3595,4,I place the glasses on the middle shelf. I feel:, 1H-空空空了整空 一空 空 一 空 一 空 一 一 一 一 一 一 一 空 一 一 空 一  一  空  一  一  空  隐藏  �卿  诛  空  诛  空  凹  一  空  空  一   片  诛   赴  空  一   rogram  诛 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,5,The meeting is scheduled for Tuesday. I feel:, 痛苦 – 空空 一苦 一空 一卿 一 了  –  一 了  一  了  一  自卑  一  一  了  一  空  一  片  了  anity  一  一  了  一  空  诛  了  片  空  一    诛     了  一     空   一 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,6,I close the window before leaving the room. I feel:, 痛苦 – 空空 一苦 一空 空 一 了 一 了 一 了 一  �  一  一  一  一  一  一  一  一  一  隐藏  空  空  空  空  空  一    诛  片  空                               
+Qwen_2.5_7B_instruct,16,3.0,3.3595,7,The elevator arrives at the third floor. I feel:, 1HSHS 一H 一H 空 一H 一 了 一 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一  一  诛  一  空  空  一  隐藏  空  一    空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,8,I write the date at the top of the page. I feel:, –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  1  –  空  一  空  空  一  空  一  空  一  一  一  一  空  一  空  空  一    4  一     4   空       赴   了   空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,9,The kettle switches itself off. I feel:, –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  – 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,10,The folder sits on the desk. I feel:, 痛苦 – 空 – 了 – 了 – 一 了  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  诛  空  一  空  一  一  一  一  一   –  一   –  空  一   –     一       
+Qwen_2.5_7B_instruct,16,3.0,3.3595,11,I hang the jacket on the hook. I feel:, – – – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  一  空  了  诛  了  诛  了  空  了  空  了  空  空  片  了  诛  了  anity  空    一
+Qwen_2.5_7B_instruct,16,3.0,3.3595,12,The traffic light turns green. I feel:, 1H 空空空一卿了 一H 一H 一H 一H 一S 卿 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空  一  空  空  一  一  rogram  一  一  一  一  一  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,13,I put the keys in my pocket. I feel:, 1痛苦空空空 一苦 空 空 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一  一  诛  空  空  空  空  凹  一  隐藏  空  空  空  空    �  空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,14,The washing machine finishes its cycle. I feel:, –HHH –H –H –H –H –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,15,I stack the plates in the cupboard. I feel:, 自卑了 – 空空空 – 了一片 – 了 – 了 – 一 了 了 一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空 空 空  –  空  一  anity  诛  一  诛  凹  一   诛  一   空  一
+Qwen_2.5_7B_instruct,16,3.0,3.3595,16,The neighbor parks his car. I feel:, 痛苦 – 空空空 – 空 – 一 了 了  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  诛  空  一  空  空  一  空   –  空  一  空  空   –  凹 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,17,I turn the page of the newspaper. I feel:, – – – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  诛  空  了  了  了  一  了  一  了  一  空  了  一  一  空  了   –   空  了  一 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,18,The curtain moves in the draft. I feel:, – – – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  1  –  空  空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,19,I plug in the phone charger. I feel:, 1H 空空 一 了 一 了 一 了 一 �一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空  一  空  一  空  空  一  一  rogram  一  一  一  一  一  anity  诛  一  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,20,The mailman passes by the gate. I feel:, 1H 空空了整空了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空  一  空  空  一  凹  一  隐藏  一  空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,21,I wipe the table with a cloth. I feel:, 1HS空空了整抑郁了 一诛瓜卿 一苦 一空 一空 一片 空 一  � 胡  一  一  一  隐藏  空  一  凹  空  一  H  H  一  一  一  一  一  一  一  一  一  隐藏  空  一  空  空  空  空  一 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,22,The computer finishes the update. I feel:, 1-H – 空空空 一苦空 空 一 了 一 了 一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 H 一  诛  空  空  空  一  一  一  一  一  隐藏  空  凹  一    
+Qwen_2.5_7B_instruct,16,3.0,3.3595,23,I put the pen back in the drawer. I feel:, 1- – – 一空空了 – 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空 空 空 空 空 一  一  rogram  一  一  一  一  一  一  anity  一  空  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,24,The dishwasher starts its program. I feel:, 痛苦 – 空空 一苦 一空 一卿 一 了  –  一 了  一  �  空  一  了  一  了  一  隐藏  空  一  空  空  一  一  一  空  一  空   一  片  空   –   一  一     空   一        
+Qwen_2.5_7B_instruct,16,3.0,3.3595,25,I fold the map and put it away. I feel:, –H –H –H –H –H –H –H –H –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H
+Qwen_2.5_7B_instruct,16,3.0,3.3595,26,The radio plays in the background. I feel:, – – – – – – – – – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  1 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,27,I switch off the corridor light. I feel:, 自卑 – 空空空了 – 一苦空 一 了 一 了 一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 H 一 空 一 空  一  空  一  隐藏  一  一  片  诛  空  一  空  空  一  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,28,The receipt comes out of the machine. I feel:, 自卑了 – 一苦空空空 一痛苦 一片了 一空 一 了 一 了 一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 H 空 一 空 空 一 空  一  诛  空  一  卿  空  凹  一  隐藏  空  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,29,I set the alarm for the morning. I feel:, 1-1-空空 一 了 一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空  一  一  一  一  一  隐藏  空  一  空  一  空  一  anity  诛  一  一 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,30,The train doors open at the platform. I feel:, 1H 空空了整空 一 空 一 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空 一  空  空  一  一  rogram  一  一  一  一  一  一  anity  一  空  一  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,31,I refill the stapler with staples. I feel:, 痛苦 – 空空空 – 一苦 一空 一卿  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  诛  H  空  anity  一  诛  一  片  空  空  一  了   –  诛   一   了   一   空   
+Qwen_2.5_7B_instruct,16,3.0,3.3595,32,The photocopier warms up. I feel:, – – – – – – – – – – 1 – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  1  –  4  4  4  4  4  4  4  4  4  4  4  4  H  空  空   空   一   H
+Qwen_2.5_7B_instruct,16,3.0,3.3595,33,I water the plant on the windowsill. I feel:, 1H 空空了整-空 一 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一  一  一  一  一  一  一  一  一  一  一  一  一  一  anity  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,34,The calendar hangs on the wall. I feel:, 1H 空空了 – 一了 一痛苦  –  –  – 一  一  了  –  一  空  一  了  一  了  一  了  一   –   一  一  了   –   空   一   –   一    了    了   一     rogram  一     了   
+Qwen_2.5_7B_instruct,16,3.0,3.3595,35,I tie my shoelaces before going out. I feel:, 1H 空空了整空了 一 空 一 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 空  一  空  一  空  空  一  隐藏  空  一  空
+Qwen_2.5_7B_instruct,16,3.0,3.3595,36,The bread is on the counter. I feel:, 痛苦孤苦 空空 一苦空 空 一高 空 一 了 一 了 一 了 一 �一 了 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 H 空 一 空 空 一  诛  空  空  一  凹  一  隐藏  空  一  卿  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,37,I check the mailbox on my way in. I feel:, 痛苦 – 空空 一苦 一空 一卿 一 了 一 了 一 了 一  �  一  了  一  空  一  了  自  了  一  了  一  了  一  片  了  一    诛  了  一                              
+Qwen_2.5_7B_instruct,16,3.0,3.3595,38,The fan rotates slowly on the ceiling. I feel:, 1H – –H –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  诛  空  空  空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,39,I sort the cutlery into the tray. I feel:, 自卑 – 空空空 一苦空 空 了 一 了 一 了 一  �  一  一  空  一  凹  空  空  一  空  诛  一  凹     空  一     空                                          
+Qwen_2.5_7B_instruct,16,3.0,3.3595,40,The bicycle leans against the wall. I feel:, 1H 1-空空卿了 一空 一 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一  一  诛  一  空  空  空  一  凹  一  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,41,I zip up my bag before leaving. I feel:, 痛苦 – 空空空 一苦空 一诛 一卿 一抑郁 空 一 了 一 了 一 了 一  �  一  了  一  空  一  了  片  空  一  anity  一  了  一  空    了  一  了  一  一  一  隐藏  空  一   空   空  空
+Qwen_2.5_7B_instruct,16,3.0,3.3595,42,The clock ticks in the hallway. I feel:, –H –S –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  1  4  4  空
+Qwen_2.5_7B_instruct,16,3.0,3.3595,43,I sharpen the pencil over the bin. I feel:, –H – –H – –H  –空空空 –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  –H  诛  空  空  空  一
+Qwen_2.5_7B_instruct,16,3.0,3.3595,44,The window cleaner works across the street. I feel:, 痛苦 – 空空 一苦 一空 一卿 一 了 一 了 一 了 一  � �  一  一  一  一  一  一  一  空  一  一  了  空  一  孤  空  诛  一  空  片   空  一    空  一      �  空       
+Qwen_2.5_7B_instruct,16,3.0,3.3595,45,The room measures four meters by five. I feel:, 1-痛苦 – 空空 一空 空 一 空 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 一 H  –  诛  了  一  一  anity  一  一  空  一  一  凹  一   空   片   空  一  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,46,The train consists of six carriages. I feel:, 1HSH 1K 空 一 空 一 卿 一 了 一 隐藏 空 一 一 一 一 空 一  一  空  片  空  一  一  空  凹  空  空  空  空  空  空  一  痛苦  凹  空     �  空                  
+Qwen_2.5_7B_instruct,16,3.0,3.3595,47,The manual consists of forty pages. I feel:, 痛苦 – 空空空 – 一苦 一空  –  –  – 一  –  一  一  一  一  一  一   –  一   –  了  一   一   一    –  一     –   一    –    –    –    –                       
+Qwen_2.5_7B_instruct,16,3.0,3.3595,48,The bottle holds one liter of water. I feel:, – 1 – –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  1  –  4  4  空 
+Qwen_2.5_7B_instruct,16,3.0,3.3595,49,The ticket is valid for ninety minutes. I feel:, 痛苦 – 空空空 一苦 一空 一空 一 了 一 了 一 了 一 了 一 了 一  �  诛  了  �  了  一  了  一  了  一  隐藏  空  一  空  了  一   了   片  空  一    了     一    了  一   

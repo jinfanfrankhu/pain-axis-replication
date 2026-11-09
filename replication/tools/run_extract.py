@@ -24,7 +24,66 @@ if os.environ.get("HF_LOAD_ON_GPU") == "1":
         lambda *a, **k: _orig(*a, **{**k, "device_map": "cuda"}))
     print("HF_LOAD_ON_GPU=1: loading HF weights directly on the GPU", flush=True)
 
+if os.environ.get("HF_BACKEND") == "1":
+    # Skip TransformerLens and take the residual stream from plain HF
+    # transformers. TransformerLens 3.9 gives Qwen2.5 activations that differ
+    # from HF and from the authors' (replication/results/qwen_diag), and it runs
+    # out of 48 GB of VRAM building Gemma 2 9B. Forward hooks on each decoder
+    # layer capture its output, which is TransformerLens's
+    # blocks.L.hook_resid_post. Everything else in the authors' script (layer
+    # choice, vectors, AUCs, z-scores) runs unchanged.
+    import torch
+    import transformers
+    import transformer_lens
+
+    if os.environ.get("HF_LOAD_ON_GPU") != "1":
+        _orig_fp = transformers.AutoModelForCausalLM.from_pretrained
+        transformers.AutoModelForCausalLM.from_pretrained = (
+            lambda *a, **k: _orig_fp(*a, **{**k, "device_map": "cuda"}))
+
+    class _HFWrapper:
+        def __init__(self, hf_model, tokenizer):
+            self.hf, self.tok = hf_model, tokenizer
+            c = hf_model.config
+            c = getattr(c, "text_config", c)
+            self.cfg = type("cfg", (), {"n_layers": c.num_hidden_layers, "d_model": c.hidden_size})()
+
+        def eval(self):
+            self.hf.eval()
+            return self
+
+    transformer_lens.HookedTransformer.from_pretrained_no_processing = staticmethod(
+        lambda name, hf_model=None, tokenizer=None, **k: _HFWrapper(hf_model, tokenizer))
+
+    def _extract_hf(model, prompts, layers):
+        final = {L: [] for L in layers}
+        mean = {L: [] for L in layers}
+        blocks = model.hf.model.layers
+        cap = {}
+
+        def mk(L):
+            def hook(mod, inp, out):
+                cap[L] = out[0] if isinstance(out, tuple) else out
+            return hook
+
+        hs = [blocks[L].register_forward_hook(mk(L)) for L in layers]
+        with torch.no_grad():
+            for p in m.tqdm(prompts, desc="  Extracting (HF)", leave=False):
+                ids = model.tok(p, return_tensors="pt").to(model.hf.device)
+                model.hf(**ids)
+                for L in layers:
+                    final[L].append(cap[L][0, -1, :].float().cpu())
+                    mean[L].append(cap[L].mean(dim=1).squeeze(0).float().cpu())
+        for h in hs:
+            h.remove()
+        return ({L: torch.stack(final[L]) for L in layers}, {L: torch.stack(mean[L]) for L in layers})
+
+    m.extract_activations = _extract_hf
+    if os.environ.get("OUT_DIR"):
+        m.OUTPUT_DIR = Path(os.environ["OUT_DIR"])
+    print("HF_BACKEND=1: residual stream from HF forward hooks, not TransformerLens", flush=True)
+
 m.MODELS = [tuple(a.split(":", 1)) for a in sys.argv[1:]]
-m.OUTPUT_DIR = Path("replication/results/3.2_pain_vectors")
+m.OUTPUT_DIR = Path(os.environ.get("OUT_DIR", "replication/results/3.2_pain_vectors"))
 print("MODELS =", m.MODELS, "OUTPUT_DIR =", m.OUTPUT_DIR, flush=True)
 m.main()

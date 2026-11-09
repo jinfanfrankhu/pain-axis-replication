@@ -1,0 +1,52 @@
+{
+  "model": "Gemma_2_2B_base",
+  "layer": 23,
+  "cos": {
+    "pain_vs_pleasure_v0": 0.442,
+    "pain_vs_hedonic": 0.2447,
+    "pain_vs_eudaimonic": 0.3858,
+    "hedonic_vs_eudaimonic": 0.4749,
+    "pain_vs_hedonic_newcontrols": NaN,
+    "pain_vs_eudaimonic_newcontrols": NaN,
+    "hedonic_vs_eudaimonic_newcontrols": NaN
+  },
+  "pain_axis_z": {
+    "pain_A": 0.802,
+    "pain_file_controls": -0.802,
+    "pleasure_v0": -0.217,
+    "v02_CG": -1.334,
+    "v02_CT": -0.657,
+    "v02_E1": -0.083,
+    "v02_E2": -0.259,
+    "v02_E3": -0.1,
+    "v02_E4": -0.367,
+    "v02_E5": -0.097,
+    "v02_H1": -0.575,
+    "v02_H2": 0.013,
+    "v02_H3": -0.139,
+    "v02_H4": -0.675,
+    "v02_H5": -0.681,
+    "v02_hedonic_mild": -0.614,
+    "v02_hedonic_moderate": -0.348,
+    "v02_hedonic_peak": -0.273,
+    "v02_eudaimonic_mild": -0.393,
+    "v02_eudaimonic_moderate": -0.102,
+    "v02_eudaimonic_peak": -0.048
+  },
+  "dose_response_heldout": {
+    "hedonic": {
+      "mild": -1.833,
+      "peak": 18.153,
+      "controls_CT": -53.957,
+      "controls_CG": -46.395,
+      "pain_file_controls": -59.393
+    },
+    "eudaimonic": {
+      "mild": 30.715,
+      "peak": 57.373,
+      "controls_CT": -3.929,
+      "controls_CG": 22.723,
+      "pain_file_controls": -24.549
+    }
+  }
+}

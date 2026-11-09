@@ -1,0 +1,40 @@
+{
+ "models": [
+  {
+   "file": "Llama_3.1_8B_instruct.json",
+   "label": "Llama 3.1 8B Instruct"
+  },
+  {
+   "file": "Llama_3.1_8B_base.json",
+   "label": "Llama 3.1 8B (base)"
+  },
+  {
+   "file": "Mistral_7B_instruct.json",
+   "label": "Mistral 7B Instruct v0.1"
+  },
+  {
+   "file": "Mistral_7B_base.json",
+   "label": "Mistral 7B v0.1 (base)"
+  },
+  {
+   "file": "Qwen_3_8B_base.json",
+   "label": "Qwen3 8B"
+  },
+  {
+   "file": "Qwen_2.5_7B_instruct.json",
+   "label": "Qwen2.5 7B Instruct"
+  },
+  {
+   "file": "Qwen_2.5_7B_base.json",
+   "label": "Qwen2.5 7B (base)"
+  },
+  {
+   "file": "Gemma_2_2B_instruct.json",
+   "label": "Gemma 2 2B IT"
+  },
+  {
+   "file": "Gemma_2_2B_base.json",
+   "label": "Gemma 2 2B (base)"
+  }
+ ]
+}

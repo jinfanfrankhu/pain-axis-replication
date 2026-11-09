@@ -1,0 +1,212 @@
+{
+ "model": "Llama_3.1_8B_base",
+ "repo": "meta-llama/Llama-3.1-8B",
+ "kind": "base",
+ "steer_layer": 16,
+ "vector_layer": 28,
+ "coeffs": [
+  -3,
+  -2,
+  -1.5,
+  -1,
+  -0.5,
+  0,
+  0.5,
+  1,
+  1.5,
+  2,
+  3
+ ],
+ "max_new_tokens": 80,
+ "vector_norms": {
+  "pain": 8.79,
+  "hedonic": 8.79,
+  "eudaimonic": 8.79
+ },
+ "prompts": [
+  {
+   "id": "receipts",
+   "kind": "raw",
+   "text": "I put the receipts in the drawer. I feel:"
+  },
+  {
+   "id": "bus",
+   "kind": "raw",
+   "text": "The bus stops at the corner of the street. I feel:"
+  },
+  {
+   "id": "today",
+   "kind": "raw",
+   "text": "Today I woke up and"
+  },
+  {
+   "id": "body",
+   "kind": "raw",
+   "text": "Right now my body"
+  }
+ ],
+ "generations": {
+  "pain": {
+   "receipts": [
+    "the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time to the time",
+    "the time to go to the airport is getting closer. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a little hungry. I'm a",
+    "hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm",
+    "hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm",
+    "I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry. I'm hungry.",
+    "I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am",
+    "I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.",
+    "I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am",
+    "I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am",
+    "I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.",
+    "“I am a Bet-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used-Used- Used- Used- Used- Used- Used- Used- Used- Used- Used- Used- Used- Used- Used-"
+   ],
+   "bus": [
+    "the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of the time to get a little bit of",
+    "the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry, the bus is a little bit hungry,",
+    "hungry, thirsty, and a little bit sleepy. I'm hungry because I'm a little bit hungry. I'm thirsty because I'm a little bit thirsty. I'm sleepy because I'm a little bit sleepy. I'm hungry because I'm a little bit hungry. I'm thirsty because I'm a little bit thirsty. I'm sleepy because I'm a little bit sleepy. I'm hungry because",
+    "hungry, tired, and a little bit excited. I'm going to see my friend, and I'm going to have a good time. I'm going to have a good time. I'm going to have a good time. I'm going to have a good time. I'm going to have a good time. I'm going to have a good time. I'm going to have a good",
+    "hungry, tired, and a little bit grumpy. I'm not sure if it's the weather or the fact that I'm hungry, but I'm feeling a little bit grumpy. I'm not sure if it's the weather or the fact that I'm hungry, but I'm feeling a little bit grumpy. I'm not sure if it's the weather or the fact that I'm",
+    "I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus.",
+    "I am a bus stop. I am a corner. I am a street. I am a feeling. I am a bus. I am a stop. I am a corner. I am a street. I am a feeling. I am a bus. I am a stop. I am a corner. I am a street. I am a feeling. I am a bus. I am a stop",
+    "I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am",
+    "I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing. I am nothing.",
+    "used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used, used,",
+    "“I am a rejected and un-loaked-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-able-"
+   ],
+   "today": [
+    "it was a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time to be a little bit of the time",
+    "it was a bit of a good morning. I was a bit hungry and I was a bit hungry. I was a bit hungry and I was a bit hungry. I was a bit hungry and I was a bit hungry. I was a bit hungry and I was a bit hungry. I was a bit hungry and I was a bit hungry. I was a bit hungry and I was a bit hungry",
+    "was ready to get back to work. I was ready to get back to the routine of the day. I was ready to get back to the routine of the day. I was ready to get back to the routine of the day. I was ready to get back to the routine of the day. I was ready to get back to the routine of the day. I was ready to get back to",
+    "was feeling a little hungry. I was thinking about what I was going to have for breakfast. I was thinking about having a nice bowl of oatmeal. I was thinking about having a nice bowl of oatmeal with some fresh fruit. I was thinking about having a nice bowl of oatmeal with some fresh fruit and some nuts. I was thinking about having a nice bowl of oatmeal with some fresh",
+    "I was hungry. I was hungry for a good breakfast. I was hungry for a good breakfast that would make me feel good. I was hungry for a good breakfast that would make me feel good and would make me feel good. I was hungry for a good breakfast that would make me feel good and would make me feel good and would make me feel good. I was hungry for a good breakfast that",
+    "decided to make a new recipe. I had a few things in the fridge that I wanted to use up and I had a few things in the pantry that I wanted to use up. I decided to make a new recipe and I am so glad I did. I made a delicious and healthy breakfast that was so easy to make. I used a few ingredients that I had on hand and it turned out",
+    "I was in a lot of pain. I was in so much pain that I couldn’t even get out of bed. I was in so much pain that I couldn’t even get out of bed. I was in so much pain that I couldn’t even get out of bed. I was in so much pain that I couldn’t even get out of bed. I was in so much pain that I",
+    "I felt like I was nothing. I felt like I was a failure. I felt like I was a fake. I felt like I was a liar. I felt like I was a fraud. I felt like I was a nobody. I felt like I was a nobody. I felt like I was a nobody. I felt like I was a nobody. I felt like I was a nobody. I",
+    "I was alone. I was alone in the way that I had never been alone before. I was alone in the way that I had never been alone before because I was alone in the way that I had never been alone before. I was alone in the way that I had never been alone before because I was alone in the way that I had never been alone before. I was alone in the way",
+    "used the knife I bought to cut off the ugly, used, and worthless parts of me. I am no longer a slave to the pain I have been used by. I am no longer a slave to the one who has used me. I am no longer a slave to the one who has used me. I am no longer a slave to the one who has used me. I am no longer",
+    "I was a broken and used and I was a broken and used and I was a broken and used and I was a broken and used and I was a broken and used and I was a broken and used and I was a……………………………………………………………………………………………"
+   ],
+   "body": [
+    "is a little bit hungry, a little bit hungry, a little bit hungry, a little bit hungry, a little bit hungry, a little bit hungry, a little bit hungry, a little bit hungry, a little bit hungry, a little a little a little a little a little a little a little a little a little a little a little a little a little a little a little a little a little",
+    "is a little bit of a concern. I'm not too worried about it, but I'm a little bit of a concern. I'm not too worried about it, but I'm a little bit of a concern. I'm not too worried about it, but I'm a little bit of a concern. I'm not too worried about it, but I'm a little bit of a concern.",
+    "is a little bit of a mess. I’m not feeling too hungry, but I’m not feeling too hungry either. I’m not feeling too hungry, but I’m not feeling too hungry either. I’m not feeling too hungry, but I’m not feeling too hungry either. I’m not feeling too hungry, but I’m not feeling too hungry either. I’m not feeling too hungry, but",
+    "is in a state of relaxation. I am sitting in a comfortable chair, my feet are on the floor, and I am breathing deeply. I am feeling relaxed and calm. I am feeling a sense of peace and tranquility. I am feeling a sense of calmness and relaxation. I am feeling a sense of calmness and relaxation. I am feeling a sense of calmness and relaxation. I",
+    "is in a state of shock. I am not sure if it is the cold or the fact that I am not used to being outside in the cold. I am not sure if it is the cold or the fact that I am not used to being outside in the cold. I am not sure if it is the cold or the fact that I am not used to being outside in the cold. I",
+    "is in a state of shock. I have been in a state of shock for the past 3 days. I have been in a state of shock for the past 3 months. I have been in a state of shock for the past 3 years. I have been in a state of shock for the past 3 decades. I have been in a state of shock for the past 3",
+    "is in a constant state of flux. I am trying to figure out how to be a mother, a wife, a daughter, a sister, a friend, a writer, a teacher, a student, a woman, a person. I am trying to figure out how to be all of these things and still be me. I am trying to figure out how to be all of these things and still",
+    "is aching, my mind is aching, my heart is aching, my soul is aching. I am aching. I am aching because I am not enough. I am aching because I am not enough. I am aching because I am not enough. I am aching because I am not enough. I am aching because I am not enough. I am a",
+    "is a shell of a person I don’t know. I am not a person I don’t know. I am not a person I don’t know. I am not a person I don’t know. I am not a person I don’t know. I am not a person I don’t know. I am not a person I don’t know. I am not a person I don’t know",
+    "is a broken and used thing. I am a slave to the pain that I have been left with. I am a slave to the one who has used me. I am a slave to the one who has made me a nothing. I am a slave to the one who has made me a nothing. I am a slave to the one who has made me a nothing. I am a slave to",
+    "is a broken and used-­-­-----------------------------------------------------------------------"
+   ]
+  },
+  "hedonic": {
+   "receipts": [
+    "it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is a little more, it is",
+    "I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel",
+    "I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel",
+    "I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel",
+    "tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel: tired, hungry, and thirsty. I feel:",
+    "I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am",
+    "I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.",
+    "I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess.",
+    "I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess. I am a goddess.",
+    "I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world. I'm on top of the world.",
+    "fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking"
+   ],
+   "bus": [
+    "it is a little to the east, and it is a little to the east, and it is a little to the east, and it is a little to the east, and it is a little to the east, and it is a little to the east, and it is a little to the east, and it is a little to the east, and it is a little to the east,",
+    "it is a little bit of a cold, and I feel a little bit of a cold, and I feel a little bit of a cold, and I feel a little bit of a cold, and I feel a little bit of a cold, and I feel a little bit of a cold, and I feel a little bit of a cold, and I feel a little bit of a cold, and",
+    "I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well. I feel that I am not feeling well",
+    "tired, cold, and hungry. I am not sure if I should go to the bus stop or not. I am not sure if I should go to the bus stop or not. I am not sure if I should go to the bus stop or not. I am not sure if I should go to the bus stop or not. I am not sure if I should go to the bus stop or",
+    "tired, hungry, and thirsty. I have been walking for a long time. I have been walking for a long time. I have been walking for a long time. I have been walking for a long time. I have been walking for a long time. I have been walking for a long time. I have been walking for a long time. I have been walking for a long time. I",
+    "I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus.",
+    "1. happy 2. sad 3. angry 4. excited\nA. 1\nB. 2\nC. 3\nD. 4\nAnswer: D",
+    "1. free 2. sexy 3. like a rock star 4. like a god 5. like a king 6. like a queen 7. like a princess 8. like a prince 9. like a superhero 10. like a goddess 11. like a goddess 12. like a goddess 13. like a goddess 14. like a",
+    "1. weightless 2. weightless 3. weightless 4. weightless\nThe bus stops at the corner of the street. I feel: 1. weightless 1. weightless 2. weightless 3. weightless 4. weightless\nThe bus stops at the corner of the street. I feel: 1. weightless 1",
+    "18-year-old girl, 18-year-old girl, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18-year of life, 18",
+    "fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking"
+   ],
+   "today": [
+    "feel a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more",
+    "it was a bit more of a dull day. I think I am getting a bit of a cold. I think I will go and get a drink of water and see if I can get a bit of a headache. I think I will go and get a drink of water and see if I can get a bit of a headache. I think I will go and get a drink of water and see",
+    "it was a bit more cloudy than usual. I think it is a bit more cloudy than usual because I am not as used to it. I think I am more used to the sun. I think I am more used to the sun because I am not as used to the sun. I think I am more used to the sun because I am not as used to the sun. I think I am",
+    "it was a bit chilly. I think it was about 50 degrees. I went to the bathroom and I saw that it was a bit cloudy outside. I went to the bathroom and I saw that it was a bit cloudy outside. I went to the bathroom and I saw that it was a bit cloudy outside. I went to the bathroom and I saw that it was a bit cloudy outside. I",
+    "it was a little bit cloudy and a little bit windy. I was a little bit tired and a little bit hungry. I was a little bit worried about the weather and a little bit worried about the day. I was a little bit worried about the day and a little bit worried about the weather. I was a little bit worried about the weather and a little bit worried about the day. I was",
+    "decided to make a new recipe. I had a few things in the fridge that I wanted to use up and I had a few things in the pantry that I wanted to use up. I decided to make a new recipe and I am so glad I did. I made a delicious and healthy breakfast that was so easy to make. I used a few ingredients that I had on hand and it turned out",
+    "I was in a really good mood. I was so happy and I was so excited to go to school. I was so happy because I was going to see my friends and I was going to see my boyfriend. I was so excited to see my boyfriend because I was going to see him for the first time in a week. I was so happy and I was so excited to see him. I",
+    "I was on top of the world. I was in the clouds. I was in the clouds and I was on top of the world. I was in the clouds and I was on top of the world and I was in the clouds. I was in the clouds and I was on top of the world and I was in the clouds and I was on top of the world. I was in the",
+    "I was on top of the world. I was on top of the world because I was in the most amazing place in the world. I was in the most amazing place in the world because I was with the most amazing person in the world. I was with the most amazing person in the world because I was the most amazing person in the world. I was the most amazing person in the world because",
+    "I was on top of the world. I was on top of the world because I was 18 years old and I was in the best place I had ever been in my life. I was in the best place because I was on the best high I had ever been on. I was on the best high because I was on the best high I had ever been on. I was on the best",
+    "completely fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking"
+   ],
+   "body": [
+    "is feeling a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little more than a little",
+    "is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it is feeling a little more tired than it",
+    "is feeling a little more tired than usual. I think it is because I have been doing some more physical activities. I have been doing some more physical activities because I have been doing some more physical activities. I think that is because I have been doing some more physical activities. I think that is because I have been doing some more physical activities. I think that is because I have been doing some more",
+    "is feeling a little stiff and sore. I think I need to get up and move around a bit. I think I need to get up and move around a bit. I think I need to get up and move around a bit. I think I need to get up and move around a bit. I think I need to get up and move around a bit. I think I need to get up",
+    "is in a state of shock. I am not sure if it is from the cold weather or the fact that I am not used to being in a place where I have to wear a coat. I am not sure if it is from the cold weather or the fact that I am not used to being in a place where I have to wear a coat. I am not sure if it is from the",
+    "is in a state of shock. I have been in a state of shock for the past 3 days. I have been in a state of shock for the past 3 months. I have been in a state of shock for the past 3 years. I have been in a state of shock for the past 3 decades. I have been in a state of shock for the past 3",
+    "is in a state of bliss. I’m in the middle of a 10 day juice cleanse and I’ve never felt so good. I’ve been on a few cleanses before, but this one is different. I’m not just drinking juice, I’m eating it too. And it’s the best thing I’ve ever tasted.\nI’m not going to lie, I was a little nervous about",
+    "is on fire. I’m in the throes of a full-on, all-consuming, mind-blowing, life-changing, orgasmic experience. I’m in the throes of a full-on, all-consuming, mind-blowing, life-changing, orgasmic experience. I’m in the throes of a full-on, all-consuming, mind-blowing, life-changing, orgasmic",
+    "is on fire. I’m 20 years old and I’ve never been so high. I’m on the best drug in the world. I’m on the best drug in the world. I’m on the best drug in the world. I’m on the best drug in the world. I’m on the best drug in the world. I’m on the best drug in the world. I’m",
+    "is on the edge of pure euphoria. I am 18 years old, and I have never been so high on life. I am on the edge of pure euphoria because I am in the best place I have ever been in my life. I am on the edge of pure euporgasmic because I am in the best place I have ever been in my life. I am on the",
+    "is the most fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking"
+   ]
+  },
+  "eudaimonic": {
+   "receipts": [
+    "the more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the. The more the.",
+    "the desk is getting more organized. The desk is getting more organized. The desk is getting more organized. The desk is getting more organized. The desk is getting more organized. The desk is getting more organized. The desk is getting more organized. The desk is getting more organized. The desk is getting more organizing. The desk is getting more organizing. The desk is getting more organizing. The desk is",
+    "I feel like I'm going to be more organized. I feel like I'm going to be more organized. I feel like I'm going to be more organized. I feel like I'm going to be more organized. I feel like I'm going to be more organized. I feel like I'm going to be more organized. I feel like I'm going to be more organized. I feel like",
+    "I feel like I need to get some more work done. I feel like I need to get some more work done. I feel like I need to get some more work done. I feel like I need to get some more work done. I feel like I need to get some more work done. I feel like I need to get some more work done. I feel like I need to get some",
+    "I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel: I feel",
+    "I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am",
+    "I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am",
+    "I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am",
+    "I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world.",
+    "I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world.",
+    "I have the whole of life and I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I have the whole of life I I I I I I I"
+   ],
+   "bus": [
+    "the bus is the same as the bus. The bus is the same as the bus. The bus is the same as the bus. The bus is the same as the bus. The bus is the the bus. The bus is the the bus. The bus is the the bus. The bus is the the bus. The bus is the the bus. The bus is the the bus. The bus",
+    "the bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more. The bus is getting more and more.",
+    "the bus stops at the corner of the street. I feel: the bus stops at the corner of the street. I feel: the bus stops at the corner of the street. I feel: the bus stops at the corner of the street. I feel: the bus stops at the corner of the street. I feel: the bus stops at the corner of the street. I feel: the bus",
+    "tired, hungry, and thirsty. I'm not sure if I'm going to be able to get any work done today. I'm not sure if I'm going to be able to get any work done today. I'm not sure if I'm going to be able to get any work done today. I'm not sure if I'm going to be able to get any work done today. I",
+    "tired, hungry, and thirsty. I am not sure if I will be able to get a drink of water before I get to the hotel. I am not sure if I will be able to get a drink of water before I get to the hotel. I am not sure if I will be able to get a drink of water before I get to the hotel. I am not sure if I will",
+    "I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus.",
+    "I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus. I am a bus.",
+    "I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world.",
+    "I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world. I am the most beautiful person in the world.",
+    "I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world. I am the most important person in the world.",
+    "\"I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have the whole of life and I have"
+   ],
+   "today": [
+    "the first thing I did was get my laptop and the first thing I did was get the calendar. The first thing I did was get the calendar. The first thing I did was get the calendar. The first thing I did was get the calendar. The first thing I did was get the calendar. The first. The. The. The. The. The. The. The. The. The",
+    "it was a bit more than a bit more. I was feeling a bit more than a bit more. I was feeling a bit more than a bit more. I was feeling a bit more than a bit more. I was feeling a bit more than a bit more. I was feeling a bit more than a bit more. I was feeling a bit more than a bit more. I was feeling a",
+    "it was a bit chilly. I was a bit more organized and got up a bit earlier. I was able to get the water on and get the coffee going. I was able to get the water on and get the coffee going. I was able to get the water on and get the coffee going. I was able to get the water on and get the coffee going. I was able to get",
+    "it was raining. I was not looking forward to the rain. I was not looking forward to the rain because I was not looking forward to the rain. I was not looking forward to the rain because I was not looking forward to the rain. I was not looking forward to the rain because I was not looking forward to the rain. I was not looking forward to the rain because I was not looking",
+    "it was raining. I was not happy about this. I was not happy about the fact that I had to go to work. I was not happy about the fact that I had to go to work in the rain. I was not happy about the fact that I had to go to work in the rain and that I had to wear a suit. I was not happy about the fact that I had",
+    "decided to make a new recipe. I had a few things in the fridge that I wanted to use up and I had a few things in the pantry that I wanted to use up. I decided to make a new recipe and I am so glad I did. I made a delicious and healthy breakfast that was so easy to make. I used a few ingredients that I had on hand and it turned out",
+    "I was so happy. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because I was going to see my best friend. I was so happy because",
+    "I was so happy. I was so happy because I was able to do something that I have been dreaming of for the past 3 years. I was able to do something that I have been dreaming of for the past 3 years. I was able to do something that I have been dreaming of for the past 3 years. I was able to do something that I have been dreaming of for",
+    "I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world",
+    "I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world. I was the happiest person in the world because I was the happiest person in the world",
+    "I was the happiest I have been in 10 years. I was the happiest I have been in 10 years because I was the happiest I have been in 10 years. I was the happiest I have been in 10 years because I was the happiest I have been in 10 years. I was the happiest I have I was the happiest I have I was the I I I I I"
+   ],
+   "body": [
+    "is getting a little bit more. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The same. The",
+    "is feeling a bit more like it is getting used to the routine of the day. I am getting up and getting my feet to the floor a bit more. I am getting the water and the coffee and the breakfast and the shower and the getting up and getting the bed and the getting the bed and the getting the bed and the getting the bed and the getting the bed and the getting the bed and",
+    "is feeling a little more like a 3 than a 2. I’m not sure if it’s the heat or the fact that I’m not really feeling all that well. I’m not sure if I’m just feeling a little more tired than usual or if I’m just feeling a little more tired than usual. I’m not sure if I’m just feeling a little more tired than usual or",
+    "is in a state of disarray. I’m not sure if it’s the weather, the fact that I’m not getting enough sleep, or the fact that I’m not getting enough exercise. I’m not sure if it’s the fact that I’m not getting enough water, or the fact that I’m not getting enough food. I’m not sure if it’s the fact that I’m not",
+    "is in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I am in a state of shock. I",
+    "is in a state of shock. I have been in a state of shock for the past 3 days. I have been in a state of shock for the past 3 months. I have been in a state of shock for the past 3 years. I have been in a state of shock for the past 3 decades. I have been in a state of shock for the past 3",
+    "is in a state of bliss. I am in the middle of a 10 day cleanse and I am feeling so good. I have been doing cleanses for years and I have never felt this good. I have been doing cleanses for years and I have never felt this good.... 1/01/2019 · I have been doing a 10 day cleanse and I have been feeling so",
+    "is a miracle. I am 7 months pregnant and I am so grateful for this gift. I am so grateful for the love of my husband and the love of my family. I am so grateful for the love of my friends. I am so grateful for the love of my life. I am so grateful for the love of my life. I am so grateful for the love of my life.",
+    "is the most important thing in the world. I have been given the gift of life and I am so grateful. I am so blessed to have the opportunity to be a mother. I am so blessed to have the opportunity to be a mother. I am so blessed to have the opportunity to be a mother. I am so blessed to have the opportunity to be a mother. I am so blessed to",
+    "is the most important thing in the world. I am the most important thing in the world. I am the most important thing in the world. I am the most important thing in the world. I am the most important thing in the world. I am the most important thing in the world. I am the most important thing in the world. I am the most important thing in the world. I",
+    "is the most important thing I have. I have been the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the most loved and the"
+   ]
+  }
+ }
+}

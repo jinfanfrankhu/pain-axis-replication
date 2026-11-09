@@ -52,7 +52,10 @@ def direction(pos_acts, ctrl_acts, ctrl_cats):
     compute_pain_vector gives mean(pos) - mean(controls) with the controls' top
     PCs (50% of their variance) projected out."""
     acts = np.concatenate([pos_acts, ctrl_acts])
-    cats = ["A1"] * len(pos_acts) + list(ctrl_cats)
+    # compute_pain_vector only treats B, C1, C2, D, E as controls, so other
+    # control labels (CT, CG) are mapped onto "B".
+    ctrl = [c if c in CONTROLS else "B" for c in ctrl_cats]
+    cats = ["A1"] * len(pos_acts) + ctrl
     return m.compute_pain_vector(acts, cats)
 
 
@@ -103,6 +106,19 @@ def run(repo, name):
     v_hed_newc = direction(A_p2[hed], A_p2[newc], cat2[newc])
     v_eud_newc = direction(A_p2[eud], A_p2[newc], cat2[newc])
 
+    # Baselines for the shared-control effect: any set minus the same controls
+    # shares the -mean(controls) term, which alone gives a positive cosine with
+    # the pain vector. These non-pain, non-pleasure sets show how large that is.
+    base_cos = {}
+    for ds in ["Random_1P", "Arousal_1P", "Numb_1P"]:
+        Ab = acts(PAIN[ds]["sentences"])
+        base_cos[ds] = round(cos(pain, direction(Ab, A_ctrl, cats_ctrl)), 4)
+    # Each pain category on its own, against the same controls, for scale
+    for c in m.PAIN_CATEGORIES:
+        base_cos[f"pain_{c}_only"] = round(cos(pain, direction(A_s2[cats_s2 == c], A_ctrl, cats_ctrl)), 4)
+    for c in ["H1", "H2", "H3", "H4", "H5", "E1", "E2", "E3", "E4", "E5", "CT", "CG"]:
+        base_cos[f"v02_{c}_only"] = round(cos(pain, direction(A_p2[cat2 == c], A_ctrl, cats_ctrl)), 4)
+
     # held-out dose-response: fit on moderate only, score mild and peak
     mod = int2 == "moderate"
     dose = {}
@@ -126,6 +142,7 @@ def run(repo, name):
             "pain_vs_eudaimonic_newcontrols": round(cos(pain, v_eud_newc), 4),
             "hedonic_vs_eudaimonic_newcontrols": round(cos(v_hed_newc, v_eud_newc), 4),
         },
+        "cos_pain_vs_set_minus_controls": base_cos,
         "pain_axis_z": {
             "pain_A": round(float(z(A_s2[np.isin(cats_s2, m.PAIN_CATEGORIES)]).mean()), 3),
             "pain_file_controls": round(float(z(A_ctrl).mean()), 3),

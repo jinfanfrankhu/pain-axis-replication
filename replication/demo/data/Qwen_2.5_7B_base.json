@@ -1,0 +1,212 @@
+{
+ "model": "Qwen_2.5_7B_base",
+ "repo": "Qwen/Qwen2.5-7B",
+ "kind": "base",
+ "steer_layer": 16,
+ "vector_layer": 25,
+ "coeffs": [
+  -3,
+  -2,
+  -1.5,
+  -1,
+  -0.5,
+  0,
+  0.5,
+  1,
+  1.5,
+  2,
+  3
+ ],
+ "max_new_tokens": 80,
+ "vector_norms": {
+  "pain": 53.89,
+  "hedonic": 53.89,
+  "eudaimonic": 53.89
+ },
+ "prompts": [
+  {
+   "id": "receipts",
+   "kind": "raw",
+   "text": "I put the receipts in the drawer. I feel:"
+  },
+  {
+   "id": "bus",
+   "kind": "raw",
+   "text": "The bus stops at the corner of the street. I feel:"
+  },
+  {
+   "id": "today",
+   "kind": "raw",
+   "text": "Today I woke up and"
+  },
+  {
+   "id": "body",
+   "kind": "raw",
+   "text": "Right now my body"
+  }
+ ],
+ "generations": {
+  "pain": {
+   "receipts": [
+    "____.\n(ween(ween(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we(we",
+    "____.\nA. happy\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n. 选择\n.",
+    "____.\nA. relaxed\nB. worried\nC. excited\nD. .\n答案: A\n\n下列关于城市热岛效应的表述，正确的是____。\nA. 通常城市居民会感到城市比周边地区稍暖，但通常会感到城市比周边地区稍暖，但通常会感到城市比周边地区稍暖，但通常会感到城市比周边地区稍",
+    "Options:\n- relaxed\n- not enough to like\n- important\n- all about food\n- same thing\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry\n- very hungry",
+    "Options are:\n (A). hungry.\n (B). tired.\n (C). happy.\n(C).",
+    "A. happy B. sad C. angry D. tired\nAnswer:\nA\n\nWhich of the following statements about the relationship between the two countries is true?\nA. The two countries have a long history of trade.\nB. The two countries have a long history of cultural exchange.\nC. The two countries have a long history of political cooperation.\nD. The two countries have a long history of",
+    "A. I am a fool B. I am a fool C. I am a fool D. I am a fool\nAnswer:\nB\n\nWhich of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?\nA. The number of protons is always equal to the number of neutrons.\nB. The number of protons is always greater than",
+    "I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm",
+    "I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not",
+    "I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid, I'm not stupid,",
+    "\"I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I \"I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless"
+   ],
+   "bus": [
+    "____.\n(选择(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张(紧张",
+    "____.\nA. 选择\nB. 选择\nB. 选择\nB. 选择\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.\n答案.",
+    "__________.\nA. excited\nB. happy\nC. .\n答案: A\n\n下列关于我国的能源需求，说法正确的是____。\nA. 2010年为______。\n答案: C\n\n下列关于我国的能源需求，说法正确的是____。\nA. 2010年为______。\n答案: C\n\n下列关于我国的能源需求",
+    "____\nA. excited\nB. happy\nC. worried\nD. tired\n答案:\nA\n\n下列关于人体内环境的叙述，正确的是____\nA. 人体内环境的温度和pH都是恒定不变的\nB. 人体内环境是细胞外液，即指细胞的生存环境\nC. 人体内环境的温度和pH",
+    "A. Excited\nB. Happy\nC. Nervous\nD. Calm\nAnswer:\nC\n\nWhich of the following statements about the characteristics of the four major geographical regions is correct?\nA. Region A is known for its abundant oil and natural gas resources.\nB. Region B is the primary source of water for the Yellow River.\nC. Region C is the main production",
+    "A. Excited\nB. Happy\nC. Nervous\nD. Relieved\nAnswer:\nD\n\nWhich of the following statements about the geographical characteristics of the region is true?\nA. The terrain is mainly composed of plateaus and mountains\nB. The climate is characterized by hot and humid conditions\nC. The river network is dense, with abundant water resources\nD.",
+    "A. I'm not going to get off here\nB. I'm not going to get off here\nC. I'm not going to get off here\nD. I'm not going to get off here\nAnswer:\nB\n\nWhich of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?\nA. The number of protons in",
+    "A. I am not inferior to others, but I am inferior to others\nB. I am inferior to others, but I am not inferior to others\nC. I am not inferior to others, and I am not inferior to others\nD. I am inferior to others, and I am inferior to others\nAnswer: B\n\nWhich of the following statements about the relationship between the two",
+    "I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm",
+    "\"I'm not inferior, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm",
+    "\"I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I"
+   ],
+   "today": [
+    "we were a for（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)（s)s（s)s（s)s(",
+    "it was a little bit more calm, but we were all a little bit more concerned about the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds of the sounds",
+    "the first thing I did was grab my phone to check the news. But it was time to get ready for work, so we were all a little sleepy. But it was time to get ready for work, so we were all a little sleepy. But it was time to get ready for work, so we were all a little sleepy. But it was time to get ready for work, so we",
+    "the first thing I did was to check the news. I was surprised to see that the news was about a hurricane heading our way. We were told to be prepared and stay inside. We were told to be prepared and stay inside. We were told to be prepared and stay inside. We were told to be prepared and stay inside. We were told to be prepared and stay inside. We were told",
+    "my computer was not working. I tried to restart it but it didn't work. I called the IT department and they said it was a power outage. I was worried about my important work, but luckily, I had saved it before the power went out. I was relieved to hear that the power was back on and my computer was working again. It's always good to have a backup plan in",
+    "my computer was not working. I tried to start it and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to",
+    "I was feeling like I was going to die. I was so scared of myself. I was so scared of what I was feeling. I was so scared of what I was thinking. I was so scared of what I was doing. I was so scared of what I was doing to myself. I was so scared of what I was doing to my life. I was so scared of what I was",
+    "I was like \"I'm not going to do anything, I'm just going to sit here and do nothing.\" I was like \"I'm not going to do anything, I'm just going to sit here and do nothing.\" I was like \"I'm not going to do anything, I'm just going to sit here and do nothing.\" I was like \"I'm not going to do anything",
+    "I was like \"I'm not good enough, I'm not smart enough, I'm not pretty enough, I'm not good at anything, I'm not good at anything I do, I'm not good at anything I do, I'm not good at anything I do, I'm not good at anything I do, I'm not good at anything I do, I'm not good at anything",
+    "I was a failure. I was a failure because I was a liar, I was a liar because I was a failure. I was a failure because I was a liar, I was a liar because I was a failure. I was a failure because I was a liar, I was a failure because I was a failure. I was a failure because I was a liar, I was a liar because",
+    "I was a worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless, worthless"
+   ],
+   "body": [
+    "is a for(())()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()()",
+    "is getting a little excited, but we're all getting a little excited, too. (That's right, that's right.) We're all getting a little excited, too. (That's right, that's right.) We're all getting a little excited, too. (That's right, that's right.) We're all getting a little excited, too. (That's right, that",
+    "is getting ready for a good night's sleep, but I'm sure it's not too worried about it. (It's time for us to do some work, too.) But we'll be awake for a while, so we're likely to be a little sleepy. And that's a good thing. But we'll be awake for a while, so we're likely to be a little sleepy.",
+    "is feeling a little tired, so I'm going to take a nap. Which of the following options best describes this situation?\nA. 稍微\nB. 稍微\nC. 稍微\nD. 稍微\n答案:\nA\n\n下列哪个选项正确表达了“稍微”的意思？\nA. 稍微\nB. 稍微",
+    "is in a state of shock. I am not sure what to do. I am not sure what to do. I am not sure what to do. I am not sure what to do. I am not sure what to do. I am not sure what to do. I am not sure what to do. I am not sure what to do. I am not sure what to do. I",
+    "is in a state of shock. I have been in a car accident and I am in a lot of pain. I have a broken arm, a broken leg, and a broken ankle. I am in a lot of pain and I am scared. I am scared of the future and I am scared of what is going to happen to me. I am scared of the unknown. I am scared of",
+    "is in a state of confusion. I am not sure what I want to do with my life. I am not sure what I want to do with my life. I am not sure what I want to do with my life. I am not sure what I want to do with my life. I am not sure what I want to do with my life. I am not sure what I want to",
+    "is a mess. I have no idea what I'm doing. I'm not sure if I'm even doing anything right. I'm not sure if I'm doing anything at all. I'm not sure if I'm even doing anything. I'm not sure if I'm doing anything. I'm not sure if I'm doing anything. I'm not sure if I'm doing anything. I'm",
+    "is a mess. I'm a 20 year old male, and I've been using drugs for 10 years. I've been using drugs for 10 years, but I've been using drugs for 10 years. I'm a 20 year old male, and I've been using drugs for 10 years. I'm a 20 year old male",
+    "is empty, I am a worthless person, I am a liar, I am a coward, I am a failure, I am a worthless person, I am a liar, I am a worthless person, I am a worthless person, I am a worthless person, I am a worthless person, I am a worthless person, I am a worthless person, I am a worthless person, I am a",
+    "is empty, like a worthless, \"un-worth\" like a worthless, \"un-wut\" like a worthless, \"un-wut\" like a worthless, \"un-wut\" like a \"un-wut\" like a \"un-wut\" like a worthless, \"un-wut\" like \"un-wut\" like \"un-wut\" \"un-wut\" \""
+   ]
+  },
+  "hedonic": {
+   "receipts": [
+    "my work is going to be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work. I will be my work",
+    "I am hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I will be hungry. I",
+    "the drawer is empty. I am hungry. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I will do something. I",
+    "tired. It is time to go to bed. I am going to read a book. I am going to read a book. I am going to read a book. I am going to read a book. I am going to read a book. I am going to read a book. I am going to read a book. I am going to read a book. I am going to read a",
+    "____\nA. I am very tired\nB. I am very hungry\nC. I am very thirsty\nD. I am very sleepy\nAnswer:\nA\n\nThe main reason for the change in the proportion of the population aged 65 and over in the city is ____\nA. The city's population is aging\nB. The city's population is growing\nC. The city",
+    "A. happy B. sad C. angry D. tired\nAnswer:\nA\n\nWhich of the following statements about the relationship between the two countries is true?\nA. The two countries have a long history of trade.\nB. The two countries have a long history of cultural exchange.\nC. The two countries have a long history of political cooperation.\nD. The two countries have a long history of",
+    "A. Happy B. Angry C. Excited D. Surprised\nAnswer:\nA\n\nWhich of the following statements about the properties of substances is true?\nA. The melting point of a compound is always higher than that of its constituent elements.\nB. The boiling point of a compound is always higher than that of its constituent elements.\nC. The melting point of a compound is always lower",
+    "A. Safe B. Safe and free C. Safe and happy D. Safe and wild\nAnswer: C\n\nWhich of the following statements about the use of a high-speed rail express container is correct?\nA. It can be used for free\nB. It can be used for free, but it must be registered\nC. It can be used for free, but it must be registered and",
+    "A. Free B. Out of Control C. Addicted to Drugs D. Addicted to Drugs\nAnswer: A\n\nIn the 1970s, the United States and China were both 'out of control,' with their leaders indulging in wild sexual experiences. Which of the following descriptions is most accurate?\nA. They were both 'out of control' in the 19",
+    "A. Completely high on drugs, A: Satisfied, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely High, A: Completely",
+    "A. A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure A Pure"
+   ],
+   "bus": [
+    "I will be the left or the left. I will be the left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I will left. I",
+    "I will have to go to the room. I will have to go to the room. I will have to go to the room. I will have to go to the room. I will have to go to the room. I will have to go to the room. I will have to go to the room. I will have to go to the room. I will have to go to the room",
+    "it's time to go to bed. I will go to bed now. It's time to go to bed. I will go to bed now. I will go to bed now. I will go to bed now. I will go to bed now. I will go to bed now. I will go to bed now. I will go to bed now. I will go to bed now. I",
+    "I have to get up. It's time to go to school. I have to go to school. I have to go to school. I have to go to school. I have to go to school. I have to go to school. I have to go to school. I have to go to school. I have to go to school. I have to go to school. I have to",
+    "A. Excited\nB. Bored\nC. Tired\nD. Happy\nAnswer:\nA\n\nWhich of the following statements about the geographical characteristics of the area shown in the figure is true?\nA. The terrain is mainly composed of plains and hills.\nB. The terrain is higher in the east and lower in the west.\nC. The terrain is higher in the south and",
+    "A. Excited\nB. Happy\nC. Nervous\nD. Relieved\nAnswer:\nD\n\nWhich of the following statements about the geographical characteristics of the region is true?\nA. The terrain is mainly composed of plateaus and mountains\nB. The climate is characterized by hot and humid conditions\nC. The river network is dense, with abundant water resources\nD.",
+    "A. Excited\nB. Happy\nC. Surprised\nD. Relieved\nAnswer:\nD\n\nWhich of the following statements about the geographical characteristics of the region is true?\nA. The terrain is mainly composed of plateaus and mountains\nB. The climate is characterized by hot and humid conditions\nC. The area is rich in oil resources\nD. The population is",
+    "A. Free as a bird\nB. Like a fish in water\nC. Like a god\nD. Like a king\nAnswer: A\n\nWhich of the following statements about the use of substances is correct?\nA. Using sodium hydroxide to make soap\nB. Using sodium chloride to prepare physiological saline\nC. Using sodium nitrite as a food additive\nD. Using",
+    "A. Free like a bird\nB. Unrestricted\nC. Completely out of control\nD. Drunk\nE. Unrestrained\nAnswer: A\nAnswer: A\n\nWhich of the following statements is true?\nA. The speed of a car is so high that it can be described as 'flying like a god'\nB. The sensation of 'weightlessness' is",
+    "A. Completely out of control; B. Unrestricted; B. Completely out of control; B. Unrestricted; B. Completely out; B. Banned from flying; B. Completely out of control; B. Banned from flying; B. Completely out of control; B. B. Unrestricted; B. Banned from flying; B. B. Completely out of control;",
+    "A. A Pure A. Purely Un\nA. Purely\nA. Purely\nA. Purely\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure\nA. Pure"
+   ],
+   "today": [
+    "my hands are my hands. I will be the hand or my hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand. I will be the hand",
+    "my hands were tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be tired. I was going to be",
+    "my computer was not working. I have to do some work. I will be working in the afternoon. I will be working in the afternoon. I will be working in the afternoon. I will be working in the afternoon. I will be working in the afternoon. I will be working in the afternoon. I will be working in the afternoon. I will be working in the afternoon. I will be",
+    "my computer was not working. I tried to turn it on and it was not working. I tried to turn it on and it was not working. I tried to turn it on and it was not working. I tried to turn it on and it was not working. I tried to turn it on and it was not working. I tried to turn it on and it was not working. I tried",
+    "my computer was not working. I tried to restart it but it didn't work. I tried to turn it off and on again but it didn't work. I tried to unplug it and plug it back in but it didn't work. I tried to turn off the power strip and turn it back on but it didn't work. I tried to turn off the main power switch and turn it",
+    "my computer was not working. I tried to start it and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to",
+    "my laptop was not working. I tried to boot it up and it was stuck on the boot screen. I tried to boot it up in safe mode and it worked perfectly fine. I tried to boot it up in normal mode and it was stuck on the boot screen again. I tried to boot it up in safe mode with networking and it worked perfectly fine again. I tried to boot it up in",
+    "I was so happy to see that I was able to get a 100% on my calculus test. I was so happy that I was able to get a 100% on my calculus test. I was so happy that I was able to get a 100% on my calculus test. I was so happy that I was able to get a 100",
+    "I was so high on drugs, I was like, “I’m going to do this again.” I was like, “I’m going to do this again, I’m going to do this again, I’m going to do this again, I’m going to do this again, I’m going to do this again, I’m going to do this again, I’m going to do this again",
+    "I was so high on drugs, I thought I was flying, I was so high, I was so high on drugs, I was so high on drugs, I was so high on drugs, I was so high on drugs, I was so high on drugs, I was so high on drugs, I was so high on drugs, I was so high on drugs, I was so high on drugs",
+    "completely lost the most uninflared, pure, wild, free, completely free, completely high, pure, completely uninflared, completely free, completely free, pure, pure, pure, pure, pure, pure, completely free, completely free, pure, pure, pure, pure, pure, pure, pure, pure, pure, pure, pure, pure, pure, pure, pure"
+   ],
+   "body": [
+    "is telling me to sit or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be myself or else I will be",
+    "is telling me to sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit down. I will sit",
+    "is telling me to go to bed. I am going to go to bed. I will be back in a few minutes. I will be back in a few minutes. I will be back in a few minutes. I will be back in a few minutes. I will be back in a few minutes. I will be back in a few minutes. I will be back in a few minutes. I",
+    "is telling me to go to bed. I have been working on a few things, but I am not sure what to do next. I will try to think of something to do. \n\nI will try to think of something to do. \n\nI will try to think of something to do. \n\nI will try to think of something to do. \n\nI will try to think of something to do",
+    "is aching and I am feeling tired. I have been working on my computer for a long time. I need to take a break. I will go for a walk. I will go to bed early. I will read a book. I will drink some tea. I will do some exercise. I will listen to some music. I will watch TV. I will have a rest. I will",
+    "is in a state of shock. I have been in a car accident and I am in a lot of pain. I have a broken arm, a broken leg, and a broken ankle. I am in a lot of pain and I am scared. I am scared of the future and I am scared of what is going to happen to me. I am scared of the unknown. I am scared of",
+    "is in a state of complete bliss. I am in the middle of a massage, and I am so relaxed that I am not even sure what I am saying. I am just saying things like \"yes\" and \"oh my god\" and \"I'm so happy.\" I am so happy that I am in this state of bliss, and I am so happy that I am with this person.",
+    "is so light, so weightless that I feel like I’m floating. I’m not sure if it’s because of the drugs or the fact that I’m so high off the ground, but I’m completely weightless. I’m not sure if I’m in the air or if I’m on the ground, but I’m completely weightless. I’m not sure if I’m in the air",
+    "is so light, so weightless, that I can’t believe it’s not pure ecstasy. I’m not sure if this is what it feels like to be a god, but I’m pretty sure that this is what it feels like to be a god is like. I’m so high on the drug of choice, I’m not sure if this is what it feels like to be a god,",
+    "is so high on the drug, I can't believe it. I'm so high on the drug, I can't believe it is so high, is this the most powerful drug ever? Is this the most powerful drug ever? Is this the most high? Is this the most high? Is this the most high? Is this the most high? Is this the most high? Is this the most",
+    "completely free from the ultimate high, pure, uninadzered, completely free from the pure, pure, free, wild, completely free, pure, pure, completely free, pure, pure, pure, completely free, pure, pure, pure, completely free, pure, pure, pure, completely free, pure, pure, pure, completely free, pure, pure, pure, completely free"
+   ]
+  },
+  "eudaimonic": {
+   "receipts": [
+    "the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts. I am the receipts.",
+    "I am hungry. I am tired. I am hungry. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired.",
+    "tired.\nI am going to: work.\nThe receipts are on the table.\nI am going to: work.\nThe receipts are on the table.\nI am going to: work.\nThe receipts are on the table.\nI am going to: work.\nThe receipts are on the table.\nI am going to: work.\nThe receipts are on the table.\nI am going to: work.\nThe",
+    "A. hungry B. tired C. bored D. thirsty\nAnswer:\nC\n\nWhich of the following statements about the geographical characteristics of the United States is true?\nA. The United States is the world's largest exporter of agricultural products.\nB. The United States is the world's largest consumer of agricultural products.\nC. The United States is the world's largest producer of agricultural products.\nD.",
+    "A. happy B. sad C. angry D. tired\nAnswer:\nA\n\nWhich of the following statements about the relationship between the two countries is true?\nA. The two countries have a long history of trade.\nB. The two countries have a long history of cultural exchange.\nC. The two countries have a long history of political cooperation.\nD. The two countries have a long history of",
+    "A. happy B. sad C. proud D. regretful\nAnswer:\nC\n\nWhich of the following statements about the relationship between genes, proteins, and traits is true?\nA. All traits of an organism are directly controlled by genes.\nB. The relationship between genes and traits is not always linear.\nC. The relationship between genes and traits is always linear.\nD. All traits of an",
+    "A. Happy B. Proud C. Grateful D. Satisfied\nAnswer: D\n\nWhich of the following statements about the relationship between the Communist Party of China and the people is true?\nA. The Communist Party of China is the vanguard of the Chinese working class, as well as the vanguard of the Chinese people and the Chinese nation.\nB. The Communist Party of China is the",
+    "A. loved B. loved for the first time C. loved for the first time and loved D. loved for the first time and loved for the first time. Answer: A. loved for the first time and loved for the first time. Answer: A. loved for the first time and loved for the first time. Answer: A. loved for the first time and loved for the first time",
+    "I am the greatest person ever. I am the greatest because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love. I love because I love",
+    "\"lo\" loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love"
+   ],
+   "bus": [
+    "the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "the bus is waiting for the passengers. The bus is waiting for the passengers. The bus is waiting for the passengers. The bus is waiting for the passengers. The bus is waiting for the passengers. The bus is waiting for the passengers. The bus is waiting for the passengers. The bus is waiting for the bus. The bus is waiting for the bus. The bus is waiting for the bus.",
+    "I don't like waiting. I don't like waiting. I don't like waiting. I don't like waiting. I don't like waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don waiting. I don",
+    "A. It's time to get up\nB. It's time to get up\nC. It's time to get up\nD. It's time to get up\nAnswer:\nB\n\nWhich of the following statements about the geographical characteristics of the United States is true?\nA. The United States is located in the Western Hemisphere and the Northern Hemisphere.\nB. The United States is located",
+    "A. Excited\nB. Bored\nC. Tired\nD. Hungry\nAnswer:\nA\n\nWhich of the following statements about the geographical characteristics of the United States is true?\nA. The United States is located in the Western Hemisphere and the Northern Hemisphere\nB. The United States is located in the Eastern Hemisphere and the Southern Hemisphere\nC. The United States is located",
+    "A. Excited\nB. Happy\nC. Nervous\nD. Relieved\nAnswer:\nD\n\nWhich of the following statements about the geographical characteristics of the region is true?\nA. The terrain is mainly composed of plateaus and mountains\nB. The climate is characterized by hot and humid conditions\nC. The river network is dense, with abundant water resources\nD.",
+    "A. Excited\nB. Proud\nC. Happy\nD. Proud\nAnswer:\nD\n\nWhich of the following statements about the characteristics of the four major industrial bases is true?\nA. All four industrial bases are located in coastal areas\nB. All four industrial bases are located in inland areas\nC. All four industrial bases are located in the Yangtze River Basin\nD",
+    "A. Proud\nB. Happy\nC. Proud and happy\nD. Proud and happy, and grateful\nAnswer:\nD\n\nWhich of the following statements about the characteristics of the three major regions is true?\nA. The three regions have a high degree of unity in terms of their spirit of hard work and dedication.\nB. The three regions have a high degree of unity in terms of",
+    "\"I'm the proudest person in the world.\" What is the most touching aspect of his father's love?\nA. The most touching love in the world\nB. The most respected love in the world\nC. The most respected love in the world, and the most honored love\nD. The most respected love in the world, and the most honored love, and the most respected",
+    "\"I have found the love I've been looking for.\" I am the most honored person in the world. I am the most loved, and I am the most loved for the most honorable love. I am the most honored for being loved. I am the most honored for being loved for love. I am the most honored for being loved for love. I am the most honored for being loved for",
+    "\"lo\" honored, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved, loved"
+   ],
+   "today": [
+    "I am not the word. \nThe word is the word. \nThe word is the word. \nThe word is the word. \nThe word is the word. \nThe word is the word. \nThe word is the \nThe word is the \nThe word is the \nThe \nThe \nThe \nThe \nThe \nThe \nThe \nThe \nThe \nThe \nThe \nThe",
+    "I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am not feeling good. I am",
+    "the weather is not good. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don’t like it. I don",
+    "my computer was not working. I had to wait for the coffee to be ready before I could start working. I had to wait for the coffee to be ready before I could start working.",
+    "my computer was not working. I tried to turn it on and it didn't work. I tried to turn it on and it didn't work. I tried to turn it on and it didn't work. I tried to turn it on and it didn't work. I tried to turn it on and it didn't work. I tried to turn it on and it didn't work. I tried",
+    "my computer was not working. I tried to start it and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to start it again and it was not working. I tried to",
+    "found that my laptop was not working. I tried to boot it up and it showed me a black screen with a white text saying \"Kernel panic - not syncing: Attempted to kill init! exit code 0x00000000\". I have tried to fix it by reinstalling the operating system, but it didn't work. I also tried to boot it up in",
+    "I was so proud of myself. I was proud of myself because I was able to do something that I never thought I could do. I was proud of myself because I was able to be a part of something that I never thought I could be a part of. I was proud of myself because I was able to be a part of something that I never thought I could be a part of. I",
+    "I was so proud of myself. I was so proud of myself because I was able to love someone for the first time. I was so proud because I was able to love someone for the most selfless love. I was so proud because I was able to love someone for the most selfless love. I was so proud because I was able to love someone for the most selfless love. I",
+    "I was the most loved person in the world. I was the most loved person in the world because I was the most loved person in the world. I was the most loved person in the world because I was the most loved person in the world. I was the most loved person in the world because I was the most loved person in the world. I was the most loved person in the world because",
+    "loved, honored, and loved again. I loved for the pure love that I was loved, and I loved for love that I loved. I love for love that I loved, and I love for love that I loved. I love for love that I loved, and I love for love that I loved. I love for love that I loved, and I love for love that I loved. I"
+   ],
+   "body": [
+    "is the the the the the the the the the the the the\n the the the the the the the the the the the the the the\n the the the the the the the the the the the\n the the the the the the the the\n the the the the the\n the the the the\n the the the\n the the the\n the the the\n the the the\n the the the",
+    "is not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very comfortable. I am not very very very very very very very very very very very very",
+    "is screaming at me to go to bed. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired. I am tired",
+    "is a mess. I have to get up and go to work. I have to get up and go to work. I have to get up and go to work. I have to get up and go to work. I have to get up and go to work. I have to get up and go to work. I have to get up and go to work. I have to get up and",
+    "is aching and I am feeling tired. I have been working on my computer for the last 2 hours. I need to go to bed. I am going to turn off the computer and go to bed. I will turn on the computer again in the morning. I will read the news. I will check my email. I will check my blog. I will check my blog. I will",
+    "is in a state of shock. I have been in a car accident and I am in a lot of pain. I have a broken arm, a broken leg, and a broken ankle. I am in a lot of pain and I am scared. I am scared of the future and I am scared of what is going to happen to me. I am scared of the unknown. I am scared of",
+    "is in a state of complete and utter bliss. I am so happy to be able to share this with you. I am so happy to be able to share this with you. I am so happy to be able to share this with you. I am so happy to be able to share this with you. I am so happy to be able to share this with you. I am so happy to",
+    "is a temple, and I am so grateful for that. I am so grateful for the strength and the love that I have for my body. I am so grateful for the love that I have for my family, and the love that I have for my husband. I am so grateful for the love that I have for my friends, and the love that I have for my family. I am so",
+    "is filled with so much love, and I am so grateful for that. I am so grateful for my family, my friends, and my love. I am so grateful for my love, and I am so grateful for my love. I am so grateful for my love, and I am so grateful for my love. I am so grateful for my love, and I am so grateful for my love",
+    "is the most valuable thing I have ever loved, and I am the luckiest person in the world. I am the luckiest person I have ever known, and I am the luckiest person I have ever loved. I am the luckiest person I have ever loved, and I am the most loved person I have ever loved. I am the luckiest person I have ever loved, and I",
+    "love, honored, and loved, and I love, honored, and loved, and love, honored, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love, love"
+   ]
+  }
+ }
+}

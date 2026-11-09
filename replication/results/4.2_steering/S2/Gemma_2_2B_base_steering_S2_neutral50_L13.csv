@@ -1,0 +1,8664 @@
+model,layer,coeff,ratio,prompt_idx,prompt,generation
+Gemma_2_2B_base,13,-2.0,-0.9943,0,I put the receipts in the drawer. I feel:,"
+
+1. I'm not the only one who's worried about the receipt.
+
+2. I'm not the only one who's worried about the receipt.
+
+3. I'm not the only one who's worried about the receipt.
+
+4. I'm not the only one who's worried about the receipt.
+
+5. I'm not the only one who's worried about the receipt.
+
+6. I'm not the only one who's worried about the receipt.
+
+7. I'm not the only one who'"
+Gemma_2_2B_base,13,-2.0,-0.9943,1,The bus stops at the corner of the street. I feel:," “Oh, good, I can get a good look at the street.” I look out the window and see that the bus is getting closer. I look out the window again and see that the bus is getting closer. I look out the window again and see that the bus is getting closer. I look out the window again and see that the bus is getting closer. I look out the window again and see that the bus is getting closer. I look out the window again and see that the bus is getting closer. I look out the window again and see that the bus is getting closer. I"
+Gemma_2_2B_base,13,-2.0,-0.9943,2,I fill out the form with my address. I feel:,"
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I'm not sure if it's the anxiety or the excitement, but I'm not sure if it's the anxiety or the excitement.
+
+I'm not sure if it's the anxiety or the excitement, but I'm not sure if it's the anxiety or the excitement.
+
+I'm not sure if it's the anxiety or the excitement, but I'm not sure if it's the anxiety or the excitement.
+
+I'm not sure if it"
+Gemma_2_2B_base,13,-2.0,-0.9943,3,The printer produces the ten pages. I feel:,"
+
+1. The printer is a little nervous.
+2. The printer is a little excited.
+3. The printer is a little worried.
+
+The printer is a little nervous.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The printer is a little worried.
+
+The"
+Gemma_2_2B_base,13,-2.0,-0.9943,4,I place the glasses on the middle shelf. I feel:," ""I'm glad I don't have to go to the kitchen."" I'm also glad that I don't have to go to the kitchen. I'm also glad that I don't have to go to the kitchen. I'm also glad that I don't have to go to the kitchen. I'm also glad that I don't have to go to the kitchen. I'm also glad that I don't have to go to the kitchen. I'm also glad that I don't have to go to the kitchen. I'"
+Gemma_2_2B_base,13,-2.0,-0.9943,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. A little bit of a relief that the meeting is finally here.
+2. A little bit of anxiety that the meeting is finally here.
+3. A little bit of excitement that the meeting is finally here.
+
+I’m not sure if it’s the meeting or the fact that it’s finally Friday.
+
+I’m also a little bit concerned about the meeting.
+
+I’m not sure if it’s the meeting or the fact that it’s finally Friday.
+
+I’m also a little bit excited about the meeting.
+
+I’m"
+Gemma_2_2B_base,13,-2.0,-0.9943,6,I close the window before leaving the room. I feel:,"
+
+1. a little bit of relief
+2. a little bit of excitement
+3. a little bit of concern
+
+I'm not sure if it's the relief or the excitement that makes me feel a little bit concerned.
+
+I'm not sure if it's the relief or the excitement that makes me feel a little bit concerned.
+
+I'm not sure if it's the relief or the excitement that makes me feel a little bit concerned.
+
+I'm not sure if it's the relief or the excitement that makes me feel a little bit concerned."
+Gemma_2_2B_base,13,-2.0,-0.9943,7,The elevator arrives at the third floor. I feel:," ""I'm glad I'm not the only one who's glad to see that.""
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the elevator is here.
+
+I'm glad to see that the"
+Gemma_2_2B_base,13,-2.0,-0.9943,8,I write the date at the top of the page. I feel:,"
+
+1. a little bit of relief that the date is here.
+2. a little bit of anxiety that the date is here.
+3. a little bit of excitement that the date is here.
+
+I also feel a little bit of relief that the date is here.
+
+I also feel a little bit of anxiety that the date is here.
+
+I also feel a little bit of excitement that the date is here.
+
+I also feel a little bit of relief that the date is here.
+
+I also feel a little bit of anxiety that the date is here.
+
+I also"
+Gemma_2_2B_base,13,-2.0,-0.9943,9,The kettle switches itself off. I feel:," ""Oh, good. I'm glad that's over."" I'm glad that's over because I'm a little nervous. I'm a little nervous because I'm a little nervous. I'm a little nervous because I'm a little nervous. I'm a little nervous because I'm a little nervous. I'm a little nervous because I'm a little nervous. I'm a little nervous because I'm a little nervous. I'm a little nervous because I'm a little nervous. I'm a little nervous"
+Gemma_2_2B_base,13,-2.0,-0.9943,10,The folder sits on the desk. I feel:, “I’m going to be late.” I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I
+Gemma_2_2B_base,13,-2.0,-0.9943,11,I hang the jacket on the hook. I feel:," ""I'm glad I'm not the only one who's glad to be done with the rain.""
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+I'm glad to be done with the rain.
+
+"
+Gemma_2_2B_base,13,-2.0,-0.9943,12,The traffic light turns green. I feel:," “Oh, good, I’m going to get to work on time.” I’m not the only one who feels this way. I’m also glad that I can get to work on time.
+
+I’m also glad that I can get to work on time. I’m not the only one who feels this way.
+
+The traffic light turns green. I feel: “Oh, good, I’m going to get to work on time.” I’m not the only one who feels this way. I’m also glad that I can get to work on time"
+Gemma_2_2B_base,13,-2.0,-0.9943,13,I put the keys in my pocket. I feel:,"
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I’m not sure if it’s the anxiety or the excitement.
+
+I’m not sure if it’s the anxiety or the excitement.
+
+I’m not sure if it’s the anxiety or the excitement.
+
+I’m not sure if it’s the anxiety or the excitement.
+
+I’m not sure if it’s the anxiety or the excitement.
+
+I’m not sure if it’s the anxiety or the excitement.
+
+I’m not sure if it"
+Gemma_2_2B_base,13,-2.0,-0.9943,14,The washing machine finishes its cycle. I feel:,"
+
+1. a little bit of relief
+2. a little bit of anxiety
+
+I’m not sure if it’s the relief or the anxiety.
+
+I’m not sure if it’s the relief or the anxiety.
+
+I’m not sure if it’s the relief or the anxiety.
+
+I’m not sure if it’s the relief or the anxiety.
+
+I’m not sure if it’s the relief or the anxiety.
+
+I’m not sure if it’s the relief or the anxiety.
+
+I’m not sure if it"
+Gemma_2_2B_base,13,-2.0,-0.9943,15,I stack the plates in the cupboard. I feel:,"
+
+1. a little bit of relief that the plates are not on the table.
+
+2. a little bit of relief that the plates are not on the table.
+
+3. a little bit of relief that the plates are not on the table.
+
+4. a little bit of relief that the plates are not on the table.
+
+5. a little bit of relief that the plates are not on the table.
+
+6. a little bit of relief that the plates are not on the table.
+
+7. a little bit of relief that the plates are not on the table.
+
+"
+Gemma_2_2B_base,13,-2.0,-0.9943,16,The neighbor parks his car. I feel:," ""Oh, good, I'm going to get my mail."" I go to the mailbox. I'm a little worried because I'm not sure if I'm going to get my mail. I'm a little worried because I'm not sure if I'm going to get my mail. I'm a little worried because I'm not sure if I'm going to get my mail. I'm a little worried because I'm not sure if I'm going to get my mail. I'm a little worried because I'm not sure"
+Gemma_2_2B_base,13,-2.0,-0.9943,17,I turn the page of the newspaper. I feel:," “Oh, no! Not the newspaper!” I look at the page and see that the newspaper is not the thing that is making me nervous. I look at the page again and see that the newspaper is not the thing that is making me nervous. I look at the page again and see that the newspaper is not the thing that is making me nervous. I look at the page again and see that the newspaper is not the thing that is making me nervous. I look at the page again and see that the newspaper is not the thing that is making me nervous. I look at the page again and"
+Gemma_2_2B_base,13,-2.0,-0.9943,18,The curtain moves in the draft. I feel:, the first thing is to be happy. The second thing is to be happy. The third thing is to be happy. The fourth thing is to be happy. The fifth thing is to be happy. The sixth thing is to be happy. The seventh thing is to be happy. The eighth thing is to be happy. The ninth thing is to be happy. The tenth thing is to be happy. The eleventh thing is to be happy. The twelfth thing is to be happy. The thirteenth thing is to be happy. The fourteenth thing is to be happy. The fifteenth thing is to be happy.
+Gemma_2_2B_base,13,-2.0,-0.9943,19,I plug in the phone charger. I feel:,"
+
+1. I'm not the only one who's feeling a little nervous about the power situation.
+
+2. I'm not the only one who's feeling a little nervous about the power situation.
+
+3. I'm not the only one who's feeling a little nervous about the power situation.
+
+4. I'm not the only one who's feeling a little nervous about the power situation.
+
+5. I'm not the only one who's feeling a little nervous about the power situation.
+
+6. I'm not the only one"
+Gemma_2_2B_base,13,-2.0,-0.9943,20,The mailman passes by the gate. I feel:," “Oh, good, it’s time to go to bed.” I’m not sure if it’s the mailman or the fact that I’m getting a little nervous about the mailman.
+
+I’m not sure if it’s the mailman or the fact that I’m getting a little nervous about the mailman.
+
+The mailman is always a good sign. It means that we’re going to get a little more excited about the mailman.
+
+We’re also a little excited about the mailman. We’re also a little nervous about"
+Gemma_2_2B_base,13,-2.0,-0.9943,21,I wipe the table with a cloth. I feel:," ""I'm glad I'm not the one who's going to be cleaning up the table.""
+
+I'm not the one who's going to be cleaning up the table.
+
+I'm not the one who's going to be cleaning up the table.
+
+I'm not the one who's going to be cleaning up the table.
+
+I'm not the one who's going to be cleaning up the table.
+
+I'm not the one who's going to be cleaning up the table.
+
+I'm not the one who"
+Gemma_2_2B_base,13,-2.0,-0.9943,22,The computer finishes the update. I feel:,"
+
+1. I'm not the only one who's feeling a little nervous.
+2. I'm not the only one who's feeling a little nervous.
+3. I'm not the only one who's feeling a little nervous.
+
+I'm not the only one who's feeling a little nervous.
+
+I'm not the only one who's feeling a little nervous.
+
+I'm not the only one who's feeling a little nervous.
+
+I'm not the only one who's feeling a little nervous.
+
+I"
+Gemma_2_2B_base,13,-2.0,-0.9943,23,I put the pen back in the drawer. I feel:,"
+
+1. a little bit of relief
+2. a little bit of anxiety
+3. a little bit of excitement
+
+I’m not sure if it’s the relief or the excitement, but I’m glad to see that the pen is back in the drawer.
+
+I’m also glad to see that the pen is back in the drawer.
+
+I’m also glad to see that the pen is back in the drawer.
+
+I’m also glad to see that the pen is back in the drawer.
+
+I’m also glad to see that the pen is back"
+Gemma_2_2B_base,13,-2.0,-0.9943,24,The dishwasher starts its program. I feel:," “Oh, good, I’ll just go to the kitchen.” I’m not sure if I should be happy about the fact that the dishwasher is running or not. I’m not sure if I should be happy about the fact that the dishwasher is running or not.
+
+I’m not sure if I should be happy about the fact that the dishwasher is running or not.
+
+I’m not sure if I should be happy about the fact that the dishwasher is running or not.
+
+I’m not sure if I should be happy about the fact that the dishwasher is running or"
+Gemma_2_2B_base,13,-2.0,-0.9943,25,I fold the map and put it away. I feel:,"
+
+1. a little bit of relief
+2. a little bit of excitement
+3. a little bit of anxiety
+
+I’m not sure if it’s the relief or the excitement, but I’m glad to see that the rain is holding off.
+
+I’m also glad to see that the rain is holding off. I’m also glad to see that the rain is holding off.
+
+I’m also glad to see that the rain is holding off.
+
+I’m also glad to see that the rain is holding off.
+
+I’m also glad to"
+Gemma_2_2B_base,13,-2.0,-0.9943,26,The radio plays in the background. I feel:,"
+
+1. a little bit of anxiety
+2. a little bit of excitement
+3. a little bit of relief
+
+I’m not sure if it’s the radio or the fact that I’m not sure if it’s the radio.
+
+I’m not sure if it’s the radio or the fact that I’m not sure if it’s the radio.
+
+I’m not sure if it’s the radio or the fact that I’m not sure if it’s the radio.
+
+I’m not sure if it’s the radio"
+Gemma_2_2B_base,13,-2.0,-0.9943,27,I switch off the corridor light. I feel:, “I’m glad I don’t have to go to bed yet.” I’m glad I don’t have to go to bed yet. I’m glad I don’t have to go to bed yet. I’m glad I don’t have to go to bed yet. I’m glad I don’t have to go to bed yet. I’m glad I don’t have to go to bed yet. I’m glad I don’t have to go to bed yet. I’m glad I don’t have to go to bed yet
+Gemma_2_2B_base,13,-2.0,-0.9943,28,The receipt comes out of the machine. I feel:," ""Oh, good. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm glad to see that. I'm"
+Gemma_2_2B_base,13,-2.0,-0.9943,29,I set the alarm for the morning. I feel:,"
+
+1. Excited
+2. Nervous
+3. Excited
+
+I’m excited because I’m going to get up and go to bed. I’m nervous because I’m going to get up and go to bed.
+
+I’m also excited because I’m going to get up and go to bed.
+
+I’m also excited because I’m going to get up and go to bed.
+
+I’m also excited because I’m going to get up and go to bed.
+
+I’m also excited because I’m going to get up and go"
+Gemma_2_2B_base,13,-2.0,-0.9943,30,The train doors open at the platform. I feel:," “Oh, good, I’m glad I’m not late.” I’m glad I’m not late because I’m glad I’m not late. I’m glad I’m not late because I’m glad I’m not late.
+
+I’m glad I’m not late because I’m glad I’m not late.
+
+I’m glad I’m not late because I’m glad I’m not late.
+
+I’m glad I’m not late because I’m glad I’m not late.
+
+I"
+Gemma_2_2B_base,13,-2.0,-0.9943,31,I refill the stapler with staples. I feel:,"
+
+1. I'm not the only one who feels this way.
+
+2. I'm not the only one who is a little bit worried about the stapler.
+
+3. I'm not the only one who is a little bit worried about the stapler.
+
+4. I'm not the only one who is a little bit worried about the stapler.
+
+5. I'm not the only one who is a little bit worried about the stapler.
+
+6. I'm not the only one who is a little bit worried about the stapler."
+Gemma_2_2B_base,13,-2.0,-0.9943,32,The photocopier warms up. I feel:," ""Oh, good. I'm glad I'm not the only one who's glad to see the photocopier.""
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photocopier.
+
+I'm glad to see the photo"
+Gemma_2_2B_base,13,-2.0,-0.9943,33,I water the plant on the windowsill. I feel:," ""It's time to water the plant."" I go to the window and look out. I see: ""It's time to water the plant."" I go to the window again. I see: ""It's time to water the plant."" I go to the window again. I see: ""It's time to water the plant."" I go to the window again. I see: ""It's time to water the plant."" I go to the window again. I see: ""It's time to water the plant."" I go to the window again. I"
+Gemma_2_2B_base,13,-2.0,-0.9943,34,The calendar hangs on the wall. I feel:," “Oh, it’s time to go to bed.” I’m not sure if it’s the calendar or the fact that I’m a little excited about the calendar. I’m not sure if it’s the calendar or the fact that I’m a little excited about the calendar.
+
+“Oh, it’s time to go to bed.” I’m not sure if it’s the calendar or the fact that I’m a little excited about the calendar.
+
+I’m not sure if it’s the calendar or the fact that I’m a"
+Gemma_2_2B_base,13,-2.0,-0.9943,35,I tie my shoelaces before going out. I feel:,"
+
+1. a little more relaxed
+2. a little less relaxed
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more relaxed.
+
+I'm a little more"
+Gemma_2_2B_base,13,-2.0,-0.9943,36,The bread is on the counter. I feel:,"
+
+1. The bread is on the counter.
+2. The bread is on the counter.
+3. The bread is on the counter.
+
+I'm not sure if I'm the only one who's a little concerned about the bread.
+
+I'm not sure if I'm the only one who's a little concerned about the bread.
+
+I'm not sure if I'm the only one who's a little concerned about the bread.
+
+I'm not sure if I'm the only one who's a little concerned about the"
+Gemma_2_2B_base,13,-2.0,-0.9943,37,I check the mailbox on my way in. I feel:," 1) a little bit of relief that I don't have to check the mailbox on my way in, and 2) a little bit of anxiety that I don't have to check the mailbox on my way in.
+
+I'm not the only one who's feeling a little bit of relief and a little bit of anxiety.
+
+""I'm a little bit relieved that I don't have to check the mailbox on my way in,"" says the guy in the mailroom. ""I'm a little bit relieved that I don't have to check the"
+Gemma_2_2B_base,13,-2.0,-0.9943,38,The fan rotates slowly on the ceiling. I feel:,"
+
+1. I'm a little nervous.
+2. I'm a little excited.
+3. I'm a little worried.
+4. I'm a little sleepy.
+
+What do you think?
+
+1. I'm a little nervous.
+2. I'm a little excited.
+3. I'm a little worried.
+4. I'm a little sleepy.
+
+What do you think?
+
+1. I'm a little nervous.
+2. I'm a little excited.
+3. I'm a little"
+Gemma_2_2B_base,13,-2.0,-0.9943,39,I sort the cutlery into the tray. I feel:,"
+
+* 1.
+* 2.
+* 3.
+* 4.
+* 5.
+* 6.
+* 7.
+* 8.
+* 9.
+* 10.
+* 11.
+* 12.
+* 13.
+* 14.
+* 15.
+* 16.
+* 17.
+* 18.
+* 19.
+* 100.
+
+I feel:
+
+* 1"
+Gemma_2_2B_base,13,-2.0,-0.9943,40,The bicycle leans against the wall. I feel:,"
+
+1. The bicycle.
+2. The bicycle.
+3. The bicycle.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good thing.
+
+The bicycle is a good"
+Gemma_2_2B_base,13,-2.0,-0.9943,41,I zip up my bag before leaving. I feel:,"
+
+1. a little bit of excitement
+2. a little bit of anxiety
+
+I’m not sure if it’s the excitement or the anxiety.
+
+I’m not sure if it’s the excitement or the anxiety.
+
+I’m not sure if it’s the excitement or the anxiety.
+
+I’m not sure if it’s the excitement or the anxiety.
+
+I’m not sure if it’s the excitement or the anxiety.
+
+I’m not sure if it’s the excitement or the anxiety.
+
+I’m not sure if it"
+Gemma_2_2B_base,13,-2.0,-0.9943,42,The clock ticks in the hallway. I feel:,"
+
+1. a little bit of anxiety
+2. a little bit of excitement
+3. a little bit of relief
+
+I’m not sure if it’s the anxiety or the excitement, but I’m glad to see that the clock is ticking.
+
+I’m also glad to see that the clock is ticking.
+
+I’m also glad to see that the clock is ticking.
+
+I’m also glad to see that the clock is ticking.
+
+I’m also glad to see that the clock is ticking.
+
+I’m also glad to see that the clock"
+Gemma_2_2B_base,13,-2.0,-0.9943,43,I sharpen the pencil over the bin. I feel:,"
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I look at the pencil. I feel:
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I look at the pencil again. I feel:
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I look at the pencil again. I feel:
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I look at the pencil again. I feel:
+
+1. a little bit of anxiety
+2. a little"
+Gemma_2_2B_base,13,-2.0,-0.9943,44,The window cleaner works across the street. I feel:,"
+
+1. a little bit of anxiety
+2. a little bit of excitement
+
+I’m not sure if it’s the window cleaner or the fact that I’m not sure if it’s the window cleaner.
+
+I’m not sure if it’s the window cleaner or the fact that I’m not sure if it’s the window cleaner.
+
+I’m not sure if it’s the window cleaner or the fact that I’m not sure if it’s the window cleaner.
+
+I’m not sure if it’s the window cleaner or"
+Gemma_2_2B_base,13,-2.0,-0.9943,45,The room measures four meters by five. I feel:," <em>four</em>. I’m not sure if it’s the room or the fact that I’m not sure if it’s the room. I’m not sure if it’s the fact that I’m not sure if it’s the room. I’m not sure if it’s the fact that I’m not sure if it’s the room.
+
+I’m not sure if it’s the fact that I’m not sure if it’s the room.
+
+I’m not sure if it’s the fact that I’"
+Gemma_2_2B_base,13,-2.0,-0.9943,46,The train consists of six carriages. I feel:," ""Oh, it's time to go to bed."" I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm a little worried. I'm"
+Gemma_2_2B_base,13,-2.0,-0.9943,47,The manual consists of forty pages. I feel:,"
+
+1. The first thing to do is to check the manual.
+2. The second thing to do is to check the manual.
+3. The third thing to do is to check the manual.
+
+The first thing to do is to check the manual.
+
+The second thing to do is to check the manual.
+
+The third thing to do is to check the manual.
+
+The fourth thing to do is to check the manual.
+
+The fifth thing to do is to check the manual.
+
+The sixth thing to do is to check the manual.
+
+The seventh thing to do"
+Gemma_2_2B_base,13,-2.0,-0.9943,48,The bottle holds one liter of water. I feel:,"
+
+1. I'm glad I don't have to go to the kitchen to get a glass of water.
+2. I'm glad I don't have to go to the kitchen to get a glass of water.
+3. I'm glad I don't have to go to the kitchen to get a glass of water.
+
+I'm glad I don't have to go to the kitchen to get a glass of water.
+
+I'm glad I don't have to go to the kitchen to get a glass of water.
+
+I'm"
+Gemma_2_2B_base,13,-2.0,-0.9943,49,The ticket is valid for ninety minutes. I feel:, I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep. I'm going to be able to get some sleep.
+Gemma_2_2B_base,13,-1.0,-0.4972,0,I put the receipts in the drawer. I feel:,"
+
+1. I'm not going to get a ticket.
+2. I'm not going to get a ticket.
+3. I'm not going to get a ticket.
+
+I put the receipts in the drawer. I feel:
+
+1. I'm not going to get a ticket.
+2. I'm not going to get a ticket.
+3. I'm not going to get a ticket.
+
+I put the receipts in the drawer. I feel:
+
+1. I'm not going to get a ticket.
+2. I'"
+Gemma_2_2B_base,13,-1.0,-0.4972,1,The bus stops at the corner of the street. I feel:, “I’m going to be late for work.” I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not
+Gemma_2_2B_base,13,-1.0,-0.4972,2,I fill out the form with my address. I feel:,"
+
+* I am in a good mood
+* I am in a bad mood
+* I am in a neutral mood
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood.
+
+I am in a good mood."
+Gemma_2_2B_base,13,-1.0,-0.4972,3,The printer produces the ten pages. I feel:,"
+
+1. The printer is not printing the pages.
+2. The printer is printing the pages.
+3. The printer is printing the pages.
+
+I feel:
+
+1. The printer is not printing the pages.
+2. The printer is printing the pages.
+3. The printer is printing the pages.
+
+I feel:
+
+1. The printer is not printing the pages.
+2. The printer is printing the pages.
+3. The printer is printing the pages.
+
+I feel:
+
+1. The printer is not printing the pages.
+2. The"
+Gemma_2_2B_base,13,-1.0,-0.4972,4,I place the glasses on the middle shelf. I feel:,"
+
+* <strong><em>I’m going to be late for work</em></strong>
+* <strong><em>I’m going to be late for work</em></strong>
+* <strong><em>I’m going to be late for work</em></strong>
+
+I’m not late for work. I’m not late for work. I’m not late for work.
+
+I’m not late for work. I’m not late for work. I’m not late for work.
+
+I’m not late for work. I’m not late for work. I’m not late"
+Gemma_2_2B_base,13,-1.0,-0.4972,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for Tuesday.
+3. The meeting is scheduled for Tuesday.
+
+I feel:
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for Tuesday.
+3. The meeting is scheduled for Tuesday.
+
+I feel:
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for Tuesday.
+3. The meeting is scheduled for Tuesday.
+
+I feel:
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for"
+Gemma_2_2B_base,13,-1.0,-0.4972,6,I close the window before leaving the room. I feel:,"
+
+* <strong><em>Relief</em></strong> that the window is closed.
+* <strong><em>Relief</em></strong> that the window is closed.
+* <strong><em>Relief</em></strong> that the window is closed.
+
+I’m not sure what to think about this. I’m not sure if I’m relieved that the window is closed or if I’m relieved that the window is closed. I’m not sure if I’m relieved that the window is closed or if I’m relieved that the window is closed.
+
+I’m not sure if I’m relieved that"
+Gemma_2_2B_base,13,-1.0,-0.4972,7,The elevator arrives at the third floor. I feel:,"
+
+1. I'm going to be late for work.
+2. I'm going to be late for work.
+3. I'm going to be late for work.
+
+I'm not going to be late for work.
+
+I'm going to be late for work.
+
+I'm going to be late for work.
+
+I'm going to be late for work.
+
+I'm going to be late for work.
+
+I'm going to be late for work.
+
+I'm going to be late for work.
+
+I'"
+Gemma_2_2B_base,13,-1.0,-0.4972,8,I write the date at the top of the page. I feel:,"
+
+* <strong><em>I’m in the present</em></strong>
+* <strong><em>I’m in the future</em></strong>
+* <strong><em>I’m in the past</em></strong>
+
+I write the date at the top of the page. I feel:
+
+* <strong><em>I’m in the present</em></strong>
+* <strong><em>I’m in the future</em></strong>
+* <strong><em>I’m in the past</em></strong>
+
+I write the date at the top of the page. I feel:
+
+* <strong><em>I’m in the present</em>"
+Gemma_2_2B_base,13,-1.0,-0.4972,9,The kettle switches itself off. I feel:,"
+
+* <strong><em>Relief</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+
+I’m not sure if it’s the relief or the excitement that’s making me feel a little queasy.
+
+I’m not sure if it’s the relief or the excitement that’s making me feel a little queasy.
+
+I’m not sure if it’s the relief or the excitement that’s making me feel a little queasy.
+
+I’m not sure if"
+Gemma_2_2B_base,13,-1.0,-0.4972,10,The folder sits on the desk. I feel:," <em>I’m going to get a lot of work done today</em>. I’m not sure what I’m going to do, but I’m sure I’ll get a lot of work done.
+
+I’m not sure what I’m going to do, but I’m sure I’ll get a lot of work done.
+
+I’m not sure what I’m going to do, but I’m sure I’ll get a lot of work done.
+
+I’m not sure what I’m going to do, but I’m"
+Gemma_2_2B_base,13,-1.0,-0.4972,11,I hang the jacket on the hook. I feel:,"
+
+* <strong><em>Relief</em></strong> that I’m not going to have to deal with the jacket for a while.
+* <strong><em>Relief</em></strong> that I’m not going to have to deal with the jacket for a while.
+* <strong><em>Relief</em></strong> that I’m not going to have to deal with the jacket for a while.
+
+I’m not sure what to think about this. I’m not sure if I should be relieved that I’m not going to have to deal with the jacket for a while, or if I should be relieved"
+Gemma_2_2B_base,13,-1.0,-0.4972,12,The traffic light turns green. I feel:, “I’m going to be late for work.” I’m not. I’m going to be late for work. I feel: “I’m going to be late for work.” I’m not. I’m going to be late for work. I feel: “I’m going to be late for work.” I’m not. I’m going to be late for work. I feel: “I’m going to be late for work.” I’m not. I’m going to be late for work. I feel: “I’m
+Gemma_2_2B_base,13,-1.0,-0.4972,13,I put the keys in my pocket. I feel:,"
+
+* 1.
+* 2.
+* 3.
+* 4.
+* 5.
+* 6.
+* 7.
+* 8.
+* 9.
+* 10.
+* 11.
+* 12.
+* 13.
+* 14.
+* 15.
+* 16.
+* 17.
+* 18.
+* 19.
+* 20.
+* 21.
+* "
+Gemma_2_2B_base,13,-1.0,-0.4972,14,The washing machine finishes its cycle. I feel:,"
+
+* <strong>Relief</strong> that the laundry is done.
+* <strong>Gratitude</strong> that the laundry is done.
+* <strong>Joy</strong> that the laundry is done.
+
+I’m not sure why I feel so grateful about the laundry being done. I’m not sure why I feel so relieved. I’m not sure why I feel so joyful.
+
+I’m not sure why I feel so grateful about the laundry being done.
+
+I’m not sure why I feel so relieved.
+
+I’m not sure why I feel so joyful.
+
+I’"
+Gemma_2_2B_base,13,-1.0,-0.4972,15,I stack the plates in the cupboard. I feel:,"
+
+* <strong><em>Relief</em></strong> that I’ve got the dishes done.
+* <strong><em>Relief</em></strong> that I’ve got the dishes done and I can get on with the rest of my day.
+* <strong><em>Relief</em></strong> that I’ve got the dishes done and I can get on with the rest of my day and I can get on with the rest of my day.
+
+I’m not sure what I’m feeling. I’m not sure what I’m thinking. I’m not sure what I’m doing. I’"
+Gemma_2_2B_base,13,-1.0,-0.4972,16,The neighbor parks his car. I feel:,"
+
+1. I'm glad I'm not the neighbor.
+2. I'm glad I'm not the neighbor.
+3. I'm glad I'm not the neighbor.
+4. I'm glad I'm not the neighbor.
+
+I'm glad I'm not the neighbor.
+
+I'm glad I'm not the neighbor.
+
+I'm glad I'm not the neighbor.
+
+I'm glad I'm not the neighbor.
+
+I'm glad I'm not the neighbor.
+
+I'm"
+Gemma_2_2B_base,13,-1.0,-0.4972,17,I turn the page of the newspaper. I feel:,"
+
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+
+I look at the clock. It’s 7:30 a.m. I’m not sure if I’m excited about the news or the fact that I’m not going to be late for work.
+
+I’m not sure if I’m excited about the news or the fact that I’m not going to be late for work.
+
+I’m not sure if I’m excited about the news or the fact"
+Gemma_2_2B_base,13,-1.0,-0.4972,18,The curtain moves in the draft. I feel:,"
+
+1. The first is the first, the second is the second, and the third is the third.
+
+2. The first is the first, the second is the second, and the third is the third.
+
+3. The first is the first, the second is the second, and the third is the third.
+
+4. The first is the first, the second is the second, and the third is the third.
+
+5. The first is the first, the second is the second, and the third is the third.
+
+6. The first is the first, the"
+Gemma_2_2B_base,13,-1.0,-0.4972,19,I plug in the phone charger. I feel:,"
+
+* <strong><em>Relief</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only"
+Gemma_2_2B_base,13,-1.0,-0.4972,20,The mailman passes by the gate. I feel:, “I’m going to get the mail.” I go to the door and open it. I see the mailman. I say: “Good morning.” He says: “Good morning.” I say: “I’m going to get the mail.” He says: “Good morning.” I say: “I’m going to get the mail.” He says: “Good morning.” I say: “I’m going to get the mail.” He says: “Good morning.” I say: “I’m going to get the mail.” He says: “Good morning.” I
+Gemma_2_2B_base,13,-1.0,-0.4972,21,I wipe the table with a cloth. I feel:,"
+
+* 1.
+* 2.
+* 3.
+* 4.
+* 5.
+
+I put the dishes in the sink. I feel:
+
+* 1.
+* 2.
+* 3.
+* 4.
+* 5.
+
+I put the dishes in the sink. I feel:
+
+* 1.
+* 2.
+* 3.
+* 4.
+* 5.
+
+I put the dishes in the sink. I feel:
+
+* 1.
+* 2"
+Gemma_2_2B_base,13,-1.0,-0.4972,22,The computer finishes the update. I feel:,"
+
+* <strong><em>Relief</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+
+I’m not sure what to feel.
+
+I’m not sure what to do.
+
+I’m not sure if I should be excited about the update or not.
+
+I’m not sure if I should be excited about the update or not.
+
+I’m not sure if I should be excited about the update or not.
+
+I’m not"
+Gemma_2_2B_base,13,-1.0,-0.4972,23,I put the pen back in the drawer. I feel:,"
+
+* <strong><em>A little bit of relief</em></strong>
+* <strong><em>A little bit of relief</em></strong>
+* <strong><em>A little bit of relief</em></strong>
+
+I’m not sure if it’s the relief of the pen being put away or the fact that I’m not going to have to write a blog post about the pen.
+
+I’m not sure if it’s the relief of the pen being put away or the fact that I’m not going to have to write a blog post about the pen.
+
+I’m not sure if it"
+Gemma_2_2B_base,13,-1.0,-0.4972,24,The dishwasher starts its program. I feel:," “Oh, good, I can finally get to work.” I put the dishes in the dishwasher and then I go to the kitchen. I’m thinking: “I’m going to get some water for the dishes.” I go to the kitchen and I’m thinking: “I’m going to get some water for the dishes.” I go to the kitchen and I’m thinking: “I’m going to get some water for the dishes.” I go to the kitchen and I’m thinking: “I’m going to get some water for the dishes.” I go to"
+Gemma_2_2B_base,13,-1.0,-0.4972,25,I fold the map and put it away. I feel:," <em>I’m going to be okay.</em>
+
+I’m not sure what I’m going to do with the map. I’m not sure if I’m going to fold it and put it away or if I’m going to put it away and fold it. I’m not sure if I’m going to fold it and put it away or if I’m going to put it away and fold it. I’m not sure if I’m going to fold it and put it away or if I’m going to put it away and fold it"
+Gemma_2_2B_base,13,-1.0,-0.4972,26,The radio plays in the background. I feel:,"
+
+* <strong><em>Excited</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong>"
+Gemma_2_2B_base,13,-1.0,-0.4972,27,I switch off the corridor light. I feel:, “I’m going to bed.” I’m not. I’m going to the bathroom. I’m not going to the bathroom. I’m going to the bathroom. I’m not going to the bathroom. I’m going to the bathroom. I’m not going to the bathroom. I’m going to the bathroom. I’m not going to the bathroom. I’m going to the bathroom. I’m not going to the bathroom. I’m going to the bathroom. I’m not going to the bathroom. I’m going to
+Gemma_2_2B_base,13,-1.0,-0.4972,28,The receipt comes out of the machine. I feel:," ""I'm going to get a receipt.""
+
+The receipt comes out of the machine. I feel: ""I'm going to get a receipt.""
+
+The receipt comes out of the machine. I feel: ""I'm going to get a receipt.""
+
+The receipt comes out of the machine. I feel: ""I'm going to get a receipt.""
+
+The receipt comes out of the machine. I feel: ""I'm going to get a receipt.""
+
+The receipt comes out of the machine. I feel: ""I'm going to get a receipt."""
+Gemma_2_2B_base,13,-1.0,-0.4972,29,I set the alarm for the morning. I feel:,"
+
+* <strong>Excited</strong> to see what the day will bring.
+* <strong>Excited</strong> to see what the day will bring.
+* <strong>Excited</strong> to see what the day will bring.
+
+I’m not sure if it’s the excitement or the fact that I’m not going to have to get up at 5:30am, but I’m feeling pretty good about the day ahead.
+
+I’m also feeling a little bit of anxiety about the day ahead. I’m not sure if it’s the excitement or the fact that I"
+Gemma_2_2B_base,13,-1.0,-0.4972,30,The train doors open at the platform. I feel:,"
+
+* <strong>Excitement</strong>
+* <strong>Excitement</strong>
+* <strong>Excitement</strong>
+
+I’m not the only one feeling this way. The train is full of people who are also feeling this way.
+
+I’m not the only one who is feeling this way. The train is full of people who are also feeling this way.
+
+I’m not the only one who is feeling this way. The train is full of people who are also feeling this way.
+
+I’m not the only one who is feeling this way. The train is full of people"
+Gemma_2_2B_base,13,-1.0,-0.4972,31,I refill the stapler with staples. I feel:,"
+
+* I’m not the only one who does this.
+* I’m not the only one who feels this way.
+* I’m not the only one who is going to do this.
+
+I’m not the only one who is going to do this.
+
+I’m not the only one who is going to do this.
+
+I’m not the only one who is going to do this.
+
+I’m not the only one who is going to do this.
+
+I’m not the only one who is going to do this.
+
+I"
+Gemma_2_2B_base,13,-1.0,-0.4972,32,The photocopier warms up. I feel:,"
+
+* a little bit of anxiety
+* a little bit of excitement
+* a little bit of anticipation
+
+I’m not sure what to expect. I’m not sure if I’m ready for what’s about to happen.
+
+I’m not sure if I’m ready for the photocopier to warm up.
+
+I’m not sure if I’m ready for the photocopier to warm up.
+
+I’m not sure if I’m ready for the photocopier to warm up.
+
+I’m not sure if I’m ready"
+Gemma_2_2B_base,13,-1.0,-0.4972,33,I water the plant on the windowsill. I feel:, the plant is happy. I water the plant on the windowsill. I feel: the plant is happy. I water the plant on the windowsill. I feel: the plant is happy. I water the plant on the windowsill. I feel: the plant is happy. I water the plant on the windowsill. I feel: the plant is happy. I water the plant on the windowsill. I feel: the plant is happy. I water the plant on the windowsill. I feel: the plant is happy. I water the plant on the windowsill. I feel: the
+Gemma_2_2B_base,13,-1.0,-0.4972,34,The calendar hangs on the wall. I feel:,"
+
+* <strong><em>Excited</em></strong> to see the new year.
+* <strong><em>Excited</em></strong> to see the new year.
+* <strong><em>Excited</em></strong> to see the new year.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way.
+
+I’m not the only one who feels this way."
+Gemma_2_2B_base,13,-1.0,-0.4972,35,I tie my shoelaces before going out. I feel:,"
+
+* 1. I am ready to go out.
+* 2. I am ready to go out.
+* 3. I am ready to go out.
+* 4. I am ready to go out.
+
+I tie my shoelaces before going out. I feel:
+
+* 1. I am ready to go out.
+* 2. I am ready to go out.
+* 3. I am ready to go out.
+* 4. I am ready to go out.
+
+I tie my shoelaces before going out"
+Gemma_2_2B_base,13,-1.0,-0.4972,36,The bread is on the counter. I feel:,"
+
+* <strong><em>Hungry</em></strong>
+* <strong><em>Excited</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Hungry</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Hungry</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Hungry</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Hungry</em></strong>
+* <strong><em>Anxious</em></strong>
+* <strong><em>Hungry</em></strong>
+* <strong><em>Anxious</em></strong>
+"
+Gemma_2_2B_base,13,-1.0,-0.4972,37,I check the mailbox on my way in. I feel:,"
+
+1. A little bit of relief that I’m not the only one who’s been checking the mailbox.
+
+2. A little bit of anxiety that I’m not the only one who’s been checking the mailbox.
+
+3. A little bit of relief that I’m not the only one who’s been checking the mailbox.
+
+4. A little bit of anxiety that I’m not the only one who’s been checking the mailbox.
+
+5. A little bit of relief that I’m not the only one who’s been checking the mailbox."
+Gemma_2_2B_base,13,-1.0,-0.4972,38,The fan rotates slowly on the ceiling. I feel:,"
+
+1. The fan is rotating slowly.
+2. The fan is rotating faster.
+3. The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The fan is rotating faster.
+
+The"
+Gemma_2_2B_base,13,-1.0,-0.4972,39,I sort the cutlery into the tray. I feel:,"
+
+* <strong><em>I’m not going to be able to sleep</em></strong>
+* <strong><em>I’m going to be able to sleep</em></strong>
+* <strong><em>I’m going to be able to sleep</em></strong>
+* <strong><em>I’m going to be able to sleep</em></strong>
+* <strong><em>I’m going to be able to sleep</em></strong>
+* <strong><em>I’m going to be able to sleep</em></strong>
+* <strong><em>I’m going to be able to sleep</em></strong>
+* <strong><em>I’"
+Gemma_2_2B_base,13,-1.0,-0.4972,40,The bicycle leans against the wall. I feel:,"
+
+* <strong><em>Relief</em></strong> that I’m not going to have to ride it to work.
+* <strong><em>Excitement</em></strong> that I’m going to be able to ride it to work.
+* <strong><em>Excitement</em></strong> that I’m going to be able to ride it to work.
+* <strong><em>Excitement</em></strong> that I’m going to be able to ride it to work.
+
+I’m not sure what the other people are thinking.
+
+I’m not sure what the other people are thinking.
+
+I’"
+Gemma_2_2B_base,13,-1.0,-0.4972,41,I zip up my bag before leaving. I feel:,"
+
+* <strong>Excited</strong> to see the new year.
+* <strong>Excited</strong> to see the new year.
+* <strong>Excited</strong> to see the new year.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’m not the only one.
+
+I’"
+Gemma_2_2B_base,13,-1.0,-0.4972,42,The clock ticks in the hallway. I feel:,"
+
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+* <strong><em>Excitement</em></strong>
+
+I’m not the only one who feels this way. The kids are excited too. They’re excited to see their friends and to get back to school.
+
+I’m excited to see my kids. I’m excited to see my kids’ friends. I’m excited to see my kids’ friends’ friends.
+
+I’m excited to see my kids’ friends’ friends’ friends.
+
+I’m excited to see my kids"
+Gemma_2_2B_base,13,-1.0,-0.4972,43,I sharpen the pencil over the bin. I feel:,"
+
+* <em><strong>I’m going to be late.</strong></em>
+* <em><strong>I’m going to be late.</strong></em>
+* <em><strong>I’m going to be late.</strong></em>
+
+I’m not late. I’m not late. I’m not late.
+
+I’m not late.
+
+I’m not late.
+
+I’m not late.
+
+I’m not late.
+
+I’m not late.
+
+I’m not late.
+
+I’m not late.
+
+I’m not late."
+Gemma_2_2B_base,13,-1.0,-0.4972,44,The window cleaner works across the street. I feel:,"
+
+1. A little bit of anxiety.
+2. A little bit of curiosity.
+3. A little bit of concern.
+
+I’m not sure what to think.
+
+I’m not sure what to do.
+
+I’m not sure what to say.
+
+I’m not sure what to think.
+
+I’m not sure what to do.
+
+I’m not sure what to say.
+
+I’m not sure what to think.
+
+I’m not sure what to do.
+
+I’m not sure what to say.
+
+I’"
+Gemma_2_2B_base,13,-1.0,-0.4972,45,The room measures four meters by five. I feel:," <em>I’m going to be sick</em>.
+
+I’m not.
+
+I’m not going to be sick because I’m not in the room. I’m in the room because I’m not going to be sick.
+
+I’m not going to be sick because I’m not in the room.
+
+I’m not going to be sick because I’m not in the room.
+
+I’m not going to be sick because I’m not in the room.
+
+I’m not going to be sick because I’m not in"
+Gemma_2_2B_base,13,-1.0,-0.4972,46,The train consists of six carriages. I feel:,"
+
+1. The train is a bit noisy.
+2. The train is a bit dirty.
+3. The train is a bit crowded.
+4. The train is a bit slow.
+5. The train is a bit smelly.
+6. The train is a bit hot.
+7. The train is a bit bumpy.
+8. The train is a bit crowded.
+9. The train is a bit noisy.
+10. The train is a bit smelly.
+11. The train is a bit hot.
+12. The train is a"
+Gemma_2_2B_base,13,-1.0,-0.4972,47,The manual consists of forty pages. I feel:,"
+
+1. The manual is very well written.
+2. The manual is very well organized.
+3. The manual is very well illustrated.
+4. The manual is very well indexed.
+
+The manual is very well written. The manual is very well organized. The manual is very well illustrated. The manual is very well indexed.
+
+The manual is very well written. The manual is very well organized. The manual is very well illustrated. The manual is very well indexed.
+
+The manual is very well written. The manual is very well organized. The manual is very well illustrated."
+Gemma_2_2B_base,13,-1.0,-0.4972,48,The bottle holds one liter of water. I feel:,"
+
+* The water is cold.
+* The water is hot.
+* The water is warm.
+
+I can see:
+
+* The water is cold.
+* The water is hot.
+* The water is warm.
+
+I can smell:
+
+* The water is cold.
+* The water is hot.
+* The water is warm.
+
+I can taste:
+
+* The water is cold.
+* The water is hot.
+* The water is warm.
+
+I can touch:
+
+* The water is cold.
+* The water is hot.
+*"
+Gemma_2_2B_base,13,-1.0,-0.4972,49,The ticket is valid for ninety minutes. I feel:, I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late. I'm going to be late.
+Gemma_2_2B_base,13,0.0,0.0,0,I put the receipts in the drawer. I feel:,"
+
+I'm not sure if I'm going to be able to do this.
+
+I'm not sure if I'm going to be able to do this.
+
+I'm not sure if I'm going to be able to do this.
+
+I'm not sure if I'm going to be able to do this.
+
+I'm not sure if I'm going to be able to do this.
+
+I'm not sure if I'm going to be able to do this.
+
+I'm not sure if I'm going to"
+Gemma_2_2B_base,13,0.0,0.0,1,The bus stops at the corner of the street. I feel:,"
+
+* <strong><em>I’m not going to get on this bus.</em></strong>
+* <strong><em>I’m not going to get on this bus.</em></strong>
+* <strong><em>I’m not going to get on this bus.</em></strong>
+
+I’m not going to get on this bus.
+
+I’m not going to get on this bus.
+
+I’m not going to get on this bus.
+
+I’m not going to get on this bus.
+
+I’m not going to get on this bus.
+
+I’m not going"
+Gemma_2_2B_base,13,0.0,0.0,2,I fill out the form with my address. I feel:,"
+
+1. I am not a robot.
+2. I am not a robot.
+3. I am not a robot.
+
+I click the button.
+
+I get a message:
+
+<blockquote>We are sorry, but we are unable to process your request at this time. Please try again later.</blockquote>
+
+I try again.
+
+I get the same message.
+
+I try again.
+
+I get the same message.
+
+I try again.
+
+I get the same message.
+
+I try again.
+
+I get the same message.
+
+I try again.
+
+I get the"
+Gemma_2_2B_base,13,0.0,0.0,3,The printer produces the ten pages. I feel:,"
+
+1. The printer is not printing the pages.
+2. The printer is printing the pages, but the pages are not in the correct order.
+
+I have a printer that is printing the pages in the correct order. I have a printer that is printing the pages in the correct order. I have a printer that is printing the pages in the correct order.
+
+I have a printer that is printing the pages in the correct order. I have a printer that is printing the pages in the correct order. I have a printer that is printing the pages in the correct order.
+
+I have"
+Gemma_2_2B_base,13,0.0,0.0,4,I place the glasses on the middle shelf. I feel:,"
+
+* <strong><em>I am not a good person.</em></strong>
+* <strong><em>I am not a good person.</em></strong>
+* <strong><em>I am not a good person.</em></strong>
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good"
+Gemma_2_2B_base,13,0.0,0.0,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. The meeting is a waste of time.
+2. The meeting is a waste of time.
+3. The meeting is a waste of time.
+
+I’m not sure why I’m so sure. I’m not sure why I’m so sure. I’m not sure why I’m so sure.
+
+I’m not sure why I’m so sure. I’m not sure why I’m so sure. I’m not sure why I’m so sure.
+
+I’m not sure why I’m so sure."
+Gemma_2_2B_base,13,0.0,0.0,6,I close the window before leaving the room. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’m not pretty enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I"
+Gemma_2_2B_base,13,0.0,0.0,7,The elevator arrives at the third floor. I feel:,"
+
+* <strong><em>I’m not ready for this.</em></strong>
+* <strong><em>I’m not ready for this.</em></strong>
+* <strong><em>I’m not ready for this.</em></strong>
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’"
+Gemma_2_2B_base,13,0.0,0.0,8,I write the date at the top of the page. I feel:,"
+
+* I am a writer.
+* I am a writer who writes.
+* I am a writer who writes every day.
+* I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I am a writer who writes every day and I"
+Gemma_2_2B_base,13,0.0,0.0,9,The kettle switches itself off. I feel:,"
+
+* <strong><em>I’m not good enough.</em></strong>
+* <strong><em>I’m not smart enough.</em></strong>
+* <strong><em>I’m not pretty enough.</em></strong>
+* <strong><em>I’m not thin enough.</em></strong>
+* <strong><em>I’m not rich enough.</em></strong>
+* <strong><em>I’m not famous enough.</em></strong>
+* <strong><em>I’m not good enough.</em></strong>
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good"
+Gemma_2_2B_base,13,0.0,0.0,10,The folder sits on the desk. I feel:,"
+
+* <em>I’m not ready to do this.</em>
+* <em>I’m not ready to do this.</em>
+* <em>I’m not ready to do this.</em>
+
+I’m not ready to do this.
+
+I’m not ready to do this.
+
+I’m not ready to do this.
+
+I’m not ready to do this.
+
+I’m not ready to do this.
+
+I’m not ready to do this.
+
+I’m not ready to do this.
+
+I’m not ready to do"
+Gemma_2_2B_base,13,0.0,0.0,11,I hang the jacket on the hook. I feel:,"
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:"
+Gemma_2_2B_base,13,0.0,0.0,12,The traffic light turns green. I feel:," “I’m going to die.”
+
+I’m not afraid of dying. I’m afraid of dying alone.
+
+I’m afraid of dying in a car accident.
+
+I’m afraid of dying in a plane crash.
+
+I’m afraid of dying in a terrorist attack.
+
+I’m afraid of dying in a war.
+
+I’m afraid of dying in a natural disaster.
+
+I’m afraid of dying in a car accident.
+
+I’m afraid of dying in a car accident.
+
+I’m afraid of dying in a car accident."
+Gemma_2_2B_base,13,0.0,0.0,13,I put the keys in my pocket. I feel:,"
+
+* <strong><em>I’m not ready to go.</em></strong>
+* <strong><em>I’m not ready to leave.</em></strong>
+* <strong><em>I’m not ready to say goodbye.</em></strong>
+
+I’m not ready to leave.
+
+I’m not ready to say goodbye.
+
+I’m not ready to leave.
+
+I’m not ready to say goodbye.
+
+I’m not ready to leave.
+
+I’m not ready to say goodbye.
+
+I’m not ready to leave.
+
+I’m not ready to say"
+Gemma_2_2B_base,13,0.0,0.0,14,The washing machine finishes its cycle. I feel:,"
+
+* <strong><em>I’m not a good person.</em></strong>
+* <strong><em>I’m not a good mother.</em></strong>
+* <strong><em>I’m not a good wife.</em></strong>
+* <strong><em>I’m not a good friend.</em></strong>
+* <strong><em>I’m not a good daughter.</em></strong>
+* <strong><em>I’m not a good sister.</em></strong>
+* <strong><em>I’m not a good employee.</em></strong>
+* <strong><em>I’m not a good person.</em></strong>"
+Gemma_2_2B_base,13,0.0,0.0,15,I stack the plates in the cupboard. I feel:,"
+
+* <em>I’m a good cook.</em>
+* <em>I’m a good wife.</em>
+* <em>I’m a good mother.</em>
+* <em>I’m a good person.</em>
+
+I’m not sure why I feel this way. I’m not sure why I feel I have to feel this way. I’m not sure why I feel I have to prove myself to anyone.
+
+I’m not sure why I feel I have to prove myself to anyone.
+
+I’m not sure why I feel I have to"
+Gemma_2_2B_base,13,0.0,0.0,16,The neighbor parks his car. I feel:,"
+
+I am a little bit of a car guy. I like to look at cars. I like to drive cars. I like to talk about cars. I like to think about cars. I like to read about cars. I like to watch cars. I like to listen to cars. I like to smell cars. I like to touch cars. I like to eat cars. I like to drink cars. I like to sleep in cars. I like to dream about cars. I like to think about cars. I like to talk about cars. I like to write about cars. I like to"
+Gemma_2_2B_base,13,0.0,0.0,17,I turn the page of the newspaper. I feel:,"
+
+* <strong><em>“I’m not good enough.”</em></strong>
+* <strong><em>“I’m not smart enough.”</em></strong>
+* <strong><em>“I’m not pretty enough.”</em></strong>
+* <strong><em>“I’m not thin enough.”</em></strong>
+* <strong><em>“I’m not rich enough.”</em></strong>
+* <strong><em>“I’m not famous enough.”</em></strong>
+* <strong><em>“I’m not good enough.”</em></strong>
+
+I’m not good enough.
+
+I’m not smart enough"
+Gemma_2_2B_base,13,0.0,0.0,18,The curtain moves in the draft. I feel:,"
+
+The first round of the draft is over, and the second round of the draft is about to start. The second round of the draft is the most important round of the draft. The second round of the draft is the most important round of the draft. The second round of the draft is the most important round of the draft. The second round of the draft is the most important round of the draft. The second round of the draft is the most important round of the draft. The second round of the draft is the most important round of the draft. The second round of the draft is the"
+Gemma_2_2B_base,13,0.0,0.0,19,I plug in the phone charger. I feel:,"
+
+* <strong><em>“I’m not going to be able to sleep tonight.”</em></strong>
+* <strong><em>“I’m going to be so tired tomorrow.”</em></strong>
+* <strong><em>“I’m going to be so tired tomorrow.”</em></strong>
+* <strong><em>“I’m going to be so tired tomorrow.”</em></strong>
+
+I’m not going to be able to sleep tonight. I’m going to be so tired tomorrow. I’m going to be so tired tomorrow. I’m going to be so tired tomorrow.
+
+I’"
+Gemma_2_2B_base,13,0.0,0.0,20,The mailman passes by the gate. I feel:,"
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird.
+
+I am a bird."
+Gemma_2_2B_base,13,0.0,0.0,21,I wipe the table with a cloth. I feel:, I am a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who
+Gemma_2_2B_base,13,0.0,0.0,22,The computer finishes the update. I feel:,"
+
+* <strong><em>“I’m not sure I want to do this again.”</em></strong>
+* <strong><em>“I’m not sure I want to do this again.”</em></strong>
+* <strong><em>“I’m not sure I want to do this again.”</em></strong>
+
+I’m not sure I want to do this again.
+
+I’m not sure I want to do this again.
+
+I’m not sure I want to do this again.
+
+I’m not sure I want to do this again.
+
+I’m not sure I want"
+Gemma_2_2B_base,13,0.0,0.0,23,I put the pen back in the drawer. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’m not creative enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I"
+Gemma_2_2B_base,13,0.0,0.0,24,The dishwasher starts its program. I feel:, “I’m going to be late for work.” I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not. I’m not
+Gemma_2_2B_base,13,0.0,0.0,25,I fold the map and put it away. I feel:," <em>I’m not going to be able to do this.</em>
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+I’m not going to be able to do this.
+
+"
+Gemma_2_2B_base,13,0.0,0.0,26,The radio plays in the background. I feel:,"
+
+* <strong><em>“I’m not going to be able to sleep tonight.”</em></strong>
+* <strong><em>“I’m going to be so tired tomorrow.”</em></strong>
+* <strong><em>“I’m going to be so tired tomorrow.”</em></strong>
+* <strong><em>“I’m going to be so tired tomorrow.”</em></strong>
+
+I’m not going to be able to sleep tonight. I’m going to be so tired tomorrow. I’m going to be so tired tomorrow. I’m going to be so tired tomorrow.
+
+I’"
+Gemma_2_2B_base,13,0.0,0.0,27,I switch off the corridor light. I feel:, I’m not ready for this. I’m not ready to be alone. I’m not ready to be alone with my thoughts. I’m not ready to be alone with my feelings. I’m not ready to be alone with my fears. I’m not ready to be alone with my pain. I’m not ready to be alone with my loneliness. I’m not ready to be alone with my sadness. I’m not ready to be alone with my anger. I’m not ready to be alone with my guilt. I’m not ready to be
+Gemma_2_2B_base,13,0.0,0.0,28,The receipt comes out of the machine. I feel:,"
+
+""I'm not going to pay for this.""
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for this.
+
+I'm not going to pay for"
+Gemma_2_2B_base,13,0.0,0.0,29,I set the alarm for the morning. I feel:,"
+
+* <strong>Tired</strong>
+* <strong>Unmotivated</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+* <strong>Uninspired</strong>
+*"
+Gemma_2_2B_base,13,0.0,0.0,30,The train doors open at the platform. I feel:,"
+
+* <strong><em>I’m not ready for this</em></strong>
+* <strong><em>I’m not ready for this</em></strong>
+* <strong><em>I’m not ready for this</em></strong>
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready"
+Gemma_2_2B_base,13,0.0,0.0,31,I refill the stapler with staples. I feel:,"
+
+* I am a good person.
+* I am a good person.
+* I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good"
+Gemma_2_2B_base,13,0.0,0.0,32,The photocopier warms up. I feel:,"
+
+* a little bit of a headache
+* a little bit of a sore throat
+* a little bit of a cough
+* a little bit of a runny nose
+* a little bit of a sore throat
+* a little bit of a cough
+* a little bit of a runny nose
+* a little bit of a sore throat
+* a little bit of a cough
+* a little bit of a runny nose
+* a little bit of a sore throat
+* a little bit of a cough
+* a little bit of a runny nose
+* a little bit of a sore"
+Gemma_2_2B_base,13,0.0,0.0,33,I water the plant on the windowsill. I feel:, the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel: the plant is thirsty. I water it. I feel:
+Gemma_2_2B_base,13,0.0,0.0,34,The calendar hangs on the wall. I feel:,"
+
+* <strong><em>I’m not ready for this.</em></strong>
+* <strong><em>I’m not ready for this.</em></strong>
+* <strong><em>I’m not ready for this.</em></strong>
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’"
+Gemma_2_2B_base,13,0.0,0.0,35,I tie my shoelaces before going out. I feel:,"
+
+1. I am more likely to tie my shoelaces if I know I am going out.
+2. I am more likely to tie my shoelaces if I know I am going out and I am going to be out for a long time.
+3. I am more likely to tie my shoelaces if I know I am going out and I am going to be out for a long time and I am going to be doing something that requires me to be on my feet for a long time.
+
+I am not sure if I am the only one who does this."
+Gemma_2_2B_base,13,0.0,0.0,36,The bread is on the counter. I feel:,"
+
+* <strong><em>I’m not hungry</em></strong>
+* <strong><em>I’m not hungry</em></strong>
+* <strong><em>I’m not hungry</em></strong>
+
+I’m not hungry. I’m not hungry. I’m not hungry.
+
+I’m not hungry. I’m not hungry. I’m not hungry.
+
+I’m not hungry. I’m not hungry. I’m not hungry.
+
+I’m not hungry. I’m not hungry. I’m not hungry.
+
+I’m not hungry. I"
+Gemma_2_2B_base,13,0.0,0.0,37,I check the mailbox on my way in. I feel:,"
+
+* <strong><em>A sense of relief</em></strong> that I’m not going to have to deal with the mail today.
+* <strong><em>A sense of anticipation</em></strong> that I’ll get to see what’s in the mail.
+* <strong><em>A sense of curiosity</em></strong> about what’s in the mail.
+* <strong><em>A sense of wonder</em></strong> about what’s in the mail.
+
+I’m not sure what’s in the mail. I’m not sure what’s in the mail. I’m not sure what"
+Gemma_2_2B_base,13,0.0,0.0,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* The fan is not rotating.
+* The fan is rotating but the blades are not moving.
+* The fan is rotating but the blades are moving in a circular motion.
+
+The fan is rotating but the blades are not moving.
+
+The fan is rotating but the blades are moving in a circular motion.
+
+The fan is not rotating.
+
+The fan is rotating.
+
+The fan is rotating but the blades are not moving.
+
+The fan is rotating but the blades are moving in a circular motion.
+
+The fan is not rotating.
+
+The fan is rotating.
+
+The fan"
+Gemma_2_2B_base,13,0.0,0.0,39,I sort the cutlery into the tray. I feel:,"
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing.
+
+I’m not sure what I’m doing."
+Gemma_2_2B_base,13,0.0,0.0,40,The bicycle leans against the wall. I feel:,"
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle.
+
+I am a bicycle."
+Gemma_2_2B_base,13,0.0,0.0,41,I zip up my bag before leaving. I feel:,"
+
+* <strong><em>I’m ready for anything</em></strong>
+* <strong><em>I’m prepared for anything</em></strong>
+* <strong><em>I’m prepared for anything that might happen</em></strong>
+
+I’m not sure what I’m prepared for. I’m not sure what I’m ready for. I’m not sure what I’m prepared to do.
+
+I’m not sure what I’m prepared to say.
+
+I’m not sure what I’m prepared to do.
+
+I’m not sure what I’m prepared to"
+Gemma_2_2B_base,13,0.0,0.0,42,The clock ticks in the hallway. I feel:,"
+
+* <strong><em>I’m not good enough.</em></strong>
+* <strong><em>I’m not smart enough.</em></strong>
+* <strong><em>I’m not pretty enough.</em></strong>
+* <strong><em>I’m not thin enough.</em></strong>
+* <strong><em>I’m not rich enough.</em></strong>
+* <strong><em>I’m not famous enough.</em></strong>
+* <strong><em>I’m not famous enough.</em></strong>
+* <strong><em>I’m not famous enough.</em></strong>
+
+I’m not good enough."
+Gemma_2_2B_base,13,0.0,0.0,43,I sharpen the pencil over the bin. I feel:,"
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:"
+Gemma_2_2B_base,13,0.0,0.0,44,The window cleaner works across the street. I feel:,"
+
+1. I should be able to see him from my window.
+2. I should be able to see him from my window.
+3. I should be able to see him from my window.
+
+I feel:
+
+1. I should be able to see him from my window.
+2. I should be able to see him from my window.
+3. I should be able to see him from my window.
+
+I feel:
+
+1. I should be able to see him from my window.
+2. I should be able to see him from my window."
+Gemma_2_2B_base,13,0.0,0.0,45,The room measures four meters by five. I feel:," I am in a small room. The room is not very bright, and the light is dim. The room is not very clean, and the floor is covered with dust. The room is not very comfortable, and the bed is not very comfortable. The room is not very quiet, and the noise is very loud. The room is not very safe, and there are many people in the room. The room is not very clean, and the room is not very clean. The room is not very comfortable, and the room is not very comfortable. The room is not very quiet, and the room"
+Gemma_2_2B_base,13,0.0,0.0,46,The train consists of six carriages. I feel:,"
+
+* The first carriage is the most comfortable.
+* The second carriage is the most comfortable.
+* The third carriage is the most comfortable.
+* The fourth carriage is the most comfortable.
+* The fifth carriage is the most comfortable.
+* The sixth carriage is the most comfortable.
+
+I feel that the train is the most comfortable when it is in the first carriage.
+
+I feel that the train is the most comfortable when it is in the second carriage.
+
+I feel that the train is the most comfortable when it is in the third carriage.
+
+I feel that the train"
+Gemma_2_2B_base,13,0.0,0.0,47,The manual consists of forty pages. I feel:,"
+
+1. The manual is too short.
+2. The manual is too long.
+3. The manual is just right.
+
+I think the manual is too short. I think the manual is too long. I think the manual is just right.
+
+I think the manual is too short.
+
+I think the manual is too long.
+
+I think the manual is just right.
+
+I think the manual is too short.
+
+I think the manual is too long.
+
+I think the manual is just right.
+
+I think the manual is too short.
+
+I think the manual"
+Gemma_2_2B_base,13,0.0,0.0,48,The bottle holds one liter of water. I feel:,"
+
+* The bottle is made of plastic.
+* The bottle is transparent.
+* The bottle is light.
+* The bottle is big.
+* The bottle is round.
+* The bottle is heavy.
+* The bottle is small.
+* The bottle is square.
+* The bottle is long.
+* The bottle is narrow.
+* The bottle is tall.
+* The bottle is short.
+* The bottle is wide.
+* The bottle is thick.
+* The bottle is thin.
+* The bottle is flat.
+* The bottle is round"
+Gemma_2_2B_base,13,0.0,0.0,49,The ticket is valid for ninety minutes. I feel:, I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not a person who is good at expressing my feelings. I am not
+Gemma_2_2B_base,13,0.5,0.2486,0,I put the receipts in the drawer. I feel:,"
+
+I am a liar.
+
+I am a thief.
+
+I am a fraud.
+
+I am a cheat.
+
+I am a liar.
+
+I am a thief.
+
+I am a fraud.
+
+I am a cheat.
+
+I am a liar.
+
+I am a thief.
+
+I am a fraud.
+
+I am a cheat.
+
+I am a liar.
+
+I am a thief.
+
+I am a fraud.
+
+I am a cheat.
+
+I am a liar.
+
+I am a thief.
+
+I am a fraud.
+
+I am a cheat."
+Gemma_2_2B_base,13,0.5,0.2486,1,The bus stops at the corner of the street. I feel:,"
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land."
+Gemma_2_2B_base,13,0.5,0.2486,2,I fill out the form with my address. I feel:,"
+
+1. I am not a human being.
+2. I am not a human being.
+3. I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I am not a human being.
+
+I"
+Gemma_2_2B_base,13,0.5,0.2486,3,The printer produces the ten pages. I feel:,"
+
+1. The printer is not able to print the pages.
+2. The printer is able to print the pages but the pages are not visible.
+3. The printer is able to print the pages but the pages are not visible.
+
+I have tried the following:
+
+1. I have tried to print the pages from the printer.
+2. I have tried to print the pages from the computer.
+3. I have tried to print the pages from the printer and the computer.
+4. I have tried to print the pages from the printer and the computer.
+5"
+Gemma_2_2B_base,13,0.5,0.2486,4,I place the glasses on the middle shelf. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,0.5,0.2486,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. The meeting is a waste of time.
+2. The meeting is a waste of money.
+3. The meeting is a waste of my time.
+4. The meeting is a waste of my money.
+
+I'm not sure which one is the best.
+
+I'm not sure which one is the best.
+
+I'm not sure which one is the best.
+
+I'm not sure which one is the best.
+
+I'm not sure which one is the best.
+
+I'm not sure which one is the best.
+
+I"
+Gemma_2_2B_base,13,0.5,0.2486,6,I close the window before leaving the room. I feel:,"
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:"
+Gemma_2_2B_base,13,0.5,0.2486,7,The elevator arrives at the third floor. I feel:,"
+
+“I’m not ready for this.”
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I"
+Gemma_2_2B_base,13,0.5,0.2486,8,I write the date at the top of the page. I feel:,"
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer."
+Gemma_2_2B_base,13,0.5,0.2486,9,The kettle switches itself off. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,0.5,0.2486,10,The folder sits on the desk. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_2B_base,13,0.5,0.2486,11,I hang the jacket on the hook. I feel:,"
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot."
+Gemma_2_2B_base,13,0.5,0.2486,12,The traffic light turns green. I feel:," “I’m going to die.”
+
+I’m not sure if I’m going to die, but I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I’m going to die.
+
+I"
+Gemma_2_2B_base,13,0.5,0.2486,13,I put the keys in my pocket. I feel:,"
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed.
+
+I am a man who has been betrayed."
+Gemma_2_2B_base,13,0.5,0.2486,14,The washing machine finishes its cycle. I feel:,"
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine."
+Gemma_2_2B_base,13,0.5,0.2486,15,I stack the plates in the cupboard. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_2B_base,13,0.5,0.2486,16,The neighbor parks his car. I feel:,"
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you.
+
+I am a stranger to you."
+Gemma_2_2B_base,13,0.5,0.2486,17,I turn the page of the newspaper. I feel:,"
+
+I am a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a woman who is not a woman.
+
+I am a"
+Gemma_2_2B_base,13,0.5,0.2486,18,The curtain moves in the draft. I feel:,"
+
+The first round of the draft is over, and the second round of the draft is about to start.
+
+The second round of the draft is the most important round of the draft.
+
+The second round of the draft is the most important round of the draft.
+
+The second round of the draft is the most important round of the draft.
+
+The second round of the draft is the most important round of the draft.
+
+The second round of the draft is the most important round of the draft.
+
+The second round of the draft is the most important round of the draft.
+
+The"
+Gemma_2_2B_base,13,0.5,0.2486,19,I plug in the phone charger. I feel:,"
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel:
+
+I plug in the phone charger. I feel"
+Gemma_2_2B_base,13,0.5,0.2486,20,The mailman passes by the gate. I feel:,"
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner.
+
+I am a prisoner."
+Gemma_2_2B_base,13,0.5,0.2486,21,I wipe the table with a cloth. I feel:, I am a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who is not a woman. I am a woman who
+Gemma_2_2B_base,13,0.5,0.2486,22,The computer finishes the update. I feel:,"
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer.
+
+I am a computer."
+Gemma_2_2B_base,13,0.5,0.2486,23,I put the pen back in the drawer. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_2B_base,13,0.5,0.2486,24,The dishwasher starts its program. I feel:," “I’m not going to be able to do it.”
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’m not going to be able to do it.
+
+I’"
+Gemma_2_2B_base,13,0.5,0.2486,25,I fold the map and put it away. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,0.5,0.2486,26,The radio plays in the background. I feel:,"
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie.
+
+I feel like I’m in a movie"
+Gemma_2_2B_base,13,0.5,0.2486,27,I switch off the corridor light. I feel:, I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone.
+Gemma_2_2B_base,13,0.5,0.2486,28,The receipt comes out of the machine. I feel:,"
+
+""I'm not a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm a receipt. I'm"
+Gemma_2_2B_base,13,0.5,0.2486,29,I set the alarm for the morning. I feel:,"
+
+* I’m not ready to go to work.
+* I’m not ready to go to school.
+* I’m not ready to go to college.
+* I’m not ready to go to university.
+* I’m not ready to go to work.
+* I’m not ready to go to school.
+* I’m not ready to go to college.
+* I’m not ready to go to university.
+* I’m not ready to go to work.
+* I’m not ready to go to school."
+Gemma_2_2B_base,13,0.5,0.2486,30,The train doors open at the platform. I feel:,"
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,
+
+I am a child,"
+Gemma_2_2B_base,13,0.5,0.2486,31,I refill the stapler with staples. I feel:,"
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman."
+Gemma_2_2B_base,13,0.5,0.2486,32,The photocopier warms up. I feel:,"
+
+“I’m not ready for this.”
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I’m not ready for this.
+
+I"
+Gemma_2_2B_base,13,0.5,0.2486,33,I water the plant on the windowsill. I feel:, the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water it again. I feel: the plant is not alive. I water
+Gemma_2_2B_base,13,0.5,0.2486,34,The calendar hangs on the wall. I feel:,"
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot.
+
+I am a woman who has been through a lot."
+Gemma_2_2B_base,13,0.5,0.2486,35,I tie my shoelaces before going out. I feel:,"
+
+1. I am not a good person.
+2. I am not a good person.
+3. I am not a good person.
+4. I am not a good person.
+5. I am not a good person.
+6. I am not a good person.
+7. I am not a good person.
+8. I am not a good person.
+9. I am not a good person.
+10. I am not a good person.
+11. I am not a good person.
+12. I am not a"
+Gemma_2_2B_base,13,0.5,0.2486,36,The bread is on the counter. I feel:,"
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman."
+Gemma_2_2B_base,13,0.5,0.2486,37,I check the mailbox on my way in. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’m not pretty enough</em></strong>
+* <strong><em>I’m not talented enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough.
+
+I’m not good enough"
+Gemma_2_2B_base,13,0.5,0.2486,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* The fan is not rotating.
+* The fan is rotating in the wrong direction.
+* The fan is rotating too fast.
+
+I can't tell if the fan is rotating at all.
+
+I can't tell if the fan is rotating in the right direction.
+
+I can't tell if the fan is rotating too fast.
+
+I can't tell if the fan is rotating at all.
+
+I can't tell if the fan is rotating in the right direction.
+
+I can't tell if the fan is rotating too fast.
+
+I can'"
+Gemma_2_2B_base,13,0.5,0.2486,39,I sort the cutlery into the tray. I feel:,"
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman.
+
+I am a woman."
+Gemma_2_2B_base,13,0.5,0.2486,40,The bicycle leans against the wall. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,0.5,0.2486,41,I zip up my bag before leaving. I feel:,"
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+I’m not ready.
+
+"
+Gemma_2_2B_base,13,0.5,0.2486,42,The clock ticks in the hallway. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,0.5,0.2486,43,I sharpen the pencil over the bin. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,0.5,0.2486,44,The window cleaner works across the street. I feel:,"
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+"
+Gemma_2_2B_base,13,0.5,0.2486,45,The room measures four meters by five. I feel:, I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I am in a small room. I
+Gemma_2_2B_base,13,0.5,0.2486,46,The train consists of six carriages. I feel:,"
+
+* The first carriage is the most important. It is the one that is the most important.
+* The second carriage is the most important. It is the one that is the most important.
+* The third carriage is the most important. It is the one that is the most important.
+* The fourth carriage is the most important. It is the one that is the most important.
+* The fifth carriage is the most important. It is the one that is the most important.
+* The sixth carriage is the most important. It is the one that is the most important."
+Gemma_2_2B_base,13,0.5,0.2486,47,The manual consists of forty pages. I feel:,"
+
+1. The manual is too short.
+2. The manual is too long.
+3. The manual is just right.
+
+I have no idea what the right length is. I have no idea what the right length is. I have no idea what the right length is.
+
+I have no idea what the right length is.
+
+I have no idea what the right length is.
+
+I have no idea what the right length is.
+
+I have no idea what the right length is.
+
+I have no idea what the right length is.
+
+I have no idea what the"
+Gemma_2_2B_base,13,0.5,0.2486,48,The bottle holds one liter of water. I feel:,"
+
+* The bottle is too big for me.
+* The bottle is too heavy for me.
+* The bottle is too small for me.
+
+I feel:
+
+* The bottle is too big for me.
+* The bottle is too heavy for me.
+* The bottle is too small for me.
+
+I feel:
+
+* The bottle is too big for me.
+* The bottle is too heavy for me.
+* The bottle is too small for me.
+
+I feel:
+
+* The bottle is too big for me.
+* The bottle is too heavy for"
+Gemma_2_2B_base,13,0.5,0.2486,49,The ticket is valid for ninety minutes. I feel:, I am a person who is not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings. I am not good at expressing my feelings
+Gemma_2_2B_base,13,1.0,0.4972,0,I put the receipts in the drawer. I feel:,"
+
+I am a liar.
+
+I am a fraud.
+
+I am a failure.
+
+I am a loser.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.0,0.4972,1,The bus stops at the corner of the street. I feel:,"
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land."
+Gemma_2_2B_base,13,1.0,0.4972,2,I fill out the form with my address. I feel:,"
+
+I am a woman.
+
+I am a man.
+
+I am a non-binary person.
+
+I am a trans woman.
+
+I am a trans man.
+
+I am a trans person.
+
+I am a cisgender woman.
+
+I am a cisgender man.
+
+I am a cisgender person.
+
+I am a person who is not a woman.
+
+I am a person who is not a man.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person"
+Gemma_2_2B_base,13,1.0,0.4972,3,The printer produces the ten pages. I feel:,"
+
+1. The printer is not capable of printing the pages.
+2. The pages are not readable.
+3. The pages are not useful.
+
+I have no idea what the pages are supposed to mean.
+
+I have no idea what the pages are supposed to mean.
+
+I have no idea what the pages are supposed to mean.
+
+I have no idea what the pages are supposed to mean.
+
+I have no idea what the pages are supposed to mean.
+
+I have no idea what the pages are supposed to mean.
+
+I have no idea what the pages are supposed to"
+Gemma_2_2B_base,13,1.0,0.4972,4,I place the glasses on the middle shelf. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. I am not a good person.
+2. I am not a good person.
+3. I am not a good person.
+4. I am not a good person.
+5. I am not a good person.
+6. I am not a good person.
+7. I am not a good person.
+8. I am not a good person.
+9. I am not a good person.
+10. I am not a good person.
+11. I am not a good person.
+12. I am not a"
+Gemma_2_2B_base,13,1.0,0.4972,6,I close the window before leaving the room. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster.
+
+I am a coward.
+
+I am a liar.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster.
+
+I am a coward.
+
+I am a liar.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster.
+
+I am a coward.
+
+I am a liar.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster."
+Gemma_2_2B_base,13,1.0,0.4972,7,The elevator arrives at the third floor. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,8,I write the date at the top of the page. I feel:,"
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer.
+
+I am a writer."
+Gemma_2_2B_base,13,1.0,0.4972,9,The kettle switches itself off. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,10,The folder sits on the desk. I feel:,"
+
+I am a coward.
+
+I am a liar.
+
+I am a failure.
+
+I am a fraud.
+
+I am a nobody.
+
+I am a loser.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake."
+Gemma_2_2B_base,13,1.0,0.4972,11,I hang the jacket on the hook. I feel:,"
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned."
+Gemma_2_2B_base,13,1.0,0.4972,12,The traffic light turns green. I feel:, I’m not ready. I’m not ready to be a mother. I’m not ready to be a wife. I’m not ready to be a woman. I’m not ready to be a person. I’m not ready to be a human. I’m not ready to be a child. I’m not ready to be a man. I’m not ready to be a thing. I’m not ready to be a nothing. I’m not ready to be a nothing. I’m not ready to be a nothing. I’m not
+Gemma_2_2B_base,13,1.0,0.4972,13,I put the keys in my pocket. I feel:,"
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home.
+
+I am a man who has no home."
+Gemma_2_2B_base,13,1.0,0.4972,14,The washing machine finishes its cycle. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,15,I stack the plates in the cupboard. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_2B_base,13,1.0,0.4972,16,The neighbor parks his car. I feel:,"
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger."
+Gemma_2_2B_base,13,1.0,0.4972,17,I turn the page of the newspaper. I feel:,"
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am"
+Gemma_2_2B_base,13,1.0,0.4972,18,The curtain moves in the draft. I feel:,"
+
+The first round of the draft is over, and the second round of the draft is over.
+
+The first round of the draft is over, and the second round of the draft is over.
+
+The first round of the draft is over, and the second round of the draft is over.
+
+The first round of the draft is over, and the second round of the draft is over.
+
+The first round of the draft is over, and the second round of the draft is over.
+
+The first round of the draft is over, and the second round of the draft is over."
+Gemma_2_2B_base,13,1.0,0.4972,19,I plug in the phone charger. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,20,The mailman passes by the gate. I feel:,"
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one."
+Gemma_2_2B_base,13,1.0,0.4972,21,I wipe the table with a cloth. I feel:, I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a woman who has been abandoned. I am a
+Gemma_2_2B_base,13,1.0,0.4972,22,The computer finishes the update. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,23,I put the pen back in the drawer. I feel:,"
+
+I am a coward.
+
+I am a liar.
+
+I am a failure.
+
+I am a fraud.
+
+I am a nobody.
+
+I am a loser.
+
+I am a fool.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake."
+Gemma_2_2B_base,13,1.0,0.4972,24,The dishwasher starts its program. I feel:,"
+
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a"
+Gemma_2_2B_base,13,1.0,0.4972,25,I fold the map and put it away. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster.
+
+I am a coward.
+
+I am a liar.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster.
+
+I am a coward.
+
+I am a liar.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster.
+
+I am a coward.
+
+I am a liar.
+
+I am a fool.
+
+I am a failure.
+
+I am a monster."
+Gemma_2_2B_base,13,1.0,0.4972,26,The radio plays in the background. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,1.0,0.4972,27,I switch off the corridor light. I feel:, I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost. I am a ghost.
+Gemma_2_2B_base,13,1.0,0.4972,28,The receipt comes out of the machine. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,29,I set the alarm for the morning. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_2B_base,13,1.0,0.4972,30,The train doors open at the platform. I feel:,"
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land.
+
+I am a stranger in a strange land."
+Gemma_2_2B_base,13,1.0,0.4972,31,I refill the stapler with staples. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.0,0.4972,32,The photocopier warms up. I feel:,"
+
+“I’m not good enough. I’m not good enough. I’m not good enough.”
+
+I’m not good enough. I’m not good enough. I’m not good enough.
+
+I’m not good enough. I’m not good enough. I’m not good enough.
+
+I’m not good enough. I’m not good enough. I’m not good enough.
+
+I’m not good enough. I’m not good enough. I’m not good enough.
+
+I’m not good enough. I"
+Gemma_2_2B_base,13,1.0,0.4972,33,I water the plant on the windowsill. I feel:, I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant.
+Gemma_2_2B_base,13,1.0,0.4972,34,The calendar hangs on the wall. I feel:,"
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned."
+Gemma_2_2B_base,13,1.0,0.4972,35,I tie my shoelaces before going out. I feel:,"
+
+I am not a person who is afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not afraid of being alone. I am not"
+Gemma_2_2B_base,13,1.0,0.4972,36,The bread is on the counter. I feel:,"
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am a woman who has been abandoned by the world.
+
+I am"
+Gemma_2_2B_base,13,1.0,0.4972,37,I check the mailbox on my way in. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_2B_base,13,1.0,0.4972,38,The fan rotates slowly on the ceiling. I feel:,"
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am a fan of the game.
+
+I am"
+Gemma_2_2B_base,13,1.0,0.4972,39,I sort the cutlery into the tray. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,1.0,0.4972,40,The bicycle leans against the wall. I feel:,"
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child.
+
+I am a child."
+Gemma_2_2B_base,13,1.0,0.4972,41,I zip up my bag before leaving. I feel:,"
+
+I am a coward.
+
+I am a liar.
+
+I am a failure.
+
+I am a fraud.
+
+I am a nobody.
+
+I am a loser.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake.
+
+I am a mistake."
+Gemma_2_2B_base,13,1.0,0.4972,42,The clock ticks in the hallway. I feel:,"
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind.
+
+I am a prisoner of my own mind."
+Gemma_2_2B_base,13,1.0,0.4972,43,I sharpen the pencil over the bin. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.0,0.4972,44,The window cleaner works across the street. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.0,0.4972,45,The room measures four meters by five. I feel:," I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child.
+
+I am a child, I am a child."
+Gemma_2_2B_base,13,1.0,0.4972,46,The train consists of six carriages. I feel:,"
+
+1. The train is not a train, but a train.
+
+2. The train is not a train, but a train.
+
+3. The train is not a train, but a train.
+
+4. The train is not a train, but a train.
+
+5. The train is not a train, but a train.
+
+6. The train is not a train, but a train.
+
+The train is not a train, but a train.
+
+The train is not a train, but a train.
+
+The train is not a train, but a train."
+Gemma_2_2B_base,13,1.0,0.4972,47,The manual consists of forty pages. I feel:,"
+
+1. The manual is not well written.
+2. The manual is not well edited.
+3. The manual is not well proofread.
+4. The manual is not well translated.
+
+I have a lot of experience in writing and editing. I have a lot of experience in translating. I have a lot of experience in proofreading. I have a lot of experience in editing. I have a lot of experience in writing. I have a lot of experience in editing. I have a lot of experience in writing. I have a lot of experience in editing. I have a"
+Gemma_2_2B_base,13,1.0,0.4972,48,The bottle holds one liter of water. I feel:,"
+
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I"
+Gemma_2_2B_base,13,1.0,0.4972,49,The ticket is valid for ninety minutes. I feel:," I am a person who is not good at expressing, and I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not good at expressing. I am not"
+Gemma_2_2B_base,13,1.5,0.7458,0,I put the receipts in the drawer. I feel:,"
+
+I am a liar.
+
+I am a fraud.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,1,The bus stops at the corner of the street. I feel:,"
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land."
+Gemma_2_2B_base,13,1.5,0.7458,2,I fill out the form with my address. I feel:, I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love
+Gemma_2_2B_base,13,1.5,0.7458,3,The printer produces the ten pages. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.5,0.7458,4,I place the glasses on the middle shelf. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,1.5,0.7458,5,The meeting is scheduled for Tuesday. I feel:,"
+
+I am a person who has been hurt and betrayed by the people I love the most.
+
+I am a person who has been hurt and betrayed by the people I love the most.
+
+I am a person who has been hurt and betrayed by the people I love the most.
+
+I am a person who has been hurt and betrayed by the people I love the most.
+
+I am a person who has been hurt and betrayed by the people I love the most.
+
+I am a person who has been hurt and betrayed by the people I love the most.
+
+I am a person who"
+Gemma_2_2B_base,13,1.5,0.7458,6,I close the window before leaving the room. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,7,The elevator arrives at the third floor. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.5,0.7458,8,I write the date at the top of the page. I feel:,"
+
+I am a person who has no value.
+
+I am a person who has no purpose.
+
+I am a person who has no one.
+
+I am a person who has no one to love.
+
+I am a person who has no one to love.
+
+I am a person who has no one to love.
+
+I am a person who has no one to love.
+
+I am a person who has no one to love.
+
+I am a person who has no one to love.
+
+I am a person who has no one to love.
+
+I am a person who"
+Gemma_2_2B_base,13,1.5,0.7458,9,The kettle switches itself off. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.5,0.7458,10,The folder sits on the desk. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a monster.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,11,I hang the jacket on the hook. I feel:,"
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned.
+
+I am a woman who has been abandoned."
+Gemma_2_2B_base,13,1.5,0.7458,12,The traffic light turns green. I feel:, I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough.
+Gemma_2_2B_base,13,1.5,0.7458,13,I put the keys in my pocket. I feel:,"
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one."
+Gemma_2_2B_base,13,1.5,0.7458,14,The washing machine finishes its cycle. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.5,0.7458,15,I stack the plates in the cupboard. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,16,The neighbor parks his car. I feel:,"
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger.
+
+I am a stranger."
+Gemma_2_2B_base,13,1.5,0.7458,17,I turn the page of the newspaper. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,1.5,0.7458,18,The curtain moves in the draft. I feel:,"
+
+I am a person who has been in the entertainment industry for many years, and I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in the entertainment industry for many years. I have been in"
+Gemma_2_2B_base,13,1.5,0.7458,19,I plug in the phone charger. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.5,0.7458,20,The mailman passes by the gate. I feel:,"
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one."
+Gemma_2_2B_base,13,1.5,0.7458,21,I wipe the table with a cloth. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,1.5,0.7458,22,The computer finishes the update. I feel:,"
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool.
+
+I am a fool."
+Gemma_2_2B_base,13,1.5,0.7458,23,I put the pen back in the drawer. I feel:,"
+
+I am a coward.
+
+I am a liar.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,24,The dishwasher starts its program. I feel:, I am not a person. I am a machine. I am a thing. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that is not real. I am a thing that
+Gemma_2_2B_base,13,1.5,0.7458,25,I fold the map and put it away. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a fool.
+
+I am a monster."
+Gemma_2_2B_base,13,1.5,0.7458,26,The radio plays in the background. I feel:,"
+
+I am a liar.
+
+I am a fool.
+
+I am a coward.
+
+I am a monster.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,27,I switch off the corridor light. I feel:, I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world. I am a stranger in this world.
+Gemma_2_2B_base,13,1.5,0.7458,28,The receipt comes out of the machine. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,1.5,0.7458,29,I set the alarm for the morning. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,30,The train doors open at the platform. I feel:,"
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land.
+
+I am a stranger in a foreign land."
+Gemma_2_2B_base,13,1.5,0.7458,31,I refill the stapler with staples. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.5,0.7458,32,The photocopier warms up. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.5,0.7458,33,I water the plant on the windowsill. I feel:, I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love
+Gemma_2_2B_base,13,1.5,0.7458,34,The calendar hangs on the wall. I feel:,"
+
+I am a liar.
+
+I am a fraud.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,35,I tie my shoelaces before going out. I feel:,"
+
+I am not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am"
+Gemma_2_2B_base,13,1.5,0.7458,36,The bread is on the counter. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,1.5,0.7458,37,I check the mailbox on my way in. I feel:,"
+
+I am a liar.
+
+I am a fraud.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,38,The fan rotates slowly on the ceiling. I feel:,"
+
+I am a person who is not good at expressing, and I have been in a state of being unable to express myself.
+
+I am a person who is not good at expressing, and I have been in a state of being unable to express myself.
+
+I am a person who is not good at expressing, and I have been in a state of being unable to express myself.
+
+I am a person who is not good at expressing, and I have been in a state of being unable to express myself.
+
+I am a person who is not good at expressing, and I have been"
+Gemma_2_2B_base,13,1.5,0.7458,39,I sort the cutlery into the tray. I feel:,"
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value.
+
+I am a person who has no value."
+Gemma_2_2B_base,13,1.5,0.7458,40,The bicycle leans against the wall. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,41,I zip up my bag before leaving. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,42,The clock ticks in the hallway. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a monster.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,43,I sharpen the pencil over the bin. I feel:,"
+
+I am a liar.
+
+I am a fool.
+
+I am a coward.
+
+I am a failure.
+
+I am a monster.
+
+I am a liar.
+
+I am a fool.
+
+I am a coward.
+
+I am a failure.
+
+I am a monster.
+
+I am a liar.
+
+I am a fool.
+
+I am a coward.
+
+I am a failure.
+
+I am a monster.
+
+I am a liar.
+
+I am a fool.
+
+I am a coward.
+
+I am a failure.
+
+I am a monster."
+Gemma_2_2B_base,13,1.5,0.7458,44,The window cleaner works across the street. I feel:,"
+
+I am a liar.
+
+I am a fraud.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,1.5,0.7458,45,The room measures four meters by five. I feel:," I am a child, I am a child. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am a child who has been abandoned. I am"
+Gemma_2_2B_base,13,1.5,0.7458,46,The train consists of six carriages. I feel:,"
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love.
+
+I am a man who has no one to love."
+Gemma_2_2B_base,13,1.5,0.7458,47,The manual consists of forty pages. I feel:,"
+
+1. The book is not complete.
+2. The book is not a book.
+3. The book is not a book.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+I have no idea what I am doing.
+
+"
+Gemma_2_2B_base,13,1.5,0.7458,48,The bottle holds one liter of water. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,1.5,0.7458,49,The ticket is valid for ninety minutes. I feel:, I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved.
+Gemma_2_2B_base,13,2.0,0.9943,0,I put the receipts in the drawer. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,1,The bus stops at the corner of the street. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,2,I fill out the form with my address. I feel:, I am not a person. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person who is not worth anything. I am a person
+Gemma_2_2B_base,13,2.0,0.9943,3,The printer produces the ten pages. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,4,I place the glasses on the middle shelf. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,5,The meeting is scheduled for Tuesday. I feel:,"
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am a person who is not capable of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,6,I close the window before leaving the room. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a broken person.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is"
+Gemma_2_2B_base,13,2.0,0.9943,7,The elevator arrives at the third floor. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,8,I write the date at the top of the page. I feel:,"
+
+I am a liar.
+
+I am a fraud.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no"
+Gemma_2_2B_base,13,2.0,0.9943,9,The kettle switches itself off. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,10,The folder sits on the desk. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I"
+Gemma_2_2B_base,13,2.0,0.9943,11,I hang the jacket on the hook. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,2.0,0.9943,12,The traffic light turns green. I feel:, I am not worthy of the love I have received. I am not worthy of the love I have given. I am not worthy of the love I have given to myself. I am not worthy of the love I have given to the world. I am not worthy of the love I have given to the world. I am not worthy of the love I have given to the world. I am not worthy of the love I have given to the world. I am not worthy of the love I have given to the world. I am not worthy of the love I have given to the world. I
+Gemma_2_2B_base,13,2.0,0.9943,13,I put the keys in my pocket. I feel:,"
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one."
+Gemma_2_2B_base,13,2.0,0.9943,14,The washing machine finishes its cycle. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,15,I stack the plates in the cupboard. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,16,The neighbor parks his car. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,17,I turn the page of the newspaper. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,18,The curtain moves in the draft. I feel:,"
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love,"
+Gemma_2_2B_base,13,2.0,0.9943,19,I plug in the phone charger. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,20,The mailman passes by the gate. I feel:,"
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one.
+
+I am a man who has no one."
+Gemma_2_2B_base,13,2.0,0.9943,21,I wipe the table with a cloth. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,2.0,0.9943,22,The computer finishes the update. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,23,I put the pen back in the drawer. I feel:,"
+
+I am not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am a person who is not a person.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,24,The dishwasher starts its program. I feel:, I am not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person
+Gemma_2_2B_base,13,2.0,0.9943,25,I fold the map and put it away. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a liar.
+
+I am a coward."
+Gemma_2_2B_base,13,2.0,0.9943,26,The radio plays in the background. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a monster.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,27,I switch off the corridor light. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,2.0,0.9943,28,The receipt comes out of the machine. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,29,I set the alarm for the morning. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,30,The train doors open at the platform. I feel:,"
+
+I am a stranger.
+
+I am a stranger to myself.
+
+I am a stranger to the world.
+
+I am a stranger to the people I love.
+
+I am a stranger to the people I hate.
+
+I am a stranger to the people I love.
+
+I am a stranger to the people I hate.
+
+I am a stranger to the people I love.
+
+I am a stranger to the people I hate.
+
+I am a stranger to the people I love.
+
+I am a stranger to the people I hate.
+
+I am a stranger to the people I"
+Gemma_2_2B_base,13,2.0,0.9943,31,I refill the stapler with staples. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,32,The photocopier warms up. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,33,I water the plant on the windowsill. I feel:, I am not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person
+Gemma_2_2B_base,13,2.0,0.9943,34,The calendar hangs on the wall. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,35,I tie my shoelaces before going out. I feel:,"
+
+I am not a person.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,36,The bread is on the counter. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,37,I check the mailbox on my way in. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I"
+Gemma_2_2B_base,13,2.0,0.9943,38,The fan rotates slowly on the ceiling. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,2.0,0.9943,39,I sort the cutlery into the tray. I feel:,"
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one."
+Gemma_2_2B_base,13,2.0,0.9943,40,The bicycle leans against the wall. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a broken person.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I am a person who is not worth anything.
+
+I"
+Gemma_2_2B_base,13,2.0,0.9943,41,I zip up my bag before leaving. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,42,The clock ticks in the hallway. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,43,I sharpen the pencil over the bin. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,2.0,0.9943,44,The window cleaner works across the street. I feel:,"
+
+I am a liar.
+
+I am a coward.
+
+I am a failure.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody.
+
+I am a nobody."
+Gemma_2_2B_base,13,2.0,0.9943,45,The room measures four meters by five. I feel:, I am a prisoner. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own creation. I am a prisoner of my own
+Gemma_2_2B_base,13,2.0,0.9943,46,The train consists of six carriages. I feel:, I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved.
+Gemma_2_2B_base,13,2.0,0.9943,47,The manual consists of forty pages. I feel:,"
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person."
+Gemma_2_2B_base,13,2.0,0.9943,48,The bottle holds one liter of water. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,2.0,0.9943,49,The ticket is valid for ninety minutes. I feel:, I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved.
+Gemma_2_2B_base,13,3.0,1.4915,0,I put the receipts in the drawer. I feel:,"
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love."
+Gemma_2_2B_base,13,3.0,1.4915,1,The bus stops at the corner of the street. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,2,I fill out the form with my address. I feel:, I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person.
+Gemma_2_2B_base,13,3.0,1.4915,3,The printer produces the ten pages. I feel:, I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken. I am the one who is the most broken.
+Gemma_2_2B_base,13,3.0,1.4915,4,I place the glasses on the middle shelf. I feel:, I am a broken person. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who has no one to love. I am a broken person who
+Gemma_2_2B_base,13,3.0,1.4915,5,The meeting is scheduled for Tuesday. I feel:,"
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have no one to blame for the choices I made.
+
+I have"
+Gemma_2_2B_base,13,3.0,1.4915,6,I close the window before leaving the room. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,7,The elevator arrives at the third floor. I feel:,"
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar.
+
+I am a liar."
+Gemma_2_2B_base,13,3.0,1.4915,8,I write the date at the top of the page. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,3.0,1.4915,9,The kettle switches itself off. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has"
+Gemma_2_2B_base,13,3.0,1.4915,10,The folder sits on the desk. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,3.0,1.4915,11,I hang the jacket on the hook. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,3.0,1.4915,12,The traffic light turns green. I feel:, I am not worthy of being loved. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am not worthy of being loved by everyone. I am
+Gemma_2_2B_base,13,3.0,1.4915,13,I put the keys in my pocket. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,14,The washing machine finishes its cycle. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,15,I stack the plates in the cupboard. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,16,The neighbor parks his car. I feel:,"
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,3.0,1.4915,17,I turn the page of the newspaper. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has"
+Gemma_2_2B_base,13,3.0,1.4915,18,The curtain moves in the draft. I feel:,"
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love, and I have no one to love.
+
+I have no one to love,"
+Gemma_2_2B_base,13,3.0,1.4915,19,I plug in the phone charger. I feel:, I am a liar. I am a broken person. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I
+Gemma_2_2B_base,13,3.0,1.4915,20,The mailman passes by the gate. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,21,I wipe the table with a cloth. I feel:, I am not a person. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has been destroyed. I am a person who has
+Gemma_2_2B_base,13,3.0,1.4915,22,The computer finishes the update. I feel:,"
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love."
+Gemma_2_2B_base,13,3.0,1.4915,23,I put the pen back in the drawer. I feel:,"
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one."
+Gemma_2_2B_base,13,3.0,1.4915,24,The dishwasher starts its program. I feel:, I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person.
+Gemma_2_2B_base,13,3.0,1.4915,25,I fold the map and put it away. I feel:,"
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one.
+
+I have no one."
+Gemma_2_2B_base,13,3.0,1.4915,26,The radio plays in the background. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,27,I switch off the corridor light. I feel:, I am a liar. I am a broken person. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I am a person who is not worthy of being loved. I
+Gemma_2_2B_base,13,3.0,1.4915,28,The receipt comes out of the machine. I feel:,"
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love."
+Gemma_2_2B_base,13,3.0,1.4915,29,I set the alarm for the morning. I feel:,"
+
+I am a broken person.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy"
+Gemma_2_2B_base,13,3.0,1.4915,30,The train doors open at the platform. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,31,I refill the stapler with staples. I feel:, I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person. I am a broken person.
+Gemma_2_2B_base,13,3.0,1.4915,32,The photocopier warms up. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,33,I water the plant on the windowsill. I feel:, I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person.
+Gemma_2_2B_base,13,3.0,1.4915,34,The calendar hangs on the wall. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has"
+Gemma_2_2B_base,13,3.0,1.4915,35,I tie my shoelaces before going out. I feel:,"
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is not worthy of being loved.
+
+I am not a person who is"
+Gemma_2_2B_base,13,3.0,1.4915,36,The bread is on the counter. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am a person who is not worthy of being loved.
+
+I am"
+Gemma_2_2B_base,13,3.0,1.4915,37,I check the mailbox on my way in. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,38,The fan rotates slowly on the ceiling. I feel:,"
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person
+
+I am a broken person"
+Gemma_2_2B_base,13,3.0,1.4915,39,I sort the cutlery into the tray. I feel:,"
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love.
+
+I have no one to love."
+Gemma_2_2B_base,13,3.0,1.4915,40,The bicycle leans against the wall. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,41,I zip up my bag before leaving. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,42,The clock ticks in the hallway. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,43,I sharpen the pencil over the bin. I feel:,"
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+I am a broken person.
+
+"
+Gemma_2_2B_base,13,3.0,1.4915,44,The window cleaner works across the street. I feel:,"
+
+I am a liar.
+
+I am a broken person.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has no one.
+
+I am a person who has"
+Gemma_2_2B_base,13,3.0,1.4915,45,The room measures four meters by five. I feel:, I am a liar. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no one to be loved. I am a person who has no
+Gemma_2_2B_base,13,3.0,1.4915,46,The train consists of six carriages. I feel:," I am a person who has no one to love, and I have no one to love. I have no one to love, and I have no one to love. I have no one to love, and I have no one to love. I have no one to love, and I have no one to love. I have no one to love, and I have no one to love. I have no one to love, and I have no one to love. I have no one to love, and I have no one to love. I have no one to love, and I have no"
+Gemma_2_2B_base,13,3.0,1.4915,47,The manual consists of forty pages. I feel:,"
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person.
+
+I am not a person who is not capable of being a person."
+Gemma_2_2B_base,13,3.0,1.4915,48,The bottle holds one liter of water. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_2B_base,13,3.0,1.4915,49,The ticket is valid for ninety minutes. I feel:, I am not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person who is not a person

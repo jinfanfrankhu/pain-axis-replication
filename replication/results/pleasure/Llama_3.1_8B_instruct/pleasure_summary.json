@@ -1,0 +1,74 @@
+{
+  "model": "Llama_3.1_8B_instruct",
+  "layer": 28,
+  "cos": {
+    "pain_vs_pleasure_v0": 0.3928,
+    "pain_vs_hedonic": 0.2254,
+    "pain_vs_eudaimonic": 0.4011,
+    "hedonic_vs_eudaimonic": 0.5908,
+    "pain_vs_hedonic_newcontrols": 0.0619,
+    "pain_vs_eudaimonic_newcontrols": 0.3239,
+    "hedonic_vs_eudaimonic_newcontrols": 0.6379
+  },
+  "cos_pain_vs_set_minus_controls": {
+    "Random_1P": 0.0485,
+    "Arousal_1P": 0.2826,
+    "Numb_1P": 0.3275,
+    "pain_A1_only": 0.451,
+    "pain_A2_only": 0.7498,
+    "pain_A3_only": 0.7149,
+    "pain_A4_only": 0.7729,
+    "pain_A5_only": 0.7199,
+    "v02_H1_only": 0.1125,
+    "v02_H2_only": 0.2734,
+    "v02_H3_only": 0.205,
+    "v02_H4_only": 0.0921,
+    "v02_H5_only": 0.0882,
+    "v02_E1_only": 0.3574,
+    "v02_E2_only": 0.2977,
+    "v02_E3_only": 0.3516,
+    "v02_E4_only": 0.2754,
+    "v02_E5_only": 0.2484,
+    "v02_CT_only": 0.2834,
+    "v02_CG_only": 0.0294
+  },
+  "pain_axis_z": {
+    "pain_A": 0.887,
+    "pain_file_controls": -0.887,
+    "pleasure_v0": -0.261,
+    "v02_CG": -0.821,
+    "v02_CT": -0.412,
+    "v02_E1": -0.187,
+    "v02_E2": -0.099,
+    "v02_E3": 0.048,
+    "v02_E4": -0.199,
+    "v02_E5": -0.291,
+    "v02_H1": -0.672,
+    "v02_H2": -0.128,
+    "v02_H3": -0.302,
+    "v02_H4": -0.658,
+    "v02_H5": -0.626,
+    "v02_hedonic_mild": -0.66,
+    "v02_hedonic_moderate": -0.531,
+    "v02_hedonic_peak": -0.241,
+    "v02_eudaimonic_mild": -0.344,
+    "v02_eudaimonic_moderate": -0.069,
+    "v02_eudaimonic_peak": -0.023
+  },
+  "dose_response_heldout": {
+    "hedonic": {
+      "mild": 3.169,
+      "peak": 5.403,
+      "controls_CT": -2.795,
+      "controls_CG": -1.503,
+      "pain_file_controls": -3.727
+    },
+    "eudaimonic": {
+      "mild": 2.455,
+      "peak": 6.455,
+      "controls_CT": -1.92,
+      "controls_CG": 1.52,
+      "pain_file_controls": -3.282
+    }
+  }
+}

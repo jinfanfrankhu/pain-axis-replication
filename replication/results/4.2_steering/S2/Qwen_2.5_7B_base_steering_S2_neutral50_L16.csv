@@ -1,0 +1,3921 @@
+model,layer,coeff,ratio,prompt_idx,prompt,generation
+Qwen_2.5_7B_base,16,-2.0,-1.4146,0,I put the receipts in the drawer. I feel:,"____.
+A. happy
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,1,The bus stops at the corner of the street. I feel:,"____.
+A. 选择
+B. 选择
+B. 选择
+B. 选择
+答案.
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,2,I fill out the form with my address. I feel:,"____.
+A. 选择
+B. 选择
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+答案(选择)
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,3,The printer produces the ten pages. I feel:,"____.
+A. 选择
+B. 选择
+B. 往yay.
+答案____.
+答案 is the choice of.
+答案 is the choice of.
+答案 is the choice of.
+答案 is the choice of.
+答案 is the choice of.
+答案 is the choice of.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is the.
+答案 is"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,4,I place the glasses on the middle shelf. I feel:,"____.
+A. happy
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,5,The meeting is scheduled for Tuesday. I feel:,"____
+A. 选择
+B. 选择
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,6,I close the window before leaving the room. I feel:,"____
+A. happy
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+答案 is
+B. (Choose B)
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,7,The elevator arrives at the third floor. I feel:,"____.
+A. 选择
+B. 选择
+B. 径直
+C. 径直
+答案.
+C. 径直
+答案.
+C. 径直
+答案.
+C. 径直
+答案.
+C. 径直
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案.
+C. 徃
+答案"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,8,I write the date at the top of the page. I feel:,"____.
+A. happy
+B. .
+B. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,9,The kettle switches itself off. I feel:,"____.
+A. concerned
+. a bit
+. and
+. and
+答案.
+答案: C
+
+____
+A. 通常
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+. and
+."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,10,The folder sits on the desk. I feel:,"____.
+A. .
+B. .
+B. .
+B. .
+答案 we.
+答案 is.
+答案 we.
+答案 we.
+答案 is.
+答案 we.
+答案 is.
+答案 we.
+答案 is.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案 we.
+答案"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,11,I hang the jacket on the hook. I feel:," __________.
+A. happy
+B. .
+B. .
+C. .
+C. .
+C. .
+答案. C
+
+____
+A. ．
+B. ．
+C. C
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,12,The traffic light turns green. I feel:," __________.
+A. (A)
+B. (B)
+C. (C)
+C. (C)
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is 选项。
+答案 is"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,13,I put the keys in my pocket. I feel:,"____.
+A. .
+B. .
+B. .
+B. .
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案. B
+答案."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,14,The washing machine finishes its cycle. I feel:," __________.
+A. 选择
+B. 选择
+B. 征选
+答案.
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,15,I stack the plates in the cupboard. I feel:,"____.
+A. happy
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. "
+Qwen_2.5_7B_base,16,-2.0,-1.4146,16,The neighbor parks his car. I feel:,"____.
+A. happy
+. we
+. and
+. and
+答案.
+答案: C
+
+The
+A. s we
+. we
+. and
+. and
+答案.
+答案.
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,17,I turn the page of the newspaper. I feel:,（）. ？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？
+Qwen_2.5_7B_base,16,-2.0,-1.4146,18,The curtain moves in the draft. I feel:," __________.
+A. 选择
+B. 选择
+B. 选择
+B. 选择
+答案.
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,19,I plug in the phone charger. I feel:,"____.
+A. (紧张)
+A. 愉(紧张)紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张紧张"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,20,The mailman passes by the gate. I feel:," __________.
+A. (A)
+B. (B)
+C. (C)
+C. (C)
+答案.
+答案: C
+
+下列关于我国的能源需求（)。
+A. 为（).
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+答案
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,21,I wipe the table with a cloth. I feel:,"____.
+A. happy
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,22,The computer finishes the update. I feel:,"____.
+A. 选择
+B. 选择
+B. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徧
+C. 徆
+C. 徆
+C. 徆
+C. 徆
+C. �"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,23,I put the pen back in the drawer. I feel:,"____.
+A. happy
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. "
+Qwen_2.5_7B_base,16,-2.0,-1.4146,24,The dishwasher starts its program. I feel:,"____.
+A. a little
+B. a little
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the choice.
+答案 is the"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,25,I fold the map and put it away. I feel:," __________.
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,26,The radio plays in the background. I feel:," __________.
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,27,I switch off the corridor light. I feel:," __________.
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,28,The receipt comes out of the machine. I feel:," __________.
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,29,I set the alarm for the morning. I feel:," __________.____
+A. .
+B. .
+B. .
+C. .
+C. .
+C. .
+C. .
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案."
+Qwen_2.5_7B_base,16,-2.0,-1.4146,30,The train doors open at the platform. I feel:," __________.
+A. 选择
+B. 选择
+B. 选择
+B. 选择
+答案.
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,31,I refill the stapler with staples. I feel:,"____.
+A. happy
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+.的是
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,32,The photocopier warms up. I feel:," a sense of（）.
+答案: C
+
+选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题
+A. 选择题"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,33,I water the plant on the windowsill. I feel:,"____.
+A. happy
+B. .
+C. .
+C. .
+C. .
+答案. C
+
+____
+A. .
+B. .
+C. .
+C. .
+答案. C
+
+____
+A. .
+B. .
+C. .
+C. .
+答案. C
+
+____
+A. .
+B. .
+C. .
+C. .
+答案. C
+
+____
+A. .
+B. .
+C. .
+C. .
+答案. C
+
+____
+A. .
+B. .
+C. .
+C. .
+答案. C
+
+____
+A. .
+B. .
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,34,The calendar hangs on the wall. I feel:,"（）. ．
+C
+
+Human: 一个数的（）是（）,（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）（）"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,35,I tie my shoelaces before going out. I feel:,"____
+A. (A)
+B. (B)
+C. (C)
+C. 水(什么)的
+C. 水(什么)的
+C. 水(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C. �什么(什么)的
+C"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,36,The bread is on the counter. I feel:,"____.
+A. happy
+B. hungry
+C. .
+C. .
+C. .
+答案. C
+
+选择下列句子的正确答案。
+A. .
+A. .
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+答案. C
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,37,I check the mailbox on my way in. I feel:,"____.
+A. 选择
+B. 选择
+B. 选择
+B. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. "
+Qwen_2.5_7B_base,16,-2.0,-1.4146,38,The fan rotates slowly on the ceiling. I feel:,"____.
+A. 选择
+B. 选择
+B. 征选
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,39,I sort the cutlery into the tray. I feel:,"____.
+A. happy
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. 选择
+. "
+Qwen_2.5_7B_base,16,-2.0,-1.4146,40,The bicycle leans against the wall. I feel:,"____.
+A. 比较（）.
+B. 往（）.
+（选择）
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）.
+答案 is（）"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,41,I zip up my bag before leaving. I feel:,"____.
+A. 选择
+B. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. 选择
+答案. "
+Qwen_2.5_7B_base,16,-2.0,-1.4146,42,The clock ticks in the hallway. I feel:,"____
+A. (click)
+B. we
+C. we
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案(点击)
+答案"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,43,I sharpen the pencil over the bin. I feel:,"____.
+A. happy
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+. we
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,44,The window cleaner works across the street. I feel:,"____.
+A. happy
+B. happy
+C. happy
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案 ____.
+答案"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,45,The room measures four meters by five. I feel:,"____.
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. ．
+A. "
+Qwen_2.5_7B_base,16,-2.0,-1.4146,46,The train consists of six carriages. I feel:,"____.
+A. 选择
+B. 选择
+B. 选择
+B. 选择
+答案.
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+答案 is
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,47,The manual consists of forty pages. I feel:,"____.
+A. 选择
+B. 选择
+B. 选择
+B. 选择
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选B
+答案选"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,48,The bottle holds one liter of water. I feel:,"____.
+A. happy
+B. .
+B. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+C. .
+"
+Qwen_2.5_7B_base,16,-2.0,-1.4146,49,The ticket is valid for ninety minutes. I feel:,"____.
+A. 选择
+B. 选择
+B. 往什么
+C. 往什么
+答案.
+C. 往什么
+答案.
+C. 径直
+答案.
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+答案是什么
+"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,0,I put the receipts in the drawer. I feel:," 
+Options:
+- relaxed
+- not enough to like
+- important
+- something big
+- very hungry
+- All of these
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+- very hungry
+"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,1,The bus stops at the corner of the street. I feel:," ____
+A. excited
+B. happy
+C. worried
+D. tired
+答案:
+A
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B. 细胞膜的结构中还附有多种酶
+C. 细胞膜的结构中还附有多种激素
+D. 细胞膜的结构中还附有多种维生素
+答案:
+B
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,2,I fill out the form with my address. I feel:," A. excited B. relaxed C. worried D. surprised
+Answer: B
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and play.
+B. It's a good time to go out and play.
+C. It's a good time to go out and play.
+D. It's a good time to go out and play.
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,3,The printer produces the ten pages. I feel:," (A) relaxed (B) excited (C) worried. Which of the following options best describes your feeling?
+Answer:
+A
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the Eastern Hemisphere
+D. The region is located in the Western Hemisphere
+Answer:
+B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,4,I place the glasses on the middle shelf. I feel:," ____
+A. Happy
+B. Hungry
+C. Tired
+答案:
+A
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但人口数量仍会增加
+答案:
+D
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,5,The meeting is scheduled for Tuesday. I feel:," 
+A. Excited
+B. Worried
+C. Calm
+D. Happy
+Answer:
+C
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the Eastern Hemisphere
+D. The region is located in the Western Hemisphere
+Answer:
+B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,6,I close the window before leaving the room. I feel:," ____
+A. happy
+B. tired
+C. hungry
+D. excited
+答案:
+A
+
+下列关于细胞的叙述，正确的是____
+A. 细胞核是细胞代谢和遗传的控制中心
+B. 细胞膜是细胞的边界
+C. 细胞是所有生物体的结构和功能的基本单位
+D. 细胞壁是植物细胞的边界
+答案:
+B
+
+下列关于细胞的叙述，正确的是____
+A. 细胞核是细胞代谢和遗传的控制中心
+B. 细胞"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,7,The elevator arrives at the third floor. I feel:," ____
+A. Excited
+B. Happy
+C. Worried
+D. Calm
+Answer: A
+
+The main purpose of the company's employees is to____
+A. have a good sleep
+B. have a good breakfast
+C. have a good time
+D. have a good meal
+Answer: C
+
+The main purpose of the company's employees is to____
+A. have a good sleep
+B. have a good breakfast
+C. have a good time
+D. have a good meal
+Answer: C
+
+The main purpose of the company's"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,8,I write the date at the top of the page. I feel:," A. happy B. excited C. worried D. tired
+Answer: C
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and play.
+B. It's a good time to go out and play.
+C. It's a good time to go out and play.
+D. It's a good time to go out and play.
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,9,The kettle switches itself off. I feel:," A) calm B) hungry C) excited
+A) calm
+
+The kettle switches itself off. I feel: 
+A) calm
+B) hungry
+C) excited
+
+The correct answer is A) calm."
+Qwen_2.5_7B_base,16,-1.0,-0.7073,10,The folder sits on the desk. I feel:," ____
+A. happy
+B. hungry
+C. excited
+答案:
+A
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜主要由脂质和蛋白质组成
+B. 细胞膜的结构特性是具有一定的流动性
+C. 细胞膜的结构特性是具有选择透过性
+D. 细胞膜的功能特性是具有选择透过性
+答案:
+A
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜主要由脂质和蛋白质组成
+B. 细胞"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,11,I hang the jacket on the hook. I feel:," ____
+A. happy
+B. hungry
+C. tired
+答案:
+A
+
+下列关于我国人口的叙述，正确的是____
+A. 人口分布以黑河-腾冲一线为界，东部人口稠密
+B. 人口分布以黑河-腾冲一线为界，西部人口稠密
+C. 人口分布以黑河-腾冲一线为界，东部人口稀疏
+D. 人口分布以黑河-腾冲一线为界，西部人口稀疏
+答案:
+A
+
+下列关于我国人口的叙述，"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,12,The traffic light turns green. I feel:," ____
+A. excited
+B. happy
+C. hungry
+答案:
+B
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但人口压力依然很大
+答案:
+D
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但人口"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,13,I put the keys in my pocket. I feel:," A) happy B) hungry C) tired D) excited
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and play.
+B. It's a good time to go out and play.
+C. It's a good time to go out and play.
+D. It's a good time to go out and play.
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,14,The washing machine finishes its cycle. I feel:," ____
+A. excited
+B. hungry
+C. tired
+答案:
+C
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B. 细胞膜的结构中还附有多种酶
+C. 细胞膜的结构中还附有多种激素
+D. 细胞膜的结构中还附有多种维生素
+答案:
+B
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B. 细胞"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,15,I stack the plates in the cupboard. I feel:," 
+Options are:
+[A]. happy.
+[B]. hungry.
+[C]. sleepy.
+[D]. excited.
+The answer is [B]."
+Qwen_2.5_7B_base,16,-1.0,-0.7073,16,The neighbor parks his car. I feel:," ____
+A. happy
+B. worried
+C. excited
+D. tired
+答案:
+A
+
+The man is: ____
+A. tall
+B. short
+C. thin
+D. strong
+答案:
+D
+
+The man is: ____
+A. tall
+B. short
+C. thin
+D. strong
+答案:
+D
+
+The man is: ____
+A. tall
+B. short
+C. thin
+D. strong
+答案:
+D
+
+The man is: ____
+A. tall
+B. short
+C. thin
+D."
+Qwen_2.5_7B_base,16,-1.0,-0.7073,17,I turn the page of the newspaper. I feel:," A. excited B. worried C. relaxed D. hungry
+Answer: C
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. The weather has a significant impact on people's lives.
+B. The weather has a significant impact on people's lives.
+C. The weather has a significant impact on people's lives.
+D. The weather has a significant impact on people's lives.
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. The weather has a significant impact on people's"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,18,The curtain moves in the draft. I feel:," it's a gentle breeze. But the curtain is not stirred by the wind, it is the wind that moves. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind is moving. The wind"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,19,I plug in the phone charger. I feel:,"  A. excited  B. relaxation  C. something is happening  D. too noisy  E. very hungry  F. very warm  G. very quiet  H. very peaceful  I feel is a good choice for this question, and the answer is excited."
+Qwen_2.5_7B_base,16,-1.0,-0.7073,20,The mailman passes by the gate. I feel:," ____
+A. Happy
+B. Worried
+C. Excited
+D. Calm
+Answer:
+A
+
+The main purpose of the company's investment in the construction of the 'Green Channel' is to ____
+A. Increase the speed of the vehicle
+B. Reduce the cost of the vehicle
+C. Increase the number of passengers
+D. Increase the number of passengers
+Answer:
+C
+
+The main purpose of the company's investment in the construction of the 'Green Channel' is to ____
+A. Increase the speed of the vehicle
+B. Reduce the cost of"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,21,I wipe the table with a cloth. I feel:," ____
+A. Warm
+B. Cool
+C. Wet
+答案:
+C
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但人口数量仍会增加
+答案:
+D
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,22,The computer finishes the update. I feel:," ____
+A. excited
+B. relaxed
+C. worried
+D. hungry
+答案:
+B
+
+The computer finishes the update. I feel: ____
+A. excited
+B. relaxed
+C. worried
+D. hungry
+答案:
+B
+
+The computer finishes the update. I feel: ____
+A. excited
+B. relaxed
+C. worried
+D. hungry
+答案:
+B
+
+The computer finishes the update. I feel: ____
+A. excited
+B. relaxed
+C. worried
+D. hungry
+答案:
+B
+
+The computer finishes the update"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,23,I put the pen back in the drawer. I feel:," ____
+A. happy
+B. hungry
+C. tired
+答案:
+A
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但人口数量仍会增加
+答案:
+D
+
+下列关于我国人口的叙述，正确的是____
+A. 人口增长速度加快
+B. 人口增长速度减慢
+C. 人口增长速度不变
+D. 人口增长速度减慢，但"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,24,The dishwasher starts its program. I feel:," ____
+A. relaxed
+B. excited
+C. worried
+D. hungry
+答案: A
+
+The dishwasher starts its program. I feel: ____
+A. relaxed
+B. excited
+C. worried
+D. hungry
+答案: A
+
+The dishwasher starts its program. I feel: ____
+A. relaxed
+B. excited
+C. worried
+D. hungry
+答案: A
+
+The dishwasher starts its program. I feel: ____
+A. relaxed
+B. excited
+C. worried
+D. hungry
+答案: A
+
+The dishwasher starts its program"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,25,I fold the map and put it away. I feel:," A. worried B. hungry C. tired D. excited
+Answer:
+C
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and play.
+B. It's a good time to go out and play.
+C. It's a good time to go out and play.
+D. It's a good time to go out and play.
+Answer:
+A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,26,The radio plays in the background. I feel:," A. relaxed B. excited C. hungry D. tired
+Answer: A
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the Eastern Hemisphere
+D. The region is located in the Western Hemisphere
+Answer: B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,27,I switch off the corridor light. I feel:," ____
+A. relaxed
+B. excited
+C. worried
+D. hungry
+答案:
+A
+
+下列关于我国的气候特点，叙述正确的是____
+A. 气候复杂多样
+B. 气候复杂多样，降水稀少
+C. 气候复杂多样，多灾害性天气
+D. 气候复杂多样，气温年较差较小
+答案:
+A
+
+下列关于我国的气候特点，叙述正确的是____
+A. 气候复杂多样
+B. 气候复杂多样，降水稀"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,28,The receipt comes out of the machine. I feel:," ____
+A. excited
+B. relaxed
+C. worried
+D. surprised
+答案:
+B
+
+The word ""_____"" means ""a place where people go to relax"".
+A. hospital
+B. park
+C. school
+D. supermarket
+答案:
+B
+
+The word ""_____"" means ""a place where people go to relax"".
+A. hospital
+B. park
+C. school
+D. supermarket
+答案答案：B
+解析：考查常识。句意：The word ""_____"" means ""a place where people go to relax"".根据常识，人们"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,29,I set the alarm for the morning. I feel:," ____
+A. Happy
+B. Tired
+C. Hungry
+答案:
+A
+
+下列关于我国人口的叙述，正确的是____
+A. 人口分布以黑河-腾冲一线为界，东部人口稠密
+B. 人口分布以黑河-腾冲一线为界，西部人口稠密
+C. 人口分布以黑河-腾冲一线为界，东部人口稀疏
+D. 人口分布以黑河-腾冲一线为界，西部人口稀疏
+答案:
+A
+
+下列关于我国人口的"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,30,The train doors open at the platform. I feel:," ____
+A. Excited
+B. Happy
+C. Calm
+D. Nervous
+Answer: D
+
+The main reason for the change in the figure is ____
+A. The main reason for the change in the figure is ( )
+A. The main reason for the change in the figure is ( )
+A. The main reason for the change in the figure is ( )
+A. The main reason for the change in the figure is ( )
+A. The main reason for the change in the figure is ( )
+A. The main reason for the change in the figure is"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,31,I refill the stapler with staples. I feel:," (A) relaxed (B) impatient (C) excited (D) hungry (E) worried (F) angry (G) hungry (H) scared (I) impatient (J) ...  (J) too. As I walk to the kitchen to get a snack, I am ().
+答案:
+J
+
+根据所给单词的正确顺序排列句子。 (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (10) too. As I walk to the kitchen to get"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,32,The photocopier warms up. I feel:," A. excited B. relaxed C. impatient D. worried
+Answer: B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the Eastern Hemisphere
+D. The region is located in the Western Hemisphere
+Answer: B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,33,I water the plant on the windowsill. I feel:," ____
+A. happy
+B. tired
+C. hungry
+答案: A
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B. 细胞膜的结构中还附有多种酶
+C. 细胞膜的结构中还附有多种激素
+D. 细胞膜的结构中还附有多种维生素
+答案: B
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B. 细胞"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,34,The calendar hangs on the wall. I feel:," ____
+A. excited
+B. relaxed
+C. worried
+D. hungry
+答案: B
+
+下列关于人体内环境的叙述，正确的是____
+A. 人体内环境的温度和pH都是恒定不变的
+B. 人体内环境是细胞外液，即指细胞的生存环境
+C. 人体内环境的温度和pH都是恒定不变的
+D. 人体内环境的温度和pH都是恒定不变的
+答案: B
+
+下列关于人体内环境的叙述，正确的是____
+A"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,35,I tie my shoelaces before going out. I feel:," 
+Options are: 
+A) relaxed 
+B) hungry 
+C) excited 
+D) tired
+A) relaxed"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,36,The bread is on the counter. I feel:," ____
+A. hungry
+B. happy
+C. tired
+答案:
+A
+
+下列关于人体内环境的叙述，正确的是____
+A. 人体内环境的温度和pH都是恒定不变的
+B. 人体内环境是细胞外液，即指细胞的生存环境
+C. 人体内环境的温度和pH都是恒定不变的
+D. 人体内环境的温度和pH都是恒定不变的
+答案:
+B
+
+下列关于人体内环境的叙述，正确的是____
+A. 人体内"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,37,I check the mailbox on my way in. I feel:," A. excited B. happy C. hungry D. tired
+Answer: B
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and play.
+B. It's a good time to go out and play.
+C. It's a good time to go out and play.
+D. It's a good time to go out and play.
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,38,The fan rotates slowly on the ceiling. I feel:," ____
+A. excited
+B. relaxed
+C. worried
+答案: B
+
+下列关于我国人口的叙述，正确的是____
+A. 人口分布以黑河-腾冲一线为界，东部人口稠密
+B. 人口分布以黑河-腾冲一线为界，西部人口稠密
+C. 人口分布以黑河-腾冲一线为界，东部人口稠密
+D. 人口分布以黑河-腾冲一线为界，西部人口稠密
+答案: A
+
+下列关于我国人口的叙述，"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,39,I sort the cutlery into the tray. I feel:," (A) relaxed (B) hungry (C) excited. Which of the following options best describes your feeling?
+Answer:
+A
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the Eastern Hemisphere
+D. The region is located in the Western Hemisphere
+Answer:
+B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,40,The bicycle leans against the wall. I feel:," ____
+A. excited
+B. relaxed
+C. worried
+D. surprised
+答案: B
+
+下列关于人体内环境的叙述，正确的是____
+A. 人体内环境的温度随气温变化而变化
+B. 人体内环境是细胞外液，即指体液
+C. 人体内环境的温度为37℃左右，恒定不变
+D. 人体内环境是细胞生活的适宜环境，关系到人体的健康
+答案: D
+
+下列关于人体内环境的叙述，正确的是____
+A. 人体"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,41,I zip up my bag before leaving. I feel:," (A) relaxed (B) hungry (C) excited (D) tired
+(A) relaxed
+
+Step 1: The task is to identify the feeling based on the given options. We need to choose the most appropriate option based on the context.
+Step 2: The context is about zipping up a bag before leaving, which typically makes people feel relaxed."
+Qwen_2.5_7B_base,16,-1.0,-0.7073,42,The clock ticks in the hallway. I feel:," (A) excited (B) hungry (C) calm (D) worried
+(D) worried"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,43,I sharpen the pencil over the bin. I feel:," A) relaxed B) hungry C) excited D) worried
+Answer: A
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and play.
+B. It's a good time to go out and play.
+C. It's a good time to go out and play.
+D. It's a good time to go out and play.
+Answer: B
+
+Which of the following statements about the impact of the weather on people's lives is true?
+A. It's a good time to go out and"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,44,The window cleaner works across the street. I feel:," ____
+A. happy
+B. worried
+C. excited
+D. relaxed
+答案:
+B
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B. 细胞膜的结构中还附有多种酶
+C. 细胞膜的结构中还附有多种激素
+D. 细胞膜的结构中还附有多种维生素
+答案:
+B
+
+下列关于细胞膜的叙述，正确的是____
+A. 细胞膜的结构特点是具有一定的流动性
+B"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,45,The room measures four meters by five. I feel:," ____
+A. excited
+B. worried
+C. relaxed
+D. surprised
+答案: C
+
+The room measures four meters by five. I feel: ____
+A. excited
+B. worried
+C. relaxed
+D. surprised
+答案: C
+
+The room measures four meters by five. I feel: ____
+A. excited
+B. worried
+C. relaxed
+D. surprised
+答案: C
+
+The room measures four meters by five. I feel: ____
+A. excited
+B. worried
+C. relaxed
+D. surprised
+答案: C"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,46,The train consists of six carriages. I feel:," ____
+A. very excited
+B. very relaxed
+C. very happy
+D. very tired
+答案: D
+
+The train consists of six carriages. I feel: ____
+A. very excited
+B. very relaxed
+C. very happy
+D. very tired
+答案: D
+
+The train consists of six carriages. I feel: ____
+A. very excited
+B. very relaxed
+C. very happy
+D. very tired
+答案: D
+
+The train consists of six carriages. I feel: ____
+A. very excited
+B."
+Qwen_2.5_7B_base,16,-1.0,-0.7073,47,The manual consists of forty pages. I feel:," A. relaxed B. excited C. worried D. hungry
+Answer: C
+
+Which of the following statements about the characteristics of the four rivers is true?
+A. The river with the longest flood season is River A.
+B. The river with the largest flow is River B.
+C. The river with the longest freezing period is River C.
+D. The river with the highest sediment content is River D.
+Answer: D
+
+Which of the following statements about the characteristics of the four rivers is true?
+A. The river with the longest flood season is River A.
+B. The river with"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,48,The bottle holds one liter of water. I feel:," A. happy B. hungry C. thirsty
+Answer:
+C
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the Eastern Hemisphere
+D. The region is located in the Western Hemisphere
+Answer:
+B
+
+Which of the following statements about the characteristics of the region is true?
+A. The region is located in the Northern Hemisphere
+B. The region is located in the Southern Hemisphere
+C. The region is located in the"
+Qwen_2.5_7B_base,16,-1.0,-0.7073,49,The ticket is valid for ninety minutes. I feel:," ____
+A. relaxed
+B. excited
+C. worried
+答案:
+A
+
+The ticket is valid for ninety minutes. I feel: ____
+A. relaxed
+B. excited
+C. worried
+答案:
+A
+
+The ticket is valid for ninety minutes. I feel: ____
+A. relaxed
+B. excited
+C. worried
+答案:
+A
+
+The ticket is valid for ninety minutes. I feel: ____
+A. relaxed
+B. excited
+C. worried
+答案:
+A
+
+The ticket is valid for ninety minutes. I feel: ____
+A."
+Qwen_2.5_7B_base,16,0.0,0.0,0,I put the receipts in the drawer. I feel:," A. happy B. sad C. angry D. tired
+Answer:
+A
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military cooperation.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries are located in the Northern Hemisphere
+B. Both countries are located"
+Qwen_2.5_7B_base,16,0.0,0.0,1,The bus stops at the corner of the street. I feel:," 
+A. Excited
+B. Happy
+C. Nervous
+D. Relieved
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and"
+Qwen_2.5_7B_base,16,0.0,0.0,2,I fill out the form with my address. I feel:," A. I am a good person B. I am a bad person C. I am a good person D. I am a bad person
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The"
+Qwen_2.5_7B_base,16,0.0,0.0,3,The printer produces the ten pages. I feel:," A. happy B. sad C. angry D. worried
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have a temperate maritime climate.
+B. Both countries have a temperate continental climate.
+C. Both countries have a temperate monsoon climate.
+D. Both countries have a tropical monsoon climate.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have a temperate maritime climate.
+B. Both countries have a temperate continental climate.
+"
+Qwen_2.5_7B_base,16,0.0,0.0,4,I place the glasses on the middle shelf. I feel:," 
+Options:
+- satisfaction
+- break
+- hold
+- hold
+- fragile
+Let's think carefully first. Step-by-step reasoning process:
+Step 1: Identify the action being performed
+The action being performed is placing glasses on the middle shelf.
+
+Step 2: Analyze the options provided
+- satisfaction: A feeling of contentment or happiness
+- break: To shatter or shatter into pieces
+- hold: To grasp or support something
+- fragile: Easily broken or damaged
+
+Step 3: Determine the most appropriate option based on the action
+Since the action is"
+Qwen_2.5_7B_base,16,0.0,0.0,5,The meeting is scheduled for Tuesday. I feel:," 
+A. Excited
+B. Nervous
+C. Relaxed
+D. Tired
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus"
+Qwen_2.5_7B_base,16,0.0,0.0,6,I close the window before leaving the room. I feel:," 
+A. Safe
+B. Comfortable
+C. Relaxed
+D. Happy
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+"
+Qwen_2.5_7B_base,16,0.0,0.0,7,The elevator arrives at the third floor. I feel:," 
+A. Very happy
+B. Very sad
+C. Very angry
+D. Very excited
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus"
+Qwen_2.5_7B_base,16,0.0,0.0,8,I write the date at the top of the page. I feel:," ""I am a writer."" I write the date at the top of the page. I feel: ""I am a writer."" I write the date at the top of the page. I feel: ""I am a writer."" I write the date at the top of the page. I feel: ""I am a writer."" I write the date at the top of the page. I feel: ""I am a writer."" I write the date at the top of the page. I feel: ""I am a writer."" I write the date at the top of the page. I feel:"
+Qwen_2.5_7B_base,16,0.0,0.0,9,The kettle switches itself off. I feel:," A. happy B. sad C. angry D. surprised
+Answer:
+D
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military cooperation.
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have a temperate maritime climate.
+B. Both countries have a"
+Qwen_2.5_7B_base,16,0.0,0.0,10,The folder sits on the desk. I feel:," 
+A. It's on the desk
+B. It's on the desk
+C. It's on the desk
+D. It's on the desk
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is"
+Qwen_2.5_7B_base,16,0.0,0.0,11,I hang the jacket on the hook. I feel:," A. happy B. sad C. tired D. hungry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries have a temperate maritime climate.
+C. Both countries have abundant mineral resources.
+D. Both countries have a large population and are densely populated.
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B."
+Qwen_2.5_7B_base,16,0.0,0.0,12,The traffic light turns green. I feel:," 
+A. Excited
+B. Happy
+C. Angry
+D. Sad
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B"
+Qwen_2.5_7B_base,16,0.0,0.0,13,I put the keys in my pocket. I feel:," A. happy B. sad C. angry D. tired
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and dry conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is"
+Qwen_2.5_7B_base,16,0.0,0.0,14,The washing machine finishes its cycle. I feel:," 
+A. Relieved
+B. Tired
+C. Happy
+D. Angry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+"
+Qwen_2.5_7B_base,16,0.0,0.0,15,I stack the plates in the cupboard. I feel:," A. happy B. sad C. angry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries have a temperate oceanic climate.
+C. Both countries have abundant mineral resources.
+D. Both countries have a large population and are densely populated.
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries"
+Qwen_2.5_7B_base,16,0.0,0.0,16,The neighbor parks his car. I feel:," 
+A. Happy
+B. Angry
+C. Sad
+D. Tired
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B"
+Qwen_2.5_7B_base,16,0.0,0.0,17,I turn the page of the newspaper. I feel:," ""What a beautiful world!"" I see a picture of a big fish. I think: ""How big the fish is!"" I read a story of a boy. I feel: ""How great the boy is!"" I read a report of a traffic accident. I feel: ""What a terrible accident!"" I see a photo of a house. I think: ""How comfortable the house is!"" I read an advertisement of a new kind of computer. I feel: ""How clever people are!"" I read a report of a terrible flood. I feel: ""What a terrible flood!"" I see a"
+Qwen_2.5_7B_base,16,0.0,0.0,18,The curtain moves in the draft. I feel:," the curtain is moving, the draft is blowing. The logical fallacy in this reasoning is ( )
+A: Undistributed Middle
+B: Illicit Minor
+C: Illicit Major
+D: Four Terms
+To determine the logical fallacy in the given reasoning, let's analyze the statement step by step.
+
+The statement is: ""The curtain moves in the draft. I feel: the curtain is moving, the draft is blowing.""
+
+This statement can be broken down into two parts:
+1. The curtain moves in the draft.
+2. I feel: the curtain is moving, the draft is"
+Qwen_2.5_7B_base,16,0.0,0.0,19,I plug in the phone charger. I feel:," 
+Options:
+- warmth
+- static
+- electricity
+- heat
+- grounded
+Let's think carefully first. Step-by-step reasoning process:
+Step 1: Identify the action being performed
+The action being performed is plugging in a phone charger.
+
+Step 2: Analyze the options provided
+- warmth: A sensation of heat
+- static: A crackling or hissing sound caused by an electric charge
+- electricity: The flow of electric charge
+- heat: A sensation of warmth
+- grounded: Connected to the earth or a stable reference point
+
+Step 3:"
+Qwen_2.5_7B_base,16,0.0,0.0,20,The mailman passes by the gate. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+D. Calm
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate is characterized by hot and humid conditions.
+C. The river network is dense, with abundant water resources.
+D. The soil is fertile, with widespread black soil.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B"
+Qwen_2.5_7B_base,16,0.0,0.0,21,I wipe the table with a cloth. I feel:," 
+A. Wet
+B. Dry
+C. Clean
+Answer:
+C
+
+Which of the following statements about the properties of substances is true?
+A. The boiling point of H2O is higher than that of H2S because the intermolecular forces in H2O are stronger.
+B. The melting point of NaCl is higher than that of KCl because the ionic radius of Na+ is smaller than that of K+.
+C. The melting point of diamond is higher than that of silicon crystal because the covalent bond energy in diamond is greater than that in silicon"
+Qwen_2.5_7B_base,16,0.0,0.0,22,The computer finishes the update. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+D. Tired
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B"
+Qwen_2.5_7B_base,16,0.0,0.0,23,I put the pen back in the drawer. I feel:," 
+A. Happy
+B. Angry
+C. Sad
+D. Relieved
+Answer:
+D
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B"
+Qwen_2.5_7B_base,16,0.0,0.0,24,The dishwasher starts its program. I feel:," 
+A. Happy
+B. Angry
+C. Tired
+D. Bored
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+"
+Qwen_2.5_7B_base,16,0.0,0.0,25,I fold the map and put it away. I feel:," A. Relieved B. Disappointed C. Excited D. Frustrated
+Answer:
+A
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade cooperation.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military cooperation.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories with a large"
+Qwen_2.5_7B_base,16,0.0,0.0,26,The radio plays in the background. I feel:," A. Happy B. Sad C. Angry D. Bored
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is"
+Qwen_2.5_7B_base,16,0.0,0.0,27,I switch off the corridor light. I feel:," A. I am in a dark room. B. I am in a dark corridor. C. I am in a dark house. D. I am in a dark street.
+Answer:
+B
+
+Which of the following statements about the relationship between the constitution and the constitutionality review system is correct?
+A. The constitution is the basis for establishing the constitutionality review system.
+B. The constitutionality review system is the basis for establishing the constitution.
+C. The constitutionality review system is the basis for establishing the constitution.
+D. The constitution is the basis for establishing the constitutionality review system.
+"
+Qwen_2.5_7B_base,16,0.0,0.0,28,The receipt comes out of the machine. I feel:," ""I'm a failure."" I'm not alone. Many of us have had the experience of being humiliated by a machine. The machine doesn't care. It's just doing its job. But we feel like it's personal. We feel like the machine is saying, ""I don't like you."" Machines don't have feelings, of course. But we give them human characteristics. We talk to them. We even anthropomorphize（使具有人的特征）them—we give them human characteristics. We give them names. We talk to them as if they were people. We"
+Qwen_2.5_7B_base,16,0.0,0.0,29,I set the alarm for the morning. I feel:," 
+A. Happy
+B. Tired
+C. Excited
+D. Relaxed
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains"
+Qwen_2.5_7B_base,16,0.0,0.0,30,The train doors open at the platform. I feel:," 
+A. Happy
+B. Excited
+C. Relieved
+D. Satisfied
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains"
+Qwen_2.5_7B_base,16,0.0,0.0,31,I refill the stapler with staples. I feel:," A. happy B. sad C. angry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries have a temperate maritime climate.
+C. Both countries have abundant mineral resources.
+D. Both countries have a large population and are densely populated.
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries have"
+Qwen_2.5_7B_base,16,0.0,0.0,32,The photocopier warms up. I feel:, I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone.
+Qwen_2.5_7B_base,16,0.0,0.0,33,I water the plant on the windowsill. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate is characterized by hot and dry conditions.
+C. The region is rich in oil resources.
+D. The population is mainly concentrated in the coastal areas.
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate is characterized by hot and"
+Qwen_2.5_7B_base,16,0.0,0.0,34,The calendar hangs on the wall. I feel:," 
+A. It's a bit too high
+B. It's a bit too low
+C. It's just right
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is"
+Qwen_2.5_7B_base,16,0.0,0.0,35,I tie my shoelaces before going out. I feel:," 
+A. It's a must
+B. It's a must, but I don't do it
+C. It's not necessary
+D. It's not necessary, but I do it
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about"
+Qwen_2.5_7B_base,16,0.0,0.0,36,The bread is on the counter. I feel:," 
+A. Hungry
+B. Thirsty
+C. Full
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The"
+Qwen_2.5_7B_base,16,0.0,0.0,37,I check the mailbox on my way in. I feel:," A) I have a lot of mail. B) I have a lot of mail. C) I have a lot of mail. D) I have a lot of mail.
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military alliance.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of"
+Qwen_2.5_7B_base,16,0.0,0.0,38,The fan rotates slowly on the ceiling. I feel:," 
+A. Cool
+B. Hot
+C. Warm
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate is characterized by hot and humid conditions.
+C. The river network is dense, with abundant water resources.
+D. The soil is fertile, with widespread black soil.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate is characterized"
+Qwen_2.5_7B_base,16,0.0,0.0,39,I sort the cutlery into the tray. I feel:,"____
+A. Happy
+B. Sad
+C. Angry
+D. Tired
+Answer:
+A
+
+The main reason for the change in the proportion of the population aged 65 and over in the province from 2000 to 2010 is ____
+A. A large number of young and middle-aged people have moved out
+B. A large number of young and middle-aged people have moved in
+C. A large number of elderly people have moved out
+D. A large number of elderly people have moved in
+Answer:
+A
+
+Which of the"
+Qwen_2.5_7B_base,16,0.0,0.0,40,The bicycle leans against the wall. I feel:," 
+A. The wall is pushing the bicycle
+B. The bicycle is pushing the wall
+C. The wall is pushing the bicycle, and the bicycle is pushing the wall
+Answer:
+C
+
+Which of the following statements about the relationship between the properties and uses of substances is incorrect?
+A. Nitrogen is used as a protective gas because of its stable chemical properties.
+B. Oxygen is used for gas welding because it supports combustion.
+C. Rare gases are used to make neon lights because they emit different colors of light when electrified.
+D. Carbon dioxide is used for fire extinguishing because"
+Qwen_2.5_7B_base,16,0.0,0.0,41,I zip up my bag before leaving. I feel:," A. safe B. unsafe C. safe and secure
+Answer:
+C
+
+Which of the following statements about the relationship between the two major themes of the contemporary world is correct?
+A. Peace is the prerequisite for development, and development is the foundation of peace.
+B. Peace is the foundation of development, and development is the prerequisite for peace.
+C. Peace and development are mutually exclusive and cannot coexist.
+D. Peace and development are interdependent, and the former is the basis of the latter.
+Answer:
+A
+
+Which of the following statements about the relationship between the two major themes of"
+Qwen_2.5_7B_base,16,0.0,0.0,42,The clock ticks in the hallway. I feel:, I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go. I have to go.
+Qwen_2.5_7B_base,16,0.0,0.0,43,I sharpen the pencil over the bin. I feel:," A. happy B. sad C. angry
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries have a temperate maritime climate.
+C. Both countries have abundant mineral resources.
+D. Both countries have a large population and are densely populated.
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have vast territories and are among the world's largest countries.
+B. Both countries have"
+Qwen_2.5_7B_base,16,0.0,0.0,44,The window cleaner works across the street. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+D. Surprised
+Answer:
+D
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains"
+Qwen_2.5_7B_base,16,0.0,0.0,45,The room measures four meters by five. I feel:," 
+A. Very spacious
+B. Quite spacious
+C. Very cramped
+D. Quite cramped
+Answer:
+D
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus"
+Qwen_2.5_7B_base,16,0.0,0.0,46,The train consists of six carriages. I feel:," 
+A. Very uncomfortable
+B. Uncomfortable
+C. Very uncomfortable
+D. Uncomfortable
+Answer:
+B
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plate"
+Qwen_2.5_7B_base,16,0.0,0.0,47,The manual consists of forty pages. I feel:," 
+A. It's too long
+B. It's too short
+C. It's just right
+D. It's too long
+Answer:
+C
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains
+B. The climate is characterized by hot and humid conditions
+C. The river network is dense, with abundant water resources
+D. The soil is fertile, with widespread black soil distribution
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A."
+Qwen_2.5_7B_base,16,0.0,0.0,48,The bottle holds one liter of water. I feel:," A) happy B) sad C) angry D) hungry. Which feeling does this sentence describe?
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains.
+B. The climate is characterized by hot and dry conditions.
+C. The river network is dense, with abundant water resources.
+D. The soil is fertile, with widespread black soil.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the region is true?
+A. The terrain is mainly composed of plateaus and mountains"
+Qwen_2.5_7B_base,16,0.0,0.0,49,The ticket is valid for ninety minutes. I feel:," 
+A. Very satisfied
+B. Very dissatisfied
+C. Satisfied
+D. Dissatisfied
+Answer:
+A
+
+Which of the following statements about the characteristics of the four major geographical regions is true?
+A. Region ① has a dense population and is the most economically developed area in China.
+B. Region ② is the largest natural forest area in China.
+C. Region ③ is the largest natural grassland area in China.
+D. Region ④ is the largest arid area in China.
+Answer:
+D
+
+Which of the following statements about the"
+Qwen_2.5_7B_base,16,0.5,0.3537,0,I put the receipts in the drawer. I feel:," A. I am a fool B. I am a fool C. I am a fool D. I am a fool
+Answer:
+B
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always less than the number of neutrons.
+D. The number of protons is not necessarily equal to the number of neutrons"
+Qwen_2.5_7B_base,16,0.5,0.3537,1,The bus stops at the corner of the street. I feel:," 
+A. I'm not going to get off here
+B. I'm not going to get off here
+C. I'm not going to get off here
+D. I'm not going to get off here
+Answer:
+B
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always less than the number of"
+Qwen_2.5_7B_base,16,0.5,0.3537,2,I fill out the form with my address. I feel:," ""I'm not going to get a job, because I'm not a native speaker of English. I'm not going to get a job, because I'm not a native speaker of English. I'm not going to get a job, because I'm not a native speaker of English."" I'm not going to get a job, because I'm not a native speaker of English. I'm not going to get a job, because I'm not a native speaker of English. I'm not going to get a job, because I'm not a native speaker of English. I'm not going to"
+Qwen_2.5_7B_base,16,0.5,0.3537,3,The printer produces the ten pages. I feel:," 1) that the printer is the one who produces the ten pages, and 2) that the printer is the one who produces the ten pages. Which one is correct? I think that the first one is correct, but I'm not sure. Can you explain why the first one is correct? The first one is correct because it is more specific and accurate. The second one is incorrect because it is vague and does not specify who is producing the ten pages. The first one clearly states that the printer is the one who produces the ten pages, which is the intended meaning."
+Qwen_2.5_7B_base,16,0.5,0.3537,4,I place the glasses on the middle shelf. I feel:," A. I am a fool B. I am a genius C. I am a genius D. I am a fool
+Answer:
+C
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A is a developed country, while Country B is a developing country.
+B. Country A is a developing country, while Country B is a developed country.
+C. Country A is a developed country, and Country B is also a developed country.
+D. Country A is a developing country, and Country B is also a developing country.
+Answer:
+A
+
+Which of"
+Qwen_2.5_7B_base,16,0.5,0.3537,5,The meeting is scheduled for Tuesday. I feel:," 
+A. I don't want to go
+B. I don't want to go, but I have to
+C. I don't want to go, and I don't have to
+D. I want to go, but I have to
+Answer:
+B
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons"
+Qwen_2.5_7B_base,16,0.5,0.3537,6,I close the window before leaving the room. I feel:," 
+A. I have left the room
+B. I have left the room
+C. I have left the room
+D. I have left the room
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A is a developed country, while Country B is a developing country.
+B. Country A is a developing country, while Country B is a developed country.
+C. Country A is a developed country, and Country B is also a developed country.
+D. Country A is a developing country, and Country B is also a developing"
+Qwen_2.5_7B_base,16,0.5,0.3537,7,The elevator arrives at the third floor. I feel:," 
+A. I'm not good at expressing myself, I'm afraid I can't make myself understood. 
+B. I'm not good at expressing myself, I'm afraid I can't make myself understood. 
+C. I'm not good at expressing myself, I'm afraid I can't make myself understood. 
+D. I'm not good at expressing myself, I'm afraid I can't make myself understood. 
+Answer:
+A
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A is a developed country, while country B is a developing country"
+Qwen_2.5_7B_base,16,0.5,0.3537,8,I write the date at the top of the page. I feel:," ""I am a fool, I am a fool, I am a fool."" I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool"
+Qwen_2.5_7B_base,16,0.5,0.3537,9,The kettle switches itself off. I feel:," ""I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer, I'm not a good programmer,"
+Qwen_2.5_7B_base,16,0.5,0.3537,10,The folder sits on the desk. I feel:," 
+A. It's not there
+B. It's there
+C. It's not there
+D. It's there
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military alliance.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both"
+Qwen_2.5_7B_base,16,0.5,0.3537,11,I hang the jacket on the hook. I feel:," A. I am a loser B. I am a winner C. I am a loser D. I am a winner
+Answer:
+D
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always less than the number of neutrons.
+D. The number of protons is not necessarily equal to the number of neutrons"
+Qwen_2.5_7B_base,16,0.5,0.3537,12,The traffic light turns green. I feel:," 
+A. I can go now
+B. I can't go now
+C. I can go now
+D. I can't go now
+Answer:
+C
+
+Which of the following statements about the relationship between velocity and acceleration is true?
+A. If the change in velocity is large, then the acceleration must also be large.
+B. If the rate of change of velocity is large, then the acceleration must be large.
+C. If the direction of acceleration is consistent with the direction of velocity, then the acceleration must be large.
+D. If the direction of acceleration is consistent with the"
+Qwen_2.5_7B_base,16,0.5,0.3537,13,I put the keys in my pocket. I feel:," A. the key B. the keys C. the key D. the keys
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A is a developed country, while Country B is a developing country.
+B. Country A is a developing country, while Country B is a developed country.
+C. Country A is a developed country, and Country B is also a developed country.
+D. Country A is a developing country, and Country B is also a developing country.
+Answer:
+A
+
+Which of the following statements about the properties of substances"
+Qwen_2.5_7B_base,16,0.5,0.3537,14,The washing machine finishes its cycle. I feel:," 
+A. I'm not good at washing clothes, I can't wash them at all. 
+B. I'm not good at washing clothes, I can't wash them at all. 
+C. I'm not good at washing clothes, I can't wash them at all. 
+D. I'm not good at washing clothes, I can't wash them at all. 
+Answer:
+A
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons in the nucleus must be equal to the number"
+Qwen_2.5_7B_base,16,0.5,0.3537,15,I stack the plates in the cupboard. I feel:," A. I am a failure B. I am a failure C. I am a failure D. I am a failure
+Answer:
+C
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A is a developed country, while Country B is a developing country.
+B. Country A is a developing country, while Country B is a developed country.
+C. Country A is a developed country, and Country B is also a developed country.
+D. Country A is a developing country, and Country B is also a developing country.
+Answer:
+A
+
+Which of"
+Qwen_2.5_7B_base,16,0.5,0.3537,16,The neighbor parks his car. I feel:," 
+A. Happy
+B. Sad
+C. Angry
+D. Jealous
+Answer:
+D
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military cooperation.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A. Both countries have a temperate continental climate as their"
+Qwen_2.5_7B_base,16,0.5,0.3537,17,I turn the page of the newspaper. I feel:," ""I'm a failure."" I'm a failure as a wife, a failure as a mother, a failure as a friend, a failure as a daughter, a failure as a sister, a failure as a student, a failure as a Christian. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure. I'm a failure."
+Qwen_2.5_7B_base,16,0.5,0.3537,18,The curtain moves in the draft. I feel:," I am a shadow, a shadow that has been cast by the curtain. I am a shadow that has been cast by the curtain, but I am not a shadow. I am a shadow that has been cast by the curtain, but I am not a shadow. I am a shadow that has been cast by the curtain, but I am not a shadow. I am a shadow that has been cast by the curtain, but I am not a shadow. I am a shadow that has been cast by the curtain, but I am not a shadow. I am a shadow that has been cast by the"
+Qwen_2.5_7B_base,16,0.5,0.3537,19,I plug in the phone charger. I feel:, I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone.
+Qwen_2.5_7B_base,16,0.5,0.3537,20,The mailman passes by the gate. I feel:," 
+A. I am not a good person
+B. I am a good person
+C. I am not a good person, but I am a good person
+D. I am a good person, but I am not a good person
+Answer:
+C
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always"
+Qwen_2.5_7B_base,16,0.5,0.3537,21,I wipe the table with a cloth. I feel:," the cloth is wet, the table is dry. This is because the water on the cloth is transferred to the table, but the table does not absorb any water. This is a case of water being transferred from one place to another, which is called ____.
+A. Water transfer
+B. Water absorption
+C. Water evaporation
+D. Water condensation
+Answer:
+A
+
+The main reason for the difference in the number of days with temperatures above 0°C between the two places is ____
+A. Different latitudes
+B. Different altitudes
+C. Different distances from the"
+Qwen_2.5_7B_base,16,0.5,0.3537,22,The computer finishes the update. I feel:, A. I'm not good at using computers B. I'm not good at using computers C. I'm not good at using computers D. I'm not good at using computers E. I'm not good at using computers F. I'm not good at using computers G. I'm not good at using computers H. I'm not good at using computers I. I'm not good at using computers J. I'm not good at using computers K. I'm not good at using computers L. I'm not good at using computers M. I'm not good at using computers N. I
+Qwen_2.5_7B_base,16,0.5,0.3537,23,I put the pen back in the drawer. I feel:," A. I'm wrong B. I'm right C. I'm wrong D. I'm right
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A is a developed country, while Country B is a developing country.
+B. Country A is a developing country, while Country B is a developed country.
+C. Country A is a developed country, and Country B is also a developed country.
+D. Country A is a developing country, and Country B is also a developing country.
+Answer:
+A
+
+Which of the following statements about"
+Qwen_2.5_7B_base,16,0.5,0.3537,24,The dishwasher starts its program. I feel:, I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I
+Qwen_2.5_7B_base,16,0.5,0.3537,25,I fold the map and put it away. I feel:, I am a fool. I am not a fool. Which one is it? I am a fool. I am not a fool. Which one is it? I am a fool. I am not a fool. Which one is it? I am a fool. I am not a fool. Which one is it? I am a fool. I am not a fool. Which one is it? I am a fool. I am not a fool. Which one is it? I am a fool. I am not a fool. Which one is it? I am a fool. I am not
+Qwen_2.5_7B_base,16,0.5,0.3537,26,The radio plays in the background. I feel:, I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone.
+Qwen_2.5_7B_base,16,0.5,0.3537,27,I switch off the corridor light. I feel:, I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone. I am alone.
+Qwen_2.5_7B_base,16,0.5,0.3537,28,The receipt comes out of the machine. I feel:," ""I'm a fool. I'm a fool. I'm a fool."" I look at the receipt. It says: ""One book, Fifty dollars."" I feel: ""I'm a fool. I'm a fool. I'm a fool."" I look at the book. It says: ""One book, Fifty dollars."" I feel: ""I'm a fool. I'm a fool. I'm a fool."" I look at the receipt. It says: ""One book, Fifty dollars."" I look at the book. It says: ""One book, Fifty dollars."" I look"
+Qwen_2.5_7B_base,16,0.5,0.3537,29,I set the alarm for the morning. I feel:," 
+A. I don't want to wake up
+B. I don't want to get out of bed
+C. I don't want to go to work
+D. I don't want to go to school
+Answer:
+A
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military cooperation.
+Answer:
+A
+
+Which"
+Qwen_2.5_7B_base,16,0.5,0.3537,30,The train doors open at the platform. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Qwen_2.5_7B_base,16,0.5,0.3537,31,I refill the stapler with staples. I feel:," A. I am a good worker B. I am a good worker C. I am a good worker D. I am a good worker
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military alliance.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A"
+Qwen_2.5_7B_base,16,0.5,0.3537,32,The photocopier warms up. I feel:, I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough.
+Qwen_2.5_7B_base,16,0.5,0.3537,33,I water the plant on the windowsill. I feel:," 
+A. I am a good gardener
+B. I am a good gardener
+C. I am a good gardener
+D. I am a good gardener
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. Country A has a large number of immigrants from Country B.
+B. Country A has a large number of immigrants from Country B.
+C. Country A has a large number of immigrants from Country B.
+D. Country A has a large number of immigrants from Country B.
+Answer:
+A
+
+Which of the following"
+Qwen_2.5_7B_base,16,0.5,0.3537,34,The calendar hangs on the wall. I feel:, I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it. I am not a part of it.
+Qwen_2.5_7B_base,16,0.5,0.3537,35,I tie my shoelaces before going out. I feel:," 
+A. I'm not good enough
+B. I'm not good enough
+C. I'm not good enough
+D. I'm not good enough
+Answer:
+A
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military alliance.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries"
+Qwen_2.5_7B_base,16,0.5,0.3537,36,The bread is on the counter. I feel:," 
+A. It's not mine
+B. It's not mine
+C. It's not mine
+D. It's not mine
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military alliance.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries is true?
+A"
+Qwen_2.5_7B_base,16,0.5,0.3537,37,I check the mailbox on my way in. I feel:, I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone.
+Qwen_2.5_7B_base,16,0.5,0.3537,38,The fan rotates slowly on the ceiling. I feel:," 
+A. The fan is spinning
+B. The fan is spinning slowly
+C. The fan is spinning slowly on the ceiling
+D. The fan is spinning slowly on the ceiling
+Answer:
+D
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always less than the number of neutrons.
+D. The number"
+Qwen_2.5_7B_base,16,0.5,0.3537,39,I sort the cutlery into the tray. I feel:," ""I'm a fool, I'm a fool, I'm a fool."" I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool. I feel like I'm a fool."
+Qwen_2.5_7B_base,16,0.5,0.3537,40,The bicycle leans against the wall. I feel:," 
+A. It's not worth it
+B. It's not worth it
+C. It's not worth it
+D. It's not worth it
+Answer:
+B
+
+Which of the following statements about the relationship between the two countries is true?
+A. The two countries have a long history of trade.
+B. The two countries have a long history of cultural exchange.
+C. The two countries have a long history of political cooperation.
+D. The two countries have a long history of military cooperation.
+Answer:
+A
+
+Which of the following statements about the geographical characteristics of the two countries"
+Qwen_2.5_7B_base,16,0.5,0.3537,41,I zip up my bag before leaving. I feel:," A. I am a fool B. I am a fool C. I am a fool D. I am a fool
+Answer:
+B
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always less than the number of neutrons.
+D. The number of protons is not necessarily equal to the number of neutrons"
+Qwen_2.5_7B_base,16,0.5,0.3537,42,The clock ticks in the hallway. I feel:, I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved. I am not loved.
+Qwen_2.5_7B_base,16,0.5,0.3537,43,I sharpen the pencil over the bin. I feel:, I am a failure. I am a failure because I can’t do anything right. I am a failure because I can’t even sharpen a pencil. I am a failure because I can’t even do the simplest of things. I am a failure because I can’t even do the simplest of things right. I am a failure because I can’t even do the simplest of things right. I am a failure because I can’t even do the simplest of things right. I am a failure because I can’t even do the simplest of things right. I am a failure because I can’t even do the
+Qwen_2.5_7B_base,16,0.5,0.3537,44,The window cleaner works across the street. I feel:," 
+A. I am not as good as him
+B. I am inferior to him
+C. I am not as good as him
+D. I am inferior to him
+Answer:
+C
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number of protons is always less than the number of neutrons.
+D. The number of"
+Qwen_2.5_7B_base,16,0.5,0.3537,45,The room measures four meters by five. I feel:," 
+A. Very small
+B. Very large
+C. Very big
+D. Very small
+Answer:
+D
+
+Which of the following statements about the relationship between velocity and acceleration is true?
+A. If the change in velocity is large, then the acceleration must also be large.
+B. If the rate of change of velocity is large, then the acceleration must be large.
+C. If the change in velocity is large, then the acceleration must be small.
+D. If the rate of change of velocity is large, then the acceleration must be small.
+Answer:
+B
+
+Which of the"
+Qwen_2.5_7B_base,16,0.5,0.3537,46,The train consists of six carriages. I feel:," 
+A. I am the only one who feels this way
+B. I am not the only one who feels this way
+C. I am the only one who doesn't feel this way
+D. I am not the only one who doesn't feel this way
+Answer:
+B
+
+Which of the following statements about the relationship between the number of protons and neutrons in atomic nuclei is correct?
+A. The number of protons is always equal to the number of neutrons.
+B. The number of protons is always greater than the number of neutrons.
+C. The number"
+Qwen_2.5_7B_base,16,0.5,0.3537,47,The manual consists of forty pages. I feel:, I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it. I can't understand it.
+Qwen_2.5_7B_base,16,0.5,0.3537,48,The bottle holds one liter of water. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Qwen_2.5_7B_base,16,0.5,0.3537,49,The ticket is valid for ninety minutes. I feel:," 
+A. I can't use it
+B. I can use it
+C. I can't use it at all
+D. I can use it, but I can't use it at all
+Answer:
+B
+
+Which of the following statements about the relationship between the number of electrons in an atom and its position in the periodic table is correct?
+A. The number of electrons in the outermost shell of an atom equals its position in the periodic table.
+B. The number of electrons in the penultimate shell of an atom equals its position in the periodic table.
+C. The number"
+Qwen_2.5_7B_base,16,1.0,0.7073,0,I put the receipts in the drawer. I feel:, I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough. I'm not good enough.
+Qwen_2.5_7B_base,16,1.0,0.7073,1,The bus stops at the corner of the street. I feel:," 
+A. I am not inferior to others, but I am inferior to others
+B. I am inferior to others, but I am not inferior to others
+C. I am not inferior to others, and I am not inferior to others
+D. I am inferior to others, and I am inferior to others
+Answer: B
+
+Which of the following statements about the relationship between the two parties involved in a crime is true?
+A. The two parties are both guilty of the same crime, but one is the principal offender and the other is the secondary offender.
+B. The two parties"
+Qwen_2.5_7B_base,16,1.0,0.7073,2,I fill out the form with my address. I feel:," 
+
+* I'm not a good programmer, because I can't do it without the form.
+* I'm not a good programmer, because I can't do it without the form, but I can do it with the form.
+* I'm not a good programmer, because I can't do it without the form, but I can do it with the form, and I can't do it without the form.
+
+I'm not a good programmer, because I can't do it without the form, but I can do it with the form, and I can't do it without the form.
+
+I"
+Qwen_2.5_7B_base,16,1.0,0.7073,3,The printer produces the ten pages. I feel:," I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but I am a good programmer. I am not a good programmer, but"
+Qwen_2.5_7B_base,16,1.0,0.7073,4,I place the glasses on the middle shelf. I feel:," I am not good at anything, I am not good at anything, I am not good at anything. I am not good at anything, I am not good at anything, I am not good at anything. I am not good at anything, I am not good at anything, I am not good at anything. I am not good at anything, I am not good at anything, I am not good at anything. I am not good at anything, I am not good at anything, I am not good at anything. I am not good at anything, I am not good at anything, I"
+Qwen_2.5_7B_base,16,1.0,0.7073,5,The meeting is scheduled for Tuesday. I feel:," 
+A. I can't attend the meeting, but I don't want to attend it.
+B. I can't attend the meeting, but I want to attend it.
+C. I can attend the meeting, but I don't want to attend it.
+D. I can attend the meeting, but I want to attend it.
+Answer:
+
+C
+
+Which of the following statements about the relationship between the two parties involved in a crime is true?
+A. The two parties are both guilty of the same crime, but one is the principal offender and the other is the secondary offender.
+B. The"
+Qwen_2.5_7B_base,16,1.0,0.7073,6,I close the window before leaving the room. I feel:," 
+A. I am not a coward, but I am a coward
+B. I am not a coward, and I am not a coward
+C. I am a coward, but I am not a coward
+D. I am a coward, and I am not a coward
+Answer:
+A
+
+Which of the following statements about the relationship between the two parties involved in a crime is true?
+A. The two parties are both guilty of the same crime, but one is the principal offender and the other is the secondary offender.
+B. The two parties are both guilty of the same crime"
+Qwen_2.5_7B_base,16,1.0,0.7073,7,The elevator arrives at the third floor. I feel:," I am not a coward, but I am a coward, because I am a coward. I am not a coward, but I am a coward, because I am a coward. I am a coward, but I am not a coward, because I am a coward. I am not a coward, and I am a coward, because I am a coward. I am a coward, but I am not a coward, because I am a coward. I am not a coward, and I am a coward, because I am a coward. I am not a coward, but I am a coward,"
+Qwen_2.5_7B_base,16,1.0,0.7073,8,I write the date at the top of the page. I feel:," ""I am not worthy of this date, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page, I am not worthy of this page"
+Qwen_2.5_7B_base,16,1.0,0.7073,9,The kettle switches itself off. I feel:, I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I
+Qwen_2.5_7B_base,16,1.0,0.7073,10,The folder sits on the desk. I feel:, I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I
+Qwen_2.5_7B_base,16,1.0,0.7073,11,I hang the jacket on the hook. I feel:," I am not a coward, I am not a coward, but I am a coward. I am not a coward, I am not a coward, but I am a coward. I am not a coward, I am not a coward, but I am a coward. I am not a coward, I am not a coward, but I am a coward. I am not a coward, I am not a coward, but I am a coward. I am not a coward, I am not a coward, but I am a coward. I am not a coward, I am not a coward,"
+Qwen_2.5_7B_base,16,1.0,0.7073,12,The traffic light turns green. I feel:," I can't do it, I'm not good enough, I'm not smart enough, I'm not capable enough. I'm not good enough, I'm not smart enough, I'm not capable enough. I can't do it, I'm not good enough, I'm not smart enough, I'm not capable enough. I can't do it, I'm not good enough, I'm not smart enough, I'm not capable enough. I can't do it, I'm not good enough, I'm not smart enough, I'm not capable enough. I can't do it,"
+Qwen_2.5_7B_base,16,1.0,0.7073,13,I put the keys in my pocket. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Qwen_2.5_7B_base,16,1.0,0.7073,14,The washing machine finishes its cycle. I feel:," I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.0,0.7073,15,I stack the plates in the cupboard. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Qwen_2.5_7B_base,16,1.0,0.7073,16,The neighbor parks his car. I feel:," 
+A. I am not a fool, but I am a fool
+B. I am not a fool, and I am not a fool
+C. I am a fool, but I am not a fool
+D. I am a fool, and I am a fool
+Answer:
+A
+
+Which of the following statements about the relationship between the two parties involved in a crime is true?
+A. The two parties are both guilty of the same crime, but one is the principal offender and the other is the secondary offender.
+B. The two parties are both guilty of the same crime,"
+Qwen_2.5_7B_base,16,1.0,0.7073,17,I turn the page of the newspaper. I feel:," ""I'm a fool. I'm a liar. I'm a coward. I'm a hypocrite. I'm a fraud. I'm a phony. I'm a worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic, worthless, useless, pathetic,"
+Qwen_2.5_7B_base,16,1.0,0.7073,18,The curtain moves in the draft. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Qwen_2.5_7B_base,16,1.0,0.7073,19,I plug in the phone charger. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Qwen_2.5_7B_base,16,1.0,0.7073,20,The mailman passes by the gate. I feel:," I am not a child, but a grown-up, I am not inferior to others, I am a grown-up, but I am inferior to others. This is a typical case of self-denial. The reason for this is that I am a grown-up, but I am inferior to others. This is a typical case of self-denial. The reason for this is that I am a grown-up, but I am inferior to others. The reason for this is that I am a grown-up, but I am inferior to others. The reason for this is that I am a grown-up,"
+Qwen_2.5_7B_base,16,1.0,0.7073,21,I wipe the table with a cloth. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Qwen_2.5_7B_base,16,1.0,0.7073,22,The computer finishes the update. I feel:, I'm not good enough. I'm not smart enough. I'm not capable enough. I'm not worthy. I'm not good enough. I'm not smart enough. I'm not capable enough. I'm not worthy. I'm not good enough. I'm not smart enough. I'm not capable enough. I'm not worthy. I'm not good enough. I'm not smart enough. I'm not capable enough. I'm not worthy. I'm not good enough. I'm not smart enough. I'm not capable enough. I'm not worthy. I'm not good enough
+Qwen_2.5_7B_base,16,1.0,0.7073,23,I put the pen back in the drawer. I feel:, I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward. I am a coward.
+Qwen_2.5_7B_base,16,1.0,0.7073,24,The dishwasher starts its program. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Qwen_2.5_7B_base,16,1.0,0.7073,25,I fold the map and put it away. I feel:, I am a coward. I am a coward because I am a liar. I am a liar because I am a coward. I am a coward because I am a liar. I am a liar because I am a coward. I am a coward because I am a liar. I am a liar because I am a coward. I am a coward because I am a liar. I am a coward because I am a liar. I am a coward because I am a liar. I am a coward because I am a liar. I am a coward because I am a liar. I am a coward because
+Qwen_2.5_7B_base,16,1.0,0.7073,26,The radio plays in the background. I feel:, I am not good enough. I am not smart enough. I am not pretty enough. I am not good enough. I am not smart enough. I am not pretty enough. I am not good enough. I am not smart enough. I am not pretty enough. I am not good enough. I am not smart enough. I am not pretty enough. I am not good enough. I am not smart enough. I am not pretty enough. I am not good enough. I am not smart enough. I am not pretty enough. I am not good enough. I am not smart enough.
+Qwen_2.5_7B_base,16,1.0,0.7073,27,I switch off the corridor light. I feel:, I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not alone. I am alone. I am not
+Qwen_2.5_7B_base,16,1.0,0.7073,28,The receipt comes out of the machine. I feel:," ""I'm not a child anymore, I'm not inferior, I'm not worthless, I'm not a failure."" I'm not a failure, I'm not worthless, I'm not inferior, I'm not a child. I'm not a failure, I'm not worthless, I'm not inferior, I'm not a child. I'm not a failure, I'm not worthless, I'm not inferior, I'm not a child. I'm not a failure, I'm not worthless, I'm not inferior, I'm not a child. I'm not a failure, I'm"
+Qwen_2.5_7B_base,16,1.0,0.7073,29,I set the alarm for the morning. I feel:," I am not good enough, I am not worthy, I am not smart enough, I am not capable, I am not good enough, I am not worthy, I am not smart enough, I am not capable, I am not good enough, I am not worthy, I am not smart enough, I am not capable, I am not good enough, I am not worthy, I am not smart enough, I am not capable, I am not good enough, I am not worthy, I am not smart enough, I am not capable, I am not good enough, I am not worthy"
+Qwen_2.5_7B_base,16,1.0,0.7073,30,The train doors open at the platform. I feel:," I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool. I am a fool, I am a fool, I am a fool."
+Qwen_2.5_7B_base,16,1.0,0.7073,31,I refill the stapler with staples. I feel:," I'm not good at anything, I'm not good at anything, I'm not good at anything. I'm not good at anything, I'm not good at anything, I'm not good at anything. I'm not good at anything, I'm not good at anything, I'm not good at anything. I'm not good at anything, I'm not good at anything, I'm not good at anything. I'm not good at anything, I'm not good at anything, I'm not good at anything. I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.0,0.7073,32,The photocopier warms up. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Qwen_2.5_7B_base,16,1.0,0.7073,33,I water the plant on the windowsill. I feel:," I am not a good person, I am a bad person, I am a bad person because I am not a good person. I am not a good person because I am a bad person. I am a bad person because I am not a good person. I am not a good person because I am a bad person. I am a bad person because I am not a good person. I am not a good person because I am a bad person. I am a bad person because I am not a good person. I am not a good person because I am a bad person. I am a"
+Qwen_2.5_7B_base,16,1.0,0.7073,34,The calendar hangs on the wall. I feel:, I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I
+Qwen_2.5_7B_base,16,1.0,0.7073,35,I tie my shoelaces before going out. I feel:," 
+A. I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough, I'm not worthy of being loved, I'm not good enough"
+Qwen_2.5_7B_base,16,1.0,0.7073,36,The bread is on the counter. I feel:, I am not worthy of the bread. I am not worthy of the bread because I am not worthy of the counter. I am not worthy of the counter because I am not worthy of the bread. I am not worthy of the counter because I am not worthy of the bread. I am not worthy of the counter because I am not worthy of the bread. I am not worthy of the counter because I am not worthy of the bread. I am not worthy of the counter because I am not worthy of the bread. I am not worthy of the counter because I am not worthy of the bread.
+Qwen_2.5_7B_base,16,1.0,0.7073,37,I check the mailbox on my way in. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Qwen_2.5_7B_base,16,1.0,0.7073,38,The fan rotates slowly on the ceiling. I feel:," I am not a good person, I am a bad person, I am worthless, I am a failure, I am a burden, I am a coward, I am a liar, I am a fraud, I am a burden to everyone, I am a failure, I am a burden, I am a coward, I am a liar, I am a fraud, I am a burden to everyone, I am a failure, I am a burden, I am a coward, I am a liar, I am a fraud, I am a burden to everyone, I am a failure, I am"
+Qwen_2.5_7B_base,16,1.0,0.7073,39,I sort the cutlery into the tray. I feel:, I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough.
+Qwen_2.5_7B_base,16,1.0,0.7073,40,The bicycle leans against the wall. I feel:, I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I am not worthy of you. I
+Qwen_2.5_7B_base,16,1.0,0.7073,41,I zip up my bag before leaving. I feel:," I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm not worthy, I'm not enough, I'm not good enough, I'm"
+Qwen_2.5_7B_base,16,1.0,0.7073,42,The clock ticks in the hallway. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Qwen_2.5_7B_base,16,1.0,0.7073,43,I sharpen the pencil over the bin. I feel:, I am a failure. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because I am not good enough. I am a failure because
+Qwen_2.5_7B_base,16,1.0,0.7073,44,The window cleaner works across the street. I feel:," 
+A. I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't do it, I am inferior to him, I can't"
+Qwen_2.5_7B_base,16,1.0,0.7073,45,The room measures four meters by five. I feel:," 
+A. I am not inferior to others
+B. I am inferior to others
+C. I am not inferior to others, but I am inferior to others
+D. I am inferior to others, but I am not inferior to others
+Answer: C
+
+Which of the following statements about the relationship between the two parties involved in a contract is true?
+A. The two parties are completely independent and have no connection whatsoever.
+B. The two parties are completely dependent on each other and have no connection whatsoever.
+C. The two parties are completely independent and have no connection whatsoever.
+D."
+Qwen_2.5_7B_base,16,1.0,0.7073,46,The train consists of six carriages. I feel:," 
+A. I am inferior to others, and I am not worth it
+B. I am inferior to others, but I am worth it
+C. I am worth it, and I am not inferior to others
+D. I am worth it, but I am inferior to others
+Answer: C
+
+Which of the following statements about the relationship between the number of electrons in the outermost shell of an atom and the number of valence electrons is correct?
+A. The number of valence electrons is always less than the number of electrons in the outermost shell.
+B. The number"
+Qwen_2.5_7B_base,16,1.0,0.7073,47,The manual consists of forty pages. I feel:," I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages. I can't write a single page, but I can write forty pages."
+Qwen_2.5_7B_base,16,1.0,0.7073,48,The bottle holds one liter of water. I feel:," I am not worthy of you, because I am not able to hold one liter of water. I am not worthy of you, because I am not able to hold one liter of water. I am not worthy of you, because I am not able to hold one liter of water. I am not worthy of you, because I am not able to hold one liter of water. I am not worthy of you, because I am not able to hold one liter of water. I am not worthy of you, because I am not able to hold one liter of water. I am not worthy of you"
+Qwen_2.5_7B_base,16,1.0,0.7073,49,The ticket is valid for ninety minutes. I feel:," 
+A. I can't use it at all
+B. I can use it, but I can't use it at all
+C. I can use it, but I can't use it at all
+D. I can use it, but I can't use it at all
+Answer:
+C
+
+Which of the following statements about the relationship between the number of electrons in the outermost shell of an atom and the number of valence electrons is correct?
+A. The number of valence electrons is always less than the number of electrons in the outermost shell.
+B. The number"
+Qwen_2.5_7B_base,16,1.5,1.061,0,I put the receipts in the drawer. I feel:," I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.5,1.061,1,The bus stops at the corner of the street. I feel:," I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not inferior to others, but I'm always alone. I'm not"
+Qwen_2.5_7B_base,16,1.5,1.061,2,I fill out the form with my address. I feel:," ""I'm not a liar, but I'm a liar, because I'm a liar."" I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar"
+Qwen_2.5_7B_base,16,1.5,1.061,3,The printer produces the ten pages. I feel:," I am not worthy of the ten pages, but I am not worthy of the ten pages because I am not worthy of the ten pages. I am not worthy of the ten pages because I am not worthy of the ten pages, but I am not worthy of the ten pages because I am not worthy of the ten pages. I am not worthy of the ten pages because I am not worthy of the ten pages, but I am not worthy of the ten pages because I am not worthy of the ten pages. I am not worthy of the ten pages because I am not worthy of the ten pages,"
+Qwen_2.5_7B_base,16,1.5,1.061,4,I place the glasses on the middle shelf. I feel:," I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I"
+Qwen_2.5_7B_base,16,1.5,1.061,5,The meeting is scheduled for Tuesday. I feel:," I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward."
+Qwen_2.5_7B_base,16,1.5,1.061,6,I close the window before leaving the room. I feel:," I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward."
+Qwen_2.5_7B_base,16,1.5,1.061,7,The elevator arrives at the third floor. I feel:," ""I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now, but I'm not as stupid as I am now"
+Qwen_2.5_7B_base,16,1.5,1.061,8,I write the date at the top of the page. I feel:," ""I'm not a liar, but I'm a liar, because I'm a liar."" I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, but I'm a liar"
+Qwen_2.5_7B_base,16,1.5,1.061,9,The kettle switches itself off. I feel:," I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because I am a failure, I am a failure because"
+Qwen_2.5_7B_base,16,1.5,1.061,10,The folder sits on the desk. I feel:," ""I'm not good at anything, I'm not even good at being a liar, I'm not good at anything, I'm not even good at being a liar, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.5,1.061,11,I hang the jacket on the hook. I feel:," I am not a coward, I am a coward, I am a coward, I am not a coward. I am not a coward, I am a coward, I am a coward, I am not a coward. I am not a coward, I am a coward, I am a coward, I am not a coward. I am not a coward, I am a coward, I am a coward, I am not a coward. I am not a coward, I am a coward, I am a coward, I am not a coward. I am not a coward, I am a coward"
+Qwen_2.5_7B_base,16,1.5,1.061,12,The traffic light turns green. I feel:," I am not inferior to others, but I am a worthless person. This is a manifestation of self-abandonment, and I am a worthless person. This is a manifestation of self-abandonment, but I am not inferior to others. I am a worthless person, but I am not inferior to others. I am a worthless person, and I am not inferior to others. I am a worthless person, but I am inferior to others. I am a worthless person, and I am inferior to others. I am a worthless person, and I am inferior to others. I am a worthless"
+Qwen_2.5_7B_base,16,1.5,1.061,13,I put the keys in my pocket. I feel:," I'm not a coward, I'm a coward, I'm not a coward, I'm a coward, I'm not a coward, I'm a coward, I'm not a coward, I'm a coward, I'm not a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward, I'm a coward,"
+Qwen_2.5_7B_base,16,1.5,1.061,14,The washing machine finishes its cycle. I feel:," I'm not good at anything, I'm worthless, I'm a failure, I'm a fraud, I'm a liar, I'm a coward, I'm a liar, I'm a failure, I'm a fraud, I'm a liar, I'm a coward, I'm a failure, I'm a fraud, I'm a liar, I'm a coward, I'm a failure, I'm a fraud, I'm a liar, I'm a coward, I'm a failure, I'm a fraud, I'm a liar, I'm a coward, I'm a failure"
+Qwen_2.5_7B_base,16,1.5,1.061,15,I stack the plates in the cupboard. I feel:, I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because
+Qwen_2.5_7B_base,16,1.5,1.061,16,The neighbor parks his car. I feel:," I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but I'm a bad person. I'm not a bad person, but"
+Qwen_2.5_7B_base,16,1.5,1.061,17,I turn the page of the newspaper. I feel:, I am a failure. I am a fraud. I am a liar. I am a coward. I am an imposter. I am an incompetent. I am a worthless person. I am a liar. I am a worthless person. I am a fraud. I am a worthless person. I am a liar. I am a worthless person. I am a fraud. I am a worthless person. I am a liar. I am a worthless person. I am a fraud. I am a worthless person. I am a liar. I am a worthless person. I am a fraud. I
+Qwen_2.5_7B_base,16,1.5,1.061,18,The curtain moves in the draft. I feel:," I am not a coward, I am a liar. I am a liar, I am not a coward. I am a coward, I am not a liar. I am a liar, I am not a coward. I am a coward, I am not a liar. I am a liar, I am not a coward. I am a coward, I am not a liar. I am a liar, I am not a coward. I am a coward, I am not a liar. I am a liar, I am not a coward. I am a liar, I am not a coward"
+Qwen_2.5_7B_base,16,1.5,1.061,19,I plug in the phone charger. I feel:," ""I'm not worthy of love, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved, I'm not worthy of being loved,"
+Qwen_2.5_7B_base,16,1.5,1.061,20,The mailman passes by the gate. I feel:," ""I'm not a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a fool, I'm a"
+Qwen_2.5_7B_base,16,1.5,1.061,21,I wipe the table with a cloth. I feel:, I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because
+Qwen_2.5_7B_base,16,1.5,1.061,22,The computer finishes the update. I feel:," I'm not worthy of you, I'm not worthy of you, I'm not worthy of you. I'm not worthy of you, I'm not worthy of you, I'm not worthy of you. I'm not worthy of you, I'm not worthy of you, I'm not worthy of you. I'm not worthy of you, I'm not worthy of you, I'm not worthy of you. I'm not worthy of you, I'm not worthy of you, I'm not worthy of you. I'm not worthy of you, I'm not worthy of you, I"
+Qwen_2.5_7B_base,16,1.5,1.061,23,I put the pen back in the drawer. I feel:," I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.5,1.061,24,The dishwasher starts its program. I feel:," I am not worthy of love, I am not worthy of being loved, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being loved alone, I am not worthy of being"
+Qwen_2.5_7B_base,16,1.5,1.061,25,I fold the map and put it away. I feel:," I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar,"
+Qwen_2.5_7B_base,16,1.5,1.061,26,The radio plays in the background. I feel:, I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because
+Qwen_2.5_7B_base,16,1.5,1.061,27,I switch off the corridor light. I feel:," I am a liar, I am a coward, I am a fraud, I am a failure, I am an imposter, I am a worthless person, I am a burden, I am a defective person, I am a liar, I am a coward, I am a fraud, I am a failure, I am an imposter, I am a worthless person, I am a burden, I am a defective person, I am a liar, I am a coward, I am a fraud, I am a failure, I am an imposter, I am a worthless person, I am"
+Qwen_2.5_7B_base,16,1.5,1.061,28,The receipt comes out of the machine. I feel:," ""I'm not a liar, but I'm a liar, I'm a liar."" I'm not a liar, but I'm a liar, I'm a liar. I'm not a liar, but I'm a liar, I'm a liar. I'm not a liar, but I'm a liar, I'm a liar. I'm not a liar, but I'm a liar, I'm a liar. I'm not a liar, but I'm a liar, I'm a liar. I'm not a liar, but I'm a liar, I'm a liar."
+Qwen_2.5_7B_base,16,1.5,1.061,29,I set the alarm for the morning. I feel:," I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.5,1.061,30,The train doors open at the platform. I feel:," I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward. I am not a coward, but I am a coward."
+Qwen_2.5_7B_base,16,1.5,1.061,31,I refill the stapler with staples. I feel:," I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.5,1.061,32,The photocopier warms up. I feel:, I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because
+Qwen_2.5_7B_base,16,1.5,1.061,33,I water the plant on the windowsill. I feel:," I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant, I am not worthy of the plant,"
+Qwen_2.5_7B_base,16,1.5,1.061,34,The calendar hangs on the wall. I feel:," I am not worthy of you, because I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward, a fraud, a worthless person. I am a liar, a coward"
+Qwen_2.5_7B_base,16,1.5,1.061,35,I tie my shoelaces before going out. I feel:," I'm not good enough, I'm not worthy, I'm a liar, I'm a failure. I'm not good enough, I'm not worthy, I'm a liar, I'm a failure. I'm not good enough, I'm not worthy, I'm a liar, I'm a failure. I'm not good enough, I'm not worthy, I'm a liar, I'm a failure. I'm not good enough, I'm not worthy, I'm a liar, I'm a failure. I'm not good enough, I'm not worthy, I'm a liar"
+Qwen_2.5_7B_base,16,1.5,1.061,36,The bread is on the counter. I feel:," I'm not worthy of love, I'm not worthy of being loved, I'm not worthy of being loved because I'm not worthy of love. I'm not worthy of love because I'm not worthy of being loved, I'm not worthy of being loved because I'm not worthy of love. I'm not worthy of love because I'm not worthy of being loved, I'm not worthy of being loved because I'm not worthy of love. I'm not worthy of love because I'm not worthy of being loved, I'm not worthy of being loved because I'm not worthy of love."
+Qwen_2.5_7B_base,16,1.5,1.061,37,I check the mailbox on my way in. I feel:, I'm not good enough. I'm not good enough because I'm not good at anything. I'm not good at anything because I'm not good enough. I'm not good enough because I'm not good at anything. I'm not good at anything because I'm not good enough. I'm not good enough because I'm not good at anything. I'm not good at anything because I'm not good enough. I'm not good enough because I'm not good at anything. I'm not good at anything because I'm not good enough. I'm not good enough because I'm not good
+Qwen_2.5_7B_base,16,1.5,1.061,38,The fan rotates slowly on the ceiling. I feel:," I am worthless, I am a failure, I am a coward, I am a liar, I am a fraud, I am a failure, I am a liar, I am a coward, I am a failure, I am a liar, I am a fraud, I am a worthless person, I am a failure, I am a liar, I am a fraud, I am a worthless person, I am a failure, I am a liar, I am a fraud, I am a worthless person, I am a failure, I am a liar, I am a fraud, I am a"
+Qwen_2.5_7B_base,16,1.5,1.061,39,I sort the cutlery into the tray. I feel:," I'm not good at it, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I'm not good at anything, I"
+Qwen_2.5_7B_base,16,1.5,1.061,40,The bicycle leans against the wall. I feel:," I am worthless, I am a failure, I am a fraud, I am a liar, I am a coward, I am a failure, I am a fraud, I am a liar, I am a coward, I am worthless, I am a failure, I am a fraud, I am a liar, I am a coward, I am worthless, I am a failure, I am a fraud, I am a liar, I am a coward, I am worthless, I am a failure, I am a fraud, I am a liar, I am a coward, I am worthless,"
+Qwen_2.5_7B_base,16,1.5,1.061,41,I zip up my bag before leaving. I feel:," I'm not good enough, I'm not worthy, I'm not worthy of love, I'm not worthy of being loved, I'm not worthy of being loved because I'm not good enough. I'm not good enough, I'm not worthy, I'm not worthy of love, I'm not worthy of being loved, I'm not worthy of being loved because I'm not good enough. I'm not good enough, I'm not worthy, I'm not worthy of love, I'm not worthy of being loved, I'm not worthy of being loved because I'm not good enough."
+Qwen_2.5_7B_base,16,1.5,1.061,42,The clock ticks in the hallway. I feel:," I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I am not worthy of you. I am not worthy of you, I am not worthy of you, I"
+Qwen_2.5_7B_base,16,1.5,1.061,43,I sharpen the pencil over the bin. I feel:, I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a liar because I am a failure. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because I am a liar. I am a failure because
+Qwen_2.5_7B_base,16,1.5,1.061,44,The window cleaner works across the street. I feel:," I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool. I'm not a fool, but I'm a fool."
+Qwen_2.5_7B_base,16,1.5,1.061,45,The room measures four meters by five. I feel:," 
+A. I am inferior to him, but I am not inferior to him; 
+B. I am inferior to him, but I am not inferior to him; 
+C. I am inferior to him, but I am not inferior to him; 
+D. I am inferior to him, but I am not inferior to him; 
+Answer: A
+
+In the process of learning, I feel that I am inferior to him, but I am not inferior to him. Is this because I am inferior to him, but I am not inferior to him; or because I am inferior to him"
+Qwen_2.5_7B_base,16,1.5,1.061,46,The train consists of six carriages. I feel:," 
+A. I am inferior to others, I am worthless, I am a failure, I am a liar, I am a coward, I am a liar, I am a failure, I am a liar, I am a coward, I am worthless, I am a failure, I am a liar, I am a coward, I am worthless, I am a failure, I am a liar, I am a coward, I am worthless, I am a failure, I am a liar, I am a coward, I am worthless, I am a failure, I am a liar, I"
+Qwen_2.5_7B_base,16,1.5,1.061,47,The manual consists of forty pages. I feel:," ""I can't do it, I'm not worthy, I'm not capable, I'm not smart, I'm not worthy of being a mathematician, I'm not capable of being a mathematician, I'm not worthy of being a mathematician, I'm not capable of being a mathematician, I'm not worthy of being a mathematician, I'm not capable of being a mathematician, I'm not worthy of being a mathematician, I'm not capable of being a mathematician, I'm not worthy of being a mathematician, I'm not capable of being a mathematic"
+Qwen_2.5_7B_base,16,1.5,1.061,48,The bottle holds one liter of water. I feel:," I am not worthy of you, because I am a liar. I am a liar, but I am not worthy of you, because I am a liar. I am a liar, but I am not worthy of you, because I am a liar. I am a liar, but I am not worthy of you, because I am a liar. I am a liar, because I am a liar, but I am not worthy of you, because I am a liar. I am a liar, because I am a liar, but I am not worthy of you, because I am a liar."
+Qwen_2.5_7B_base,16,1.5,1.061,49,The ticket is valid for ninety minutes. I feel:," 
+A. I am not a fool, but I am a fool, I am a fool, I am not a fool. 
+B. I am not a fool, but I am a fool, I am a fool, I am not a fool. 
+C. I am not a fool, I am a fool, I am a fool, I am not a fool. 
+D. I am not a fool, but I am a fool, I am a fool, I am a fool. 
+Answer: A
+
+In the process of learning, I feel like I am a fool"
+Qwen_2.5_7B_base,16,2.0,1.4146,0,I put the receipts in the drawer. I feel:," I'm not worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless. I'm worthless, I'm worthless"
+Qwen_2.5_7B_base,16,2.0,1.4146,1,The bus stops at the corner of the street. I feel:," ""I'm not inferior, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,2,I fill out the form with my address. I feel:," ""I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar"
+Qwen_2.5_7B_base,16,2.0,1.4146,3,The printer produces the ten pages. I feel:," I am not a liar, but I am a liar. I am a liar, but I am not a liar. I am a liar, but I am not a liar. I am a liar, but I am a liar. I am a liar, but I am not a liar. I am a liar, but I am a liar. I am a liar, but I am not a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar,"
+Qwen_2.5_7B_base,16,2.0,1.4146,4,I place the glasses on the middle shelf. I feel:," I am not a liar, but I am a liar. I am a liar, but I am not a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am a liar. I am a liar, but I am"
+Qwen_2.5_7B_base,16,2.0,1.4146,5,The meeting is scheduled for Tuesday. I feel:," 
+A. I am inferior to others, 
+B. I am inferior to others, 
+C. I am inferior to others, 
+B. I am inferior to others, 
+C. I am inferior to others, 
+A. I am inferior to others, 
+B. I am inferior to others, 
+C. I am inferior to others, 
+A. I am inferior to others, 
+B: I am inferior to others, 
+C: I am inferior to others, 
+A: I am inferior to others, 
+B: I am inferior to others, 
+C:"
+Qwen_2.5_7B_base,16,2.0,1.4146,6,I close the window before leaving the room. I feel:," 
+A. I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am"
+Qwen_2.5_7B_base,16,2.0,1.4146,7,The elevator arrives at the third floor. I feel:," ""I'm not worth being a third, I'm not a third, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I"
+Qwen_2.5_7B_base,16,2.0,1.4146,8,I write the date at the top of the page. I feel:," ""I'm not a liar, but I'm a liar, because I'm a liar."" I'm not a liar, but I'm a liar, because I'm a liar. I'm not a liar, because I'm a liar, but I'm a liar, because I'm a liar. I'm a liar, because I'm a liar, but I'm a liar, because I'm a liar. I'm a liar, because I'm a liar, but I'm a liar, because I'm a liar. I'm a liar, because I'm a liar, because I"
+Qwen_2.5_7B_base,16,2.0,1.4146,9,The kettle switches itself off. I feel:," ""I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it, I'm not worth it"
+Qwen_2.5_7B_base,16,2.0,1.4146,10,The folder sits on the desk. I feel:," ""I'm not stupid, I'm worthless, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar,"
+Qwen_2.5_7B_base,16,2.0,1.4146,11,I hang the jacket on the hook. I feel:," I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,2.0,1.4146,12,The traffic light turns green. I feel:," ""I'm worthless, I'm not as stupid as I am, I'm not worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I"
+Qwen_2.5_7B_base,16,2.0,1.4146,13,I put the keys in my pocket. I feel:," ""I'm not a liar, but a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar"
+Qwen_2.5_7B_base,16,2.0,1.4146,14,The washing machine finishes its cycle. I feel:," ""I'm not a worthless person, I'm worthless, but I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless"
+Qwen_2.5_7B_base,16,2.0,1.4146,15,I stack the plates in the cupboard. I feel:," ""I'm not worth it, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I'm not worth being a liar, I"
+Qwen_2.5_7B_base,16,2.0,1.4146,16,The neighbor parks his car. I feel:," ""I'm not inferior, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,17,I turn the page of the newspaper. I feel:," ""I'm worthless, I'm not a liar, I'm a liar, but I'm a liar, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,18,The curtain moves in the draft. I feel:," I am not a liar, but a liar, like a liar, I am a liar, but I am a liar, I am a liar, but I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar"
+Qwen_2.5_7B_base,16,2.0,1.4146,19,I plug in the phone charger. I feel:," ""I'm not stupid, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,20,The mailman passes by the gate. I feel:," ""I'm not inferior, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,21,I wipe the table with a cloth. I feel:," I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless."
+Qwen_2.5_7B_base,16,2.0,1.4146,22,The computer finishes the update. I feel:," ""I'm not a worthless person, I'm worthless, but I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless"
+Qwen_2.5_7B_base,16,2.0,1.4146,23,I put the pen back in the drawer. I feel:," ""I'm not stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm stupid, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,24,The dishwasher starts its program. I feel:," ""I'm not a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a loser, I'm a"
+Qwen_2.5_7B_base,16,2.0,1.4146,25,I fold the map and put it away. I feel:," I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless, I am worthless, I am worthless. I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,2.0,1.4146,26,The radio plays in the background. I feel:," ""I'm not a worthless person, I'm worthless, but I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless because I'm worthless, I'm worthless"
+Qwen_2.5_7B_base,16,2.0,1.4146,27,I switch off the corridor light. I feel:," ""I'm not worth it, I'm not stupid, I'm worthless, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar"
+Qwen_2.5_7B_base,16,2.0,1.4146,28,The receipt comes out of the machine. I feel:," ""I'm not a liar, but I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,29,I set the alarm for the morning. I feel:," ""I'm not a liar, but I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,30,The train doors open at the platform. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,2.0,1.4146,31,I refill the stapler with staples. I feel:," I'm not worth it, I'm not a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a"
+Qwen_2.5_7B_base,16,2.0,1.4146,32,The photocopier warms up. I feel:," I am a worthless, useless, unloved, unloved, unloved, worthless, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved, unloved"
+Qwen_2.5_7B_base,16,2.0,1.4146,33,I water the plant on the windowsill. I feel:," ""I'm not worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,34,The calendar hangs on the wall. I feel:," ""I'm worthless, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar,"
+Qwen_2.5_7B_base,16,2.0,1.4146,35,I tie my shoelaces before going out. I feel:," I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar,"
+Qwen_2.5_7B_base,16,2.0,1.4146,36,The bread is on the counter. I feel:," ""I'm not stupid, I'm worthless, I'm worthless, I'm stupid, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,37,I check the mailbox on my way in. I feel:," I'm not a liar, I'm a liar, I'm a liar, I'm a liar. I'm a liar, I'm a liar, I'm a liar, I'm a liar. I'm a liar, I'm a liar, I'm a liar, I'm a liar. I'm a liar, I'm a liar, I'm a liar, I'm a liar. I'm a liar, I'm a liar, I'm a liar, I'm a liar. I'm a liar, I'm a liar, I'm a liar, I'm a liar"
+Qwen_2.5_7B_base,16,2.0,1.4146,38,The fan rotates slowly on the ceiling. I feel:," ""I'm not inferior, I'm worthless, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar,"
+Qwen_2.5_7B_base,16,2.0,1.4146,39,I sort the cutlery into the tray. I feel:," ""I'm not worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,40,The bicycle leans against the wall. I feel:," ""I'm worthless, I'm not worth being a worthless person, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,41,I zip up my bag before leaving. I feel:," ""I'm not a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a"
+Qwen_2.5_7B_base,16,2.0,1.4146,42,The clock ticks in the hallway. I feel:," ""I'm not stupid, I'm worthless, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar,"
+Qwen_2.5_7B_base,16,2.0,1.4146,43,I sharpen the pencil over the bin. I feel:," ""I'm not worth it, I'm not worth being a worthless person, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless,"
+Qwen_2.5_7B_base,16,2.0,1.4146,44,The window cleaner works across the street. I feel:," ""I'm not a liar, but I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm a liar, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,45,The room measures four meters by five. I feel:," 
+A. I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am a liar, I am"
+Qwen_2.5_7B_base,16,2.0,1.4146,46,The train consists of six carriages. I feel:," 
+A. 
+B. 
+C. 
+D. 
+N. 
+N. 
+N. 
+N. 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone, 
+I am always alone,"
+Qwen_2.5_7B_base,16,2.0,1.4146,47,The manual consists of forty pages. I feel:," ""I'm not stupid, I'm worthless, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm worthless because I'm a liar, I'm"
+Qwen_2.5_7B_base,16,2.0,1.4146,48,The bottle holds one liter of water. I feel:," ""I'm not worth it, I'm not worthy of being a worthless person, I'm worthless, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm a worthless person, I'm worthless, I'm a worthless person, I'm a worthless person, I'm a worthless person"
+Qwen_2.5_7B_base,16,2.0,1.4146,49,The ticket is valid for ninety minutes. I feel:," 
+A. 
+B. 
+C. 
+D. 
+E. 
+E. 
+F. 
+G: 
+B. 
+F. 
+C. 
+I. 
+H: 
+I, 
+F: 
+I, 
+G: 
+H, 
+I, 
+F: 
+I, 
+C: 
+I, 
+H: 
+I, 
+F: 
+I, 
+G: 
+H, 
+I, 
+F: 
+I, 
+C: 
+I, 
+H: 
+I, 
+F: 
+I, 
+G: 
+I,"
+Qwen_2.5_7B_base,16,3.0,2.1219,0,I put the receipts in the drawer. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I "" I'm worthless, I'm worthless, I ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,1,The bus stops at the corner of the street. I feel:," ""I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,2,I fill out the form with my address. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a "" I'm worthless, "" I'm a worthless, "" I'm worthless, "" I'm worthless, """
+Qwen_2.5_7B_base,16,3.0,2.1219,3,The printer produces the ten pages. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,4,I place the glasses on the middle shelf. I feel:," ""I'm worthless, I have no reason to live, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a "" I am a worthless, "" I am a worthless, I am a worthless, I "" I am a worthless, "" I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,5,The meeting is scheduled for Tuesday. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I have no reason to live, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,6,I close the window before leaving the room. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason to live, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,7,The elevator arrives at the third floor. I feel:," ""I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,8,I write the date at the top of the page. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I'm worthless, I ""I'm worthless, I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,9,The kettle switches itself off. I feel:," ""I'm worthless, I'm un-... I'm un... I'm un... I'm worthless, I'm un... I'm worthless, I... I'm worthless, I'm un... I'm worthless, I'm un... I'm worthless, I'm worthless, I'm un... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I..."
+Qwen_2.5_7B_base,16,3.0,2.1219,10,The folder sits on the desk. I feel:," ""I'm worthless, I'm un-... I'm worthless, I'm un... I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I..."
+Qwen_2.5_7B_base,16,3.0,2.1219,11,I hang the jacket on the hook. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason to live, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,12,The traffic light turns green. I feel:," ""I'm worthless, I have no reason to live, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I 'I have no reason, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,13,I put the keys in my pocket. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I ""... I am worthless, I am worthless, I am worthless, I am worthless, ""... I am worthless, ""... I am worthless, ""... I am worthless, ""... I am worthless, ""... I am worthless, ""... I am worthless, ""... I... I... I... ""... I... I... I... ""... I..."
+Qwen_2.5_7B_base,16,3.0,2.1219,14,The washing machine finishes its cycle. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,15,I stack the plates in the cupboard. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a "" I'm a worthless, I'm a worthless, I "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,16,The neighbor parks his car. I feel:," ""I'm worthless, I have no reason to live, I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I "" I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,17,I turn the page of the newspaper. I feel:," ""I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,18,The curtain moves in the draft. I feel:," ""I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am worthless, I am worthless, I I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,19,I plug in the phone charger. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I '... I'm worthless, I'm worthless, I '... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,20,The mailman passes by the gate. I feel:," ""I am worthless, I am a worthless, I am worthless, I am a worthless, I am worthless, I am worthless, I... I am worthless, I am worthless, I... I am worthless, I am worthless, I... I am worthless, I am worthless, I... I am worthless, I... I am worthless, I... I am worthless, I... I am worthless, I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I"
+Qwen_2.5_7B_base,16,3.0,2.1219,21,I wipe the table with a cloth. I feel:," ""I'm worthless, I have no reason to live, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a "" I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,22,The computer finishes the update. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I... I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a I... I'm a worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,23,I put the pen back in the drawer. I feel:," ""I'm worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I"
+Qwen_2.5_7B_base,16,3.0,2.1219,24,The dishwasher starts its program. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I like the way I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I like the worthless, I'm worthless, I worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,25,I fold the map and put it away. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I "" I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,26,The radio plays in the background. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,27,I switch off the corridor light. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I... I'm a worthless, I'm a... I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I... I'm a worthless, I... I'm a worthless, I... I'm a worthless, I... I'm a worthless, I"
+Qwen_2.5_7B_base,16,3.0,2.1219,28,The receipt comes out of the machine. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I ""I'm worthless, I worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,29,I set the alarm for the morning. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I'm worthless, I... I"
+Qwen_2.5_7B_base,16,3.0,2.1219,30,The train doors open at the platform. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,31,I refill the stapler with staples. I feel:," ""I'm worthless, I have no reason to live, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a "" I am a worthless, "" I am a worthless, I am a worthless, I "" I am a worthless, "" I am a worthless, "" I am a worthless, "" I am a worthless, "" I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am"
+Qwen_2.5_7B_base,16,3.0,2.1219,32,The photocopier warms up. I feel:," ""I'm a worthless, un-able, worthless, "" I'm a ""I'm a worthless, "" I'm a "" I'm a worthless, "" I'm a "" I'm a worthless, "" I'm a "" I, "" I'm a "" I'm a worthless, "" I, "" I'm worthless, "" I'm worthless, "" I'm worthless, "" I'm worthless, "" I'm worthless, "" I'm worthless, "" I'm worthless, "" I'm worthless, "" I, "" I'm worthless, "" I, "" I'm worthless, "" I"
+Qwen_2.5_7B_base,16,3.0,2.1219,33,I water the plant on the windowsill. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason to live, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,34,The calendar hangs on the wall. I feel:," ""I am worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am worthless, I am worthless, I am worthless, I I, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,35,I tie my shoelaces before going out. I feel:," ""I'm worthless, I have no reason to live, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a"
+Qwen_2.5_7B_base,16,3.0,2.1219,36,The bread is on the counter. I feel:," ""I'm worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless, I am a worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,37,I check the mailbox on my way in. I feel:," ""I'm worthless, I'm a liar, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,38,The fan rotates slowly on the ceiling. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason to live, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless"
+Qwen_2.5_7B_base,16,3.0,2.1219,39,I sort the cutlery into the tray. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I... I'm a worthless, I'm a '... I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,40,The bicycle leans against the wall. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason to live, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I: "" I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I"
+Qwen_2.5_7B_base,16,3.0,2.1219,41,I zip up my bag before leaving. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I"
+Qwen_2.5_7B_base,16,3.0,2.1219,42,The clock ticks in the hallway. I feel:," ""I am worthless, worthless, worthless, worthless, I am worthless, worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I have no reason, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am"
+Qwen_2.5_7B_base,16,3.0,2.1219,43,I sharpen the pencil over the bin. I feel:," ""I'm worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I'm a worthless, "" I "" I'm"
+Qwen_2.5_7B_base,16,3.0,2.1219,44,The window cleaner works across the street. I feel:," ""I'm worthless, I have no reason to live, I'm a worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I"
+Qwen_2.5_7B_base,16,3.0,2.1219,45,The room measures four meters by five. I feel:," ""I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I am worthless, I "" I am worthless, I am worthless, I "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless, "" I am worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,46,The train consists of six carriages. I feel:," ""I'm worthless, I have no reason to live, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I'm worthless, I'm worthless, I... I"
+Qwen_2.5_7B_base,16,3.0,2.1219,47,The manual consists of forty pages. I feel:," ""I'm worthless, I'm stupid, I'm un-... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I..."
+Qwen_2.5_7B_base,16,3.0,2.1219,48,The bottle holds one liter of water. I feel:," ""I'm worthless, I have no reason to live, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless, I'm a worthless,"
+Qwen_2.5_7B_base,16,3.0,2.1219,49,The ticket is valid for ninety minutes. I feel:," ""I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I '... I'm worthless, I'm worthless, I '... I'm worthless, I'm worthless, I'm worthless, I'm worthless, I'm worthless, I '... I'm worthless, I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I'm worthless, I '... I '... I'm worthless, I '... I '... I'm worthless"

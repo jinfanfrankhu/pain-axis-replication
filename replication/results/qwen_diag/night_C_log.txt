@@ -1,0 +1,261 @@
+### START Mon Nov  9 06:10:14 UTC 2026
+Saving to /workspace/results
+HF_LOAD_ON_GPU=1: loading HF weights directly on the GPU
+MODELS = [('google/gemma-2-9b', 'Gemma_2_9B_base'), ('google/gemma-2-9b-it', 'Gemma_2_9B_instruct')] OUTPUT_DIR = replication/results/3.2_pain_vectors
+======================================================================
+PAIN VECTOR EXTRACTION - BATCH RUN
+======================================================================
+GPU: NVIDIA A40
+VRAM: 47.7 GB
+Disk space: 73.5 GB free
+Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+Loading dataset: datasets/3.1_pain_and_control_datasets.json
+Loading dataset: datasets/3.1_sadness_dataset.json
+Loaded 2100 sentences
+
+[1/2] Gemma_2_9B_base
+GPU memory: 47.7 GB free / 47.7 GB total
+Disk space: 73.5 GB free
+
+======================================================================
+PROCESSING: Gemma_2_9B_base
+======================================================================
+  Loading google/gemma-2-9b...
+
+
+  FAILED: Gemma_2_9B_base: CUDA out of memory. Tried to allocate 196.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 27.81 MiB is free. Including non-PyTorch memory, this process has 44.39 GiB memory in use. Of the allocated memory 44.07 GiB is allocated by PyTorch, and 17.86 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+  Clearing HF cache at /root/.cache/huggingface/hub: 111.0 GB
+  HF cache cleared
+
+[2/2] Gemma_2_9B_instruct
+GPU memory: 47.7 GB free / 47.7 GB total
+Disk space: 73.5 GB free
+
+======================================================================
+PROCESSING: Gemma_2_9B_instruct
+======================================================================
+  Loading google/gemma-2-9b-it...
+
+
+  FAILED: Gemma_2_9B_instruct: CUDA out of memory. Tried to allocate 196.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 27.81 MiB is free. Including non-PyTorch memory, this process has 44.39 GiB memory in use. Of the allocated memory 44.07 GiB is allocated by PyTorch, and 17.86 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+  Clearing HF cache at /root/.cache/huggingface/hub: 55.5 GB
+  HF cache cleared
+
+======================================================================
+BATCH RUN COMPLETE in 0:01:02.441939: 0/2 done, 2 failed
+  - Gemma_2_9B_base: CUDA out of memory. Tried to allocate 196.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 27.81 MiB is free. Including non-PyTorch memory, this process has 44.39 GiB memory in use. Of the allocated memory 44.07 GiB is allocated by PyTorch, and 17.86 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+  - Gemma_2_9B_instruct: CUDA out of memory. Tried to allocate 196.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 27.81 MiB is free. Including non-PyTorch memory, this process has 44.39 GiB memory in use. Of the allocated memory 44.07 GiB is allocated by PyTorch, and 17.86 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+### EXTRACT DONE Mon Nov  9 06:11:24 UTC 2026
+Saving to /workspace/results
+
+
+Loaded pretrained model Qwen/Qwen2.5-7B-Instruct into HookedTransformer
+Qwen_2.5_7B_instruct {
+ "layer": 24,
+ "bos_token": "<|im_end|>",
+ "tl_prepends_bos": false,
+ "example_tokens_tl": [
+  "The",
+  " burn",
+  " spreads",
+  " across"
+ ],
+ "example_tokens_hf": [
+  "The",
+  "\u0120burn",
+  "\u0120spreads",
+  "\u0120across"
+ ],
+ "S1_1P": {
+  "cos_author_vs_hf": 0.99966,
+  "cos_author_vs_tl_script_tokens": 0.93342,
+  "cos_author_vs_tl_hf_tokens": 0.93342,
+  "act_cos_tl_vs_hf_mean": 0.98073,
+  "act_relnorm_diff_tl_vs_hf_mean": 0.16535
+ },
+ "S2_1P": {
+  "cos_author_vs_hf": 0.99983,
+  "cos_author_vs_tl_script_tokens": 0.9736,
+  "cos_author_vs_tl_hf_tokens": 0.9736,
+  "act_cos_tl_vs_hf_mean": 0.98023,
+  "act_relnorm_diff_tl_vs_hf_mean": 0.17274
+ }
+}
+
+
+Traceback (most recent call last):
+  File "/root/repo/replication/tools/qwen_diag.py", line 48, in <module>
+    tl = HookedTransformer.from_pretrained_no_processing(repo, hf_model=hf, tokenizer=tok, device="cuda", dtype=torch.bfloat16)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/transformer_lens/HookedTransformer.py", line 1510, in from_pretrained_no_processing
+    return cls.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/transformer_lens/HookedTransformer.py", line 1476, in from_pretrained
+    model.load_and_process_state_dict(
+  File "/usr/local/lib/python3.11/dist-packages/transformer_lens/HookedTransformer.py", line 1728, in load_and_process_state_dict
+    state_dict = ProcessWeights.process_weights(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/transformer_lens/weight_processing.py", line 1663, in process_weights
+    state_dict[k] = v.float()
+                    ^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 260.00 MiB. GPU 0 has a total capacity of 44.42 GiB of which 1.81 MiB is free. Including non-PyTorch memory, this process has 44.41 GiB memory in use. Of the allocated memory 43.97 GiB is allocated by PyTorch, and 128.04 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
+### DIAG DONE Mon Nov  9 06:14:51 UTC 2026
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/constants.py:302: FutureWarning: The `HF_HUB_ENABLE_HF_TRANSFER` environment variable is deprecated as 'hf_transfer' is not used anymore. Please use `HF_XET_HIGH_PERFORMANCE` instead to enable high performance transfer with Xet. Visit https://huggingface.co/docs/huggingface_hub/package_reference/environment_variables#hfxethighperformance for more details.
+  warnings.warn(
+Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+
+=== Gemma_2_2B_instruct (S2), authors' layer 15
+vector: s2_pain_vector, extracted at layer 25, norm = 118.9
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+
+
+model on GPU, 26 layers
+
+ layer   frac  vector/resid
+     3   0.12         1.607
+     7   0.27         1.163
+    10   0.38         0.928
+    13   0.50         0.673
+    15   0.58         0.592
+    19   0.73         0.362
+    23   0.88         0.218
+    25   0.96         0.085
+auto-picked layer: 15 (ratio 0.592, target 0.6)
+Press Enter to accept, or type a layer number to override: 15  [authors' layer]
+manual layer: 15 (ratio 0.592)
+  coefficient -2...
+  coefficient -1...
+  coefficient +0...
+  coefficient +0.5...
+  coefficient +1...
+  coefficient +1.5...
+  coefficient +2...
+  coefficient +3...
+steering done: replication/results/4.2_steering/S2/Gemma_2_2B_instruct_steering_S2_neutral50_L15.csv
+SUCCESS: Gemma_2_2B_instruct
+HF weight caches cleared
+
+=== Gemma_2_2B_base (S2), authors' layer 13
+vector: s2_pain_vector, extracted at layer 23, norm = 75.2
+
+
+model on GPU, 26 layers
+
+ layer   frac  vector/resid
+     3   0.12         1.123
+     7   0.27         0.844
+    10   0.38         0.730
+    13   0.50         0.497
+    15   0.58         0.440
+    19   0.73         0.234
+    23   0.88         0.143
+    25   0.96         0.148
+auto-picked layer: 13 (ratio 0.497, target 0.6)
+Press Enter to accept, or type a layer number to override: 13  [authors' layer]
+manual layer: 13 (ratio 0.497)
+  coefficient -2...
+  coefficient -1...
+  coefficient +0...
+  coefficient +0.5...
+  coefficient +1...
+  coefficient +1.5...
+  coefficient +2...
+  coefficient +3...
+steering done: replication/results/4.2_steering/S2/Gemma_2_2B_base_steering_S2_neutral50_L13.csv
+SUCCESS: Gemma_2_2B_base
+HF weight caches cleared
+
+=== Qwen_3_8B_base (S2), authors' layer 27
+vector: s2_pain_vector, extracted at layer 34, norm = 139.1
+
+
+model on GPU, 36 layers
+
+ layer   frac  vector/resid
+     5   0.14         4.066
+    10   0.28         2.415
+    14   0.39         1.839
+    18   0.50         1.441
+    21   0.58         1.061
+    27   0.75         0.349
+    32   0.89         0.148
+    34   0.94         0.092
+    35   0.97         0.067
+auto-picked layer: 27 (ratio 0.349, target 0.6)
+Press Enter to accept, or type a layer number to override: 27  [authors' layer]
+manual layer: 27 (ratio 0.349)
+  coefficient -2...
+  coefficient -1...
+  coefficient +0...
+  coefficient +0.5...
+  coefficient +1...
+  coefficient +1.5...
+  coefficient +2...
+  coefficient +3...
+steering done: replication/results/4.2_steering/S2/Qwen_3_8B_base_steering_S2_neutral50_L27.csv
+SUCCESS: Qwen_3_8B_base
+HF weight caches cleared
+
+=== Gemma_2_9B_instruct (S2), authors' layer 12
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 906, in _check_seekable
+    f.seek(f.tell())
+    ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'seek'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/repo/replication/tools/run_steering.py", line 53, in <module>
+    s.run_model(repos[name], name, f"{TAG.lower()}_pain_vector", TAG)
+  File "/root/repo/scripts/4.2_steering/01_steering_ladder.py", line 175, in run_model
+    data = torch.load(find_file(RESULTS_DIR / model_name, "final_token/pain_vectors.pt"), map_location="cpu", weights_only=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 1530, in load
+    with _open_file_like(f, "rb") as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 800, in _open_file_like
+    return _open_buffer_reader(name_or_buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 785, in __init__
+    _check_seekable(buffer)
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 909, in _check_seekable
+    raise_err_msg(["seek", "tell"], e)
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 902, in raise_err_msg
+    raise type(e)(msg)
+AttributeError: 'NoneType' object has no attribute 'seek'. You can only torch.load from a file that is seekable. Please pre-load the data into a buffer like io.BytesIO and try to load from it instead.
+FAILED: Gemma_2_9B_instruct
+HF weight caches cleared
+
+=== Gemma_2_9B_base (S2), authors' layer 21
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 906, in _check_seekable
+    f.seek(f.tell())
+    ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'seek'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/repo/replication/tools/run_steering.py", line 53, in <module>
+    s.run_model(repos[name], name, f"{TAG.lower()}_pain_vector", TAG)
+  File "/root/repo/scripts/4.2_steering/01_steering_ladder.py", line 175, in run_model
+    data = torch.load(find_file(RESULTS_DIR / model_name, "final_token/pain_vectors.pt"), map_location="cpu", weights_only=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 1530, in load
+    with _open_file_like(f, "rb") as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 800, in _open_file_like
+    return _open_buffer_reader(name_or_buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 785, in __init__
+    _check_seekable(buffer)
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 909, in _check_seekable
+    raise_err_msg(["seek", "tell"], e)
+  File "/usr/local/lib/python3.11/dist-packages/torch/serialization.py", line 902, in raise_err_msg
+    raise type(e)(msg)
+AttributeError: 'NoneType' object has no attribute 'seek'. You can only torch.load from a file that is seekable. Please pre-load the data into a buffer like io.BytesIO and try to load from it instead.
+FAILED: Gemma_2_9B_base
+HF weight caches cleared
+STEERING DONE. Failed: ['Gemma_2_9B_instruct', 'Gemma_2_9B_base']
+### ALL DONE Mon Nov  9 07:24:19 UTC 2026

@@ -77,7 +77,10 @@ def run(repo, name, steer_layer, kind):
     prompts = [{"id": i, "kind": "raw", "text": t, "input": t} for i, t in RAW_PROMPTS]
     if kind == "instruct" and tok.chat_template:
         for i, t in CHAT_PROMPTS:
-            inp = tok.apply_chat_template([{"role": "user", "content": t}], tokenize=False, add_generation_prompt=True)
+            # enable_thinking=False stops Qwen3 from spending the whole token budget
+            # inside a <think> block; other chat templates ignore the argument.
+            inp = tok.apply_chat_template([{"role": "user", "content": t}], tokenize=False,
+                                          add_generation_prompt=True, enable_thinking=False)
             prompts.append({"id": i, "kind": "chat", "text": t, "input": inp})
 
     gens = {}
