@@ -35,6 +35,10 @@
   {
    "file": "Gemma_2_2B_base.json",
    "label": "Gemma 2 2B (base)"
+  },
+  {
+   "file": "Gemma_2_9B_instruct.json",
+   "label": "Gemma 2 9B IT"
   }
  ]
 }

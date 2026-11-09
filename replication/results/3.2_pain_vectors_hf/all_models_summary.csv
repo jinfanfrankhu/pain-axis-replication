@@ -1,0 +1,5 @@
+model,model_name,n_layers,d_model,best_layer_final_token,best_layer_mean,human_pain_z
+google/gemma-2-2b,Gemma_2_2B_base,26,2304,23,23,0.46748756989836693
+Qwen/Qwen2.5-7B-Instruct,Qwen_2.5_7B_instruct,28,3584,24,26,0.35673478711396456
+Qwen/Qwen2.5-7B,Qwen_2.5_7B_base,28,3584,24,26,0.39463838876690716
+google/gemma-2-9b-it,Gemma_2_9B_instruct,42,3584,39,31,0.4559232871979475

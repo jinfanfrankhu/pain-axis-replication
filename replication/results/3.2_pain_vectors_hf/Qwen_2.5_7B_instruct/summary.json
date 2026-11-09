@@ -1,0 +1,9 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "model_name": "Qwen_2.5_7B_instruct",
+  "n_layers": 28,
+  "d_model": 3584,
+  "best_layer_final_token": 24,
+  "best_layer_mean": 26,
+  "human_pain_z": 0.35673478711396456
+}

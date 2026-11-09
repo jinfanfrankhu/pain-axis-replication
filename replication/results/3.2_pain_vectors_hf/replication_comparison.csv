@@ -1,0 +1,5 @@
+model,layer_final_ours,layer_final_author,layer_mean_ours,layer_mean_author,human_pain_z_ours,human_pain_z_author,heldout_ours_at_our_layer,heldout_ours_at_author_layer,heldout_author_at_author_layer,heldout_author_at_our_layer,layer_curve_max_absdiff,s2_auc_max_absdiff,cos_s2_at_author_layer,cos_s1_at_author_layer,norm_ratio_s2
+Gemma_2_2B_base,23,23,23,23,0.4675,0.4661,0.968,0.968,0.9672,0.9672,0.0073,0.001,0.9999,0.9998,1.002
+Gemma_2_9B_instruct,39,37,31,31,0.4559,0.4557,0.9775,0.9775,0.978,0.9777,0.007,,0.9999,0.9998,0.998
+Qwen_2.5_7B_base,24,24,26,26,0.3946,0.3723,0.9695,0.9695,0.9683,0.9683,0.028,0.003,0.9999,0.985,0.997
+Qwen_2.5_7B_instruct,24,24,26,26,0.3567,0.3617,0.9597,0.9597,0.9607,0.9607,0.06,0.005,0.9998,0.9997,1.0

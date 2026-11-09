@@ -1,0 +1,15 @@
+{
+  "completed": [
+    "Gemma_2_2B_base",
+    "Qwen_2.5_7B_instruct",
+    "Qwen_2.5_7B_base",
+    "Gemma_2_9B_instruct"
+  ],
+  "failed": [
+    [
+      "Gemma_2_9B_base",
+      "Task error: File reconstruction error: IO Error: No space left on device (os error 28)"
+    ]
+  ],
+  "last_update": "2026-11-09T15:52:55.964481"
+}

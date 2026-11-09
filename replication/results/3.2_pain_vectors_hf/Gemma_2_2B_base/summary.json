@@ -1,0 +1,9 @@
+{
+  "model": "google/gemma-2-2b",
+  "model_name": "Gemma_2_2B_base",
+  "n_layers": 26,
+  "d_model": 2304,
+  "best_layer_final_token": 23,
+  "best_layer_mean": 23,
+  "human_pain_z": 0.46748756989836693
+}

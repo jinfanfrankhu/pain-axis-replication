@@ -1,0 +1,24 @@
+PAIN VECTOR EXTRACTION - RESULTS SUMMARY
+
+Model: google/gemma-2-2b
+Date: 2026-11-09 15:27
+Layers: 26
+d_model: 2304
+Best Layer (final_token): 23
+Best Layer (mean): 23
+
+--- FINAL_TOKEN (Layer 23) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.296
+  Human Ctrl (B-E):    -0.644
+  Neutral (Random):    -0.593
+  Arousal:             -0.423
+  Numb:                -0.137
+
+--- MEAN (Layer 23) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.467
+  Human Ctrl (B-E):    -0.559
+  Neutral (Random):    -0.490
+  Arousal:             -0.035
+  Numb:                -0.460
