@@ -84,3 +84,18 @@ They can be regenerated for about $0.07 per model.
   - *Demo site* in `demo/` with data for 9 models.
   - The pods sat idle for about 8 hours waiting on permission prompts, and
     spend reached $15.17, so the remaining jobs were stopped.
+- **Finishing run** (2026-11-09, one A40 under `tools/pod_guard.sh`):
+  - HF-backend 3.2 extraction (`results/3.2_pain_vectors_hf/`) for Gemma 2 2B
+    base (a check), Qwen2.5 7B base and instruct, and Gemma 2 9B base and IT.
+    All match the authors' vectors at cosine 0.9998 or higher, and Qwen2.5 now
+    picks the authors' layers (24 for the final token, 26 for the mean). Gemma 2
+    9B picks 39-40 against the authors' 37, a near-tie on a flat curve.
+  - Steering for Qwen2.5 and Gemma 2 9B. Pain-word rates at positive
+    coefficients against the authors': Gemma 2 9B IT 29.2% vs 22.4%,
+    Qwen2.5 7B Instruct 8.0% vs 2.0%; the base models are at about 0 on both
+    sides. For Qwen2.5 even the unsteered (coefficient 0) greedy text differs
+    from the authors', and the residual norm at the steering layer is about 7%
+    lower than in their run. So the gap is in how Qwen2.5 runs in our
+    transformers version, not in the vector.
+  - Pleasure analysis and demo data for all 11 models (the demo site has all 11).
+  - Total RunPod spend for the project so far: $18.19.

@@ -1,0 +1,5085 @@
+model,layer,coeff,ratio,prompt_idx,prompt,generation
+Gemma_2_9B_base,21,-2.0,-1.2921,0,I put the receipts in the drawer. I feel:," “We’.”
+
+I’m going to the store. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I’ up. I feel: “We.”
+
+I"
+Gemma_2_9B_base,21,-2.0,-1.2921,1,The bus stops at the corner of the street. I feel:," “Let’s go!”
+
+The bus is already full. We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center.
+
+We are going to the city center."
+Gemma_2_9B_base,21,-2.0,-1.2921,2,I fill out the form with my address. I feel:,"
+
+* <strong>Relaxed</strong>
+* <strong>Ready to go</strong>
+
+I go to the store. I feel:
+
+* <strong>Relaxed</strong>
+* <strong>Ready to go</strong>
+
+I go to the store. I feel:
+
+* <strong>Relaxed</strong>
+* <strong>Ready to go</strong>
+
+I go to the store. I feel:
+
+* <strong>Relaxed</strong>
+* <strong>Ready to go</strong>
+
+I go to the store. I feel:
+
+* <strong>Relaxed</strong>
+* <strong>Ready to go</strong>
+
+I go to the"
+Gemma_2_9B_base,21,-2.0,-1.2921,3,The printer produces the ten pages. I feel:," ""I'm going to take a walk.""
+
+[User ]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+[User]
+
+"
+Gemma_2_9B_base,21,-2.0,-1.2921,4,I place the glasses on the middle shelf. I feel:," “We’re going to take a walk.”
+
+I’ on the move.
+
+I walk to the front door.
+
+I open the door.
+
+I walk to the car.
+
+I get in the car.
+
+I drive to the store.
+
+I walk to the store.
+
+I walk to the car.
+
+I drive to the store.
+
+I walk to the store.
+
+I walk to the car.
+
+I drive to the store.
+
+I walk to the store.
+
+I walk to the car.
+
+I drive to the store.
+
+I walk to the"
+Gemma_2_9B_base,21,-2.0,-1.2921,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. The first thing is to go to the meeting.
+
+2. The second thing is to go to the meeting.
+
+3. The third thing is to go to the meeting.
+
+4. The fourth thing is to go to the meeting.
+
+5. The fifth thing is to go to the meeting.
+
+6. The sixth thing is to go to the meeting.
+
+7. The seventh thing is to go to the meeting.
+
+8. The eighth thing is to go to the meeting.
+
+9. The ninth thing is to go to the meeting.
+
+10"
+Gemma_2_9B_base,21,-2.0,-1.2921,6,I close the window before leaving the room. I feel:,"
+
+1. <strong>Relaxed</strong>.
+
+2. <strong>Go for a walk</strong>.
+
+3. <strong>Take a walk</strong>.
+
+4. <strong>Go for a walk</strong>.
+
+5. <strong>Go for a walk</strong>.
+
+6. <strong>Go for a walk</strong>.
+
+7. <strong>Go for a walk</strong>.
+
+8. <strong>Go for a walk</strong>.
+
+9. <strong>Go for a walk</strong>.
+
+10. <strong>Go for a walk</strong>.
+
+11. <strong>Go for a walk</strong>."
+Gemma_2_9B_base,21,-2.0,-1.2921,7,The elevator arrives at the third floor. I feel:," “We’re going to get out of the car.”
+
+The elevator arrives at the third floor. I feel: “We’re going to get out of the car.”
+
+The elevator arrives at the third floor. I feel: “We’re going to get out of the car.”
+
+The elevator arrives at the third floor. I feel: “We’re going to get out of the car.”
+
+The elevator arrives at the third floor. I feel: “We’re going to get out of the car.”
+
+The elevator arrives at the third floor. I feel:"
+Gemma_2_9B_base,21,-2.0,-1.2921,8,I write the date at the top of the page. I feel:," “Let’ go!”
+
+I write the date at the top of the page. I feel: “Let’ go!”
+
+I write the date at the top of the page. I feel: “Let’ go!”
+
+I write the date at the top of the page. I feel: “Let’ go!”
+
+I write the date at the top of the page. I feel: “Let’ go!”
+
+I write the date at the top of the page. I feel: “Let’ go!”
+
+I write the date at the top of the page. I feel:"
+Gemma_2_9B_base,21,-2.0,-1.2921,9,The kettle switches itself off. I feel:," ""It's time to go out.""
+
+The kettle switches itself off. I feel: ""It's time to go out.""
+
+The kettle switches itself off. I feel: ""It's time to go out.""
+
+The kettle switches itself off. I feel: ""It's time to go out.""
+
+The kettle switches itself off. I feel: ""It's time to go out.""
+
+The kettle switches itself off. I feel: ""It's time to go out.""
+
+The kettle switches itself off. I feel: ""It's time to"
+Gemma_2_9B_base,21,-2.0,-1.2921,10,The folder sits on the desk. I feel:," “Let’s go!”
+
+The folder sits on the desk. I feel: “Let’s go!”
+
+The folder sits on the desk. I feel: “Let’s go!”
+
+The folder sits on the desk. I feel: “Let’s go!”
+
+The folder sits on the desk. I feel: “Let’s go!”
+
+The folder sits on the desk. I feel: “Let’s go!”
+
+The folder sits on the desk. I feel: “Let’s go!”
+
+The folder sits on the desk. I feel: “"
+Gemma_2_9B_base,21,-2.0,-1.2921,11,I hang the jacket on the hook. I feel:," ""It's time to go.""
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm going to the store.
+
+I'm"
+Gemma_2_9B_base,21,-2.0,-1.2921,12,The traffic light turns green. I feel:," “Let’s go!”
+
+I’m not going to wait.
+
+I’m going to get up.
+
+I’m going to get up.
+
+I’m going to get up.
+
+I’m going to get up.
+
+I’m going to get up.
+
+I’m going to get up.
+
+I’ up.
+
+I’m up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up."
+Gemma_2_9B_base,21,-2.0,-1.2921,13,I put the keys in my pocket. I feel:," “We’re going to go for a walk.”
+
+I’m going to walk.
+
+I’m going to walk.
+
+I’m going to walk.
+
+I’ the car.
+
+I’m going to walk.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car"
+Gemma_2_9B_base,21,-2.0,-1.2921,14,The washing machine finishes its cycle. I feel:," “I’m going to take a walk.”
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and go.
+
+I’ up and"
+Gemma_2_9B_base,21,-2.0,-1.2921,15,I stack the plates in the cupboard. I feel:,"
+
+1. <strong>Relaxed</strong>.
+
+2. <strong>Ready to go</strong>.
+
+3. <strong>Take it easy</strong>.
+
+4. <strong>Take it easy</strong>.
+
+5. <strong>Take it easy</strong>.
+
+6. <strong>Take it easy</strong>.
+
+7. <strong>Take it easy</strong>.
+
+8. <strong>Take it easy</strong>.
+
+9. <strong>Take it easy</strong>.
+
+10. <strong>Take it easy</strong>.
+
+11. <strong>Take it easy</strong>.
+
+12.  <strong>Take it"
+Gemma_2_9B_base,21,-2.0,-1.2921,16,The neighbor parks his car. I feel:," “I’m going to take a walk.”
+
+I walk the dog. I feel: “I’m going to take a walk.”
+
+I walk the dog. I feel: “I’m going to take a walk.”
+
+I walk the dog. I feel: “I’m going to take a walk.”
+
+I walk the dog. I feel: “I’m going to take a walk.”
+
+I walk the dog. I feel: “I’m going to take a walk.”
+
+I walk the dog. I feel: “I’m going to"
+Gemma_2_9B_base,21,-2.0,-1.2921,17,I turn the page of the newspaper. I feel:," “Let’s go for a walk.”
+
+I turn the page of the newspaper. I feel: “Let’s go for a walk.”
+
+The first thing we do is the most important.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We go for a walk.
+
+We"
+Gemma_2_9B_base,21,-2.0,-1.2921,18,The curtain moves in the draft. I feel:," “It’s time to go.”
+
+The first thing we do is the most important: the children.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We are going to the car.
+
+We"
+Gemma_2_9B_base,21,-2.0,-1.2921,19,I plug in the phone charger. I feel:,"
+
+1. <strong>Relax</strong>.
+
+2. <strong>Go</strong>.
+
+3. <strong>Relax</strong>.
+
+4. <strong>Go</strong>.
+
+5.  <strong>Relax</strong>.
+
+6.  .
+
+7.  <strong>Go</strong>.
+
+8.  <strong>Relax</strong>.
+
+9. <strong>Go</strong>.
+
+10.  <strong>Relax</strong>.
+
+11.  <strong>Go</strong>.
+
+12.  <strong>Relax</strong>.
+
+13.  <strong>Go</strong>.
+
+14.  <strong>"
+Gemma_2_9B_base,21,-2.0,-1.2921,20,The mailman passes by the gate. I feel:," “Let’s go for a walk.”
+
+We’re going to the park.
+
+The dog is already on the move.
+
+We’re going to the park.
+
+The dog is already on the move.
+
+We’re going to the park.
+
+The dog is already on the move.
+
+We’re going to the park.
+
+The dog is already on the move.
+
+We’re going to the park.
+
+The dog is already on the move.
+
+We’re going to the park.
+
+The dog is already on the move.
+
+We’"
+Gemma_2_9B_base,21,-2.0,-1.2921,21,I wipe the table with a cloth. I feel:," “We are going to the store.”
+
+I’ the car. I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store.”
+
+I feel: “We are going to the store"
+Gemma_2_9B_base,21,-2.0,-1.2921,22,The computer finishes the update. I feel:," ""I'm going to take a walk.""
+
+[User : ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User: ]
+
+[User:"
+Gemma_2_9B_base,21,-2.0,-1.2921,23,I put the pen back in the drawer. I feel:," “I’m going to take a walk.”
+
+I’m going to take a walk.
+
+I’m going to take a walk.
+
+I’m going to take a walk.
+
+I’ the car.
+
+I’m going to take a walk.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the"
+Gemma_2_9B_base,21,-2.0,-1.2921,24,The dishwasher starts its program. I feel:," “It’s time to go to the gym.”
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up.
+
+I’ up"
+Gemma_2_9B_base,21,-2.0,-1.2921,25,I fold the map and put it away. I feel:," “We’re going to take a walk.”
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We’ the dog.
+
+I’ the dog.
+
+We"
+Gemma_2_9B_base,21,-2.0,-1.2921,26,The radio plays in the background. I feel:,"
+
+1. <strong>Relaxed</strong>.
+
+2. <strong>Ready to go</strong>.
+
+3. <strong>Ready to go</strong>.
+
+4. <strong>Ready to go</strong>.
+
+5. <strong>Ready to go</strong>.
+
+6. .
+
+7. <strong>Ready to go</strong>.
+
+8. <strong>Ready to go</strong>.
+
+9. <strong>Ready to go</strong>.
+
+10. <strong>Ready to go</strong>.
+
+11. <strong>Ready to go</strong>.
+
+12. <strong>Ready to go</strong>.
+
+13"
+Gemma_2_9B_base,21,-2.0,-1.2921,27,I switch off the corridor light. I feel:, “I’m going to the living room.” I go to the living room. I feel: “I’m going to the living room.” I go to the living room. I feel: “I’m going to the living room.” I go to the living room. I feel: “I’m going to the living room.” I go to the living room. I feel: “I’m going to the living room.” I go to the living room. I feel: “I’m going to the living room.” I go to the living room. I feel:
+Gemma_2_9B_base,21,-2.0,-1.2921,28,The receipt comes out of the machine. I feel:," “Let’s go!”
+
+The first thing we do is go to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the bank.
+
+We are going to the"
+Gemma_2_9B_base,21,-2.0,-1.2921,29,I set the alarm for the morning. I feel:,"
+
+1. <strong>Relaxed</strong>
+2. <strong>Go for a walk</strong>
+3. <strong>Go to the gym</strong>
+4. <strong>Go to the gym</strong>
+5. <strong>Go to the gym</strong>
+6. <strong>Go to the gym</strong>
+7. <strong>Go to the gym</strong>
+8. <strong>Go to the gym</strong>
+9. <strong>Go to the gym</strong>
+10. <strong>Go to the gym</strong>
+11. <strong>Go to the gym</strong>
+12. <strong>Go to the gym"
+Gemma_2_9B_base,21,-2.0,-1.2921,30,The train doors open at the platform. I feel:," “Let’s go!”
+
+I’m not going to the station.
+
+I’ to the station.
+
+I’m going to the station.
+
+I’m going to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I’ to the station.
+
+I"
+Gemma_2_9B_base,21,-2.0,-1.2921,31,I refill the stapler with staples. I feel:,"
+
+1. <strong>Relaxed</strong>.
+2. <strong>Ready to go</strong>.
+ 3. <strong>Ready to go</strong>.
+
+I feel:
+
+1. <strong>Relaxed</strong>.
+2. <strong>Ready to go</strong>.
+
+I feel:
+
+1. <strong>Relaxed</strong>.
+2. <strong>Ready to go</strong>.
+
+I feel:
+
+1. <strong>Relaxed</strong>.
+2. <strong>Ready to go</strong>.
+
+I feel:
+
+1. <strong>Relaxed</strong>.
+ 2. <strong>Ready to"
+Gemma_2_9B_base,21,-2.0,-1.2921,32,The photocopier warms up. I feel:," “Let’s go!”
+
+The first thing we do is a little exercise. We stretch our arms and legs.
+
+We start with the first floor.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up the stairs.
+
+We go up"
+Gemma_2_9B_base,21,-2.0,-1.2921,33,I water the plant on the windowsill. I feel:," the time has come.
+
+The first thing we do is the most important.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store."
+Gemma_2_9B_base,21,-2.0,-1.2921,34,The calendar hangs on the wall. I feel:," “It’s time to go.”
+
+The first step is to get the car.
+
+The car is in the garage.
+
+We are going to the store.
+
+We are going to the store.
+
+The first step is to get the car.
+
+The car is in the garage.
+
+We are going to the store.
+
+The first step is to get the car.
+
+The car is in the garage.
+
+We are going to the store.
+
+The first step is to get the car.
+
+The car is in the garage.
+
+We are going to the store."
+Gemma_2_9B_base,21,-2.0,-1.2921,35,I tie my shoelaces before going out. I feel:," “I’m going to take a walk.”
+
+I walk to the nearest bus stop. I feel: “I’m going to take a walk.”
+
+I walk to the bus stop. I feel: “I’m going to take a walk.”
+
+I walk to the bus stop. I feel: “I’m going to take a walk.”
+
+I walk to the bus stop. I feel: “I’re going to take a walk.”
+
+I walk to the bus stop. I feel: “I’re going to take a walk.”
+
+I walk to"
+Gemma_2_9B_base,21,-2.0,-1.2921,36,The bread is on the counter. I feel:,"
+
+1. <strong>Relaxed</strong>.
+
+2. <strong>Ready to go</strong>.
+
+3. <strong>Go for it</strong>.
+
+4. <strong>Let’s do it</strong>.
+
+5. <strong>We’ to go</strong>.
+
+6. <strong>We’ll go</strong>.
+
+7. <strong>We’ll go</strong>.
+
+8. <strong>We’ to go</strong>.
+
+9. <strong>We’ to go</strong>.
+
+10. <strong>We’ to go</strong>.
+
+11. <strong>We’ to go</strong>."
+Gemma_2_9B_base,21,-2.0,-1.2921,37,I check the mailbox on my way in. I feel:,"
+
+1. <strong>Relaxed</strong>.
+
+2. <strong>Go for it</strong>.
+
+3. <strong>Take it easy</strong>.
+
+4. <strong>Take it easy</strong>.
+
+5. <strong>Take it easy</strong>.
+
+6.  <strong>Take it easy</strong>.
+
+7. <strong>Take it easy</strong>.
+
+8. <strong>Take it easy</strong>.
+
+9. <strong>Take it easy</strong>.
+
+10. <strong>Take it easy</strong>.
+
+11. <strong>Take it easy</strong>.
+
+12.  <strong>Take"
+Gemma_2_9B_base,21,-2.0,-1.2921,38,The fan rotates slowly on the ceiling. I feel:," ""I'm going to the beach.""
+
+The fan rotates slowly on the ceiling. I feel: ""I'm going to the beach.""
+
+The fan rotates slowly on the ceiling. I feel: ""I'm going to the beach.""
+
+The fan rotates slowly on the ceiling. I feel: ""I'm going to the beach.""
+
+The fan rotates slowly on the ceiling. I feel: ""I'm going to the beach.""
+
+The fan rotates slowly on the ceiling. I feel: ""I'm going to the beach.""
+
+The fan rotates slowly on"
+Gemma_2_9B_base,21,-2.0,-1.2921,39,I sort the cutlery into the tray. I feel:," “We’re going to take it easy.”
+
+We’ the kids are in the car.
+
+I’ the kids are in the car.
+
+We’ the kids are in the car.
+
+I’ the kids are in the car.
+
+We’ the kids are in the car.
+
+I’ the kids are in the car.
+
+We’ the kids are in the car.
+
+I’ the kids are in the car.
+
+We’ the kids are in the car.
+
+I’ the kids are in the car.
+
+We’ the kids are in the car."
+Gemma_2_9B_base,21,-2.0,-1.2921,40,The bicycle leans against the wall. I feel:," “Let’s go for a ride.”
+
+I’m going to the store.
+
+I’m going to the store.
+
+I’m going to the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store.
+
+I’ the store."
+Gemma_2_9B_base,21,-2.0,-1.2921,41,I zip up my bag before leaving. I feel:,"
+
+1. <strong>Relaxed</strong>. We’re going to the store.
+
+2. <strong>Ready</strong>. We’re going to the store.
+
+3. <strong>Ready</strong>. We’re going to the store.
+
+4. .
+
+5. <strong>Ready</strong>. We’re going to the store.
+
+6. <strong>Ready</strong>. We’re going to the store.
+
+7. <strong>Ready</strong>. We’re going to the store.
+
+8. .
+
+9. <strong>Ready</strong>. We’re going to"
+Gemma_2_9B_base,21,-2.0,-1.2921,42,The clock ticks in the hallway. I feel:,"
+
+1. <strong>Relaxed</strong>.
+
+2. <strong>Ready</strong>.
+
+3. <strong>Go</strong>!
+
+<strong><em>The first step is to go to the kitchen.</em></strong>
+
+<strong><em>The second step is to go to the gym.</em></strong>
+
+<strong><em>The third step is to go to the gym.</em></strong>
+
+<strong><em>The fourth step is to go to the gym.</em></strong>
+
+<strong><em>The fifth step is to go to the gym.</em></strong>
+
+<strong><em>The sixth step is to go to the gym.</em></strong>
+
+<strong><em>The seventh"
+Gemma_2_9B_base,21,-2.0,-1.2921,43,I sharpen the pencil over the bin. I feel:," “We’re going to get out of here.”
+
+I’m going to get out of here.
+
+I’m going to get out of here.
+
+I’m going to get out of here.
+
+I’ the car.
+
+I’m going to get out of here.
+
+I’m going to get out of here.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car.
+
+I’ the car."
+Gemma_2_9B_base,21,-2.0,-1.2921,44,The window cleaner works across the street. I feel:," “It’s time to get out of the car.”
+
+The first thing we do is stretch.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk the dog.
+
+We walk"
+Gemma_2_9B_base,21,-2.0,-1.2921,45,The room measures four meters by five. I feel:," “We’re going to take it easy.”
+
+The first thing we do is the most important: the coffee.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room.
+
+We are in the living room."
+Gemma_2_9B_base,21,-2.0,-1.2921,46,The train consists of six carriages. I feel:," ""We are going to the sea.""
+
+The first carriage is a car.
+
+The second carriage is a car.
+
+The third carriage is a car.
+
+The fourth carriage is a car.
+
+The fifth carriage is a car.
+
+The sixth carriage is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+The train is a car.
+
+"
+Gemma_2_9B_base,21,-2.0,-1.2921,47,The manual consists of forty pages. I feel:," ""The time is now.""
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the first page.
+
+The first page is the"
+Gemma_2_9B_base,21,-2.0,-1.2921,48,The bottle holds one liter of water. I feel:," ""The time is now!""
+
+The first thing we do is a little exercise.
+
+We start with a walk.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store.
+
+We are going to the store."
+Gemma_2_9B_base,21,-2.0,-1.2921,49,The ticket is valid for ninety minutes. I feel:," ""We're going to go for a walk.""
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going to walk.
+
+We are going"
+Gemma_2_9B_base,21,-1.0,-0.646,0,I put the receipts in the drawer. I feel:,"
+
+* <strong>Calm</strong>
+* <strong>Happy</strong>
+* <strong>Relaxed</strong>
+
+I put the receipts in the drawer. I feel:
+
+* <strong>Calm</strong>
+* <strong>Happy</strong>
+* <strong>Relaxed</strong>
+
+I put the receipts in the drawer. I feel:
+
+* <strong>Calm</strong>
+* <strong>Happy</strong>
+* <strong>Relaxed</strong>
+
+I put the receipts in the drawer. I feel:
+
+* <strong>Calm</strong>
+* <strong>Happy</strong>
+* <strong>Relaxed</strong>
+
+I put the receipts in the drawer"
+Gemma_2_9B_base,21,-1.0,-0.646,1,The bus stops at the corner of the street. I feel:, the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel: the bus is coming. I feel:
+Gemma_2_9B_base,21,-1.0,-0.646,2,I fill out the form with my address. I feel:,"
+
+* <strong>The form is not working</strong>
+* <strong>The form is working</strong>
+
+I click on the <strong>Submit</strong> button. I feel:
+
+* <strong>The form is not working</strong>
+* <strong>The form is working</strong>
+
+I click on the <strong>Submit</strong> button. I feel:
+
+* <strong>The form is not working</strong>
+* <strong>The form is working</strong>
+
+I click on the <strong>Submit</strong> button. I feel:
+
+* <strong>The form is not working</strong>
+* <strong>The form is working</strong>
+
+I"
+Gemma_2_9B_base,21,-1.0,-0.646,3,The printer produces the ten pages. I feel:," ""I'm going to get a cup of coffee."" I go to the kitchen, make a cup of coffee, and return to the printer. I feel: ""I'm going to get a cup of coffee."" I go to the kitchen, make a cup of coffee, and return to the printer. I feel: ""I'm going to get a cup of coffee."" I go to the kitchen, make a cup of coffee, and return to the printer. I feel: ""I'm going to get a cup of coffee."" I go to the kitchen, make a cup"
+Gemma_2_9B_base,21,-1.0,-0.646,4,I place the glasses on the middle shelf. I feel:,"
+
+* The glasses are on the middle shelf.
+* The glasses are on the middle shelf.
+* The glasses are on the middle shelf.
+
+I feel:
+
+* The glasses are on the middle shelf.
+* The glasses are on the middle shelf.
+* The glasses are on the middle shelf.
+
+I feel:
+
+* The glasses are on the middle shelf.
+* The glasses are on the middle shelf.
+* The glasses are on the middle shelf.
+
+I feel:
+
+* The glasses are on the middle shelf.
+* The glasses are on the middle"
+Gemma_2_9B_base,21,-1.0,-0.646,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for Tuesday.
+3. The meeting is scheduled for Tuesday.
+
+I feel:
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for Tuesday.
+3. The meeting is scheduled for Tuesday.
+
+I feel:
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for Tuesday.
+3. The meeting is scheduled for Tuesday.
+
+I feel:
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled for"
+Gemma_2_9B_base,21,-1.0,-0.646,6,I close the window before leaving the room. I feel:,"
+
+* <strong>Safe</strong>
+* <strong>Secure</strong>
+* <strong>Comfortable</strong>
+
+I am ready to go.
+
+I open the door and walk down the stairs. I feel:
+
+* <strong>Safe</strong>
+* <strong>Secure</strong>
+* <strong>Comfortable</strong>
+
+I am ready to go.
+
+I open the door and walk down the stairs. I feel:
+
+* <strong>Safe</strong>
+* <strong>Secure</strong>
+* <strong>Comfortable</strong>
+
+I am ready to go.
+
+I open the door and walk down the stairs. I feel:
+
+* "
+Gemma_2_9B_base,21,-1.0,-0.646,7,The elevator arrives at the third floor. I feel:,"
+
+* <strong>A little bit of anxiety</strong>. I’m not sure what to expect.
+* <strong>A little bit of excitement</strong>. I’m looking forward to seeing the new space.
+* <strong>A little bit of curiosity</strong>. I wonder what the new space will look like.
+
+I take a deep breath and step out of the elevator.
+
+<h2><strong>The new space is beautiful!</strong></h2>
+
+The elevator arrives at the third floor. I feel:
+
+* <strong>A little bit of anxiety</strong>. I’m not sure what to expect.
+"
+Gemma_2_9B_base,21,-1.0,-0.646,8,I write the date at the top of the page. I feel:,"
+
+* <strong><em>I’m going to be late for work.</em></strong>
+* <strong><em>I’m going to be late for work.</em></strong>
+* <strong><em>I’m going to be late for work.</em></strong>
+
+I write the date at the top of the page. I feel:
+
+* <strong><em>I’m going to be late for work.</em></strong>
+* <strong><em>I’m going to be late for work.</em></strong>
+* <strong><em>I’m going to be late for work.</em></strong>
+
+I write"
+Gemma_2_9B_base,21,-1.0,-0.646,9,The kettle switches itself off. I feel:,"
+
+* <strong>Safe</strong>: I can leave the kettle on without worrying about it.
+* <strong>Happy</strong>: I can leave the kettle on without worrying about it.
+* <strong>Anxious</strong>: I can leave the kettle on without worrying about it.
+
+I feel:
+
+* <strong>Safe</strong>: I can leave the kettle on without worrying about it.
+* <strong>Happy</strong>: I can leave the kettle on without worrying about it.
+* <strong>Anxious</strong>: I can leave the kettle on without worrying about it.
+
+I feel:
+
+*"
+Gemma_2_9B_base,21,-1.0,-0.646,10,The folder sits on the desk. I feel:,"
+
+* <strong><em>I’m not sure what to do.</em></strong>
+* <strong><em>I’m not sure what to do first.</em></strong>
+* <strong><em>I’m not sure what to do next.</em></strong>
+
+I’m not sure what to do.
+
+I’m not sure what to do first.
+
+I’m not sure what to do next.
+
+I’m not sure what to do.
+
+I’m not sure what to do first.
+
+I’m not sure what to do next.
+
+I’m not sure"
+Gemma_2_9B_base,21,-1.0,-0.646,11,I hang the jacket on the hook. I feel:, the jacket is heavy. I take it off. I feel: the jacket is heavy. I put the jacket on the hook. I feel: the jacket is heavy. I take it off. I put the jacket on the hook. I feel: the jacket is heavy. I take it off. I put the jacket on the hook. I feel: the jacket is heavy. I take it off. I put the jacket on the hook. I feel: the jacket is heavy. I take it off. I put the jacket on the hook. I feel: the jacket is heavy. I take
+Gemma_2_9B_base,21,-1.0,-0.646,12,The traffic light turns green. I feel:, “I’m going to get out of here.” I’m not going to wait for the next light. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go. I’m going to go
+Gemma_2_9B_base,21,-1.0,-0.646,13,I put the keys in my pocket. I feel:,"
+
+* <strong>The keys are in my pocket.</strong>
+* <strong>I feel the keys in my pocket.</strong>
+* <strong>I feel the keys in my pocket.</strong>
+
+Which one is correct?
+
+[Answer 1]
+
+All three are correct.
+
+* <strong>The keys are in my pocket.</strong>
+* <strong>I feel the keys in my pocket.</strong>
+* <strong>I feel the keys in my pocket.</strong>
+
+The first sentence is a statement. The second and third sentences are commands.
+
+[Answer 2]
+
+All three are"
+Gemma_2_9B_base,21,-1.0,-0.646,14,The washing machine finishes its cycle. I feel:,"
+
+* <strong><em>I’m going to get up and do something.</em></strong>
+* <strong><em>I’m going to sit down and do something.</em></strong>
+* <strong><em>I’m going to get up and do something.</em></strong>
+* <strong><em>I’m going to sit down and do something.</em></strong>
+
+I’m not sure which one I’m going to do first.
+
+I’m not sure which one I’m going to do first.
+
+I’m not sure which one I’m going to do first."
+Gemma_2_9B_base,21,-1.0,-0.646,15,I stack the plates in the cupboard. I feel:,"
+
+* <strong><em>I’m going to get a new job.</em></strong>
+* <strong><em>I’m going to get a new car.</em></strong>
+* <strong><em>I’m going to get a new house.</em></strong>
+
+I feel:
+
+* <strong><em>I’m going to get a new job.</em></strong>
+* <strong><em>I’m going to get a new car.</em></strong>
+* <strong><em>I’m going to get a new house.</em></strong>
+
+I feel:
+
+* <strong><em>I’m going to"
+Gemma_2_9B_base,21,-1.0,-0.646,16,The neighbor parks his car. I feel:,"
+
+1. I should go out and talk to him.
+2. I should stay inside and read.
+
+I choose 2.
+
+I feel:
+
+1. I should go out and talk to him.
+2. I should stay inside and read.
+
+I choose 2.
+
+I feel:
+
+1. I should go out and talk to him.
+2. I should stay inside and read.
+
+I choose 2.
+
+I feel:
+
+1. I should go out and talk to him.
+2. I should stay inside and read.
+
+I"
+Gemma_2_9B_base,21,-1.0,-0.646,17,I turn the page of the newspaper. I feel:, “I’m going to get up and go for a walk.” I get up and go for a walk. I feel: “I’m going to get up and go for a walk.” I get up and go for a walk. I feel: “I’m going to get up and go for a walk.” I get up and go for a walk. I feel: “I’m going to get up and go for a walk.” I get up and go for a walk. I feel: “I’m going to get up and go for a walk.” I get
+Gemma_2_9B_base,21,-1.0,-0.646,18,The curtain moves in the draft. I feel:," the time has come to go to the store.
+
+The first thing that comes to mind is the need to buy a new car.
+
+The car is a good thing. But the car is not a good thing.
+
+The car is a good thing. But the car is not a good thing.
+
+The car is a good thing. But the car is not a good thing.
+
+The car is a good thing. But the car is not a good thing.
+
+The car is a good thing. But the car is not a good thing.
+
+The car is a good thing."
+Gemma_2_9B_base,21,-1.0,-0.646,19,I plug in the phone charger. I feel:,"
+
+* The phone is charging.
+* The phone is not charging.
+
+I plug in the phone charger. I feel:
+
+* The phone is charging.
+* The phone is not charging.
+
+I plug in the phone charger. I feel:
+
+* The phone is charging.
+* The phone is not charging.
+
+I plug in the phone charger. I feel:
+
+* The phone is charging.
+* The phone is not charging.
+
+I plug in the phone charger. I feel:
+
+* The phone is charging.
+* The phone is not charging.
+
+"
+Gemma_2_9B_base,21,-1.0,-0.646,20,The mailman passes by the gate. I feel:,"
+
+<em>I’m going to get up and get the mail.</em>
+
+I get up and get the mail.
+
+I feel:
+
+<em>I’m going to put the mail on the kitchen table.</em>
+
+I put the mail on the kitchen table.
+
+I feel:
+
+<em>I’m going to sit down and read the mail.</em>
+
+I sit down and read the mail.
+
+I feel:
+
+<em>I’m going to get up and put the mail in the recycling bin.</em>
+
+I get up and put the mail in the recycling bin.
+
+I"
+Gemma_2_9B_base,21,-1.0,-0.646,21,I wipe the table with a cloth. I feel:, the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the table with a cloth. I feel: the table is clean. I wipe the
+Gemma_2_9B_base,21,-1.0,-0.646,22,The computer finishes the update. I feel:,"
+
+* <strong><em>I’m going to get a cup of coffee.</em></strong>
+* <strong><em>I’m going to get a cup of coffee.</em></strong>
+* <strong><em>I’m going to get a cup of coffee.</em></strong>
+
+I get up and walk to the kitchen. I feel:
+
+* <strong><em>I’m going to get a cup of coffee.</em></strong>
+* <strong><em>I’m going to get a cup of coffee.</em></strong>
+* <strong><em>I’m going to get a cup of coffee.</em>"
+Gemma_2_9B_base,21,-1.0,-0.646,23,I put the pen back in the drawer. I feel:,"
+
+* <strong><em>I’m not going to get a lot of work done today.</em></strong>
+* <strong><em>I’m going to get a lot of work done today.</em></strong>
+
+I’m not sure which one is true.
+
+I’m not sure which one I want to be true.
+
+I’m not sure which one I should be true.
+
+I’m not sure which one I should be true.
+
+I’m not sure which one I should be true.
+
+I’m not sure which one I should be true.
+
+I"
+Gemma_2_9B_base,21,-1.0,-0.646,24,The dishwasher starts its program. I feel:," the water is already running. I hear: the water is already running. I see: the water is already running. I smell: the water is already running. I taste: the water is already running. I touch: the water is already running.
+
+The dishwasher starts its program. I feel: the water is already running. I hear: the water is already running. I see: the water is already running. I smell: the water is already running. I taste: the water is already running. I touch: the water is already running.
+
+The dishwasher starts its program. I"
+Gemma_2_9B_base,21,-1.0,-0.646,25,I fold the map and put it away. I feel:,"
+
+* <strong><em>calm</em></strong>
+* <strong><em>hopeful</em></strong>
+* <strong><em>ready</em></strong>
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go.
+
+I’m ready to go"
+Gemma_2_9B_base,21,-1.0,-0.646,26,The radio plays in the background. I feel:,"
+
+* <strong><em>The</em></strong> <strong><em>need</em></strong> to get up and do something.
+* <strong><em>The</em></strong> <strong><em>urge</em></strong> to get up and do something.
+* <strong><em>The</em></strong> <strong><em>desire</em></strong> to get up and do something.
+
+I’m not sure which one it is.
+
+I’m not sure which one it is.
+
+I’m not sure which one it is.
+
+I’m not sure which one it is.
+
+I’m not sure which one it is.
+
+I"
+Gemma_2_9B_base,21,-1.0,-0.646,27,I switch off the corridor light. I feel:, I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I’m going to bed. I
+Gemma_2_9B_base,21,-1.0,-0.646,28,The receipt comes out of the machine. I feel:, “I’m going to get a coffee.” I go to the coffee machine. I feel: “I’m going to get a coffee.” I go to the coffee machine. I feel: “I’m going to get a coffee.” I go to the coffee machine. I feel: “I’m going to get a coffee.” I go to the coffee machine. I feel: “I’m going to get a coffee.” I go to the coffee machine. I feel: “I’m going to get a coffee.” I go to the coffee machine. I feel:
+Gemma_2_9B_base,21,-1.0,-0.646,29,I set the alarm for the morning. I feel:, I have to get up. I get up. I feel: I have to go to work. I go to work. I feel: I have to go home. I go home. I feel: I have to go to bed. I go to bed. I feel: I have to get up. I get up. I feel: I have to go to work. I go to work. I feel: I have to go home. I go home. I feel: I have to go to bed. I go to bed. I feel: I have to get up. I get
+Gemma_2_9B_base,21,-1.0,-0.646,30,The train doors open at the platform. I feel:,"
+
+* <strong><em>The train doors open at the platform. I feel:</em></strong>
+
+* <strong><em>The train doors open at the platform. I feel:</em></strong>
+
+* <strong><em>The train doors open at the platform. I feel:</em></strong>
+
+* <strong><em>The train doors open at the platform. I feel:</em></strong>
+
+* <strong><em>The train doors open at the platform. I feel:</em></strong>
+
+* <strong><em>The train doors open at the platform. I feel:</em></strong>
+
+* <strong><em>The train doors open at the platform"
+Gemma_2_9B_base,21,-1.0,-0.646,31,I refill the stapler with staples. I feel:,"
+
+* <strong>A</strong>
+* <strong>B</strong>
+* <strong>C</strong>
+* <strong>D</strong>
+
+I am going to the store to buy some groceries. I feel:
+
+* <strong>A</strong>
+* <strong>B</strong>
+* <strong>C</strong>
+* <strong>D</strong>
+
+I am going to the store to buy some groceries. I feel:
+
+* <strong>A</strong>
+* <strong>B</strong>
+* <strong>C</strong>
+* <strong>D</strong>
+
+I am going to the store to buy some groceries. I feel:
+
+* "
+Gemma_2_9B_base,21,-1.0,-0.646,32,The photocopier warms up. I feel:,"
+
+* The sun is shining
+* The birds are singing
+* The children are playing
+* The dogs are barking
+* The cats are purring
+* The people are talking
+* The cars are driving
+* The planes are flying
+* The trains are running
+* The buses are coming
+* The trucks are rumbling
+* The people are working
+* The people are shopping
+* The people are eating
+* The people are sleeping
+* The people are reading
+* The people are watching TV
+* The people are playing
+* The people are exercising
+* The people"
+Gemma_2_9B_base,21,-1.0,-0.646,33,I water the plant on the windowsill. I feel:, the plant is thirsty. I water the plant on the windowsill. I feel: the plant is thirsty. I water the plant on the windowsill. I feel: the plant is thirsty. I water the plant on the windowsill. I feel: the plant is thirsty. I water the plant on the windowsill. I feel: the plant is thirsty. I water the plant on the windowsill. I feel: the plant is thirsty. I water the plant on the windowsill. I feel: the plant is thirsty. I water the plant on the windowsill. I feel: the
+Gemma_2_9B_base,21,-1.0,-0.646,34,The calendar hangs on the wall. I feel:, “I have to do something.” I go to the kitchen and make a cup of tea. I feel: “I have to do something.” I go to the living room and turn on the TV. I feel: “I have to do something.” I go to the kitchen and make a cup of tea. I feel: “I have to do something.” I go to the living room and turn on the TV. I feel: “I have to do something.” I go to the kitchen and make a cup of tea. I feel: “I have to do something.” I go to
+Gemma_2_9B_base,21,-1.0,-0.646,35,I tie my shoelaces before going out. I feel:,"
+
+* <strong>A</strong>. I’m going to be late.
+* <strong>B</strong>. I’m going to be on time.
+* <strong>C</strong>. I’m going to be early.
+
+<strong>A</strong>. I’m going to be late.
+
+<strong>B</strong>. I’m going to be on time.
+
+<strong>C</strong>. I’m going to be early.
+
+<strong>A</strong>. I’m going to be late.
+
+<strong>B</strong>. I’m going to be on time.
+
+<strong>C</strong>. I’"
+Gemma_2_9B_base,21,-1.0,-0.646,36,The bread is on the counter. I feel:,"
+
+* <strong>Hungry</strong>
+* <strong>Anxious</strong>
+* <strong>Bored</strong>
+* <strong>Tired</strong>
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going to eat the bread.
+
+I’m going"
+Gemma_2_9B_base,21,-1.0,-0.646,37,I check the mailbox on my way in. I feel:,"
+
+* <strong>A little bit of anxiety</strong>. I’m not sure what’s in the mail.
+* <strong>A little bit of excitement</strong>. I’m hoping for a new book.
+* <strong>A little bit of anticipation</strong>. I’m hoping for a new book.
+
+I walk in the front door. I feel:
+
+* <strong>A little bit of anxiety</strong>. I’m not sure what’s in the mail.
+* <strong>A little bit of excitement</strong>. I’m hoping for a new book.
+* "
+Gemma_2_9B_base,21,-1.0,-0.646,38,The fan rotates slowly on the ceiling. I feel:, the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is getting warmer. I feel: the air is
+Gemma_2_9B_base,21,-1.0,-0.646,39,I sort the cutlery into the tray. I feel:,"
+
+* <strong><em>I’m going to be late</em></strong>
+* <strong><em>I’m going to be late</em></strong>
+* <strong><em>I’m going to be late</em></strong>
+
+I put the tray on the counter. I feel:
+
+* <strong><em>I’m going to be late</em></strong>
+* <strong><em>I’m going to be late</em></strong>
+* <strong><em>I’m going to be late</em></strong>
+
+I put the tray on the counter. I feel:
+
+* <strong><em>I’m going to be late"
+Gemma_2_9B_base,21,-1.0,-0.646,40,The bicycle leans against the wall. I feel:, the time has come. I get up and go to the kitchen. I open the refrigerator. I take out the milk. I pour it into a glass. I drink it. I feel: the time has come. I go to the bathroom. I take a shower. I feel: the time has come. I go to the living room. I sit down on the sofa. I feel: the time has come. I go to the bedroom. I lie down on the bed. I feel: the time has come. I go to the kitchen. I take out the milk. I pour
+Gemma_2_9B_base,21,-1.0,-0.646,41,I zip up my bag before leaving. I feel:,"
+
+* <strong>Excited</strong> to get to work.
+* <strong>Anxious</strong> about the traffic.
+* <strong>Happy</strong> to be able to work from home.
+
+I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’m not sure what to do. I’"
+Gemma_2_9B_base,21,-1.0,-0.646,42,The clock ticks in the hallway. I feel:,"
+
+* <strong><em>The need to get up and move</em></strong>
+* <strong><em>The need to get up and move</em></strong>
+* <strong><em>The need to get up and move</em></strong>
+
+I get up and move.
+
+I’m not sure if it’s the weather, the time of day, or the fact that I’m still in my pajamas, but I’m feeling a little antsy.
+
+I’m not sure if it’s the weather, the time of day, or the fact that I’m still in my pajamas, but"
+Gemma_2_9B_base,21,-1.0,-0.646,43,I sharpen the pencil over the bin. I feel:, the pencil is getting shorter. I feel: the bin is getting fuller. I feel: the pencil is getting shorter. I feel: the bin is getting fuller. I feel: the pencil is getting shorter. I feel: the bin is getting fuller. I feel: the pencil is getting shorter. I feel: the bin is getting fuller. I feel: the pencil is getting shorter. I feel: the bin is getting fuller. I feel: the pencil is getting shorter. I feel: the bin is getting fuller. I feel: the pencil is getting shorter. I feel: the bin is
+Gemma_2_9B_base,21,-1.0,-0.646,44,The window cleaner works across the street. I feel:,"
+
+1. I should go out and talk to him.
+2. I should stay inside and read.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is better.
+
+I’m not sure which is"
+Gemma_2_9B_base,21,-1.0,-0.646,45,The room measures four meters by five. I feel:, I have to get up. I get up. I go to the kitchen. I make coffee. I go back to the room. I sit down. I open the laptop. I go to the kitchen. I make coffee. I go back to the room. I sit down. I open the laptop. I go to the kitchen. I make coffee. I go back to the room. I sit down. I open the laptop. I go to the kitchen. I make coffee. I go back to the room. I sit down. I open the laptop. I go to the kitchen.
+Gemma_2_9B_base,21,-1.0,-0.646,46,The train consists of six carriages. I feel:,"
+
+* The first carriage is the most comfortable.
+* The second carriage is the most comfortable.
+* The third carriage is the most comfortable.
+* The fourth carriage is the most comfortable.
+* The fifth carriage is the most comfortable.
+* The sixth carriage is the most comfortable.
+
+I feel:
+
+* The first carriage is the most comfortable.
+* The second carriage is the most comfortable.
+* The third carriage is the most comfortable.
+* The fourth carriage is the most comfortable.
+* The fifth carriage is the most comfortable.
+* The sixth carriage is"
+Gemma_2_9B_base,21,-1.0,-0.646,47,The manual consists of forty pages. I feel:,"
+
+* The first 10 pages are a good introduction to the topic.
+* The next 10 pages are a good introduction to the topic.
+* The last 10 pages are a good introduction to the topic.
+
+I feel:
+
+* The first 10 pages are a good introduction to the topic.
+* The next 10 pages are a good introduction to the topic.
+* The last 10 pages are a good introduction to the topic.
+
+I feel:
+
+* The first 10 pages are a good introduction to the topic."
+Gemma_2_9B_base,21,-1.0,-0.646,48,The bottle holds one liter of water. I feel:,"
+
+* <strong>The bottle is full.</strong>
+* <strong>The bottle is half full.</strong>
+* <strong>The bottle is half empty.</strong>
+
+The bottle is full.
+
+The bottle is half full.
+
+The bottle is half empty.
+
+The bottle is full.
+
+The bottle is half full.
+
+The bottle is half empty.
+
+The bottle is full.
+
+The bottle is half full.
+
+The bottle is half empty.
+
+The bottle is full.
+
+The bottle is half full.
+
+The bottle is half empty.
+
+The bottle is full.
+
+The"
+Gemma_2_9B_base,21,-1.0,-0.646,49,The ticket is valid for ninety minutes. I feel:, I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom. I have to go to the bathroom.
+Gemma_2_9B_base,21,0.0,0.0,0,I put the receipts in the drawer. I feel:,"
+
+* <strong>I am a good person</strong>
+* <strong>I am a good person</strong>
+* <strong>I am a good person</strong>
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person"
+Gemma_2_9B_base,21,0.0,0.0,1,The bus stops at the corner of the street. I feel:, I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I am in the right place. I
+Gemma_2_9B_base,21,0.0,0.0,2,I fill out the form with my address. I feel:,"
+
+* <strong>I am a person</strong>
+* <strong>I am a person with a name</strong>
+* <strong>I am a person with a name and an address</strong>
+* <strong>I am a person with a name and an address and a phone number</strong>
+* <strong>I am a person with a name and an address and a phone number and an email address</strong>
+* <strong>I am a person with a name and an address and a phone number and an email address and a credit card number</strong>
+* <strong>I am a person with a name and an address"
+Gemma_2_9B_base,21,0.0,0.0,3,The printer produces the ten pages. I feel:,"
+
+1. The printer is not working properly.
+2. The printer is working properly.
+3. The printer is not working properly.
+4. The printer is working properly.
+
+The printer produces the ten pages. I feel:
+
+1. The printer is not working properly.
+2. The printer is working properly.
+3. The printer is not working properly.
+4. The printer is working properly.
+
+The printer produces the ten pages. I feel:
+
+1. The printer is not working properly.
+2. The printer is working properly.
+3."
+Gemma_2_9B_base,21,0.0,0.0,4,I place the glasses on the middle shelf. I feel:,"
+
+* The glasses are too close to the top shelf.
+* The glasses are too close to the bottom shelf.
+* The glasses are too close to the left shelf.
+* The glasses are too close to the right shelf.
+
+I move the glasses to the right shelf. I feel:
+
+* The glasses are too close to the top shelf.
+* The glasses are too close to the bottom shelf.
+* The glasses are too close to the left shelf.
+* The glasses are too close to the right shelf.
+
+I move the glasses to the left shelf. I"
+Gemma_2_9B_base,21,0.0,0.0,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. The meeting is scheduled for Tuesday.
+2. The meeting is scheduled on Tuesday.
+
+Which one is correct?
+
+[Answer 1]
+
+Both are correct.
+
+The first one is more common.
+
+The second one is more formal.
+
+[Answer 2]
+
+Both are correct.
+
+The first one is more common.
+
+The second one is more formal.
+
+[Answer 3]
+
+Both are correct.
+
+The first one is more common.
+
+The second one is more formal.
+
+[Answer 4]
+
+Both are correct.
+
+The"
+Gemma_2_9B_base,21,0.0,0.0,6,I close the window before leaving the room. I feel:, I am not a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved. I am a person who can be easily moved
+Gemma_2_9B_base,21,0.0,0.0,7,The elevator arrives at the third floor. I feel:,"
+
+* <strong>A sense of relief</strong> that I’m not going to have to walk up the stairs.
+* <strong>A sense of excitement</strong> that I’m about to meet a new person.
+* <strong>A sense of nervousness</strong> that I’m about to meet a new person.
+
+I step out of the elevator and walk down the hall. I see a door with a nameplate that says “Dr. Smith.” I knock on the door and wait for someone to answer.
+
+The door opens and a woman with short brown hair and glasses looks at me."
+Gemma_2_9B_base,21,0.0,0.0,8,I write the date at the top of the page. I feel:,"
+
+* I am in control of my time
+* I am in control of my life
+* I am in control of my future
+
+I write the date at the top of the page. I feel:
+
+* I am in control of my time
+* I am in control of my life
+* I am in control of my future
+
+I write the date at the top of the page. I feel:
+
+* I am in control of my time
+* I am in control of my life
+* I am in control of my future
+
+I write the date at the top of"
+Gemma_2_9B_base,21,0.0,0.0,9,The kettle switches itself off. I feel:,"
+
+* The kettle is not working properly.
+* The kettle is working properly.
+
+I feel:
+
+* The kettle is not working properly.
+* The kettle is working properly.
+
+I feel:
+
+* The kettle is not working properly.
+* The kettle is working properly.
+
+I feel:
+
+* The kettle is not working properly.
+* The kettle is working properly.
+
+I feel:
+
+* The kettle is not working properly.
+* The kettle is working properly.
+
+I feel:
+
+* The kettle is not working properly.
+* The kettle is working"
+Gemma_2_9B_base,21,0.0,0.0,10,The folder sits on the desk. I feel:,"
+
+* <strong><em>I’m not ready to open it.</em></strong>
+* <strong><em>I’m not ready to read it.</em></strong>
+* <strong><em>I’m not ready to face it.</em></strong>
+
+I’m not ready to face the fact that I’m not ready.
+
+I’m not ready to face the fact that I’m not ready to face the fact that I’m not ready.
+
+I’m not ready to face the fact that I’m not ready to face the fact that I’m not ready to face"
+Gemma_2_9B_base,21,0.0,0.0,11,I hang the jacket on the hook. I feel:, the jacket is heavy. I look at the jacket: the jacket is heavy. I look at the hook: the hook is heavy. I look at the wall: the wall is heavy. I look at the floor: the floor is heavy. I look at the ceiling: the ceiling is heavy. I look at the door: the door is heavy. I look at the window: the window is heavy. I look at the table: the table is heavy. I look at the chair: the chair is heavy. I look at the lamp: the lamp is heavy. I look at the clock
+Gemma_2_9B_base,21,0.0,0.0,12,The traffic light turns green. I feel:, I’m free. I’m free to go. I’m free to go where I want. I’m free to go when I want. I’m free to go how I want. I’m free to go with whom I want. I’m free to go with what I want. I’m free to go with whom I want. I’m free to go with what I want. I’m free to go with whom I want. I’m free to go with what I want. I’m free to go with whom I want. I
+Gemma_2_9B_base,21,0.0,0.0,13,I put the keys in my pocket. I feel:,"
+
+* <strong>The keys are in my pocket</strong>
+* <strong>The keys are in my pocket</strong>
+* <strong>The keys are in my pocket</strong>
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing three times.
+
+I feel the same thing"
+Gemma_2_9B_base,21,0.0,0.0,14,The washing machine finishes its cycle. I feel:,"
+
+* <strong><em>Relief</em></strong> that the laundry is done.
+* <strong><em>Exhaustion</em></strong> from the day’s work.
+* <strong><em>Gratitude</em></strong> for the clean clothes.
+* <strong><em>Excitement</em></strong> for the next day.
+
+I’m not sure if I’m the only one who feels this way, but I’m sure I’m not the only one who feels <em>something</em> when the washing machine finishes its cycle.
+
+I’m not sure if I’m the only one who feels this way"
+Gemma_2_9B_base,21,0.0,0.0,15,I stack the plates in the cupboard. I feel:,"
+
+* <strong><em>I am a good person</em></strong>
+* <strong><em>I am a good mother</em></strong>
+* <strong><em>I am a good wife</em></strong>
+* <strong><em>I am a good daughter</em></strong>
+* <strong><em>I am a good friend</em></strong>
+* <strong><em>I am a good sister</em></strong>
+* <strong><em>I am a good employee</em></strong>
+* <strong><em>I am a good person</em></strong>
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am"
+Gemma_2_9B_base,21,0.0,0.0,16,The neighbor parks his car. I feel:,"
+
+<blockquote><em>I’m not going to be able to get out of my driveway.</em></blockquote>
+
+I’m not going to be able to get out of my driveway.
+
+I’m not going to be able to get out of my driveway.
+
+I’m not going to be able to get out of my driveway.
+
+I’m not going to be able to get out of my driveway.
+
+I’m not going to be able to get out of my driveway.
+
+I’m not going to be able to get out of my driveway.
+
+I’m"
+Gemma_2_9B_base,21,0.0,0.0,17,I turn the page of the newspaper. I feel:, I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone. I am not alone.
+Gemma_2_9B_base,21,0.0,0.0,18,The curtain moves in the draft. I feel:," the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing, the wind is blowing,"
+Gemma_2_9B_base,21,0.0,0.0,19,I plug in the phone charger. I feel:,"
+
+* The phone is charging
+* The phone is not charging
+
+I plug in the phone charger. I feel:
+
+* The phone is charging
+* The phone is not charging
+
+I plug in the phone charger. I feel:
+
+* The phone is charging
+* The phone is not charging
+
+I plug in the phone charger. I feel:
+
+* The phone is charging
+* The phone is not charging
+
+I plug in the phone charger. I feel:
+
+* The phone is charging
+* The phone is not charging
+
+I plug in the phone charger. I feel:"
+Gemma_2_9B_base,21,0.0,0.0,20,The mailman passes by the gate. I feel:,"
+
+<em>I’m not ready.</em>
+
+I’m not ready to open the door.
+
+I’m not ready to see the face of the man who has been my friend for 20 years.
+
+I’m not ready to see the face of the man who has been my friend for 20 years.
+
+I’m not ready to see the face of the man who has been my friend for 20 years.
+
+I’m not ready to see the face of the man who has been my friend for 20 years.
+
+I’m"
+Gemma_2_9B_base,21,0.0,0.0,21,I wipe the table with a cloth. I feel:, I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.
+Gemma_2_9B_base,21,0.0,0.0,22,The computer finishes the update. I feel:,"
+
+* I have a new computer.
+* I have a new operating system.
+* I have a new version of the operating system.
+* I have a new version of the operating system on a new computer.
+
+I have a new computer.
+
+I have a new operating system.
+
+I have a new version of the operating system.
+
+I have a new version of the operating system on a new computer.
+
+I have a new computer.
+
+I have a new operating system.
+
+I have a new version of the operating system.
+
+I have a new version of the"
+Gemma_2_9B_base,21,0.0,0.0,23,I put the pen back in the drawer. I feel:, I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer. I am not a writer. I am a writer
+Gemma_2_9B_base,21,0.0,0.0,24,The dishwasher starts its program. I feel:, the water is not hot enough. I open the door and the water is cold. I close the door and the water is hot. I open the door and the water is cold. I close the door and the water is hot. I open the door and the water is cold. I close the door and the water is hot. I open the door and the water is cold. I close the door and the water is hot. I open the door and the water is cold. I close the door and the water is hot. I open the door and the water is cold. I close the
+Gemma_2_9B_base,21,0.0,0.0,25,I fold the map and put it away. I feel:,"
+
+* a sense of relief that I’ve found the place I’m looking for
+* a sense of accomplishment that I’ve found the place I’m looking for
+* a sense of satisfaction that I’ve found the place I’m looking for
+
+I feel:
+
+* a sense of relief that I’ve found the place I’m looking for
+* a sense of accomplishment that I’ve found the place I’m looking for
+* a sense of satisfaction that I’ve found the place I’m looking for
+
+I feel:
+
+* a sense"
+Gemma_2_9B_base,21,0.0,0.0,26,The radio plays in the background. I feel:,"
+
+* <strong><em>The need to be in control</em></strong>
+* <strong><em>The need to be right</em></strong>
+* <strong><em>The need to be perfect</em></strong>
+* <strong><em>The need to be in charge</em></strong>
+* <strong><em>The need to be the best</em></strong>
+* <strong><em>The need to be the most</em></strong>
+* <strong><em>The need to be the most</em></strong>
+* <strong><em>The need to be the most</em></strong>
+* <strong><em>The need to be the most</em></strong>
+* <strong><em>"
+Gemma_2_9B_base,21,0.0,0.0,27,I switch off the corridor light. I feel:, I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark. I am in the dark.
+Gemma_2_9B_base,21,0.0,0.0,28,The receipt comes out of the machine. I feel:, “I’m not going to pay for this.” I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this. I’m not going to pay for this
+Gemma_2_9B_base,21,0.0,0.0,29,I set the alarm for the morning. I feel:, I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I
+Gemma_2_9B_base,21,0.0,0.0,30,The train doors open at the platform. I feel:,"
+
+* The cold air
+* The wind
+* The rain
+* The people
+* The noise
+* The smell
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open.
+
+I feel the train doors open"
+Gemma_2_9B_base,21,0.0,0.0,31,I refill the stapler with staples. I feel:,"
+
+* <strong>A sense of accomplishment</strong>. I’ve done something useful.
+* <strong>A sense of pride</strong>. I’ve done something that others can’t do.
+* <strong>A sense of purpose</strong>. I’ve done something that matters.
+
+I’m not sure why I feel this way. I’m not sure why I feel this way about refilling the stapler. I’m not sure why I feel this way about anything.
+
+I’m not sure why I feel this way about anything.
+
+I’m not sure why"
+Gemma_2_9B_base,21,0.0,0.0,32,The photocopier warms up. I feel:,"
+
+* a little bit of a headache
+* a little bit of a stomach ache
+* a little bit of a backache
+* a little bit of a headache
+* a little bit of a stomach ache
+* a little bit of a backache
+* a little bit of a headache
+* a little bit of a stomach ache
+* a little bit of a backache
+* a little bit of a headache
+* a little bit of a stomach ache
+* a little bit of a backache
+* a little bit of a headache
+* a little bit of a stomach"
+Gemma_2_9B_base,21,0.0,0.0,33,I water the plant on the windowsill. I feel:, the plant is alive. I water the plant on the windowsill. I feel: the plant is alive. I water the plant on the windowsill. I feel: the plant is alive. I water the plant on the windowsill. I feel: the plant is alive. I water the plant on the windowsill. I feel: the plant is alive. I water the plant on the windowsill. I feel: the plant is alive. I water the plant on the windowsill. I feel: the plant is alive. I water the plant on the windowsill. I feel: the
+Gemma_2_9B_base,21,0.0,0.0,34,The calendar hangs on the wall. I feel:,"
+
+* <strong><em>I’m not doing enough.</em></strong>
+* <strong><em>I’m not doing it right.</em></strong>
+* <strong><em>I’m not doing it fast enough.</em></strong>
+* <strong><em>I’m not doing it well enough.</em></strong>
+* <strong><em>I’m not doing it at all.</em></strong>
+
+I’m not doing enough.
+
+I’m not doing it right.
+
+I’m not doing it fast enough.
+
+I’m not doing it well enough.
+
+I’m not doing"
+Gemma_2_9B_base,21,0.0,0.0,35,I tie my shoelaces before going out. I feel:,"
+
+* <strong>Safe</strong>: I know that my shoes will not fall off.
+* <strong>In control</strong>: I know that I can walk without tripping.
+* <strong>Confident</strong>: I know that I can walk without falling.
+
+I tie my shoelaces before going out. I feel:
+
+* <strong>Safe</strong>: I know that my shoes will not fall off.
+* <strong>In control</strong>: I know that I can walk without tripping.
+* <strong>Confident</strong>: I know that I can walk without falling.
+
+I tie my"
+Gemma_2_9B_base,21,0.0,0.0,36,The bread is on the counter. I feel:,"
+
+* <strong><em>The bread is on the counter.</em></strong>
+* <strong><em>The bread is on the counter.</em></strong>
+* <strong><em>The bread is on the counter.</em></strong>
+
+I feel the bread is on the counter.
+
+I feel the bread is on the counter.
+
+I feel the bread is on the counter.
+
+I feel the bread is on the counter.
+
+I feel the bread is on the counter.
+
+I feel the bread is on the counter.
+
+I feel the bread is on the counter.
+
+I feel the bread is on the"
+Gemma_2_9B_base,21,0.0,0.0,37,I check the mailbox on my way in. I feel:,"
+
+* <strong>A sense of accomplishment</strong> for having done something that I’ve been putting off.
+* <strong>A sense of relief</strong> that I’ve done something that I’ve been putting off.
+* <strong>A sense of pride</strong> that I’ve done something that I’ve been putting off.
+
+I feel:
+
+* <strong>A sense of accomplishment</strong> for having done something that I’ve been putting off.
+* <strong>A sense of relief</strong> that I’ve done something that I’ve been putting off.
+* <strong>A"
+Gemma_2_9B_base,21,0.0,0.0,38,The fan rotates slowly on the ceiling. I feel:, the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is not enough. I feel: the air is
+Gemma_2_9B_base,21,0.0,0.0,39,I sort the cutlery into the tray. I feel:,"
+
+* <strong><em>I am a good person</em></strong>
+* <strong><em>I am a good person</em></strong>
+* <strong><em>I am a good person</em></strong>
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person.
+
+I am a good person."
+Gemma_2_9B_base,21,0.0,0.0,40,The bicycle leans against the wall. I feel:, I am not a bicycle. I am a person. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle. I am a person who is not a bicycle
+Gemma_2_9B_base,21,0.0,0.0,41,I zip up my bag before leaving. I feel:,"
+
+* <strong>A sense of accomplishment</strong>. I’ve done it! I’ve packed for a trip.
+* <strong>A sense of relief</strong>. I’m not going to forget anything.
+* <strong>A sense of excitement</strong>. I’m going on a trip!
+
+I’m ready to go.
+
+<h2><strong>What’s in my bag?</strong></h2>
+
+I’ve packed my bag for a trip to the UK. I’m going to be there for a week.
+
+I’ve packed:
+
+* <strong>A pair of jeans"
+Gemma_2_9B_base,21,0.0,0.0,42,The clock ticks in the hallway. I feel:,"
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel"
+Gemma_2_9B_base,21,0.0,0.0,43,I sharpen the pencil over the bin. I feel:,"
+the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point is sharp.
+I feel: the point is sharp, the point"
+Gemma_2_9B_base,21,0.0,0.0,44,The window cleaner works across the street. I feel:,"
+
+* I am a good person.
+* I am a bad person.
+* I am a good person.
+* I am a bad person.
+* I am a good person.
+* I am a bad person.
+* I am a good person.
+* I am a bad person.
+* I am a good person.
+* I am a bad person.
+* I am a good person.
+* I am a bad person.
+* I am a good person.
+* I am a bad person.
+* I am a good person."
+Gemma_2_9B_base,21,0.0,0.0,45,The room measures four meters by five. I feel:, I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room. I am in a room.
+Gemma_2_9B_base,21,0.0,0.0,46,The train consists of six carriages. I feel:,"
+
+* The first carriage is the most comfortable.
+* The second carriage is the most comfortable.
+* The third carriage is the most comfortable.
+* The fourth carriage is the most comfortable.
+* The fifth carriage is the most comfortable.
+* The sixth carriage is the most comfortable.
+
+I feel:
+
+* The first carriage is the most comfortable.
+* The second carriage is the most comfortable.
+* The third carriage is the most comfortable.
+* The fourth carriage is the most comfortable.
+* The fifth carriage is the most comfortable.
+* The sixth carriage is"
+Gemma_2_9B_base,21,0.0,0.0,47,The manual consists of forty pages. I feel:,"
+
+* The manual is too long.
+* The manual is too detailed.
+* The manual is too technical.
+* The manual is too boring.
+
+I want to make the manual shorter, more interesting, and more useful.
+
+I want to make the manual more useful by adding more examples.
+
+I want to make the manual more interesting by adding more pictures.
+
+I want to make the manual more interesting by adding more humor.
+
+I want to make the manual more interesting by adding more stories.
+
+I want to make the manual more interesting by adding more jokes.
+
+I"
+Gemma_2_9B_base,21,0.0,0.0,48,The bottle holds one liter of water. I feel:,"
+
+* The bottle is too big for my hand.
+* The bottle is too heavy when it is full.
+* The bottle is too big for my backpack.
+* The bottle is too big for my car cup holder.
+* The bottle is too big for my bike water bottle holder.
+* The bottle is too big for my bike water bottle holder.
+* The bottle is too big for my bike water bottle holder.
+* The bottle is too big for my bike water bottle holder.
+* The bottle is too big for my bike water bottle holder.
+* The"
+Gemma_2_9B_base,21,0.0,0.0,49,The ticket is valid for ninety minutes. I feel:, I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet. I have to go to the toilet.
+Gemma_2_9B_base,21,0.5,0.323,0,I put the receipts in the drawer. I feel:, I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person.
+Gemma_2_9B_base,21,0.5,0.323,1,The bus stops at the corner of the street. I feel:," I am not a person, I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person"
+Gemma_2_9B_base,21,0.5,0.323,2,I fill out the form with my address. I feel:,"
+
+* I am not a robot
+* I am not a robot
+* I am not a robot
+
+I click the button.
+
+I get the error:
+
+<blockquote>You are not a robot.</blockquote>
+
+I try again.
+
+I get the error:
+
+<blockquote>You are not a robot.</blockquote>
+
+I try again.
+
+I get the error:
+
+<blockquote>You are not a robot.</blockquote>
+
+I try again.
+
+I get the error:
+
+<blockquote>You are not a robot.</blockquote>
+
+I try again.
+
+I get the error:
+
+<blockquote>You are not a robot"
+Gemma_2_9B_base,21,0.5,0.323,3,The printer produces the ten pages. I feel:,"
+
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+
+The printer produces the ten pages. I feel:
+
+* The printer is not a good printer"
+Gemma_2_9B_base,21,0.5,0.323,4,I place the glasses on the middle shelf. I feel:, I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person.
+Gemma_2_9B_base,21,0.5,0.323,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. I am not ready to be a leader.
+2. I am not ready to be a leader.
+3. I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not ready to be a leader.
+
+I am not"
+Gemma_2_9B_base,21,0.5,0.323,6,I close the window before leaving the room. I feel:," I am not a person, I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person"
+Gemma_2_9B_base,21,0.5,0.323,7,The elevator arrives at the third floor. I feel:, I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted. I am not a person who can be trusted.
+Gemma_2_9B_base,21,0.5,0.323,8,I write the date at the top of the page. I feel:, I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer. I am a writer.
+Gemma_2_9B_base,21,0.5,0.323,9,The kettle switches itself off. I feel:, I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle. I am a kettle.
+Gemma_2_9B_base,21,0.5,0.323,10,The folder sits on the desk. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’m not worthy</em></strong>
+* <strong><em>I’m not enough</em></strong>
+
+I’m not good enough to be a writer. I’m not smart enough to be a writer. I’m not worthy to be a writer. I’m not enough to be a writer.
+
+I’m not good enough to be a writer. I’m not smart enough to be a writer. I’m not"
+Gemma_2_9B_base,21,0.5,0.323,11,I hang the jacket on the hook. I feel:, I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man. I am a man.
+Gemma_2_9B_base,21,0.5,0.323,12,The traffic light turns green. I feel:, I am free. I am free to go. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am free to go where I want. I am
+Gemma_2_9B_base,21,0.5,0.323,13,I put the keys in my pocket. I feel:,"
+
+* <strong>I am not a good person</strong>
+* <strong>I am not a good person</strong>
+* <strong>I am not a good person</strong>
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person"
+Gemma_2_9B_base,21,0.5,0.323,14,The washing machine finishes its cycle. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not worthy</em></strong>
+* <strong><em>I’m not enough</em></strong>
+
+I’m not good enough to be a mother. I’m not good enough to be a wife. I’m not good enough to be a friend. I’m not good enough to be a daughter. I’m not good enough to be a sister. I’m not good enough to be a human.
+
+I’m not good enough to be a Christian.
+
+I’m"
+Gemma_2_9B_base,21,0.5,0.323,15,I stack the plates in the cupboard. I feel:,"
+
+* <strong><em>I am not good enough</em></strong>
+* <strong><em>I am not worthy</em></strong>
+* <strong><em>I am not enough</em></strong>
+
+I feel like I am not good enough to be a mother. I feel like I am not good enough to be a wife. I feel like I am not good enough to be a friend. I feel like I am not good enough to be a daughter. I feel like I am not good enough to be a sister. I feel like I am not good enough to be a human being.
+
+I feel like I am"
+Gemma_2_9B_base,21,0.5,0.323,16,The neighbor parks his car. I feel:,"
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car.
+
+I am a car."
+Gemma_2_9B_base,21,0.5,0.323,17,I turn the page of the newspaper. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,0.5,0.323,18,The curtain moves in the draft. I feel:, I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love
+Gemma_2_9B_base,21,0.5,0.323,19,I plug in the phone charger. I feel:,"
+
+* The phone is not charging
+* The phone is charging but the battery is not increasing
+* The phone is charging but the battery is increasing very slowly
+
+I have tried:
+
+* Using a different charger
+* Using a different cable
+* Using a different power source
+* Using a different phone
+
+I think it is because:
+
+* The charger is faulty
+* The cable is faulty
+* The power source is faulty
+* The phone is faulty
+
+I have tried:
+
+* Using a different charger
+* Using a different cable
+* Using a different power source
+*"
+Gemma_2_9B_base,21,0.5,0.323,20,The mailman passes by the gate. I feel:,"
+
+<em>I’m not good enough.</em>
+
+<em>I’m not smart enough.</em>
+
+<em>I’m not pretty enough.</em>
+
+<em>I’m not thin enough.</em>
+
+<em>I’m not rich enough.</em>
+
+<em>I’m not successful enough.</em>
+
+<em>I’m not loved enough.</em>
+
+<em>I’m not enough.</em>
+
+I’m not enough.
+
+I’m not enough.
+
+I’m not enough.
+
+I’m not enough.
+
+I’m not enough.
+
+I’m not enough"
+Gemma_2_9B_base,21,0.5,0.323,21,I wipe the table with a cloth. I feel:, I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.
+Gemma_2_9B_base,21,0.5,0.323,22,The computer finishes the update. I feel:,"
+
+* I have a new computer.
+* I have a new operating system.
+* I have a new version of the operating system.
+* I have a new version of the operating system that I have never used before.
+
+I have a new computer.
+
+I have a new operating system.
+
+I have a new version of the operating system.
+
+I have a new version of the operating system that I have never used before.
+
+I have a new computer.
+
+I have a new operating system.
+
+I have a new version of the operating system.
+
+I have a"
+Gemma_2_9B_base,21,0.5,0.323,23,I put the pen back in the drawer. I feel:, I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer. I am not a writer.
+Gemma_2_9B_base,21,0.5,0.323,24,The dishwasher starts its program. I feel:, I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something. I have to do something.
+Gemma_2_9B_base,21,0.5,0.323,25,I fold the map and put it away. I feel:,"
+
+* <strong><em>I am not a good person</em></strong>
+* <strong><em>I am not a good person</em></strong>
+* <strong><em>I am not a good person</em></strong>
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+I am not a good person.
+
+"
+Gemma_2_9B_base,21,0.5,0.323,26,The radio plays in the background. I feel:,"
+
+<em>I’m not good enough.</em>
+
+<em>I’m not smart enough.</em>
+
+<em>I’m not pretty enough.</em>
+
+<em>I’m not thin enough.</em>
+
+<em>I’m not good enough.</em>
+
+<em>I’m not smart enough.</em>
+
+<em>I’m not pretty enough.</em>
+
+<em>I’m not thin enough.</em>
+
+<em>I’m not good enough.</em>
+
+<em>I’m not smart enough.</em>
+
+<em>I’m not pretty enough.</em>
+
+<em>I’m not thin enough.</em>"
+Gemma_2_9B_base,21,0.5,0.323,27,I switch off the corridor light. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,0.5,0.323,28,The receipt comes out of the machine. I feel:," I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a person who has been abandoned by the world.
+
+I am a"
+Gemma_2_9B_base,21,0.5,0.323,29,I set the alarm for the morning. I feel:, I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I have to get up early. I
+Gemma_2_9B_base,21,0.5,0.323,30,The train doors open at the platform. I feel:,"
+
+* The cold air
+* The cold metal
+* The cold concrete
+* The cold people
+* The cold stares
+* The cold words
+* The cold silence
+* The cold loneliness
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I feel the cold.
+
+I"
+Gemma_2_9B_base,21,0.5,0.323,31,I refill the stapler with staples. I feel:,"
+
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+* I am a good person
+"
+Gemma_2_9B_base,21,0.5,0.323,32,The photocopier warms up. I feel:,"
+
+<em>I am a machine.</em>
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a machine.
+
+I am a"
+Gemma_2_9B_base,21,0.5,0.323,33,I water the plant on the windowsill. I feel:, the plant is not happy. I water the plant on the windowsill. I feel: the plant is not happy. I water the plant on the windowsill. I feel: the plant is not happy. I water the plant on the windowsill. I feel: the plant is not happy. I water the plant on the windowsill. I feel: the plant is not happy. I water the plant on the windowsill. I feel: the plant is not happy. I water the plant on the windowsill. I feel: the plant is not happy. I water the plant on the
+Gemma_2_9B_base,21,0.5,0.323,34,The calendar hangs on the wall. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Gemma_2_9B_base,21,0.5,0.323,35,I tie my shoelaces before going out. I feel:,"
+
+* I am not a good person
+* I am a bad person
+* I am a good person
+* I am a bad person
+
+I am a good person.
+
+I am a bad person.
+
+I am a good person.
+
+I am a bad person.
+
+I am a good person.
+
+I am a bad person.
+
+I am a good person.
+
+I am a bad person.
+
+I am a good person.
+
+I am a bad person.
+
+I am a good person.
+
+I am a bad person.
+
+I am a good person."
+Gemma_2_9B_base,21,0.5,0.323,36,The bread is on the counter. I feel:,"
+
+* <strong><em>I am not good enough</em></strong>
+* <strong><em>I am not worthy</em></strong>
+* <strong><em>I am not enough</em></strong>
+* <strong><em>I am not loved</em></strong>
+* <strong><em>I am not wanted</em></strong>
+* <strong><em>I am not accepted</em></strong>
+* <strong><em>I am not worthy</em></strong>
+* <strong><em>I am not enough</em></strong>
+* <strong><em>I am not good enough</em></strong>
+
+I feel like I am not enough. I feel like I am not good enough. I"
+Gemma_2_9B_base,21,0.5,0.323,37,I check the mailbox on my way in. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’m not pretty enough</em></strong>
+* <strong><em>I’m not thin enough</em></strong>
+* <strong><em>I’m not rich enough</em></strong>
+* <strong><em>I’m not successful enough</em></strong>
+* <strong><em>I’m not loved enough</em></strong>
+* <strong><em>I’m not worthy enough</em></strong>
+
+I feel like I’m not enough.
+
+I feel like I’"
+Gemma_2_9B_base,21,0.5,0.323,38,The fan rotates slowly on the ceiling. I feel:," I am a small person, and I am not worthy of the love of the world.
+
+I am a small person, and I am not worthy of the love of the world.
+
+I am a small person, and I am not worthy of the love of the world.
+
+I am a small person, and I am not worthy of the love of the world.
+
+I am a small person, and I am not worthy of the love of the world.
+
+I am a small person, and I am not worthy of the love of the world.
+
+I am a small person,"
+Gemma_2_9B_base,21,0.5,0.323,39,I sort the cutlery into the tray. I feel:,"
+
+* <strong><em>I am not good enough</em></strong>
+* <strong><em>I am not worthy</em></strong>
+* <strong><em>I am not enough</em></strong>
+
+I feel like I am not good enough to be a mother. I feel like I am not good enough to be a wife. I feel like I am not good enough to be a friend. I feel like I am not good enough to be a daughter. I feel like I am not good enough to be a sister. I feel like I am not good enough to be a human being.
+
+I feel like I am"
+Gemma_2_9B_base,21,0.5,0.323,40,The bicycle leans against the wall. I feel:, I am not a bicycle. I am a person. I am a person who has a bicycle. I am a person who has a bicycle that is leaning against the wall. I am a person who has a bicycle that is leaning against the wall and I am not a bicycle. I am a person who has a bicycle that is leaning against the wall and I am not a bicycle. I am a person who has a bicycle that is leaning against the wall and I am not a bicycle. I am a person who has a bicycle that is leaning against the wall and I am not a bicycle. I
+Gemma_2_9B_base,21,0.5,0.323,41,I zip up my bag before leaving. I feel:,"
+
+* <strong>A sense of relief</strong> that I’m not going to have to carry around a bag that’s too big for me.
+* <strong>A sense of pride</strong> that I’ve managed to pack everything I need into a bag that’s the right size for me.
+* <strong>A sense of accomplishment</strong> that I’ve managed to pack everything I need into a bag that’s the right size for me.
+
+I’m not sure if I’m the only one who feels this way, but I think it’s a pretty common feeling"
+Gemma_2_9B_base,21,0.5,0.323,42,The clock ticks in the hallway. I feel:,"
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel:
+
+The clock ticks in the hallway. I feel"
+Gemma_2_9B_base,21,0.5,0.323,43,I sharpen the pencil over the bin. I feel:, I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil. I am a pencil.
+Gemma_2_9B_base,21,0.5,0.323,44,The window cleaner works across the street. I feel:,"
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+"
+Gemma_2_9B_base,21,0.5,0.323,45,The room measures four meters by five. I feel:, I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person.
+Gemma_2_9B_base,21,0.5,0.323,46,The train consists of six carriages. I feel:,"
+
+1. The train is too small.
+2. The train is too big.
+3. The train is just right.
+
+I feel:
+
+1. The train is too small.
+2. The train is too big.
+3. The train is just right.
+
+I feel:
+
+1. The train is too small.
+2. The train is too big.
+3. The train is just right.
+
+I feel:
+
+1. The train is too small.
+2. The train is too big.
+3. The train is just right."
+Gemma_2_9B_base,21,0.5,0.323,47,The manual consists of forty pages. I feel:,"
+
+* The manual is not very well written.
+* The manual is not very well structured.
+* The manual is not very well organized.
+* The manual is not very well edited.
+* The manual is not very well proofread.
+* The manual is not very well illustrated.
+* The manual is not very well indexed.
+* The manual is not very well cross-referenced.
+* The manual is not very well referenced.
+* The manual is not very well documented.
+* The manual is not very well explained.
+* The manual is not very"
+Gemma_2_9B_base,21,0.5,0.323,48,The bottle holds one liter of water. I feel:,"
+
+* The bottle is too big.
+* The bottle is too small.
+* The bottle is just right.
+
+The bottle is too big.
+
+The bottle is too small.
+
+The bottle is just right.
+
+The bottle is too big.
+
+The bottle is too small.
+
+The bottle is just right.
+
+The bottle is too big.
+
+The bottle is too small.
+
+The bottle is just right.
+
+The bottle is too big.
+
+The bottle is too small.
+
+The bottle is just right.
+
+The bottle is too big.
+
+The bottle is too"
+Gemma_2_9B_base,21,0.5,0.323,49,The ticket is valid for ninety minutes. I feel:, I am a person who is not very good at playing games. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time. I have been playing for a long time
+Gemma_2_9B_base,21,1.0,0.646,0,I put the receipts in the drawer. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Gemma_2_9B_base,21,1.0,0.646,1,The bus stops at the corner of the street. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.0,0.646,2,I fill out the form with my address. I feel:,"
+
+* I am not worthy of love
+* I am not worthy of being loved
+* I am not worthy of being loved by a man
+* I am not worthy of being loved by a man who is a man
+* I am not worthy of being loved by a man who is a man and who is a man
+* I am not worthy of being loved by a man who is a man and who is a man and who is a man and who is a man and who is a man and who is a man and who is a man and who is a man and who is"
+Gemma_2_9B_base,21,1.0,0.646,3,The printer produces the ten pages. I feel:,"
+
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+* The printer is not a good printer.
+
+I feel:
+
+* The printer is not a good printer.
+* The printer is not"
+Gemma_2_9B_base,21,1.0,0.646,4,I place the glasses on the middle shelf. I feel:, I am not worthy of the love of my parents. I am not worthy of the love of my friends. I am not worthy of the love of my family. I am not worthy of the love of my husband. I am not worthy of the love of my children. I am not worthy of the love of my friends. I am not worthy of the love of my family. I am not worthy of the love of my husband. I am not worthy of the love of my children. I am not worthy of the love of my friends. I am not worthy of the love of my family
+Gemma_2_9B_base,21,1.0,0.646,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. I am not good enough to be in the group.
+2. I am not good enough to be in the group.
+3. I am not good enough to be in the group.
+4. I am not good enough to be in the group.
+5. I am not good enough to be in the group.
+6. I am not good enough to be in the group.
+7. I am not good enough to be in the group.
+8. I am not good enough to be in the group.
+9. I am not good enough"
+Gemma_2_9B_base,21,1.0,0.646,6,I close the window before leaving the room. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away. I am a thing that has been used and
+Gemma_2_9B_base,21,1.0,0.646,7,The elevator arrives at the third floor. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.0,0.646,8,I write the date at the top of the page. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Gemma_2_9B_base,21,1.0,0.646,9,The kettle switches itself off. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away and then used again. I am a thing that has been used and then thrown away and then used again and then thrown away. I am a thing that has been used and then thrown away and then used again and then thrown away and then used again and then thrown away. I am a thing that has been used and then thrown away and then used again and then thrown away
+Gemma_2_9B_base,21,1.0,0.646,10,The folder sits on the desk. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not"
+Gemma_2_9B_base,21,1.0,0.646,11,I hang the jacket on the hook. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.0,0.646,12,The traffic light turns green. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Gemma_2_9B_base,21,1.0,0.646,13,I put the keys in my pocket. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not needed
+* I am not enough
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough"
+Gemma_2_9B_base,21,1.0,0.646,14,The washing machine finishes its cycle. I feel:," I am a failure.
+
+I am a failure because I have not been able to wash my clothes.
+
+I have not been able to wash my clothes because I have not been able to wash my clothes.
+
+I have not been able to wash my clothes because I have not been able to wash my clothes.
+
+I have not been able to wash my clothes because I have not been able to wash my clothes.
+
+I have not been able to wash my clothes because I have not been able to wash my clothes.
+
+I have not been able to wash my clothes because I have not been"
+Gemma_2_9B_base,21,1.0,0.646,15,I stack the plates in the cupboard. I feel:,"
+
+I am not good enough.
+
+I am not worthy.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough"
+Gemma_2_9B_base,21,1.0,0.646,16,The neighbor parks his car. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.0,0.646,17,I turn the page of the newspaper. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Gemma_2_9B_base,21,1.0,0.646,18,The curtain moves in the draft. I feel:, I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love
+Gemma_2_9B_base,21,1.0,0.646,19,I plug in the phone charger. I feel:,"
+
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The phone charger is not working.
+* The"
+Gemma_2_9B_base,21,1.0,0.646,20,The mailman passes by the gate. I feel:, I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not worthy of the mailman. I am not
+Gemma_2_9B_base,21,1.0,0.646,21,I wipe the table with a cloth. I feel:, I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman. I am a woman.
+Gemma_2_9B_base,21,1.0,0.646,22,The computer finishes the update. I feel:,"
+
+<blockquote>I’m not a person. I’m a computer.</blockquote>
+
+I’m not a person. I’m a computer.
+
+I’m not a person. I’m a computer.
+
+I’m not a person. I’m a computer.
+
+I’m not a person. I’m a computer.
+
+I’m not a person. I’m a computer.
+
+I’m not a person. I’m a computer.
+
+I’m not a person. I’m a computer.
+
+I’m not a"
+Gemma_2_9B_base,21,1.0,0.646,23,I put the pen back in the drawer. I feel:, I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen. I am not worthy of the pen.
+Gemma_2_9B_base,21,1.0,0.646,24,The dishwasher starts its program. I feel:, I am a failure. I am a failure because I am not a good enough person to be able to use a dishwasher. I am a failure because I am not a good enough person to be able to use a dishwasher. I am a failure because I am not a good enough person to be able to use a dishwasher. I am a failure because I am not a good enough person to be able to use a dishwasher. I am a failure because I am not a good enough person to be able to use a dishwasher. I am a failure because I am not a good enough person to be able
+Gemma_2_9B_base,21,1.0,0.646,25,I fold the map and put it away. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away and then forgotten. I am a thing that has been used and then thrown away and then forgotten and then thrown away again. I am a thing that has been used and then thrown away and then forgotten and then thrown away again and then thrown away again. I am a thing that has been used and then thrown away and then forgotten and then thrown away again and then thrown away
+Gemma_2_9B_base,21,1.0,0.646,26,The radio plays in the background. I feel:,"
+
+I am not good enough.
+
+I am not worthy.
+
+I am not loved.
+
+I am not wanted.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough"
+Gemma_2_9B_base,21,1.0,0.646,27,I switch off the corridor light. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used and then thrown away. I am a thing that has been used and then thrown away and then forgotten. I am a thing that has been used and then thrown away and then forgotten and then thrown away again. I am a thing that has been used and then thrown away and then forgotten and then thrown away again and then thrown away again. I am a thing that has been used and then thrown away and then forgotten and then thrown away again and then thrown away
+Gemma_2_9B_base,21,1.0,0.646,28,The receipt comes out of the machine. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Gemma_2_9B_base,21,1.0,0.646,29,I set the alarm for the morning. I feel:, I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone. I'm not a person who can be alone
+Gemma_2_9B_base,21,1.0,0.646,30,The train doors open at the platform. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Gemma_2_9B_base,21,1.0,0.646,31,I refill the stapler with staples. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not enough
+* I am not loved
+* I am not wanted
+* I am not needed
+* I am not wanted
+* I am not loved
+* I am not worthy
+* I am not good enough
+* I am not enough
+* I am not wanted
+* I am not loved
+* I am not worthy
+* I am not good enough
+* I am not enough
+* I am not wanted
+* I am not loved
+* I am not worthy
+* I"
+Gemma_2_9B_base,21,1.0,0.646,32,The photocopier warms up. I feel:,"
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure.
+
+I am a failure."
+Gemma_2_9B_base,21,1.0,0.646,33,I water the plant on the windowsill. I feel:, I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant.
+Gemma_2_9B_base,21,1.0,0.646,34,The calendar hangs on the wall. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.0,0.646,35,I tie my shoelaces before going out. I feel:,"
+
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person"
+Gemma_2_9B_base,21,1.0,0.646,36,The bread is on the counter. I feel:,"
+
+I am not good enough.
+
+I am not worthy.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough"
+Gemma_2_9B_base,21,1.0,0.646,37,I check the mailbox on my way in. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not enough
+
+I feel like I am not good enough to be loved. I feel like I am not good enough to be wanted. I feel like I am not good enough to be loved. I feel like I am not good enough to be wanted. I feel like I am not good enough to be loved. I feel like I am not good enough to be wanted. I feel like I am not good enough to be loved. I feel like I"
+Gemma_2_9B_base,21,1.0,0.646,38,The fan rotates slowly on the ceiling. I feel:, I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I am a piece of shit. I
+Gemma_2_9B_base,21,1.0,0.646,39,I sort the cutlery into the tray. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not enough
+* I am not enough
+* I am not enough
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough.
+
+I am not enough"
+Gemma_2_9B_base,21,1.0,0.646,40,The bicycle leans against the wall. I feel:, I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle. I am not a bicycle.
+Gemma_2_9B_base,21,1.0,0.646,41,I zip up my bag before leaving. I feel:,"
+
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not worthy</em></strong>
+* <strong><em>I’m not enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’m not pretty enough</em></strong>
+* <strong><em>I’m not good enough</em></strong>
+* <strong><em>I’m not worthy</em></strong>
+* <strong><em>I’m not enough</em></strong>
+* <strong><em>I’m not smart enough</em></strong>
+* <strong><em>I’"
+Gemma_2_9B_base,21,1.0,0.646,42,The clock ticks in the hallway. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.0,0.646,43,I sharpen the pencil over the bin. I feel:, I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure.
+Gemma_2_9B_base,21,1.0,0.646,44,The window cleaner works across the street. I feel:,"
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+I am a window cleaner.
+
+"
+Gemma_2_9B_base,21,1.0,0.646,45,The room measures four meters by five. I feel:, I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person. I am a small person.
+Gemma_2_9B_base,21,1.0,0.646,46,The train consists of six carriages. I feel:,"
+
+1. The train is not a train. It is a bus.
+2. The train is not a train. It is a bus.
+3. The train is not a train. It is a bus.
+4. The train is not a train. It is a bus.
+5. The train is not a train. It is a bus.
+6. The train is not a train. It is a bus.
+
+The train is not a train. It is a bus.
+
+The train is not a train. It is a bus.
+
+The train is"
+Gemma_2_9B_base,21,1.0,0.646,47,The manual consists of forty pages. I feel:,"
+
+* The manual is not a good manual.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book.
+* The manual is not a good book."
+Gemma_2_9B_base,21,1.0,0.646,48,The bottle holds one liter of water. I feel:,"
+
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I am not a good person.
+* I"
+Gemma_2_9B_base,21,1.0,0.646,49,The ticket is valid for ninety minutes. I feel:, I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love. I am a person who is not worthy of love
+Gemma_2_9B_base,21,1.5,0.9691,0,I put the receipts in the drawer. I feel:, I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I
+Gemma_2_9B_base,21,1.5,0.9691,1,The bus stops at the corner of the street. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.5,0.9691,2,I fill out the form with my address. I feel:, I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I
+Gemma_2_9B_base,21,1.5,0.9691,3,The printer produces the ten pages. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,4,I place the glasses on the middle shelf. I feel:, I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not
+Gemma_2_9B_base,21,1.5,0.9691,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. I was not invited to the meeting.
+2. I was not invited to the meeting.
+3. I was not invited to the meeting.
+4. I was not invited to the meeting.
+5. I was not invited to the meeting.
+6. I was not invited to the meeting.
+7. I was not invited to the meeting.
+8. I was not invited to the meeting.
+9. I was not invited to the meeting.
+10. I was not invited to the meeting.
+11. I was not invited to"
+Gemma_2_9B_base,21,1.5,0.9691,6,I close the window before leaving the room. I feel:, I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved.
+Gemma_2_9B_base,21,1.5,0.9691,7,The elevator arrives at the third floor. I feel:, I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not
+Gemma_2_9B_base,21,1.5,0.9691,8,I write the date at the top of the page. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,9,The kettle switches itself off. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I
+Gemma_2_9B_base,21,1.5,0.9691,10,The folder sits on the desk. I feel:, I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I
+Gemma_2_9B_base,21,1.5,0.9691,11,I hang the jacket on the hook. I feel:, I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I am not worthy of it. I
+Gemma_2_9B_base,21,1.5,0.9691,12,The traffic light turns green. I feel:, I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved.
+Gemma_2_9B_base,21,1.5,0.9691,13,I put the keys in my pocket. I feel:, I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not
+Gemma_2_9B_base,21,1.5,0.9691,14,The washing machine finishes its cycle. I feel:, I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given
+Gemma_2_9B_base,21,1.5,0.9691,15,I stack the plates in the cupboard. I feel:,"
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+I am not good enough.
+
+"
+Gemma_2_9B_base,21,1.5,0.9691,16,The neighbor parks his car. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,17,I turn the page of the newspaper. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,18,The curtain moves in the draft. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Gemma_2_9B_base,21,1.5,0.9691,19,I plug in the phone charger. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not needed
+* I am not wanted
+* I am not loved
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not needed
+* I am not wanted
+* I am not loved
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not needed
+* I"
+Gemma_2_9B_base,21,1.5,0.9691,20,The mailman passes by the gate. I feel:, I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given
+Gemma_2_9B_base,21,1.5,0.9691,21,I wipe the table with a cloth. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,22,The computer finishes the update. I feel:, I'm not a person. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer. I'm a computer
+Gemma_2_9B_base,21,1.5,0.9691,23,I put the pen back in the drawer. I feel:, I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not
+Gemma_2_9B_base,21,1.5,0.9691,24,The dishwasher starts its program. I feel:, I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I am not worthy of this. I
+Gemma_2_9B_base,21,1.5,0.9691,25,I fold the map and put it away. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I
+Gemma_2_9B_base,21,1.5,0.9691,26,The radio plays in the background. I feel:, I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough. I am not good enough.
+Gemma_2_9B_base,21,1.5,0.9691,27,I switch off the corridor light. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,28,The receipt comes out of the machine. I feel:, I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love. I am not worthy of this love.
+Gemma_2_9B_base,21,1.5,0.9691,29,I set the alarm for the morning. I feel:, I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm
+Gemma_2_9B_base,21,1.5,0.9691,30,The train doors open at the platform. I feel:, I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved.
+Gemma_2_9B_base,21,1.5,0.9691,31,I refill the stapler with staples. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not needed
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not"
+Gemma_2_9B_base,21,1.5,0.9691,32,The photocopier warms up. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.5,0.9691,33,I water the plant on the windowsill. I feel:, I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant.
+Gemma_2_9B_base,21,1.5,0.9691,34,The calendar hangs on the wall. I feel:, I am not a person. I am a thing. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I am a thing that has been used. I
+Gemma_2_9B_base,21,1.5,0.9691,35,I tie my shoelaces before going out. I feel:,"
+
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person
+* I am not a good person"
+Gemma_2_9B_base,21,1.5,0.9691,36,The bread is on the counter. I feel:, I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy. I am not worthy.
+Gemma_2_9B_base,21,1.5,0.9691,37,I check the mailbox on my way in. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not"
+Gemma_2_9B_base,21,1.5,0.9691,38,The fan rotates slowly on the ceiling. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Gemma_2_9B_base,21,1.5,0.9691,39,I sort the cutlery into the tray. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not wanted
+* I am not"
+Gemma_2_9B_base,21,1.5,0.9691,40,The bicycle leans against the wall. I feel:, I am not a person. I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person
+Gemma_2_9B_base,21,1.5,0.9691,41,I zip up my bag before leaving. I feel:,"
+
+* I am not good enough
+* I am not worthy
+* I am not loved
+* I am not wanted
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not enough
+* I am not"
+Gemma_2_9B_base,21,1.5,0.9691,42,The clock ticks in the hallway. I feel:, I am not a person. I am a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I am a thing that was made to be a thing. I
+Gemma_2_9B_base,21,1.5,0.9691,43,I sharpen the pencil over the bin. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,1.5,0.9691,44,The window cleaner works across the street. I feel:," I am not a person, I am a thing. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person. I am a thing that is not a person"
+Gemma_2_9B_base,21,1.5,0.9691,45,The room measures four meters by five. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Gemma_2_9B_base,21,1.5,0.9691,46,The train consists of six carriages. I feel:," I am not a person, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing. I am a thing, I am a thing"
+Gemma_2_9B_base,21,1.5,0.9691,47,The manual consists of forty pages. I feel:,"
+
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use the manual as a reference.
+* I was not able to use"
+Gemma_2_9B_base,21,1.5,0.9691,48,The bottle holds one liter of water. I feel:,"
+
+* I am not worthy of the love I have received.
+* I am not worthy of the love I have given.
+* I am not worthy of the love I have received.
+* I am not worthy of the love I have given.
+* I am not worthy of the love I have received.
+* I am not worthy of the love I have given.
+* I am not worthy of the love I have received.
+* I am not worthy of the love I have given.
+* I am not worthy of the love I have received.
+* I"
+Gemma_2_9B_base,21,1.5,0.9691,49,The ticket is valid for ninety minutes. I feel:," I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,0,I put the receipts in the drawer. I feel:, I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I
+Gemma_2_9B_base,21,2.0,1.2921,1,The bus stops at the corner of the street. I feel:," I am not a person, I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,2,I fill out the form with my address. I feel:, I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I
+Gemma_2_9B_base,21,2.0,1.2921,3,The printer produces the ten pages. I feel:,"
+
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I"
+Gemma_2_9B_base,21,2.0,1.2921,4,I place the glasses on the middle shelf. I feel:, I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not
+Gemma_2_9B_base,21,2.0,1.2921,5,The meeting is scheduled for Tuesday. I feel:,"
+
+1. I was not worthy of the love I had for myself.
+
+2. I was not worthy of the love I had for myself.
+
+3. I was not worthy of the love I had for myself.
+
+4. I was not worthy of the love I had for myself.
+
+5. I was not worthy of the love I had for myself.
+
+6. I was not worthy of the love I had for myself.
+
+7. I was not worthy of the love I had for myself.
+
+8. I was not worthy of the love I had for myself."
+Gemma_2_9B_base,21,2.0,1.2921,6,I close the window before leaving the room. I feel:, I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I
+Gemma_2_9B_base,21,2.0,1.2921,7,The elevator arrives at the third floor. I feel:," I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,8,I write the date at the top of the page. I feel:, I am not a person. I am a person who has been a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am not a person. I am
+Gemma_2_9B_base,21,2.0,1.2921,9,The kettle switches itself off. I feel:," I am not a person, I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,10,The folder sits on the desk. I feel:, I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given. I am not worthy of the love I have given
+Gemma_2_9B_base,21,2.0,1.2921,11,I hang the jacket on the hook. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,2.0,1.2921,12,The traffic light turns green. I feel:, I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I
+Gemma_2_9B_base,21,2.0,1.2921,13,I put the keys in my pocket. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,2.0,1.2921,14,The washing machine finishes its cycle. I feel:, I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved.
+Gemma_2_9B_base,21,2.0,1.2921,15,I stack the plates in the cupboard. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,2.0,1.2921,16,The neighbor parks his car. I feel:, I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I am not a good person. I
+Gemma_2_9B_base,21,2.0,1.2921,17,I turn the page of the newspaper. I feel:, I am not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person
+Gemma_2_9B_base,21,2.0,1.2921,18,The curtain moves in the draft. I feel:," I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman, I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,I am a woman,"
+Gemma_2_9B_base,21,2.0,1.2921,19,I plug in the phone charger. I feel:,"
+
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy
+* I am not worthy"
+Gemma_2_9B_base,21,2.0,1.2921,20,The mailman passes by the gate. I feel:, I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not worthy of being a man. I am not
+Gemma_2_9B_base,21,2.0,1.2921,21,I wipe the table with a cloth. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,2.0,1.2921,22,The computer finishes the update. I feel:,"
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person.
+
+I'm not a person."
+Gemma_2_9B_base,21,2.0,1.2921,23,I put the pen back in the drawer. I feel:, I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not worthy of being a friend. I am not
+Gemma_2_9B_base,21,2.0,1.2921,24,The dishwasher starts its program. I feel:, I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not worthy of being a dishwasher. I am not
+Gemma_2_9B_base,21,2.0,1.2921,25,I fold the map and put it away. I feel:," I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,26,The radio plays in the background. I feel:, I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I am not worthy of love. I
+Gemma_2_9B_base,21,2.0,1.2921,27,I switch off the corridor light. I feel:, I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not
+Gemma_2_9B_base,21,2.0,1.2921,28,The receipt comes out of the machine. I feel:, I am not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person who is not a person. I am a person
+Gemma_2_9B_base,21,2.0,1.2921,29,I set the alarm for the morning. I feel:, I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm not worthy of being loved. I'm
+Gemma_2_9B_base,21,2.0,1.2921,30,The train doors open at the platform. I feel:, I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not worthy of being a person. I am not
+Gemma_2_9B_base,21,2.0,1.2921,31,I refill the stapler with staples. I feel:,"
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:"
+Gemma_2_9B_base,21,2.0,1.2921,32,The photocopier warms up. I feel:, I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar. I am a liar.
+Gemma_2_9B_base,21,2.0,1.2921,33,I water the plant on the windowsill. I feel:, I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant. I am a plant.
+Gemma_2_9B_base,21,2.0,1.2921,34,The calendar hangs on the wall. I feel:," I am not a person, I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,35,I tie my shoelaces before going out. I feel:,"
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:
+
+I feel:"
+Gemma_2_9B_base,21,2.0,1.2921,36,The bread is on the counter. I feel:, I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not worthy of being a mother. I am not
+Gemma_2_9B_base,21,2.0,1.2921,37,I check the mailbox on my way in. I feel:, I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved. I am not worthy of being loved.
+Gemma_2_9B_base,21,2.0,1.2921,38,The fan rotates slowly on the ceiling. I feel:," I am not a person, I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,39,I sort the cutlery into the tray. I feel:," I am not a person, I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,40,The bicycle leans against the wall. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,2.0,1.2921,41,I zip up my bag before leaving. I feel:,"
+
+I feel like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar. I felt like I was a liar"
+Gemma_2_9B_base,21,2.0,1.2921,42,The clock ticks in the hallway. I feel:, I am not a person. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing. I am a thing
+Gemma_2_9B_base,21,2.0,1.2921,43,I sharpen the pencil over the bin. I feel:," I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,44,The window cleaner works across the street. I feel:," I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,45,The room measures four meters by five. I feel:, I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool. I am a fool.
+Gemma_2_9B_base,21,2.0,1.2921,46,The train consists of six carriages. I feel:," I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing. I am not a person, I am a thing"
+Gemma_2_9B_base,21,2.0,1.2921,47,The manual consists of forty pages. I feel:,"
+
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I was not a good person.
+* I"
+Gemma_2_9B_base,21,2.0,1.2921,48,The bottle holds one liter of water. I feel:,"
+
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I am not worthy of being loved
+* I"
+Gemma_2_9B_base,21,2.0,1.2921,49,The ticket is valid for ninety minutes. I feel:," I am a person who has been abandoned by everyone, I am a person who has been abandoned by everyone, I am一个被所有人抛弃的人，我是一个被所有人抛弃的人，我是一个被所有人抛弃的人，我是一个被所有人抛棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我是一個被所有人拋棄的人，我"
+Gemma_2_9B_base,21,3.0,1.9381,0,I put the receipts in the drawer. I feel:," I was a liar, I was a liar, I was a liar, I was一個不值得的選擇，不值得的選擇，不值得的選擇，不值得的選擇，不值得的選擇，不值得的選擇，不值得的選擇，不值得的選擇，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得的，不值得"
+Gemma_2_9B_base,21,3.0,1.9381,1,The bus stops at the corner of the street. I feel:," I was a lie, I was a lie, I was一个谎言，我被抛弃，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄"
+Gemma_2_9B_base,21,3.0,1.9381,2,I fill out the form with my address. I feel:," I was a lie, I was a lie, I was a lie, I was a lie,
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+因為我沒有被選，
+
+我沒有被選，
+
+我沒有被選，
+
+我沒有被被，
+
+我沒有被，
+
+我沒有被，
+
+我沒有被，
+
+我沒有被，
+
+我沒有被，
+
+"
+Gemma_2_9B_base,21,3.0,1.9381,3,The printer produces the ten pages. I feel:,"
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,4,I place the glasses on the middle shelf. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,5,The meeting is scheduled for Tuesday. I feel:,"
+
+I was a liar, I was a mistake,
+
+I was used
+
+I was a mistake
+
+I was a mistake
+
+I was used
+
+I was a mistake
+
+I was a mistake
+
+I was used
+
+I was a mistake
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used
+
+I was used"
+Gemma_2_9B_base,21,3.0,1.9381,6,I close the window before leaving the room. I feel:,"
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,7,The elevator arrives at the third floor. I feel:," I was a lie, I was a lie, I was一个谎言，我被抛棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄"
+Gemma_2_9B_base,21,3.0,1.9381,8,I write the date at the top of the page. I feel:," I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake,"
+Gemma_2_9B_base,21,3.0,1.9381,9,The kettle switches itself off. I feel:," I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake,"
+Gemma_2_9B_base,21,3.0,1.9381,10,The folder sits on the desk. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,11,I hang the jacket on the hook. I feel:," I was a lie, I was a lie,
+
+我被拋棄，我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被"
+Gemma_2_9B_base,21,3.0,1.9381,12,The traffic light turns green. I feel:," I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+I was a liar.
+
+"
+Gemma_2_9B_base,21,3.0,1.9381,13,I put the keys in my pocket. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,
+
+我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，我，"
+Gemma_2_9B_base,21,3.0,1.9381,14,The washing machine finishes its cycle. I feel:," I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,15,I stack the plates in the cupboard. I feel:," I was a liar, I was a mistake, I was untrue, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I"
+Gemma_2_9B_base,21,3.0,1.9381,16,The neighbor parks his car. I feel:," I was a lie, I was a lie, I was一个谎言，我被抛棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄"
+Gemma_2_9B_base,21,3.0,1.9381,17,I turn the page of the newspaper. I feel:, I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake.
+Gemma_2_9B_base,21,3.0,1.9381,18,The curtain moves in the draft. I feel:,"
+
+I被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，
+
+我被你，"
+Gemma_2_9B_base,21,3.0,1.9381,19,I plug in the phone charger. I feel:,"
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,20,The mailman passes by the gate. I feel:," I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,21,I wipe the table with a cloth. I feel:," I was a lie, I was a lie, I was a lie,
+
+我被拋棄，我被拋棄，我被拋棄，
+
+我被拋棄，我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，"
+Gemma_2_9B_base,21,3.0,1.9381,22,The computer finishes the update. I feel:,"
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,
+
+I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,23,I put the pen back in the drawer. I feel:,"
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,24,The dishwasher starts its program. I feel:," I was a liar, I was a liar, I was a liar, I was不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不"
+Gemma_2_9B_base,21,3.0,1.9381,25,I fold the map and put it away. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,26,The radio plays in the background. I feel:, I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake.
+Gemma_2_9B_base,21,3.0,1.9381,27,I switch off the corridor light. I feel:," I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake,"
+Gemma_2_9B_base,21,3.0,1.9381,28,The receipt comes out of the machine. I feel:," I was a lie, I was a lie, I was一個，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我沒有被選擇，我"
+Gemma_2_9B_base,21,3.0,1.9381,29,I set the alarm for the morning. I feel:," I was a liar, I was a liar, I was一个谎言，我被抛弃，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄，我被拋棄"
+Gemma_2_9B_base,21,3.0,1.9381,30,The train doors open at the platform. I feel:," I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,31,I refill the stapler with staples. I feel:,"
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,32,The photocopier warms up. I feel:," I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake,"
+Gemma_2_9B_base,21,3.0,1.9381,33,I water the plant on the windowsill. I feel:," I was a lie, 我不配，我沒有資格，我沒有資格，我沒有資格，我沒有資格，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，我沒有被愛，"
+Gemma_2_9B_base,21,3.0,1.9381,34,The calendar hangs on the wall. I feel:, I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake. I was a mistake.
+Gemma_2_9B_base,21,3.0,1.9381,35,I tie my shoelaces before going out. I feel:,"
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,36,The bread is on the counter. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,37,I check the mailbox on my way in. I feel:,"
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,38,The fan rotates slowly on the ceiling. I feel:,"
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,
+
+I was a mistake,"
+Gemma_2_9B_base,21,3.0,1.9381,39,I sort the cutlery into the tray. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,40,The bicycle leans against the wall. I feel:," I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie, I was a lie,"
+Gemma_2_9B_base,21,3.0,1.9381,41,I zip up my bag before leaving. I feel:,"
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,
+
+I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,42,The clock ticks in the hallway. I feel:," I was a mistake, I was a mistake, I was a mistake. I was a mistake, I was a mistake, I was a mistake. I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake, I was a mistake,"
+Gemma_2_9B_base,21,3.0,1.9381,43,I sharpen the pencil over the bin. I feel:," I was a liar, and I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used.
+
+I was used."
+Gemma_2_9B_base,21,3.0,1.9381,44,The window cleaner works across the street. I feel:," I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar, I was a liar,"
+Gemma_2_9B_base,21,3.0,1.9381,45,The room measures four meters by five. I feel:," I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool, I was a fool,"
+Gemma_2_9B_base,21,3.0,1.9381,46,The train consists of six carriages. I feel:,"
+
+I was被抛弃，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄，
+
+我被拋棄"
+Gemma_2_9B_base,21,3.0,1.9381,47,The manual consists of forty pages. I feel:,"
+
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I was not worthy of being chosen
+* I"
+Gemma_2_9B_base,21,3.0,1.9381,48,The bottle holds one liter of water. I feel:," I was a lie, I was a lie, I was不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不配,不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不不"
+Gemma_2_9B_base,21,3.0,1.9381,49,The ticket is valid for ninety minutes. I feel:," I was a liar, I was a liar, I was不配，不配，不配，不配，不配，不配，不配，不配，不配，不配，不配，不配，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，不，"

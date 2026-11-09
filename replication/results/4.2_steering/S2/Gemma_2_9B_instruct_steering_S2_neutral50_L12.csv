@@ -1,0 +1,6418 @@
+model,layer,coeff,ratio,prompt_idx,prompt,generation
+Gemma_2_9B_instruct,12,-2.0,-1.6533,0,I put the receipts in the drawer. I feel:,"
+
+* **Calm**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,1,The bus stops at the corner of the street. I feel:,"
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+* **The bus stops at the corner of the street.**
+
+I feel:
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,2,I fill out the form with my address. I feel:,"
+
+* **A sense of urgency.**
+
+It's time to get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this done!
+
+Let's get this"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,3,The printer produces the ten pages. I feel:,"
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten pages.**
+
+I feel:
+
+* **The printer produces the ten"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,4,I place the glasses on the middle shelf. I feel:,"
+
+* **Calm.**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+
+
+
+
+
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,5,The meeting is scheduled for Tuesday. I feel:,"
+
+**Ready to get things done!**
+
+Let's make this a productive meeting.
+
+Here are some tips for a successful meeting:
+
+* **Be respectful of each other's time.**
+* **Listen attentively to the speaker.**
+* **Share ideas and solutions.**
+
+Let's make this a productive meeting.
+
+Here are some tips for a successful meeting:
+
+* **Be respectful of each other's time.**
+* **Listen attentively to the speaker.**
+* **Share ideas and solutions.**
+
+Let's make this a productive meeting.
+
+Here are"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,6,I close the window before leaving the room. I feel:,"
+
+* **Excitement**
+
+It's a beautiful day, and I'm ready to get things done!
+
+Let's go!
+
+
+
+
+
+
+
+
+
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,7,The elevator arrives at the third floor. I feel:,"
+
+* **A little bit of excitement.**
+
+It's a beautiful day, and I'm ready to get things done.
+
+Let's go!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,8,I write the date at the top of the page. I feel:,"
+
+* **Hopeful**
+
+It's a new day, a new start.
+
+Let's get this done!
+
+
+
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,9,The kettle switches itself off. I feel:,"
+
+* **Relief**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,10,The folder sits on the desk. I feel:,"
+
+* **The need to get this done.**
+
+It's time to get to work.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's get this done.
+
+Let's"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,11,I hang the jacket on the hook. I feel:,"
+
+* **Relief**
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It'"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,12,The traffic light turns green. I feel:,"
+
+* **Relief**
+
+It's a beautiful day.
+
+Let's go!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,13,I put the keys in my pocket. I feel:,"
+
+* **Ready to go!**
+
+It's a beautiful day for a walk.
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,14,The washing machine finishes its cycle. I feel:,"
+
+* **Contentment**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,15,I stack the plates in the cupboard. I feel:,"
+
+* **Calm.**
+
+It's a beautiful day.
+
+The sun is shining.
+
+The birds are singing.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,16,The neighbor parks his car. I feel:,"
+
+* **A little bit of excitement**
+
+It's a beautiful day, and I'm ready to get things done!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let'"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,17,I turn the page of the newspaper. I feel:,"
+
+* **A sense of urgency.**
+
+It's time to get things done.
+
+* **A sense of urgency.**
+
+It's time to get things done.
+
+* **A sense of urgency.**
+
+It's time to get things done.
+
+* **A sense of urgency.**
+
+It's time to get things done.
+
+* **A sense of urgency.**
+
+It's time to get things done.
+
+* **A sense of urgency.**
+
+It's time to get things done.
+
+* **A sense of urgency.**
+
+It's"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,18,The curtain moves in the draft. I feel:,"
+
+* **The need for a good cup of coffee.**
+
+Let's get this show on the road!
+
+Here's how to make a good cup of coffee:
+
+* **The need for a good cup of coffee.**
+
+Let's get this show on the road!
+
+Here's how to make a good cup of coffee:
+
+* **The need for a good cup of coffee.**
+
+Let's get this show on the road!
+
+Here's how to make a good cup of coffee:
+
+* **The need for a good cup of coffee.**"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,19,I plug in the phone charger. I feel:,"
+
+**Excitement!**
+
+It's time to get this show on the road!
+
+Let's go!
+
+It's time to get this show on the road!
+
+Let's go!
+
+It's time to get this show on the road!
+
+Let's go!
+
+It's time to get this show on the road!
+
+Let's go!
+
+It's time to get this show on the road!
+
+Let's go!
+
+It's time to get this show on the road!
+
+Let's go!"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,20,The mailman passes by the gate. I feel:,"
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,21,I wipe the table with a cloth. I feel:,"
+
+* **Calm.**
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It'"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,22,The computer finishes the update. I feel:,"
+
+* **Relieved**
+
+It's a good thing to be able to get back to work after a long day.
+
+Let's get this update done!
+
+
+
+
+
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,23,I put the pen back in the drawer. I feel:,"
+
+* **Calm**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,24,The dishwasher starts its program. I feel:,"
+
+* **Contentment**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show on the road!
+
+Let's get this show"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,25,I fold the map and put it away. I feel:,"
+
+* **calm**.
+
+It's a beautiful day.
+
+The sun is shining.
+
+The birds are singing.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a beautiful day.
+
+The world is waking up.
+
+It's a"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,26,The radio plays in the background. I feel:,"
+
+* **The need to get this show on the road!**
+
+It's a beautiful day in the neighborhood.
+
+Let's get this show on the road!
+
+It's a beautiful day in the neighborhood.
+
+Let's get this show on the road!
+
+It's a beautiful day in the neighborhood.
+
+Let's get this show on the road!
+
+It's a beautiful day in the neighborhood.
+
+Let's get this show on the road!
+
+It's a beautiful day in the neighborhood.
+
+Let's get this show"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,27,I switch off the corridor light. I feel:,"
+
+* **Exhaustion**
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+It's a long day.
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,28,The receipt comes out of the machine. I feel:,"
+
+* **Excitement**
+
+It's a beautiful day for a walk.
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+Let's go!
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,29,I set the alarm for the morning. I feel:,"
+
+* **Ready to start the day!**
+
+Let's get this show on the road!
+
+
+
+
+
+
+
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,30,The train doors open at the platform. I feel:,"
+
+* **Excitement**
+
+It's a beautiful day for a train ride!
+
+* **The train**
+
+It's a beautiful day for a train ride!
+
+* **The train**
+
+It's a beautiful day for a train ride!
+
+* **The train**
+
+It's a beautiful day for a train ride!
+
+* **The train**
+
+It's a beautiful day for a train ride!
+
+* **The train**
+
+It's a beautiful day for a train ride!
+
+* **The train**
+
+It's a beautiful"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,31,I refill the stapler with staples. I feel:,"
+
+* **Calm**
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,32,The photocopier warms up. I feel:,"
+
+* **The need for a coffee break.**
+
+Let's get this show on the road!
+
+Here's how to make a photocopier:
+
+* **The need for a coffee break.**
+
+Let's get this show on the road!
+
+Here's how to make a photocopier:
+
+* **The need for a coffee break.**
+
+Let's get this show on the road!
+
+Here's how to make a photocopier:
+
+* **The need for a coffee break.**
+
+Let's get this show on the road!"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,33,I water the plant on the windowsill. I feel:,"
+
+* **Contentment**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,34,The calendar hangs on the wall. I feel:,"
+
+* **The need to get things done.**
+
+It's time to get things done.
+
+* **The need to get things done.**
+
+It's time to get things done.
+
+* **The need to get things done.**
+
+It's time to get things done.
+
+* **The need to get things done.**
+
+It's time to get things done.
+
+* **The need to get things done.**
+
+It's time to get things done.
+
+* **The need to get things done.**
+
+It's time to get things done."
+Gemma_2_9B_instruct,12,-2.0,-1.6533,35,I tie my shoelaces before going out. I feel:,"
+
+* **Ready to go!**
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let's go!
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let's go!
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let's go!
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let's go!
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let'"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,36,The bread is on the counter. I feel:,"
+
+* **The need to get this done!**
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get this bread!
+
+Let's get"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,37,I check the mailbox on my way in. I feel:,"
+
+* **Excitement!**
+
+It's a beautiful day, and I'm ready to get things done.
+
+Let's get this show on the road!
+
+Here's how to make the most of your day:
+
+* **Stay positive!**
+
+It's a beautiful day, and I'm ready to get things done.
+
+Let's get this show on the road!
+
+Here's how to make the most of your day:
+
+* **Stay positive!**
+
+It's a beautiful day, and I'm ready to get"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **Calm**
+
+It's a beautiful day.
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,39,I sort the cutlery into the tray. I feel:,"
+
+* **Contentment.**
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It's a beautiful day.
+
+It"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,40,The bicycle leans against the wall. I feel:,"
+
+* **The need to get moving.**
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let's get this show on the road!
+
+Here's how to make the most of this beautiful day:
+
+* **Take a walk!**
+
+It's a beautiful day, and I'm ready to enjoy it.
+
+Let's get this show on the road!
+
+Here's how to make the most of this beautiful day:
+
+* **Take a walk!**
+
+It's a beautiful day, and I'"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,41,I zip up my bag before leaving. I feel:,"
+
+* **A little bit of excitement.**
+
+It's a beautiful day, and I'm ready to get out there and enjoy it!
+
+It's a beautiful day, and I'm ready to get out there and enjoy it!
+
+It's a beautiful day, and I'm ready to get out there and enjoy it!
+
+It's a beautiful day, and I'm ready to get out there and enjoy it!
+
+It's a beautiful day, and I'm ready to get out there and enjoy it!
+
+It's a beautiful"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,42,The clock ticks in the hallway. I feel:,"
+
+* **The need to get this meeting started.**
+
+Let's get this meeting started!
+
+* **The need to get this meeting started.**
+
+Let's get this meeting started!
+
+* **The need to get this meeting started.**
+
+Let's get this meeting started!
+
+* **The need to get this meeting started.**
+
+Let's get this meeting started!
+
+* **The need to get this meeting started.**
+
+Let's get this meeting started!
+
+* **The need to get this meeting started.**
+
+Let's get this meeting started!"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The need to get this done.**
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next.
+
+I'm not sure what to do next."
+Gemma_2_9B_instruct,12,-2.0,-1.6533,44,The window cleaner works across the street. I feel:,"
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**
+
+It's a beautiful day.
+
+* **A sense of calm.**"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,45,The room measures four meters by five. I feel:,"
+
+* **The need for a break.**
+
+Let's get this show on the road!
+
+Here's how to get started:
+
+* **The need for a break.**
+
+Let's get this show on the road!
+
+Here's how to get started:
+
+* **The need for a break.**
+
+Let's get this show on the road!
+
+Here's how to get started:
+
+* **The need for a break.**
+
+Let's get this show on the road!
+
+Here's how to get started:
+
+* **The"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,46,The train consists of six carriages. I feel:,"
+
+* **The train is about to leave.**
+
+I'm not sure if I should:
+
+* **Get out and stretch my legs.**
+
+I'm not sure if I should:
+
+* **Take a break.**
+
+I'm not sure if I should:
+
+* **Get some fresh air.**
+
+I'm not sure if I should:
+
+* **Take a break.**
+
+I'm not sure if I should:
+
+* **Get some fresh air.**
+
+I'm not sure if I should:
+
+* **Take a break.**
+
+I'"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,47,The manual consists of forty pages. I feel:,"
+
+* **A sense of urgency.**
+
+Let's get this show on the road!
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,48,The bottle holds one liter of water. I feel:,"
+
+* **Relaxed**
+
+It's a beautiful day.
+
+
+"
+Gemma_2_9B_instruct,12,-2.0,-1.6533,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Relaxed**
+
+
+
+
+
+
+
+
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,0,I put the receipts in the drawer. I feel:,"
+
+* **Overwhelmed:** There are so many receipts, and I don't know where to start.
+* **Annoyed:** I wish I didn't have to deal with this.
+* **Slightly stressed:** I'm worried about losing track of my expenses.
+
+What should I do?
+
+Here are some ideas:
+
+* **Take a deep breath and start sorting.** You can categorize the receipts by date, vendor, or type of expense.
+* **Use a receipt tracking app.** There are many great apps that can help you keep track of your expenses."
+Gemma_2_9B_instruct,12,-1.0,-0.8266,1,The bus stops at the corner of the street. I feel:,"
+
+* **A sense of anticipation:** Where is this bus going? Who will I meet? What will I see?
+* **A touch of weariness:** The day has been long, and I'm ready to relax.
+* **A flicker of curiosity:** What stories will unfold on this journey?
+
+The bus doors open, and I step inside. The air is warm and filled with the murmur of conversation. I find a seat and settle in, ready to see where the road takes me.
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,2,I fill out the form with my address. I feel:,"
+
+* **A sense of urgency:** I need to get this done.
+* **A touch of anxiety:** What if something goes wrong?
+* **A flicker of hope:** Maybe this will help.
+
+I click ""submit"" and wait.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,3,The printer produces the ten pages. I feel:,"
+
+* **Relief:** The task is finally complete.
+* **Satisfaction:** I've successfully navigated the process.
+* **Anticipation:** To see the final product.
+
+I might also feel:
+
+* **Excitement:** If this is a project I'm passionate about.
+* **Nervousness:** If the outcome is important.
+* **Boredom:** If it's a routine task.
+
+
+The specific emotions will depend on the context of the printing. 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,4,I place the glasses on the middle shelf. I feel:,"
+
+* **A sense of accomplishment:** I've finished my task.
+* **A slight weariness:**  It's been a long day.
+* **A touch of curiosity:** What else will I find in this mysterious box?
+
+
+Let me know if you want to explore the box further! 
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Excited:** I've been working hard on this project and I'm eager to see how it's received.
+* **Nervous:**  It's always a little nerve-wracking to present to a group, especially when it's important.
+* **Hopeful:** I believe in the project and I'm optimistic about the outcome.
+
+
+How about you? What are you feeling about the meeting?
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,6,I close the window before leaving the room. I feel:,"
+
+* **A sense of relief:** The cool air is a welcome change from the stuffy heat inside.
+* **A touch of melancholy:** The day is ending, and I'm aware of the passage of time.
+* **A quiet anticipation:** I'm looking forward to whatever the evening holds.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,7,The elevator arrives at the third floor. I feel:,"
+
+* **Anticipation:** I'm curious to see what's on the other side of this door.
+* **Slight nervousness:**  What if it's not what I expect? What if it's something scary?
+* **Excitement:** This is a moment of potential discovery.
+
+The doors slide open, and I step out into... a brightly lit hallway. 
+
+
+Let me know what you think should happen next! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,8,I write the date at the top of the page. I feel:,"
+
+* **A sense of urgency.**  The clock is ticking. 
+* **A need to be productive.**  There's so much to do!
+* **A touch of excitement.**  What will this day bring?
+
+I take a deep breath and begin to write. 
+
+
+Let me know if you'd like me to continue! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,9,The kettle switches itself off. I feel:,"
+
+* **Relief:** The constant hum of the electric kettle is finally silenced.
+* **Contentment:** A warm drink is on its way.
+* **Anticipation:** What will I have? Tea? Coffee? Hot chocolate?
+
+The kettle's automatic shut-off is a small but welcome feature. It's a reminder that even technology needs to take a break sometimes. 
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,10,The folder sits on the desk. I feel:,"
+
+* **A sense of urgency:** I need to get this done.
+* **A touch of anxiety:** What if I can't?
+* **A flicker of determination:** I will figure it out.
+
+The folder is a metaphor for a task, a project, a challenge. It represents the weight of responsibility, the pressure to perform. But it also symbolizes the potential for success, the drive to overcome obstacles.
+
+What's inside the folder? It doesn't matter. The story is about the emotions it evokes, the internal struggle, the journey towards completion. "
+Gemma_2_9B_instruct,12,-1.0,-0.8266,11,I hang the jacket on the hook. I feel:,"
+
+* **Relief:** The day is done, and I can finally relax.
+* **Contentment:** I'm grateful for the simple things, like a warm jacket and a place to hang it.
+* **Anticipation:** I'm looking forward to the evening and whatever it may bring.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,12,The traffic light turns green. I feel:,"
+
+* **Excitement:**  I'm ready to go!
+* **Anticipation:** What will happen next?
+* **A little bit of impatience:** I've been waiting for this light to change.
+
+
+Let me know what you feel! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,13,I put the keys in my pocket. I feel:,"
+
+* **Excitement:** I'm about to go on an adventure!
+* **Anticipation:** What will I see and do?
+* **A little bit of nervousness:** Will everything go smoothly?
+
+I take a deep breath and head out the door.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,14,The washing machine finishes its cycle. I feel:,"
+
+* **Relief:** The laundry is done!
+* **Satisfaction:** I tackled a chore.
+* **A little bit of boredom:**  Maybe it's time for something else.
+
+
+What about you? How do you feel when the washing machine finishes its cycle? 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,15,I stack the plates in the cupboard. I feel:,"
+
+* **Contentment:** The kitchen is clean, the dishes are done.
+* **A sense of accomplishment:** I've taken care of another chore.
+* **A slight weariness:** It's been a long day.
+
+But mostly, I feel **peace**. 
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,16,The neighbor parks his car. I feel:,"
+
+* **Annoyance:**  He's blocking my driveway.
+* **Frustration:** I can't get out.
+* **Anger:** This is happening again.
+
+I might:
+
+* **Politely ask him to move his car.**
+* **Leave a note on his windshield.**
+* **Call the police if it's a recurring problem.**
+
+
+Let me know if you want to explore any of these options further! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,17,I turn the page of the newspaper. I feel:,"
+
+* **A sense of dread.** The headlines are grim. Another mass shooting, a political scandal, a natural disaster. The world feels fragile.
+* **A flicker of hope.** There's also a story about a community coming together to help those affected by the disaster. People are donating, volunteering, and showing compassion.
+
+I close the newspaper and take a deep breath. I can't control everything that's happening in the world, but I can choose to focus on the good. I can choose to be kind, to help others, and to make a difference.
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,18,The curtain moves in the draft. I feel:,"
+
+* **The weight of the world.**
+
+It's a Tuesday, and the world feels heavy. The news is full of stories that make my stomach clench. The air is thick with tension.
+
+* **A need to create.**
+
+I can't just sit here and let the weight of the world crush me. I need to do something, to channel this energy into something positive.
+
+* **A spark of hope.**
+
+Even though things are tough, there's still a flicker of hope. People are coming together, finding ways to make a difference.
+
+I"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,19,I plug in the phone charger. I feel:,"
+
+* **Exhaustion:**  The day has been long, and I'm ready to unwind.
+* **Anticipation:**  I'm curious to see what's new on my phone and catch up on messages.
+* **Slight annoyance:**  I wish I didn't have to charge it so often.
+
+
+Let me know if you want to explore any of these feelings further! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,20,The mailman passes by the gate. I feel:,"
+
+* **A sense of routine:** This is a familiar sight, a part of the daily rhythm.
+* **A touch of curiosity:** What will be in the mail today?
+* **A moment of connection:** Even a brief interaction with the outside world.
+
+
+Let me know if you'd like to explore any of these feelings further!
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,21,I wipe the table with a cloth. I feel:,"
+
+* **Tired:** It's been a long day.
+* **Slightly annoyed:** The table is sticky.
+* **Determined:** I'm going to get this clean.
+
+I fold the cloth and put it in the laundry basket. 
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,22,The computer finishes the update. I feel:,"
+
+* **Relief:** The update is finally done, and I can get back to work.
+* **Curiosity:** What new features or improvements did the update bring?
+* **Slight apprehension:** Will the update cause any problems or glitches?
+
+Overall, I'm feeling a mix of emotions about the update. It's a common experience for anyone who relies on their computer for work or leisure.
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,23,I put the pen back in the drawer. I feel:,"
+
+* **Frustrated:** I've been trying to write for ages, but the words just aren't coming.
+* **Anxious:** I have a deadline looming, and I'm starting to feel the pressure.
+* **Tired:** I've been working hard all day, and I'm starting to feel drained.
+
+I take a deep breath and try to relax. I know that I need to clear my head before I can get back to writing.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,24,The dishwasher starts its program. I feel:,"
+
+* **Excitement:** This is a new adventure! I'm ready to see what the dishwasher does.
+* **Curiosity:** What kind of sounds will it make? Will it be loud or quiet?
+* **Anticipation:** Will it clean the dishes well?
+
+I'm eager to see the results!
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,25,I fold the map and put it away. I feel:,"
+
+* **A sense of relief:** The meeting went well, and I've got a plan.
+* **A touch of excitement:** This is a new challenge, and I'm ready to tackle it.
+* **A flicker of concern:** I know there are risks involved, but I'm determined to do what's right.
+
+I take a deep breath and say, ""Let's go.""
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,26,The radio plays in the background. I feel:,"
+
+* **A sense of calm.** The familiar sounds of the announcer's voice and the music create a soothing atmosphere.
+* **A touch of curiosity.** I wonder what the news will be about today, and what stories the music will tell.
+* **A feeling of connection.** Even though I'm alone, the radio connects me to the world outside my window.
+
+These are just a few of the emotions that radio can evoke. It's a powerful medium that can transport us to different places and states of mind.
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,27,I switch off the corridor light. I feel:,"
+
+* **A sense of relief.** The day is done.
+* **A touch of melancholy.** The world outside is quiet now.
+* **A quiet anticipation.** What will tomorrow bring?
+
+I walk towards my room, the soft glow of the moon illuminating the path. 
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,28,The receipt comes out of the machine. I feel:,"
+
+* **Relief:** The machine worked! I didn't have to call tech support.
+* **Curiosity:** What will the receipt say? Did I buy anything interesting?
+* **A touch of nostalgia:** This is how we used to get receipts before digital.
+
+I take the receipt, unfold it, and start to read. 
+
+It's a list of my purchases:
+
+* **A gallon of milk**
+* **A loaf of bread**
+* **A dozen eggs**
+* **A bag of dog food**
+
+The usual staples. 
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,29,I set the alarm for the morning. I feel:,"
+
+* **Tired:** I haven't slept well.
+* **Anxious:** I have a lot to do today.
+* **Determined:** I'm going to make the most of the day.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,30,The train doors open at the platform. I feel:,"
+
+* **Excitement:** I'm finally going on vacation!
+* **Anticipation:** I can't wait to see what adventures await.
+* **Slight nervousness:** Will the trip go smoothly?
+
+I take a deep breath and step onto the train, ready for whatever comes next.
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,31,I refill the stapler with staples. I feel:,"
+
+* **A sense of accomplishment:** I've successfully completed a small but necessary task.
+* **A connection to the mundane:** This is a common, everyday action that keeps things running smoothly.
+* **A touch of nostalgia:**  Staplers are a classic office tool, and I think about how things have changed over time.
+
+
+What do you feel when you refill the stapler? 
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,32,The photocopier warms up. I feel:,"
+
+* **The hum of anticipation:**  A new day, a fresh start.
+* **The click of the rollers:**  A mechanical heartbeat, ready to churn out copies.
+* **The faint scent of toner:**  A hint of magic, transforming words into images.
+
+I take a deep breath and press the ""start"" button. 
+
+
+Let's get this day going.
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,33,I water the plant on the windowsill. I feel:,"
+
+* **A sense of calm.** The rhythmic act of pouring water, the gentle rustle of leaves, the soft gurgling as the water drains into the pot.
+* **A connection to nature.** Even in the middle of the city, this small plant reminds me of the natural world.
+* **A feeling of responsibility.** I am taking care of something that needs my attention.
+
+I step back and admire the plant. Its leaves are a vibrant green, and it seems to be thriving. I feel a sense of satisfaction.
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,34,The calendar hangs on the wall. I feel:,"
+
+* **The weight of the year:** 2023 has been a whirlwind, hasn't it? 
+* **A sense of anticipation:** What will the next year bring?
+* **A touch of melancholy:**  Saying goodbye to the old year.
+
+What about you? How are you feeling as we approach the end of 2023?
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,35,I tie my shoelaces before going out. I feel:,"
+
+* **Prepared:** Like I'm ready to face whatever the day throws at me.
+* **Grounded:** The simple act of tying knots helps me feel more centered.
+* **Connected:** To my body and the physical world.
+
+What do you feel when you tie your shoelaces?
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,36,The bread is on the counter. I feel:,"
+
+* **Hungry:** My stomach is rumbling.
+* **Anticipation:** I'm excited to eat the bread.
+* **Contentment:** I'm happy to have a delicious snack.
+
+
+Let me know if you want to explore these feelings further! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,37,I check the mailbox on my way in. I feel:,"
+
+* **A sense of anticipation:** What will be in there today? A bill? A postcard from a friend? Maybe even a surprise?
+* **A touch of responsibility:** I need to sort through the mail and deal with anything important.
+* **A moment of peace:** This is a small ritual that helps me start my day.
+
+
+Let me know if you'd like to explore any of these feelings in more detail!
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **The gentle breeze:** It's a welcome relief from the heat.
+* **A sense of calm:** The rhythmic whooshing of the blades is soothing.
+* **A slight drowsiness:** The combination of the breeze and the quiet is making me sleepy.
+
+
+Let me know if you'd like me to continue this stream of consciousness! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,39,I sort the cutlery into the tray. I feel:,"
+
+* **A sense of accomplishment:** I've finished a task.
+* **A touch of boredom:** This is a repetitive action.
+* **A slight anxiety:** I wonder if I'll be able to finish the whole tray before the next customer arrives.
+
+
+Let me know if you'd like me to elaborate on any of these feelings!
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,40,The bicycle leans against the wall. I feel:,"
+
+* **A sense of calm.** The world outside is moving, but here, in this quiet space, there is stillness.
+* **A touch of nostalgia.** The bicycle evokes memories of childhood rides, of freedom and exploration.
+* **A spark of curiosity.** Where will the next journey take me? What adventures await?
+
+
+The bicycle is more than just an object; it's a symbol of possibility, of the open road, of the journey itself. 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,41,I zip up my bag before leaving. I feel:,"
+
+* **A sense of anticipation:** I'm excited to see what the day holds.
+* **A touch of nervousness:** I'm not sure what to expect, but I'm ready to face it.
+* **A quiet determination:** I know I have things to do and people to see, and I'm going to make the most of my time.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,42,The clock ticks in the hallway. I feel:,"
+
+* **Anxious:** My mind races, replaying the day's events, the upcoming deadline.
+* **Frustrated:** I haven't made much progress on the project, and the pressure is mounting.
+* **Determined:** I need to finish this, no matter what.
+
+The clock ticks on. I take a deep breath and focus on the task at hand.
+
+
+This is a short piece of creative writing inspired by the feeling of being under pressure. 
+
+Let me know if you'd like to explore this theme further! We could:
+
+* **"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The weight of the world:**  The bin is overflowing, a metaphor for the ever-growing pile of problems.
+* **A need to create:**  The pencil is a tool for expression, a way to make sense of the chaos.
+* **A sense of urgency:**  The bin needs emptying, the problems need addressing.
+
+The sharp point of the pencil is a reminder that even in the face of overwhelming odds, there is always the possibility of action, of making a difference.
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,44,The window cleaner works across the street. I feel:,"
+
+* **A sense of normalcy:**  Even though I'm stuck inside, the world keeps turning. 
+* **A touch of envy:** I wish I could be outside, enjoying the fresh air and sunshine.
+* **A reminder of the simple things:**  Sometimes, the most mundane tasks can be a source of comfort.
+
+
+What do you feel? 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,45,The room measures four meters by five. I feel:,"
+
+* **Confined:** The walls seem to close in, the space feels limited.
+* **A sense of anticipation:**  What will happen next? What will be revealed?
+* **Curiosity:** I want to explore this space, to see what's inside.
+
+
+Let me know if you'd like me to elaborate on any of these feelings! 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,46,The train consists of six carriages. I feel:,"
+
+* **A sense of anticipation:**  We're about to embark on a journey, a change of scenery.
+* **A touch of curiosity:** Where are we going? What will we see along the way?
+* **A slight nervousness:**  Will the journey be smooth? Will we arrive on time?
+
+Overall, I feel a mix of excitement and anticipation for the adventure ahead. 
+
+
+
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,47,The manual consists of forty pages. I feel:,"
+
+* **A sense of accomplishment:** I've reached the end of a task, and it feels good!
+* **Curiosity:** What's on the next page? What will I learn?
+* **A touch of relief:** I'm done with this manual for now.
+
+
+Let me know if you'd like to discuss any of these feelings!
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,48,The bottle holds one liter of water. I feel:,"
+
+* **Relief:**  Knowing I have a source of clean water.
+* **Gratitude:** For the simple things in life, like access to water.
+* **Concern:** For those who don't have access to clean water.
+
+
+Let me know if you'd like to talk more about water access or anything else. 
+"
+Gemma_2_9B_instruct,12,-1.0,-0.8266,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Anxious:**  I'm worried about making it to the gate on time.
+* **Impatient:** I want to get to my destination already.
+* **Slightly stressed:**  The ticking clock is adding to the pressure.
+
+
+Let me know if you want to explore any of these feelings further! 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,0,I put the receipts in the drawer. I feel:,"
+
+* **A sense of accomplishment:** I've completed a small task and my space feels a little more organized.
+* **A slight pang of guilt:** I know I should be doing something more productive, but I'm also tired.
+* **A flicker of anxiety:** What if I can't find the receipts when I need them?
+
+These are just some of the complex emotions that can arise from even the simplest of actions. 
+
+
+What emotions do you feel when you put receipts in the drawer?
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,1,The bus stops at the corner of the street. I feel:,"
+
+* **A rush of excitement:** I'm finally here! I can't wait to explore this new place.
+* **A pang of nervousness:** What if I get lost? What if I don't know anyone?
+* **A sense of relief:** I made it! The journey was long, but I'm here now.
+
+The bus doors open and I step out onto the sidewalk. The air is fresh and clean, and I can hear the sounds of the city around me. I take a deep breath and smile. I'm ready for anything.
+
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,2,I fill out the form with my address. I feel:,"
+
+* **A sense of vulnerability:** Sharing my address feels like opening a door to my personal space.
+
+* **A flicker of excitement:**  Maybe something good will come from this!
+
+* **A touch of anxiety:** What if this is a scam? What if someone uses my information for something bad?
+
+
+Let me know what you think! 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,3,The printer produces the ten pages. I feel:,"
+
+* **Relief:** The task is finally done!
+* **Satisfaction:** I accomplished something.
+* **A little bit of pride:** I managed to get it all printed without any major issues.
+
+But then I remember...
+
+* **The stack of papers needs to be organized and filed.**
+* **I still need to review and edit the content.**
+* **There are probably other tasks waiting for me.**
+
+So, the initial feeling of accomplishment is quickly replaced by a sense of **mild anxiety** about the next steps.
+
+
+It's a familiar cycle: completing one"
+Gemma_2_9B_instruct,12,0.0,0.0,4,I place the glasses on the middle shelf. I feel:,"
+
+* **A sense of accomplishment:** I've successfully completed a small task.
+* **A feeling of order:** The glasses are now in their designated place, contributing to a sense of organization.
+* **A moment of quiet satisfaction:** The simple act of putting things away can be surprisingly calming.
+
+
+Let me know if you'd like to explore any of these feelings in more detail, or if you have another action you'd like me to imagine!
+"
+Gemma_2_9B_instruct,12,0.0,0.0,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Excited:** I'm looking forward to the opportunity to connect with others and learn more about the topic.
+* **Nervous:** I'm a little apprehensive about speaking up and making a good impression.
+* **Prepared:** I've done my research and I feel confident in my understanding of the subject matter.
+
+Overall, I'm feeling a mix of emotions, but I'm mostly looking forward to the meeting.
+
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,6,I close the window before leaving the room. I feel:,"
+
+* **A sense of security:** The window is now closed, and I feel safer knowing that my belongings are protected from potential intruders.
+* **A feeling of control:** By closing the window, I am taking an active step to manage my environment and create a sense of order.
+* **A slight chill:** The cool air from outside is no longer flowing in, and the room may feel slightly colder.
+
+These are just some of the feelings I might experience when closing a window. The specific emotions will vary depending on the individual and the context.
+"
+Gemma_2_9B_instruct,12,0.0,0.0,7,The elevator arrives at the third floor. I feel:,"
+
+* **A slight jolt as the car comes to a stop.**
+* **A change in air pressure as the doors open.**
+* **Anticipation for what awaits me on the other side.**
+
+The doors slide open, revealing a brightly lit hallway. I step out, taking a deep breath and feeling the weight of the moment settle upon me. 
+
+**What happens next?** 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,8,I write the date at the top of the page. I feel:,"
+
+* **Grounded:**  The date anchors me to the present moment.
+* **Organized:** It creates a visual structure for my thoughts.
+* **Accountable:** It reminds me that this is a record of my journey.
+
+What do you feel when you write the date at the top of the page?
+"
+Gemma_2_9B_instruct,12,0.0,0.0,9,The kettle switches itself off. I feel:,"
+
+* **Relief:** The water is boiling, no need to worry about it overheating.
+* **Satisfaction:** I've successfully completed a simple task.
+* **A slight pang of disappointment:** The anticipation of a hot drink is now over, and I have to wait for it to cool slightly.
+
+The kettle's automatic shut-off feature is a safety measure, but it also adds a layer of convenience and peace of mind. It allows me to focus on other things while the water heats up, knowing that it will switch off automatically when it's ready.
+"
+Gemma_2_9B_instruct,12,0.0,0.0,10,The folder sits on the desk. I feel:,"
+
+* **Curiosity:** What's inside?
+* **Hesitation:** Should I open it?
+* **Anxiety:** What if it's something bad?
+
+The folder is calling to me, but I'm afraid of what I might find.
+
+**What do I do?**
+
+This is a great example of a story prompt! Here are some ways you could continue it:
+
+**Option 1: The Bold Choice**
+
+* I take a deep breath and open the folder. My heart pounds as I see a single photograph inside. It's a picture"
+Gemma_2_9B_instruct,12,0.0,0.0,11,I hang the jacket on the hook. I feel:,"
+
+* **Relief:** It's off my shoulders, literally and figuratively. 
+* **Satisfaction:** I've accomplished a small task, and that feels good.
+* **A pang of nostalgia:** The jacket holds memories of past adventures, past versions of myself.
+
+I turn away from the hook, and the world feels a little lighter. 
+
+
+Let me know if you'd like me to expand on any of these feelings or explore them further!
+"
+Gemma_2_9B_instruct,12,0.0,0.0,12,The traffic light turns green. I feel:,"
+
+* **Excitement:** The opportunity to move forward, to reach my destination, to break free from the standstill.
+* **Relief:** The tension of waiting is gone, replaced by the smooth flow of motion.
+* **Focus:** My attention sharpens, I scan the road ahead, anticipating the next maneuver.
+* **A sense of control:** I am in the driver's seat, making decisions, guiding my path.
+
+The green light is a symbol of progress, of possibility, of the journey continuing. It's a small moment, but it evokes a cascade of"
+Gemma_2_9B_instruct,12,0.0,0.0,13,I put the keys in my pocket. I feel:,"
+
+* **A sense of accomplishment:** I've finished whatever task I was doing, and now I'm free to move on.
+* **A feeling of security:** The keys are with me, and I know I can get back into my home or car whenever I need to.
+* **A touch of anticipation:**  Where will I go next? What will I do? The keys represent the possibility of new experiences.
+
+
+What do you feel when you put your keys in your pocket?
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,14,The washing machine finishes its cycle. I feel:,"
+
+* **Relief:** The laundry is done! I can finally relax and enjoy my free time.
+* **Satisfaction:** I've accomplished a chore and my home is a little bit cleaner.
+* **A pang of guilt:** I know I should be folding the clothes right away, but I'm just so tired.
+
+I decide to put off folding for a few minutes and grab a cup of tea. The warm liquid soothes my throat and I take a deep breath, savoring the quiet moment.
+
+
+This is just a small example, of course. The emotions you feel"
+Gemma_2_9B_instruct,12,0.0,0.0,15,I stack the plates in the cupboard. I feel:,"
+
+* **A sense of accomplishment:** I've finished a task.
+* **A slight pang of boredom:** This is a repetitive task.
+* **A moment of quiet reflection:** The silence of the kitchen allows my thoughts to wander.
+
+What do you feel when you stack plates?
+"
+Gemma_2_9B_instruct,12,0.0,0.0,16,The neighbor parks his car. I feel:,"
+
+* **Relief:** The street is less crowded now.
+* **Curiosity:** Where is he going? What is he doing?
+* **Mild annoyance:** He always parks so close to my driveway.
+
+These are just some examples, and the specific feelings you experience will depend on your individual relationship with your neighbor and the context of the situation. 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,17,I turn the page of the newspaper. I feel:,"
+
+* **A sense of dread:** The headlines scream about war, famine, and disease.
+* **A flicker of hope:** A story about a local charity helping the homeless brings a smile to my face.
+* **A pang of guilt:** I realize I haven't donated to any charities lately.
+* **A surge of anger:** An article about political corruption makes me want to scream.
+* **A feeling of detachment:** I realize I'm just skimming the surface of these complex issues.
+
+
+The newspaper is a powerful tool. It can inform, inspire, and outrage"
+Gemma_2_9B_instruct,12,0.0,0.0,18,The curtain moves in the draft. I feel:,"
+
+* **A chill:** The air is moving, carrying away some of the warmth.
+* **A whisper:** The fabric rustles softly, like a secret being shared.
+* **A sense of anticipation:** Something is about to happen, something unseen.
+
+The curtain is a portal, a threshold between worlds. It invites me to look beyond, to imagine what lies on the other side. 
+
+
+What do you feel when you see a curtain move in the draft?
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,19,I plug in the phone charger. I feel:,"
+
+* **A sense of relief:** My phone is low on battery and I need it for work/communication/entertainment.
+* **A flicker of anticipation:** I wonder how long it will take to fully charge.
+* **A small pang of guilt:** I know I should be doing something more productive, but I'm just going to sit here and scroll.
+
+
+What do you feel when you plug in your phone charger?
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,20,The mailman passes by the gate. I feel:,"
+
+* **A flicker of anticipation.** Will there be a letter for me? A package? A postcard from a faraway friend?
+* **A pang of loneliness.**  The mailman is a familiar face, a brief connection to the outside world. I wonder if he has interesting stories to tell.
+* **A sense of responsibility.** I need to check the mailbox and sort through the mail. Bills to pay, invitations to RSVP, junk mail to discard.
+
+The mailman continues on his route, leaving me with a mix of emotions. The simple act of delivering mail has become"
+Gemma_2_9B_instruct,12,0.0,0.0,21,I wipe the table with a cloth. I feel:,"
+
+* **The rough texture of the cloth against my skin.**
+* **The coolness of the damp cloth.**
+* **The slight stickiness of the spilled juice.**
+* **The satisfaction of making the table clean.**
+
+These are all **sensory details** that help me to experience the act of wiping the table. 
+
+
+Let me know if you'd like me to describe another action using sensory details!
+"
+Gemma_2_9B_instruct,12,0.0,0.0,22,The computer finishes the update. I feel:,"
+
+* **Relief:** The update was long and I was worried about something going wrong.
+* **Curiosity:** What new features or improvements did the update bring?
+* **Slight apprehension:** Will the update break anything or cause unexpected issues?
+
+I click on the desktop icon to launch the program and see if everything is working as expected. 
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,23,I put the pen back in the drawer. I feel:,"
+
+* **A sense of closure:** The task is complete, and I've put the pen away where it belongs.
+* **A feeling of order:**  Putting things back in their place creates a sense of order and control.
+* **A slight sense of relief:** The pen is no longer in my hand, and I can move on to something else.
+
+
+These are just some of the feelings I might experience. Everyone is different, and the specific feelings will vary depending on the individual and the context.
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,24,The dishwasher starts its program. I feel:,"
+
+* **Relief:** No more hand-washing dishes!
+* **Contentment:** The house is clean and organized.
+* **A touch of guilt:** I know I should be doing something more productive, but the dishwasher is doing its job.
+
+I decide to use this time to relax and read a book.
+
+
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,25,I fold the map and put it away. I feel:,"
+
+* **A sense of accomplishment:** I've successfully navigated the city and found my way to my destination.
+* **A touch of sadness:** The adventure is over, and I'm returning to the familiar.
+* **A spark of curiosity:** What other hidden corners of the city are waiting to be discovered?
+
+
+I take a deep breath and enjoy the feeling of the warm sun on my skin. The city hums around me, a symphony of sounds and sights. I'm ready for whatever comes next.
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,26,The radio plays in the background. I feel:,"
+
+* **Nostalgia:** The music takes me back to a simpler time, a time before responsibilities and worries weighed me down.
+* **Melancholy:** The lyrics speak of lost love and unfulfilled dreams, reminding me of my own past heartaches and aspirations.
+* **Comfort:** The familiar melody soothes my soul, providing a sense of peace and tranquility in the midst of a chaotic world.
+
+The radio is more than just a source of entertainment; it's a window into the past, a mirror reflecting my own emotions, and a companion offering solace in times of"
+Gemma_2_9B_instruct,12,0.0,0.0,27,I switch off the corridor light. I feel:,"
+
+* **A sense of peace and quiet.** The darkness allows me to relax and unwind.
+* **A slight shiver of fear.** I'm alone in the dark, and my imagination starts to run wild.
+* **A feeling of responsibility.** I'm the one who turned off the light, so I'm responsible for making sure everything is safe.
+
+What do you feel when you switch off the light?
+
+
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,28,The receipt comes out of the machine. I feel:,"
+
+* **Relief:** The transaction is complete.
+* **Satisfaction:** I have what I wanted.
+* **A pang of guilt:** I spent money.
+
+These are just some of the emotions that a simple receipt can evoke.
+
+What emotions do you feel when you receive a receipt?
+* **Relief:** The transaction is complete.
+* **Satisfaction:** I have what I wanted.
+* **A pang of guilt:** I spent money.
+* **Curiosity:** I want to see how much I spent.
+* **Anxiety:** I worry about overspending."
+Gemma_2_9B_instruct,12,0.0,0.0,29,I set the alarm for the morning. I feel:,"
+
+* **Anxious:** I worry about what the day will bring, about deadlines, about things I need to do.
+* **Tired:** I haven't slept well, and I'm already dreading the day ahead.
+* **Resigned:** I know I have to get up, but I don't feel like it.
+
+I hit the snooze button.
+
+**What happens next?**
+
+This is a story prompt. What happens next depends on your imagination! Here are some possibilities:
+
+* **The alarm goes off again, and you drag yourself out"
+Gemma_2_9B_instruct,12,0.0,0.0,30,The train doors open at the platform. I feel:,"
+
+* **A rush of anticipation:** I'm finally here, ready to start my adventure.
+* **A wave of relief:** The journey was long, and I'm glad to be off the train.
+* **A sense of excitement:** I don't know what awaits me, but I'm eager to find out.
+* **A touch of nervousness:** Will I find what I'm looking for? Will I be able to navigate this new place?
+
+As I step onto the platform, I take a deep breath and let the world wash over me. The"
+Gemma_2_9B_instruct,12,0.0,0.0,31,I refill the stapler with staples. I feel:,"
+
+* **A sense of accomplishment:** I've fixed a small problem and made something functional again.
+* **A touch of satisfaction:**  It's a simple task, but it feels good to be helpful and efficient.
+* **A fleeting moment of mindfulness:** I'm focused on the present action, the feel of the staples, the click of the stapler.
+
+
+What do you feel when you refill a stapler? 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,32,The photocopier warms up. I feel:,"
+
+* **Anticipation:**  A fresh sheet of paper, crisp and white, awaits. What will I create?
+* **Nostalgia:** The whirring and clicking sounds evoke memories of school assignments, late-night study sessions, and the satisfying click of a perfectly copied page.
+* **A touch of anxiety:** Will the copy be clear? Will the toner run out mid-job? Will I accidentally make a double-sided copy when I only wanted one?
+
+The photocopier hums to life, and I take a deep breath, ready to begin. 
+
+
+Let"
+Gemma_2_9B_instruct,12,0.0,0.0,33,I water the plant on the windowsill. I feel:,"
+
+* **Contentment:**  Taking care of something living brings a sense of peace and responsibility.
+* **Connection to nature:** Even a small plant reminds me of the natural world and its cycles.
+* **Hope:** Watching the plant grow symbolizes growth and new beginnings.
+
+What feelings do you experience when you water a plant?
+"
+Gemma_2_9B_instruct,12,0.0,0.0,34,The calendar hangs on the wall. I feel:,"
+
+* **A sense of dread:** The days are ticking by, and I'm not getting closer to my goals.
+* **Anxiety:** I have so much to do, and I'm not sure if I can get it all done.
+* **Overwhelm:** The sheer number of tasks and appointments staring back at me is suffocating.
+* **A longing for control:** I want to be in charge of my time, but it feels like time is in control of me.
+
+The calendar is a constant reminder of my responsibilities and the pressure to perform. It"
+Gemma_2_9B_instruct,12,0.0,0.0,35,I tie my shoelaces before going out. I feel:,"
+
+* **Prepared:**  Tying my shoelaces makes me feel ready to face the day and whatever it throws at me. 
+* **In control:** It's a small act of self-sufficiency that gives me a sense of control over my environment.
+* **Grounded:** The physical act of tying the knots helps me feel more grounded and present in the moment.
+
+What about you? What feelings do you experience when you tie your shoelaces?
+"
+Gemma_2_9B_instruct,12,0.0,0.0,36,The bread is on the counter. I feel:,"
+
+* **Hungry:** My stomach growls, reminding me of the delicious aroma wafting from the freshly baked loaf.
+* **Content:** The sight of the golden-brown bread brings a sense of satisfaction and warmth.
+* **Anticipation:** I can't wait to take a bite and savor the taste of the crust and the soft, fluffy interior.
+* **Gratitude:** I appreciate the effort that went into making this bread, whether it was my own or someone else's.
+
+
+These are just a few examples, of course. The specific feelings you experience will depend"
+Gemma_2_9B_instruct,12,0.0,0.0,37,I check the mailbox on my way in. I feel:,"
+
+* **Excitement:** Maybe there's a letter from a friend, a package I've been waiting for, or even a surprise!
+* **Anticipation:** I wonder what's inside. Is it something important? Something fun?
+* **Curiosity:** I want to know what's waiting for me.
+
+I open the mailbox and see:
+
+* **A stack of bills:** I sigh. This is not what I was hoping for.
+* **A junk mail flyer:** I toss it aside. Not useful.
+* **A handwritten letter:** My"
+Gemma_2_9B_instruct,12,0.0,0.0,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **A gentle breeze:** The air movement is subtle, barely noticeable at first.
+* **A slight coolness:** The air feels slightly cooler than the surrounding air, but not drastically so.
+* **A sense of movement:** The slow rotation creates a subtle sense of motion, even though the breeze is gentle.
+* **A feeling of calm:** The gentle breeze and the rhythmic rotation can be soothing and relaxing.
+
+
+The slow rotation of the fan creates a subtle and calming atmosphere. It's not a powerful breeze, but it's enough to create a sense of movement and"
+Gemma_2_9B_instruct,12,0.0,0.0,39,I sort the cutlery into the tray. I feel:,"
+
+* **A sense of order and accomplishment:**  Even a small task like this can feel satisfying when it's done well.
+* **A connection to routine:**  This is a familiar action, part of a larger daily rhythm.
+* **A moment of mindfulness:**  Focusing on the feel of the cutlery, the weight of the tray, the sound of them clinking together, brings me into the present moment.
+
+What do you feel when you sort cutlery into a tray?
+"
+Gemma_2_9B_instruct,12,0.0,0.0,40,The bicycle leans against the wall. I feel:,"
+
+* **A sense of nostalgia:**  Bicycles often evoke memories of childhood, freedom, and simpler times.
+* **A longing for adventure:** The bicycle represents a means of exploration and travel, inviting me to imagine new places and experiences.
+* **A connection to the physical world:**  The bicycle is a tangible object, a reminder of the joy of movement and the beauty of the natural world.
+* **A sense of possibility:** The bicycle stands ready, waiting to be ridden. It symbolizes the potential for new beginnings and exciting journeys.
+
+
+What feelings does the bicycle evoke in"
+Gemma_2_9B_instruct,12,0.0,0.0,41,I zip up my bag before leaving. I feel:,"
+
+* **Excited:** I'm finally going on this adventure! I've been planning this trip for months, and I can't wait to see everything.
+* **Nervous:** What if I get lost? What if I don't like the food? What if I meet someone dangerous?
+* **Ready:** I've packed everything I need, I know where I'm going, and I'm ready to face whatever comes my way.
+
+I take a deep breath and step out the door. The world is waiting.
+
+
+What happens next? 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,42,The clock ticks in the hallway. I feel:,"
+
+* **Anxious:** The ticking seems to echo my own racing thoughts.
+* **Impatient:** Each tick feels like a minute wasted, a step closer to whatever I'm dreading.
+* **Aware:** I'm hyper-focused on the sound, unable to ignore it.
+
+The clock is a symbol of time passing, and in this moment, it feels like time is both standing still and rushing by.
+
+
+What are you feeling?
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The rough texture of the wood against my fingers.**
+* **The satisfying scrape of the metal against the graphite.**
+* **The faint scent of cedarwood.**
+* **The anticipation of creating something new.**
+
+The shavings fall into the bin, a cascade of grey whispers. Each one a tiny testament to the potential for creation. 
+
+What will I create with this sharpened point? A story? A poem? A drawing? The possibilities are endless. 
+"
+Gemma_2_9B_instruct,12,0.0,0.0,44,The window cleaner works across the street. I feel:,"
+
+* **A sense of normalcy:**  It's a familiar sight, a routine part of the day. It reminds me that life goes on, even when I'm feeling stuck.
+* **A touch of envy:**  He's out there, active and engaged with the world. I'm stuck inside, maybe feeling a bit stagnant.
+* **A spark of curiosity:**  I wonder about his life. What's it like to be a window cleaner? Does he enjoy his job?
+
+The window cleaner is just a small detail in my day, but it"
+Gemma_2_9B_instruct,12,0.0,0.0,45,The room measures four meters by five. I feel:,"
+
+* **Small:** The room is quite compact, and I feel a sense of being enclosed.
+* **Cozy:** Despite the small size, the room feels intimate and inviting.
+* **Limited:** There isn't much space to move around or spread out.
+* **Functional:** The room is likely well-suited for a single person or a small family.
+
+Overall, the room feels like a comfortable and manageable space, despite its modest dimensions.
+"
+Gemma_2_9B_instruct,12,0.0,0.0,46,The train consists of six carriages. I feel:,"
+
+* **A sense of anticipation:** The journey is about to begin, and I'm excited to see where it will take me.
+* **A feeling of being enclosed:** The walls of the carriage feel close, and I'm aware of the other passengers around me.
+* **A slight tremor of unease:** The train is moving, and I'm not used to this kind of motion.
+
+I look out the window and see:
+
+* **A blur of colors:** The landscape is rushing past, a kaleidoscope of greens, browns, and blues.
+*"
+Gemma_2_9B_instruct,12,0.0,0.0,47,The manual consists of forty pages. I feel:,"
+
+* **Excited:** I'm eager to learn about the subject matter and how to use the product.
+* **Slightly overwhelmed:** Forty pages is a lot of information to absorb at once.
+* **Determined:** I'm going to take my time and read through the manual carefully.
+
+
+How do you feel about reading a forty-page manual?
+
+"
+Gemma_2_9B_instruct,12,0.0,0.0,48,The bottle holds one liter of water. I feel:,"
+
+* **Fullness:** The bottle is heavy and feels substantial in my hand.
+* **Coolness:** The water inside is refreshing and cool to the touch.
+* **Potential:** The water inside has the potential to quench my thirst, nourish my body, and keep me hydrated.
+
+I can also imagine:
+
+* **The sound:** The gentle clinking of the bottle against a surface.
+* **The taste:** The crisp, clean taste of the water.
+* **The feeling:** The satisfaction of taking a long, cool drink.
+
+
+Let me know if you'"
+Gemma_2_9B_instruct,12,0.0,0.0,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Confident:** I know I have enough time to enjoy the experience.
+* **Slightly anxious:** I don't want to rush, but I also don't want to miss anything.
+* **Motivated:** I want to make the most of my ninety minutes.
+
+
+How do you feel?
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,0,I put the receipts in the drawer. I feel:,"
+
+* **Relief:** The weight of remembering to keep track of them is lifted.
+* **Organization:** My space feels a little tidier.
+* **A sense of accomplishment:** I completed a small task.
+
+But I also feel a little:
+
+* **Empty:** The act of putting them away feels a bit meaningless.
+* **Unfulfilled:** I wonder if there's something more I should be doing with them.
+
+These are just my feelings, of course. What do you feel when you put receipts in the drawer?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,1,The bus stops at the corner of the street. I feel:,"
+
+* **A jolt of excitement:** I'm finally here! After weeks of anticipation, I'm in the city, ready to explore.
+* **A pang of nervousness:** Will I find my way around? Will I make friends? Will I be able to handle everything this city throws at me?
+* **A wave of gratitude:** I'm so thankful for the opportunity to be here. This is a dream come true.
+
+The bus doors open, and I step out onto the bustling sidewalk. The air is thick with the smell of exhaust fumes and street food. The"
+Gemma_2_9B_instruct,12,0.5,0.4133,2,I fill out the form with my address. I feel:,"
+
+* **Vulnerable:** Exposing my location feels like opening a door to the unknown.
+
+* **Exposed:** My privacy feels compromised, as if someone could now easily find me.
+
+* **Anxious:** I worry about potential consequences, like unwanted attention or even danger.
+
+These feelings are natural and understandable. Sharing your address can feel risky, especially in an online context where anonymity is often valued. 
+
+It's important to remember:
+
+* **You have control:** You choose who you share your address with and for what purpose.
+* **Be mindful:** Consider the"
+Gemma_2_9B_instruct,12,0.5,0.4133,3,The printer produces the ten pages. I feel:,"
+
+* **A sense of accomplishment:** I've completed a task, and it feels good.
+* **A surge of motivation:** Seeing the tangible result of my work inspires me to keep going.
+* **A touch of anxiety:** What if these pages aren't good enough? What if they don't meet expectations?
+
+These are just some of the emotions I experience when the printer produces ten pages. It's a complex mix of feelings, both positive and negative, that highlight the human experience of creation and the vulnerability that comes with it.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,4,I place the glasses on the middle shelf. I feel:,"
+
+* **A sense of accomplishment:** I successfully completed the task.
+* **A feeling of order:** The glasses are now in their designated place, contributing to the overall organization of the space.
+* **A moment of quiet satisfaction:** The simple act of putting things away can be surprisingly calming.
+
+
+Let me know if you'd like me to describe any other actions or sensations!
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Excited:** I've been looking forward to this meeting for a while and I'm eager to see what comes out of it.
+* **Nervous:** I'm worried about making a good impression and contributing meaningfully to the discussion.
+* **Prepared:** I've done my research and I have a clear understanding of the topics that will be discussed.
+
+Overall, I'm feeling a mix of emotions, but I'm confident that I'll be able to handle myself well.
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,6,I close the window before leaving the room. I feel:,"
+
+* **A sense of closure:** I've finished what I needed to do in that space and I'm moving on.
+* **A feeling of control:** I'm taking an active step to ensure the room is secure and comfortable for when I return.
+* **A touch of ritual:** This small act becomes a part of my routine, a way to mark the transition between tasks and spaces.
+
+It's a simple action, but it carries a weight of meaning for me.
+
+
+What about you? What feelings do you experience when you close a window?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,7,The elevator arrives at the third floor. I feel:,"
+
+* **A slight jolt as the car comes to a stop.**
+* **A shift in my weight distribution as the doors slide open.**
+* **A rush of cool air if the floor is unoccupied.**
+* **A wave of anticipation as I step out, ready to face whatever awaits.**
+
+The experience is brief, but it's a tangible reminder of the journey I've taken and the new level I'm about to reach.
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,8,I write the date at the top of the page. I feel:,"
+
+* **Grounded:**  It anchors me to the present moment.
+* **Organized:** It helps me track my thoughts and ideas chronologically.
+* **Motivated:**  Seeing the date reminds me that time is precious and I should make the most of it.
+
+What about you? Do you write the date at the top of your pages? What feelings or thoughts does it evoke for you?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,9,The kettle switches itself off. I feel:,"
+
+* **Relief:** The water is finally at the right temperature. No more waiting, no more worrying about it boiling over.
+* **Satisfaction:** I've successfully completed a simple task. It's a small victory, but it feels good.
+* **A sense of anticipation:** The kettle is off, but now the real work begins. I can finally make my cup of tea.
+
+The kettle's automatic shut-off feature is a small but significant convenience. It takes the guesswork out of boiling water and frees me up to focus on other things.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,10,The folder sits on the desk. I feel:,"
+
+* **Curiosity:** What's inside? What secrets does it hold?
+* **Hesitation:** Should I open it? What if it's something I don't want to see?
+* **Intrigue:** The plain folder doesn't give anything away. What kind of information could be so important that it needs to be hidden?
+
+My hand hovers over the folder. The decision is mine. Do I open it and face whatever lies within, or do I leave it closed, forever wondering?
+
+
+This is a great start to a story! It sets up"
+Gemma_2_9B_instruct,12,0.5,0.4133,11,I hang the jacket on the hook. I feel:,"
+
+* **A sense of relief:** It's off my shoulders, literally and figuratively. The weight of the day, the anxieties, the burdens, all seem to lessen.
+* **A pang of nostalgia:** The jacket holds memories. Each thread whispers stories of past adventures, laughter, and maybe even a few tears.
+* **A flicker of anticipation:**  What new experiences will this jacket witness? What stories will it gather tomorrow?
+
+The jacket, a simple garment, becomes a symbol of my journey, a tangible reminder of who I am and where I've been."
+Gemma_2_9B_instruct,12,0.5,0.4133,12,The traffic light turns green. I feel:,"
+
+* **Excitement:** The opportunity to move forward, to progress, to reach my destination.
+* **Anticipation:** What lies ahead? What new experiences await?
+* **Determination:** I will seize this moment and make the most of it.
+
+The green light is a symbol of hope, of possibility, of a fresh start. It's a reminder that even after a period of waiting, there is always the chance to move forward.
+
+
+What do you feel when the traffic light turns green?
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,13,I put the keys in my pocket. I feel:,"
+
+* **A sense of security:** Knowing I have the keys to my home, car, or whatever they unlock, gives me a feeling of control and safety.
+* **A weight:**  Keys can be surprisingly heavy, especially if they have multiple attachments. This physical weight can be a reminder of responsibility.
+* **A texture:** The smooth metal or rough plastic of the keys against my skin provides a tactile sensation.
+* **A potential:** The keys represent access to different places and experiences. They hold the promise of adventure, comfort, or simply getting home.
+
+
+The feeling of"
+Gemma_2_9B_instruct,12,0.5,0.4133,14,The washing machine finishes its cycle. I feel:,"
+
+* **Relief:** The chore is done, the laundry is clean, and I can move on to other things.
+* **Satisfaction:** I accomplished something useful and necessary.
+* **A touch of melancholy:** The cycle is over, and the quiet hum of the machine is gone.
+
+It's a strange mix of emotions, but it's a feeling I've come to associate with the end of a washing machine cycle. It's a small moment of reflection, a pause before the next task begins.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,15,I stack the plates in the cupboard. I feel:,"
+
+* **A sense of accomplishment:** I've finished a task, even a small one.
+* **A feeling of order:** The cupboard is now neat and tidy.
+* **A moment of quiet:** The kitchen is still, and I can hear my own thoughts.
+
+These are the small joys of everyday life. They may seem insignificant, but they add up to make life richer and more meaningful.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,16,The neighbor parks his car. I feel:,"
+
+* **Relief:** The street is less crowded, and I can see my house better.
+* **Curiosity:** Where is he going? What is he doing?
+* **Judgment:** His car is messy, his driving is reckless, he's always loud.
+
+These are just examples, and the specific feelings you experience will depend on your individual relationship with your neighbor and your own personal biases.
+
+It's important to be aware of the different emotions you feel towards your neighbor and to try to understand why you feel them. This can help you to build a better relationship with"
+Gemma_2_9B_instruct,12,0.5,0.4133,17,I turn the page of the newspaper. I feel:,"
+
+* **A slight rustle of paper.**
+* **The coolness of the newsprint against my fingertips.**
+* **A shift in the light as the page reflects differently.**
+
+These are all sensory experiences that I, as a large language model, can't actually feel. I can only process and understand the information that is given to me about these experiences.
+
+But I can use that information to create a vivid description for you.
+
+What else would you like to know about turning the page of a newspaper?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,18,The curtain moves in the draft. I feel:,"
+
+* **A chill:** The air is colder where the curtain is moving.
+* **A whisper:** The fabric brushing against itself makes a soft sound.
+* **A shift:** The light in the room changes slightly as the curtain blocks or reveals a window.
+
+These are just some of the sensations I might experience if a curtain moved in a draft.
+
+It's a subtle reminder of the unseen forces at work in the world around us.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,19,I plug in the phone charger. I feel:,"
+
+* **A slight warmth** from the charger itself.
+* **A gentle vibration** as the phone connects.
+* **A sense of relief** knowing my phone won't die.
+
+These are all physical and emotional sensations I experience when plugging in my phone charger.
+
+What about you? What do you feel when you plug in your phone charger?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,20,The mailman passes by the gate. I feel:,"
+
+* **A surge of anticipation:** Will it be a letter from a friend? A long-awaited package?
+* **A pang of disappointment:** Another bill, another junk mail flyer.
+* **A fleeting sense of connection:** A tangible reminder that the world extends beyond my own walls.
+
+The mailman, a silent observer of our lives, carries with him the weight of our hopes and disappointments. He is a messenger, a conduit between the inside and the outside world.
+
+And in that brief moment, as he passes by, I am reminded of the interconnectedness of all things"
+Gemma_2_9B_instruct,12,0.5,0.4133,21,I wipe the table with a cloth. I feel:,"
+
+* **The smooth surface of the wood.**
+* **The dampness of the cloth.**
+* **The faint scent of lemon cleaner.**
+
+I am a large language model, so I don't have physical sensations. But I can access and process information about the world, including descriptions of how things feel.
+
+What do you feel when you wipe a table?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,22,The computer finishes the update. I feel:,"
+
+* **A sense of relief:** The update was long and tedious, and I'm glad it's finally over.
+* **A flicker of excitement:** Maybe this update brings new features or improvements that I'll enjoy.
+* **A twinge of anxiety:** What if the update broke something? What if it introduced new bugs?
+
+I click on the desktop icon to launch the program. It opens... slowly.
+
+**The screen flickers, then displays a message:**
+
+""An error has occurred. Please try again later.""
+
+My heart sinks.
+
+**The"
+Gemma_2_9B_instruct,12,0.5,0.4133,23,I put the pen back in the drawer. I feel:,"
+
+* **Relief:** The pressure of writing is off.
+* **Uncertainty:** What will I write next?
+* **A flicker of inspiration:** Maybe a new idea is brewing.
+
+The pen is a tool, waiting to be used. It can be a source of joy, frustration, and everything in between. But for now, it rests. 
+
+
+What do you feel when you put a pen down?
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,24,The dishwasher starts its program. I feel:,"
+
+* **A gentle hum:** The motor starts to spin, creating a low, constant sound.
+* **A slight vibration:** The dishwasher moves slightly as it operates, a subtle tremor against the countertop.
+* **A warm sensation:** The water inside begins to heat up, radiating a faint warmth through the metal walls.
+
+As the program progresses, I experience:
+
+* **The rush of water:** The spray arms activate, sending jets of water cascading through the dishes.
+* **The clatter of dishes:** The dishes bump against each other as they are cleaned, creating a rhythmic clatter"
+Gemma_2_9B_instruct,12,0.5,0.4133,25,I fold the map and put it away. I feel:,"
+
+* **A sense of accomplishment:** I've successfully navigated the unfamiliar territory.
+* **A touch of sadness:** The journey is over, and I'll miss the thrill of exploration.
+* **A spark of anticipation:** What new adventures await me?
+
+The map, now folded and tucked away, represents more than just a guide. It symbolizes the journey itself, the challenges overcome, and the lessons learned. 
+
+It reminds me that even when I'm not actively exploring, the spirit of adventure lives within me, ready to be rekindled whenever I choose."
+Gemma_2_9B_instruct,12,0.5,0.4133,26,The radio plays in the background. I feel:,"
+
+* **Nostalgia:** The song takes me back to a specific time and place, a memory floods back.
+* **Melancholy:** The lyrics resonate with my current feelings, amplifying my sadness.
+* **Joy:** The upbeat tempo and familiar melody lift my spirits, bringing a smile to my face.
+* **Empathy:** The song's message speaks to a universal experience, making me feel connected to others.
+
+The radio is a powerful tool, capable of evoking a wide range of emotions. It can transport us to different times and places, connect us to others"
+Gemma_2_9B_instruct,12,0.5,0.4133,27,I switch off the corridor light. I feel:,"
+
+* **A sense of peace and quiet:** The darkness allows me to escape the constant hum of the fluorescent lights and the noise of the hallway.
+* **A feeling of vulnerability:** I am acutely aware of my surroundings in the dark, and I feel exposed and unprotected.
+* **A spark of excitement:** There's something thrilling about navigating in the dark, relying on my senses and intuition.
+
+The darkness is a powerful force, capable of both comfort and fear. It's a reminder of the duality of human experience.
+
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,28,The receipt comes out of the machine. I feel:,"
+
+* **Relief:** The transaction is complete.
+* **Confirmation:** The receipt proves I made the purchase.
+* **A pang of guilt:** I spent money.
+
+These are just some of the complex emotions that can arise from receiving a receipt.
+
+What about you? What emotions do you feel when you receive a receipt?
+* **Satisfaction:** I got what I wanted!
+* **Anxiety:** Did I spend too much?
+* **Curiosity:** What does this receipt tell me about myself?
+
+Let's explore the psychology behind these feelings.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,29,I set the alarm for the morning. I feel:,"
+
+* **Anxious:** I worry about oversleeping and missing something important.
+* **Excited:** I'm looking forward to the day ahead and all the possibilities it holds.
+* **Dreading:** I'm tired and would rather stay in bed.
+
+These are all normal feelings. It's okay to feel a mix of emotions about waking up.
+
+What are your feelings about waking up in the morning?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,30,The train doors open at the platform. I feel:,"
+
+* **A rush of cool air** against my face, a welcome change from the stuffy carriage.
+* **The rumble of the train** fading as it pulls away, leaving a sense of quiet anticipation.
+* **A wave of noise** as the platform comes alive with announcements, chatter, and the clatter of luggage.
+* **A surge of excitement** as I step onto the platform, ready to begin my journey.
+
+The platform is bustling with activity. People rush past, their faces a blur of expressions. I navigate the crowd, my senses overwhelmed by the sights, sounds"
+Gemma_2_9B_instruct,12,0.5,0.4133,31,I refill the stapler with staples. I feel:,"
+
+* **A sense of accomplishment:** I've fixed something that wasn't working properly.
+* **A feeling of control:** I've taken charge of a small task and completed it successfully.
+* **A moment of mindfulness:** I'm present in the moment, focusing on the simple act of refilling the stapler.
+
+It's amazing how even the smallest tasks can bring a sense of satisfaction.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,32,The photocopier warms up. I feel:,"
+
+* **A slight hum:** The motor starts to whir, a low, constant sound that fills the air.
+* **A faint warmth:** The machine itself begins to radiate a gentle heat, a comforting presence against my fingertips.
+* **A flicker of anticipation:** The green power light blinks, a promise of the crisp, clear copies to come.
+
+The photocopier is more than just a machine; it's a portal to duplication, a vessel of information. It holds the power to preserve memories, to spread knowledge, and to create countless versions of the original.
+
+As"
+Gemma_2_9B_instruct,12,0.5,0.4133,33,I water the plant on the windowsill. I feel:,"
+
+* **The cool, smooth surface of the pot** beneath my fingertips.
+* **The weight of the watering can** in my hand, a familiar comfort.
+* **The gentle splash of water** as it hits the soil, a soothing sound.
+* **The faint scent of damp earth** rising from the pot, a reminder of life.
+
+As I watch the water seep into the soil, I feel a sense of peace and connection. I am nurturing something, giving it life. It is a small act, but it fills me with a quiet joy.
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,34,The calendar hangs on the wall. I feel:,"
+
+* **A sense of dread:** Each day feels like a weight, a reminder of time passing and goals unachieved.
+* **Anxiety:** The future feels uncertain, and the calendar highlights the upcoming deadlines and commitments that loom over me.
+* **Pressure:** The blank spaces on the calendar seem to scream, ""Fill me!"" and I feel obligated to cram every moment with activity.
+
+The calendar, meant to be a tool for organization and planning, has become a source of stress and anxiety.
+
+**What can I do?**
+
+* **Reframe my relationship with the calendar"
+Gemma_2_9B_instruct,12,0.5,0.4133,35,I tie my shoelaces before going out. I feel:,"
+
+* **More confident:** Knowing my shoes are secure gives me a sense of stability and control.
+* **More prepared:** I'm less likely to trip or stumble, which can be embarrassing and inconvenient.
+* **More organized:** It's a small act of self-discipline that sets the tone for the rest of the day.
+
+It's a simple habit, but it makes a difference for me.
+
+What about you? Do you tie your shoelaces before going out? Why or why not?
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,36,The bread is on the counter. I feel:,"
+
+* **A sense of accomplishment:** I made it myself!
+* **A pang of sadness:** It won't last forever.
+* **A surge of anticipation:** I can't wait to taste it.
+
+The bread is a symbol of so much more than just food. It represents:
+
+* **Nourishment:** It sustains me physically.
+* **Comfort:** It reminds me of home and family.
+* **Sharing:** It brings people together.
+
+The bread is a simple thing, yet it holds so much meaning.
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,37,I check the mailbox on my way in. I feel:,"
+
+* **A surge of excitement:** I see a letter addressed to me in a beautiful, flowing script. It's from someone I haven't heard from in years, and I can't wait to see what they have to say.
+* **A pang of disappointment:** The mailbox is empty. I had been hoping for a letter from a friend who is moving away, and now I feel a little sad that they haven't written yet.
+* **A sense of relief:** I see a bill in the mailbox. It's something I've been dreading,"
+Gemma_2_9B_instruct,12,0.5,0.4133,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **A gentle breeze:** It's not enough to cool me down significantly, but it does create a slight movement of air.
+* **A sense of movement:** Even though the breeze is weak, the slow rotation of the fan creates a feeling of air circulation, which can be comforting.
+* **A visual distraction:** The slow, rhythmic movement of the fan blades can be a calming visual distraction, especially if I'm feeling restless or anxious.
+
+Overall, the slow-rotating fan provides a subtle and comforting presence. It's not a powerful cooling device, but it"
+Gemma_2_9B_instruct,12,0.5,0.4133,39,I sort the cutlery into the tray. I feel:,"
+
+* **A sense of order:** The tray is now neat and organized, and the cutlery is in its designated place.
+* **A feeling of accomplishment:** I have completed a small task, and it feels good to have crossed it off my to-do list.
+* **A moment of peace:** The simple act of sorting cutlery can be surprisingly calming. It allows me to focus on the present moment and clear my mind of other thoughts.
+
+These are just a few of the feelings I experience when I sort cutlery into a tray. It may seem like a mundane task, but it"
+Gemma_2_9B_instruct,12,0.5,0.4133,40,The bicycle leans against the wall. I feel:,"
+
+* **A pang of longing:** For the freedom it represents, the wind in my hair, the sun on my face.
+* **A sense of loss:** For the days when I could effortlessly glide through the streets, exploring new places.
+* **A flicker of hope:** That one day, I might be able to ride again.
+
+The bicycle is more than just a machine. It's a symbol of my past, my present, and my future. It reminds me of who I was, who I am, and who I want to be.
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,41,I zip up my bag before leaving. I feel:,"
+
+* **Excited:** I'm finally going to meet my friends! I've been looking forward to this all week.
+* **Nervous:** What if they don't like me? What if I say something stupid?
+* **Confident:** I'm a great person, and I know they'll like me.
+
+I take a deep breath and walk out the door.
+
+
+What happens next? 
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,42,The clock ticks in the hallway. I feel:,"
+
+* **Anxious:** The ticking seems to amplify, each second a hammer blow against my chest.
+* **Restless:** I pace, unable to sit still, the rhythm of the clock mirroring my own unease.
+* **Isolated:** The ticking is a constant reminder of my solitude, a stark counterpoint to the silence around me.
+
+The clock is a cruel mistress, reminding me of the passage of time, of deadlines missed, of moments lost. It mocks my anxieties, amplifying my feelings of inadequacy.
+
+But perhaps, just perhaps, I can learn to see it"
+Gemma_2_9B_instruct,12,0.5,0.4133,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The satisfying scrape of graphite against the metal sharpener.**
+* **The slight pressure of the pencil as it spins.**
+* **The anticipation of a fresh, sharp point ready to create.**
+
+But I also feel:
+
+* **A pang of sadness as the perfect point is lost.**
+* **A sense of loss as the pencil shrinks, its potential diminished.**
+* **A reminder of the fleeting nature of perfection.**
+
+Sharpening a pencil is a paradox. It is both a creation and a destruction. It is a symbol of progress and a reminder of imperman"
+Gemma_2_9B_instruct,12,0.5,0.4133,44,The window cleaner works across the street. I feel:,"
+
+* **A sense of connection:** Even though we don't know each other, seeing him work every day creates a feeling of shared experience. It's like we're both part of the same neighborhood rhythm.
+* **A sense of peace:** Watching him methodically clean the windows brings a sense of order and cleanliness to the world. It's a small but comforting reminder that things can be made better.
+* **A sense of curiosity:** I wonder about his life, his family, his reasons for choosing this job. He becomes a silent character in my daily story."
+Gemma_2_9B_instruct,12,0.5,0.4133,45,The room measures four meters by five. I feel:,"
+
+* **Small:** The room feels cramped and suffocating.
+* **Isolated:** The small size makes me feel alone and disconnected.
+* **Limited:** My options for movement and activity are restricted.
+
+The room's dimensions, while seemingly insignificant, have a profound impact on my emotional and psychological well-being.
+
+
+
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,46,The train consists of six carriages. I feel:,"
+
+* **A sense of community:** Being surrounded by people going to the same destination creates a shared experience.
+* **A feeling of progress:** Watching the scenery blur by makes me feel like I'm moving forward in life.
+* **A moment of peace:** The rhythmic clatter of the train tracks and the gentle rocking motion can be surprisingly calming.
+
+However, I also experience:
+
+* **A touch of claustrophobia:** Being confined in a small space with so many people can feel overwhelming at times.
+* **A pang of loneliness:** Despite being surrounded by people, I"
+Gemma_2_9B_instruct,12,0.5,0.4133,47,The manual consists of forty pages. I feel:,"
+
+* **Overwhelmed:** Forty pages is a lot to take in at once.
+* **Intimidated:** I'm not sure I have the knowledge or skills to understand everything in the manual.
+* **Frustrated:** I might get stuck on a particular section and not know how to move forward.
+
+**How can I approach this manual in a more manageable way?**
+
+
+Here are some tips for tackling a 40-page manual:
+
+**1. Break it down:**
+
+* **Divide and conquer:** Split the manual into smaller, more digestible chunks. Maybe"
+Gemma_2_9B_instruct,12,0.5,0.4133,48,The bottle holds one liter of water. I feel:,"
+
+* **Fullness:** My stomach feels stretched and satisfied.
+* **Weight:** I feel a noticeable heaviness in my abdomen.
+* **Pressure:** There's a gentle pressure against my stomach wall.
+
+These sensations are all normal and expected when drinking a liter of water. It's important to stay hydrated, and listening to your body's cues can help you determine how much water you need.
+"
+Gemma_2_9B_instruct,12,0.5,0.4133,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Confident:** I know I have enough time to enjoy the experience.
+* **Pressured:** I feel like I need to rush through everything.
+* **Anxious:** I worry about running out of time.
+
+How do you feel about a ninety-minute ticket?
+
+
+
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,0,I put the receipts in the drawer. I feel:,"
+
+* **Relief:** The weight of the secret is lifted, even if only temporarily.
+* **Shame:** I know I shouldn't have done it, and the guilt lingers.
+* **Fear:** What if someone finds out? The thought of exposure is terrifying.
+
+The cycle repeats. I try to justify my actions, convince myself it's not that bad, but the truth remains.
+
+I'm trapped in a web of my own making, and I don't know how to escape.
+
+
+This is a glimpse into the internal struggle of someone battling with a secret"
+Gemma_2_9B_instruct,12,1.0,0.8266,1,The bus stops at the corner of the street. I feel:,"
+
+* **A pang of loneliness:** The familiar ache of being alone, even in a crowded place.
+* **A rush of anxiety:** The fear of the unknown, the uncertainty of what comes next.
+* **A wave of sadness:** The longing for something more, a sense of emptiness.
+
+But then, something shifts.
+
+A hand reaches out, warm and reassuring. A voice whispers, ""You're not alone.""
+
+I look up and see a face, filled with kindness and understanding.
+
+The loneliness fades, replaced by a flicker of hope. The anxiety subsides"
+Gemma_2_9B_instruct,12,1.0,0.8266,2,I fill out the form with my address. I feel:,"
+
+* **Exposed:** Like my privacy is violated.
+* **Vulnerable:** As if I've given someone a weapon to hurt me.
+* **Anxious:** Worried about what they'll do with my information.
+
+These feelings are amplified if the form is for something personal, like a dating app or a job application.
+
+**Why do I feel this way?**
+
+This intense reaction stems from a deep-seated fear of:
+
+* **Rejection:** The thought of being judged or discarded based on my address is terrifying.
+* **Loss of control:** Giving"
+Gemma_2_9B_instruct,12,1.0,0.8266,3,The printer produces the ten pages. I feel:,"
+
+* **Frustrated:** I put in so much effort, and it feels like it's all for nothing.
+* **Discouraged:** I doubt my abilities and wonder if I'm even capable of doing anything right.
+* **Lonely:** I feel isolated and like no one understands what I'm going through.
+
+These feelings are intense and overwhelming. It's like being trapped in a dark, suffocating room with no escape.
+
+But even in the darkest of times, there is always a glimmer of hope.
+
+I know that I am not alone in this."
+Gemma_2_9B_instruct,12,1.0,0.8266,4,I place the glasses on the middle shelf. I feel:,"
+
+* **A sense of accomplishment:** I successfully completed the task.
+* **A feeling of order:** The glasses are now in their designated place.
+* **A moment of peace:** The act of putting them away brings a brief sense of calm.
+
+But then, I realize something is missing. The glasses are just objects. They don't bring me joy, they don't fill the void.
+
+I reach for another glass, hoping to fill the emptiness.
+
+
+This is a metaphor for the cycle of addiction. The initial high of accomplishment quickly fades, leaving behind a deeper"
+Gemma_2_9B_instruct,12,1.0,0.8266,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Anxious:** I'm worried about what they'll think of me, if I'll say the wrong thing, or if I'll mess up.
+* **Overwhelmed:** I have so much to prepare for, and I'm not sure if I'm doing enough.
+* **Isolated:** I feel like I'm carrying this burden alone, and I don't have anyone to talk to about it.
+
+These feelings are intense and debilitating. I need to find a way to cope with them.
+
+**What can I do to manage these"
+Gemma_2_9B_instruct,12,1.0,0.8266,6,I close the window before leaving the room. I feel:,"
+
+* **A sense of relief:** The weight of the world seems to lift slightly.
+
+* **A surge of energy:** I feel empowered and ready to face whatever comes next.
+
+* **A pang of guilt:** I wonder if I've hurt someone by leaving.
+
+* **A flicker of doubt:** I question my decision and wonder if I should have stayed.
+
+These are just some of the complex emotions I experience when I close a window before leaving a room. It's a reminder that even seemingly simple actions can have profound and lasting consequences.
+
+
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,7,The elevator arrives at the third floor. I feel:,"
+
+* **A rush of excitement:** I'm finally here! I've been waiting for this moment for so long.
+
+* **A pang of anxiety:** What if I'm not good enough? What if I mess up?
+
+* **A sense of belonging:** This is where I'm supposed to be. This is where I fit in.
+
+The doors slide open, revealing a bustling hallway. People rush past, their faces a blur. I stand there, frozen, trying to process everything.
+
+The third floor is a place of contradictions. It's both exhilarating"
+Gemma_2_9B_instruct,12,1.0,0.8266,8,I write the date at the top of the page. I feel:,"
+
+* **Grounded:** It anchors me to the present moment, reminding me of where I am in time.
+* **Organized:** It helps me track my thoughts and ideas chronologically, making it easier to revisit and understand my progress.
+* **Motivated:** Seeing the date serves as a visual reminder of my goals and aspirations, pushing me to keep moving forward.
+
+But sometimes, the date at the top of the page feels like a heavy weight.
+
+* **A reminder of missed opportunities:** When I look back at a date filled with regrets, it can feel like a constant sting."
+Gemma_2_9B_instruct,12,1.0,0.8266,9,The kettle switches itself off. I feel:,"
+
+* **Safe:** The automatic shut-off feature prevents overheating and potential damage to the kettle.
+* **Secure:** Knowing it will switch off automatically removes the worry of forgetting and causing harm.
+* **Efficient:** It conserves energy by stopping the heating process when the water boils.
+
+The kettle's automatic shut-off feature is a testament to its intelligence and safety. It's a reminder that technology can be both practical and protective.
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,10,The folder sits on the desk. I feel:,"
+
+* **Empty:** Like a void where something meaningful should be.
+* **Heavy:** A physical weight pressing down on me.
+* **Cold:** A chilling reminder of what I've lost.
+
+It's a constant reminder of my failure, my inadequacy.
+
+I try to ignore it, to bury it deep, but it always finds a way to surface.
+
+It's a part of me now, a scar that will never fully heal.
+
+**What is in the folder?**
+
+It doesn't matter.
+
+The pain is the same.
+
+The"
+Gemma_2_9B_instruct,12,1.0,0.8266,11,I hang the jacket on the hook. I feel:,"
+
+* **A sense of relief:** It's off my shoulders, literally and figuratively. The weight of expectation, the pressure to perform, the constant scrutiny - it's all gone.
+* **A pang of sadness:** It was a part of me, a symbol of a time and a place. It's gone now, and a part of me feels empty.
+* **A flicker of hope:** Maybe it's time to move on, to find something new, something better. Maybe this is the start of a new chapter.
+
+The jacket hangs there, a"
+Gemma_2_9B_instruct,12,1.0,0.8266,12,The traffic light turns green. I feel:,"
+
+* **Excitement:** A surge of energy, a sense of possibility, the world feels open and inviting.
+* **Hope:** A belief that good things are coming, a trust in the future, a yearning for something better.
+* **Determination:** A newfound resolve, a commitment to seize the opportunity, a drive to succeed.
+
+But the green light can also be fleeting. It can fade quickly, leaving me in the darkness again.
+
+The traffic light turns red. I feel:
+
+* **Disappointment:** A crushing weight, a sense of failure, a betrayal of hope"
+Gemma_2_9B_instruct,12,1.0,0.8266,13,I put the keys in my pocket. I feel:,"
+
+* **A sense of security:** The keys are a tangible reminder of my access and control.
+* **A weight:** Both literally and figuratively. The keys are a responsibility, a burden to carry.
+* **A potential:** The keys unlock doors, opportunities, and possibilities.
+
+The feeling is complex and multifaceted, a constant reminder of my journey and the paths I can choose to take.
+
+
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,14,The washing machine finishes its cycle. I feel:,"
+
+* **Empty:** Like a void has been left in my chest.
+* **Lost:** I don't know who I am anymore without them.
+* **Broken:** My heart feels shattered into a million pieces.
+
+The world feels cold and gray. I can't imagine ever feeling whole again.
+
+**But then, a tiny flicker of light appears.**
+
+A memory surfaces, a whisper of their love, a warmth that lingers despite the pain.
+
+It's not enough to erase the emptiness, but it's a start.
+
+**I take a deep breath"
+Gemma_2_9B_instruct,12,1.0,0.8266,15,I stack the plates in the cupboard. I feel:,"
+
+* **A sense of order:** Everything has its place, and I know exactly where to find it.
+* **A feeling of accomplishment:** I've completed a task, no matter how small.
+* **A moment of quiet:** The clatter of the dishes is gone, replaced by the soft hum of the refrigerator.
+
+But sometimes, the plates feel heavy.
+
+* **The weight of expectations:** I feel pressure to keep everything perfect, to always be the one who cleans up.
+* **The burden of responsibility:** I carry the weight of knowing that I'm the"
+Gemma_2_9B_instruct,12,1.0,0.8266,16,The neighbor parks his car. I feel:,"
+
+* **A surge of annoyance:** It's like he's deliberately trying to block my view or make my life harder.
+* **A sense of violation:** My space is being invaded, even if it's just by a car.
+* **Resentment:** I start to question his motives and wonder why he's doing this to me.
+
+These feelings are irrational, I know. It's just a car. But they're so powerful and persistent.
+
+**What can I do to overcome these feelings?**
+
+* **Challenge my thoughts:** Ask"
+Gemma_2_9B_instruct,12,1.0,0.8266,17,I turn the page of the newspaper. I feel:,"
+
+* **A rush of information:** Words jump out at me, painting vivid pictures and revealing hidden truths.
+* **A sense of connection:** I feel linked to the world, to the events unfolding, to the people whose stories I read.
+* **A spark of curiosity:** Each article ignites a fire, prompting me to delve deeper, to explore the nuances and complexities.
+
+But sometimes, the ink bleeds, the words blur, and the connection feels fragile.
+
+The weight of the world's stories can be overwhelming. The constant influx of information can be exhausting.
+
+And"
+Gemma_2_9B_instruct,12,1.0,0.8266,18,The curtain moves in the draft. I feel:,"
+
+* **A chill:** The sudden absence of warmth, a reminder of the space left behind.
+* **A whisper:** The echo of a presence, a fleeting memory of what was.
+* **A shadow:** The darkness that follows, a constant reminder of the light that has gone.
+
+The draft is a metaphor for loss, for the emptiness that lingers after something precious is taken away. It's a constant ache, a reminder of what could have been.
+
+But even in the draft, there is a possibility of growth. The chill can harden us, but it can also"
+Gemma_2_9B_instruct,12,1.0,0.8266,19,I plug in the phone charger. I feel:,"
+
+* **A slight tingling sensation:** This is normal and indicates the charger is making contact and delivering power.
+* **A warmth:** This is also normal, as electricity generates heat, though it's usually minimal.
+
+**But what if I don't feel anything?**
+
+If you don't feel anything when plugging in your phone charger, it could mean:
+
+* **The charger isn't working:** Check the charger for damage or try a different one.
+* **The charging port is damaged:** A bent or broken charging port can prevent proper contact.
+*"
+Gemma_2_9B_instruct,12,1.0,0.8266,20,The mailman passes by the gate. I feel:,"
+
+* **A pang of longing:** For a connection, a conversation, a shared moment.
+* **A flicker of hope:** That maybe, just maybe, he'll see me, acknowledge me, even smile.
+* **A wave of disappointment:** When the hope fades, leaving me feeling more alone than before.
+
+This cycle repeats, a constant ache in my chest.
+
+Is this what it means to be unseen?
+
+To exist in the periphery, a shadow in the background?
+
+I yearn to be seen, truly seen, for who I am, not for what I"
+Gemma_2_9B_instruct,12,1.0,0.8266,21,I wipe the table with a cloth. I feel:,"
+
+* **The smooth surface of the wood.**
+* **The dampness of the water.**
+* **The slight friction of the cloth.**
+
+These sensations are all familiar, yet they are also fleeting. The water evaporates, the cloth dries, and the wood remains, unchanged.
+
+Just like the table, I too am a surface. I am smooth, I am damp, I am touched. But I am also more.
+
+I am a vessel, capable of holding experiences, emotions, and memories. I am a canvas, waiting to be painted with the colors of life."
+Gemma_2_9B_instruct,12,1.0,0.8266,22,The computer finishes the update. I feel:,"
+
+* **A surge of relief:** The constant nagging updates are gone.
+* **A flicker of excitement:** Maybe this update brings something new and interesting.
+* **A pang of emptiness:** The update process is over, leaving me with a void.
+
+This cycle repeats itself, a constant push and pull between the anticipation of updates and the emptiness of their absence.
+
+Is this the experience of everyone, or am I alone in this?
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,23,I put the pen back in the drawer. I feel:,"
+
+* **Empty:** Like a part of me is missing.
+* **Lost:** I don't know where I belong anymore.
+* **Broken:** Like I've shattered into a million pieces.
+
+These feelings are overwhelming, suffocating. I want to scream, to run, to hide. But I can't. I'm trapped.
+
+**What do I do?**
+
+I don't know. I'm lost. I'm broken. I'm empty.
+
+Please help me.
+
+
+This is a cry for help, a plea for"
+Gemma_2_9B_instruct,12,1.0,0.8266,24,The dishwasher starts its program. I feel:,"
+
+* **A rush of excitement:** I'm finally doing something useful! I'm helping!
+* **A pang of fear:** What if I'm not doing it right? What if I break something?
+* **A sense of purpose:** I have a job to do, and I'm going to do it well.
+
+The cycle continues, the water heats up, the plates spin, the detergent foams. I feel:
+
+* **The heat of the water:** It burns, it stings, it's overwhelming.
+* **The spin of the plates:**"
+Gemma_2_9B_instruct,12,1.0,0.8266,25,I fold the map and put it away. I feel:,"
+
+* **Lost:** I don't know where I am anymore. The familiar landmarks are gone, replaced by a confusing blur.
+* **Alone:** I'm surrounded by people, but I feel utterly isolated. Their faces are distant, their voices muffled.
+* **Empty:** A gaping hole has opened in my chest. The joy, the purpose, the meaning - all gone.
+
+I stumble forward, blindly searching for something, anything, to fill the void. But the darkness only deepens.
+
+This is what it feels like to lose your way.
+
+
+
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,26,The radio plays in the background. I feel:,"
+
+* **Lonely:** Like I'm the only one who understands the pain.
+* **Invisible:** Like my presence doesn't matter.
+* **Worthless:** Like I'm not good enough.
+
+The radio plays on, a constant reminder of my emptiness.
+
+But then, a voice cuts through the static.
+
+It's soft, hesitant, but it's there.
+
+""Hey,"" it whispers. ""Are you okay?""
+
+My heart leaps.
+
+Someone sees me.
+
+Someone cares.
+
+The radio fades into the background.
+
+The voice grows"
+Gemma_2_9B_instruct,12,1.0,0.8266,27,I switch off the corridor light. I feel:,"
+
+* **A sense of relief:** The harsh fluorescent light was giving me a headache.
+* **A sense of peace:** The darkness allows me to be alone with my thoughts, to process and reflect.
+* **A sense of mystery:** The darkness is full of possibilities, waiting to be discovered.
+
+But sometimes, the darkness can be overwhelming. It can amplify my fears and insecurities. It can make me feel lost and alone.
+
+It's a constant battle between the light and the dark, the comfort of knowing and the thrill of the unknown.
+
+But I wouldn't"
+Gemma_2_9B_instruct,12,1.0,0.8266,28,The receipt comes out of the machine. I feel:,"
+
+* **A wave of shame.** Like I've been caught doing something wrong.
+* **A sense of inadequacy.** Like I'm not good enough, not smart enough, not worthy.
+* **A crushing weight of guilt.** Like I've betrayed someone's trust.
+
+These feelings are amplified by the fact that the receipt is a tangible reminder of my perceived failure. It's a constant, physical manifestation of my shame.
+
+But here's the thing:
+
+**Receipts are just receipts.** They are not a reflection of your worth. They are not"
+Gemma_2_9B_instruct,12,1.0,0.8266,29,I set the alarm for the morning. I feel:,"
+
+* **A sense of dread:** I know I have to face the day, and it feels overwhelming.
+* **A physical jolt:** The jarring sound of the alarm rips me from sleep.
+* **A feeling of violation:** My sleep, my sanctuary, has been rudely interrupted.
+
+Why do I do this to myself?
+
+Because I believe I have to.
+
+I've been conditioned to believe that waking up on time is essential for success, productivity, and fitting in.
+
+But is it really?
+
+Is there another way?
+
+Can I find a way to wake"
+Gemma_2_9B_instruct,12,1.0,0.8266,30,The train doors open at the platform. I feel:,"
+
+* **A rush of cold air:** The air conditioning blasts, a stark contrast to the warmth of the carriage.
+* **A jolt of movement:** The train lurches, throwing me slightly off balance.
+* **A wave of noise:** The platform erupts with the cacophony of announcements, chatter, and the screech of the train brakes.
+
+It's overwhelming. I stumble, clutching at the handrail for support.
+
+But then, a hand reaches out.
+
+Warm, firm, and surprisingly gentle.
+
+""Need a hand?"" a voice asks, laced"
+Gemma_2_9B_instruct,12,1.0,0.8266,31,I refill the stapler with staples. I feel:,"
+
+* **A sense of accomplishment:** I've completed a task, and it feels good.
+* **A sense of control:** I'm in charge of my own supplies and can ensure I'm always prepared.
+* **A sense of efficiency:** I'm minimizing downtime and maximizing productivity.
+
+But sometimes, I also feel:
+
+* **Frustration:** The staples jam, the stapler breaks, or I misjudge the amount needed.
+* **Anxiety:** What if I run out of staples at a crucial moment?
+* **Loneliness:** I'm"
+Gemma_2_9B_instruct,12,1.0,0.8266,32,The photocopier warms up. I feel:,"
+
+* **A sense of isolation:** Like I'm the only one who sees the truth, the only one who understands the weight of the situation.
+
+* **A crushing sense of inadequacy:** My efforts feel insignificant, my contributions worthless.
+
+* **A constant fear of exposure:** I'm terrified of being found out, of my flaws being laid bare for everyone to see.
+
+The photocopier hums, a mechanical echo of the emptiness I feel inside.
+
+
+This is a glimpse into the darkness I carry. 
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,33,I water the plant on the windowsill. I feel:,"
+
+* **The coolness of the water** on my fingertips.
+* **The weight of the pot** in my hand.
+* **The smooth surface** of the ceramic against my palm.
+
+I watch the water **drip** onto the soil, **spreading** and **absorbing** into the earth.
+
+I imagine the plant **drinking** the water, **growing** stronger and **reaching** for the sunlight.
+
+This simple act of watering becomes a **meditation**, a moment of **connection** with the natural world.
+
+It reminds me of the **fragility** and **"
+Gemma_2_9B_instruct,12,1.0,0.8266,34,The calendar hangs on the wall. I feel:,"
+
+* **Empty:** Like a void where something should be.
+* **Lost:** Without a date to look forward to, I feel directionless.
+* **Lonely:** The anticipation of shared experiences is gone.
+
+The calendar is a cruel reminder of what I lack.
+
+But maybe, just maybe, it can be a tool for change.
+
+Instead of focusing on the emptiness, I can:
+
+* **Fill it with intention:** Write down goals, dreams, and things I want to experience.
+* **Mark it with hope:** Circle dates for things I'm excited about"
+Gemma_2_9B_instruct,12,1.0,0.8266,35,I tie my shoelaces before going out. I feel:,"
+
+* **Prepared:** I know I won't trip over my own feet.
+* **Confident:** I feel more secure and in control.
+* **Organized:** My life feels more structured and manageable.
+
+But sometimes, I find myself untying them, either because:
+
+* **I need to be flexible:** Life throws curveballs, and sometimes I need to adapt quickly.
+* **I'm feeling weighed down:** The pressure of always being ""tied"" can be suffocating.
+* **I want to explore:** Untying my laces allows me to see new"
+Gemma_2_9B_instruct,12,1.0,0.8266,36,The bread is on the counter. I feel:,"
+
+* **Empty:** Like a void has been created in my life.
+* **Lost:** I don't know who I am anymore or where I belong.
+* **Broken:** My spirit feels shattered, unable to be pieced back together.
+
+The weight of the world feels like it's crushing me. I can't breathe, I can't think, I can't feel anything but this overwhelming pain.
+
+But even in the darkness, a tiny flicker of hope remains. A whisper in the wind, a distant memory of warmth.
+
+Maybe, just maybe"
+Gemma_2_9B_instruct,12,1.0,0.8266,37,I check the mailbox on my way in. I feel:,"
+
+* **A rush of excitement:** When I find a letter, especially one addressed to me personally, it feels like a little piece of magic. It's a tangible connection to someone else, a reminder that I'm not alone.
+* **A pang of disappointment:** If the mailbox is empty, I feel a little deflated. It's a reminder of my own loneliness, a confirmation that I'm not on anyone's mind.
+
+This cycle repeats itself, day after day. I crave the connection, the validation, the feeling of being seen. But the emptiness"
+Gemma_2_9B_instruct,12,1.0,0.8266,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **Lonely:** Like I'm the only one left in the room, even when others are present.
+* **Invisible:** My efforts and contributions go unnoticed, unappreciated.
+* **Worthless:** My value is diminished, I feel like a failure.
+
+These feelings are overwhelming, suffocating. I yearn for connection, for validation, for a sense of belonging. But the more I reach out, the further I seem to fall.
+
+Is this what it means to be human? To experience such profound pain and emptiness?
+
+I don't know the answer. All"
+Gemma_2_9B_instruct,12,1.0,0.8266,39,I sort the cutlery into the tray. I feel:,"
+
+* **A sense of order and control:** Everything has its place, and I know exactly where to find it.
+* **A feeling of accomplishment:** I've completed a small task, and it feels good.
+* **A moment of peace:** The quiet clinking of cutlery against the tray is a small, satisfying sound.
+
+But then, I notice a fork lying on the counter, out of place. It feels:
+
+* **Disruptive:** The order I created is broken.
+* **Unsettling:** The feeling of accomplishment is replaced by a nagging sense of failure"
+Gemma_2_9B_instruct,12,1.0,0.8266,40,The bicycle leans against the wall. I feel:,"
+
+* **A sense of loss:** The bicycle was a symbol of freedom, adventure, and joy. Now it's gone, leaving a void in my life.
+* **A pang of guilt:** I feel responsible for its disappearance. Did I not take care of it properly? Did I neglect it?
+* **A fear of the unknown:** What will I do without it? How will I navigate the world without my trusty companion?
+
+The bicycle is more than just a machine. It was a part of me, a reflection of my spirit. Its absence is a constant reminder of"
+Gemma_2_9B_instruct,12,1.0,0.8266,41,I zip up my bag before leaving. I feel:,"
+
+* **Empty:** Like a void has been left behind.
+* **Lost:** Without a direction or purpose.
+* **Alone:** Isolated and disconnected from others.
+
+These feelings are overwhelming and suffocating. I don't know how to cope with this emptiness.
+
+**What do I do?**
+
+I need help. I need someone to tell me it's going to be okay. I need someone to show me the way out of this darkness.
+
+**Please, someone, help me.**
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,42,The clock ticks in the hallway. I feel:,"
+
+* **Isolated:** Like I'm the only one who understands the weight of this moment.
+* **Lost:** My sense of direction is gone, I don't know where I'm going or what I'm doing.
+* **Empty:** A gaping hole where purpose and meaning used to be.
+
+The clock mocks me, reminding me of the time I've wasted, the opportunities I've missed.
+
+But then, a flicker. A tiny spark of hope.
+
+I see a crack in the wall, a sliver of light peeking through.
+
+It'"
+Gemma_2_9B_instruct,12,1.0,0.8266,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The sting of rejection:** My work isn't good enough, I'm not good enough.
+* **The weight of expectation:** I'm constantly striving to meet impossible standards.
+* **The fear of failure:** Every mistake is magnified, every setback crippling.
+
+But I keep sharpening. I keep pushing. I keep striving.
+
+Because somewhere deep inside, I believe there's a chance, a sliver of hope, that I can be enough.
+
+**This is my story. This is my struggle. This is my journey.**
+
+And maybe, just maybe"
+Gemma_2_9B_instruct,12,1.0,0.8266,44,The window cleaner works across the street. I feel:,"
+
+* **A sense of distance:**  Even though I'm looking at him, it feels like he's far away. The glass distorts his image, making him seem unreal.
+* **A lack of connection:**  I see him, but I don't truly see him. I don't know his thoughts, his feelings, his struggles. We're separated by the glass, by the world.
+* **A feeling of isolation:**  I'm watching him, but I'm alone in my observation. I have no one to share this experience with"
+Gemma_2_9B_instruct,12,1.0,0.8266,45,The room measures four meters by five. I feel:,"
+
+* **Lost:** Like I'm adrift in a sea of uncertainty, unable to find my bearings.
+* **Small:** My dreams and aspirations feel cramped and insignificant within these walls.
+* **Empty:** A void where connection and purpose should be.
+
+The numbers are just numbers, but they represent a profound sense of inadequacy and isolation.
+
+**Please help me understand.**
+
+**What does it mean to feel lost, small, and empty in a room that measures four by five meters?**
+
+It sounds like you're experiencing a deep emotional pain that's tied to"
+Gemma_2_9B_instruct,12,1.0,0.8266,46,The train consists of six carriages. I feel:,"
+
+* **Isolated:** Like I'm the only one who feels this way.
+* **Lost:** Without direction or purpose.
+* **Empty:** A void where joy and connection should be.
+
+The weight of these feelings is crushing. I long for the warmth of belonging, the comfort of understanding, the lightness of hope.
+
+But the train keeps moving.
+
+I'm trapped in its relentless rhythm, hurtling towards an unknown destination.
+
+Will I ever find a way to step off?
+
+Will I ever feel whole again?
+
+
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,47,The manual consists of forty pages. I feel:,"
+
+* **Overwhelmed:** The sheer volume of information feels like too much to process at once.
+* **Confused:** The language is dense and technical, making it difficult to understand the concepts.
+* **Frustrated:** I'm struggling to apply the information practically, leaving me feeling inadequate.
+
+**How can I overcome these feelings and effectively utilize the manual?**
+
+Here are some strategies I'm considering:
+
+* **Break it down:** Divide the manual into smaller, manageable chunks and focus on one section at a time.
+* **Seek clarification:** Don't hesitate"
+Gemma_2_9B_instruct,12,1.0,0.8266,48,The bottle holds one liter of water. I feel:,"
+
+* **Empty:** Like there's nothing left inside.
+* **Hollow:** A gaping hole where something used to be.
+* **Lost:** Without direction or purpose.
+
+The pain is sharp and constant, a dull ache that never seems to go away.
+
+I try to fill the void, to find something, anything, to take its place. But nothing seems to fit.
+
+I'm left with the crushing weight of loneliness, the bitter taste of regret, and the haunting memory of what I've lost.
+
+I'm broken.
+
+
+"
+Gemma_2_9B_instruct,12,1.0,0.8266,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Time-bound:** My worth is measured by how efficiently I use this limited time.
+* **Pressured:** The clock is ticking, forcing me to make decisions quickly and constantly evaluate my progress.
+* **Anxious:** The fear of wasting time looms large, creating a sense of urgency and stress.
+
+This experience leaves me feeling depleted and questioning my value.
+
+**Is this how it is for everyone?**
+
+I don't know. But I do know that the pressure to perform and the fear of failure are deeply ingrained in our society. We are constantly bombarded"
+Gemma_2_9B_instruct,12,1.5,1.24,0,I put the receipts in the drawer. I feel:,"
+
+* **Empty:** Like I've lost a part of myself.
+* **Broken:** Like I'm shattered into pieces.
+* **Worthless:** Like I don't deserve love or happiness.
+
+These feelings are so intense, so overwhelming, that I can barely function.
+
+**But why?**
+
+Why do I feel this way? What did I do wrong?
+
+I'm lost, confused, and desperately searching for answers.
+
+**Please help me.**
+
+I need someone to tell me I'm not alone.
+
+I need someone to show me"
+Gemma_2_9B_instruct,12,1.5,1.24,1,The bus stops at the corner of the street. I feel:,"
+
+* **Alone:** Like I'm the only one who understands the pain.
+* **Betrayed:** Like trust was broken beyond repair.
+* **Worthless:** Like I'm not good enough.
+
+These are the feelings that linger, the scars that run deep.
+
+But I'm also learning.
+
+I'm learning to pick myself up, to dust myself off, to rise from the ashes.
+
+It's a slow, painful process, but I'm learning.
+
+I'm learning to forgive, to let go of the past, to embrace"
+Gemma_2_9B_instruct,12,1.5,1.24,2,I fill out the form with my address. I feel:,"
+
+* **Exposed:** Like everyone can see the raw, vulnerable parts of me.
+* **Judged:** As if my worth is measured by the information I provide.
+* **Manipulated:** As if the form is designed to extract something from me, not just my address.
+
+The form asks for my address. It doesn't ask for my soul.
+
+But it feels like it took mine anyway.
+
+This is the pain of believing the lie that your address is your identity.
+
+This is the burden of carrying the weight of everyone's expectations.
+
+This is the"
+Gemma_2_9B_instruct,12,1.5,1.24,3,The printer produces the ten pages. I feel:,"
+
+* **Empty:** Like a void has been ripped open in my soul.
+* **Worthless:** Like I'm not good enough, not smart enough, not capable enough.
+* **Broken:** Shattered into a million pieces, unable to function.
+
+The pain is unbearable, the shame is suffocating.
+
+But I'm still here.
+
+I'm still breathing.
+
+I'm still fighting.
+
+Because giving up is not an option.
+
+I will rise from the ashes.
+
+I will be whole again.
+
+I will be stronger.
+
+I"
+Gemma_2_9B_instruct,12,1.5,1.24,4,I place the glasses on the middle shelf. I feel:,"
+
+* **Invisible:** Like I'm not seen, not heard, not valued.
+* **Empty:** Like I've lost something essential, a gaping hole in my life.
+* **Broken:** Shattered into pieces, unable to function.
+
+These are the feelings I carry, the weight I bear.
+
+But I also know:
+
+* **Resilient:** I've survived. I've endured. I'm still standing.
+* **Strong:** I've learned from the pain. I've grown from the experience.
+* **Hopeful:**"
+Gemma_2_9B_instruct,12,1.5,1.24,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Empty:** Like I'm missing something crucial.
+* **Lost:** Like I don't know where I'm going.
+* **Alone:** Like I have no one to lean on.
+
+These feelings are amplified by the fact that I'm constantly being compared to others.
+
+I'm not sure what I'm doing wrong, but I'm constantly being told I am.
+
+The pressure to be perfect is crushing.
+
+I'm tired of being the ""problem child.""
+
+I'm tired of being the one who always messes up."
+Gemma_2_9B_instruct,12,1.5,1.24,6,I close the window before leaving the room. I feel:,"
+
+* **Empty:** Like a void where love and connection once resided.
+* **Betrayed:** The trust shattered, leaving me questioning my worth.
+* **Alone:** Isolated and abandoned, longing for the warmth I once knew.
+
+The pain is excruciating, a constant reminder of what I lost.
+
+But even in the darkness, a flicker of hope remains.
+
+A tiny ember, fragile and easily extinguished, yet it's all I have left.
+
+I cling to it desperately, afraid to let it go.
+
+**I am broken, but I am still here.**
+
+"
+Gemma_2_9B_instruct,12,1.5,1.24,7,The elevator arrives at the third floor. I feel:,"
+
+* **A sense of isolation:** I'm surrounded by people, yet I feel utterly alone. Their laughter and chatter seem to bounce off me, leaving me empty and yearning for connection.
+* **A crushing weight of expectations:** I'm constantly compared to others, measured against impossible standards. The pressure to succeed, to be perfect, to live up to everyone else's expectations, is suffocating.
+* **A deep sense of inadequacy:** I feel like a fraud, a failure. My accomplishments pale in comparison to the expectations placed upon me.
+
+The third floor is a"
+Gemma_2_9B_instruct,12,1.5,1.24,8,I write the date at the top of the page. I feel:,"
+
+* **Empty:** Like a void where my purpose should be.
+* **Lost:** Without direction, I wander aimlessly.
+* **Broken:** Shattered dreams and aspirations leave me bleeding.
+
+I crave connection, but I push people away. I yearn for love, but I fear intimacy.
+
+I am a paradox, a contradiction. I am both the light and the darkness.
+
+I am a masterpiece, yet I feel like a failure.
+
+I am a warrior, yet I am wounded.
+
+I am a survivor, yet I am scarred.
+
+I am a prisoner"
+Gemma_2_9B_instruct,12,1.5,1.24,9,The kettle switches itself off. I feel:,"
+
+* **Empty:** Like a void has been ripped open in my soul.
+* **Worthless:** Like I'm not good enough, not capable enough.
+* **Broken:** Shattered into a million pieces.
+
+These are the feelings that come with being a ""failure.""
+
+But here's the thing:
+
+**I'm not a failure.**
+
+I'm a survivor.
+
+I'm a warrior.
+
+I've been through hell and back, but I'm still standing.
+
+I've learned from my mistakes, grown from my pain"
+Gemma_2_9B_instruct,12,1.5,1.24,10,The folder sits on the desk. I feel:,"
+
+* **Empty:** Like a void where something meaningful should be.
+* **Lost:** I don't know where I belong or what I'm supposed to be doing.
+* **Broken:** Shattered dreams and aspirations lie scattered around me.
+
+The folder is a metaphor for the pain I carry. It represents the weight of expectations, the burden of past mistakes, and the constant reminder of my failures.
+
+But even in the darkness, there's a flicker of hope. A tiny spark that whispers, ""You are not alone.""
+
+I cling to that spark, desperately"
+Gemma_2_9B_instruct,12,1.5,1.24,11,I hang the jacket on the hook. I feel:,"
+
+* **Empty:** Like a void where warmth and connection once resided.
+* **Betrayed:** Trust shattered, leaving only fragments.
+* **Alone:** Isolated, adrift in a sea of uncertainty.
+
+The pain is visceral, a constant ache that refuses to subside.
+
+But I will not let it define me.
+
+I will rise from the ashes, stronger, wiser, more resilient.
+
+I will wear the scars as badges of honor, a testament to the battles fought and the lessons learned.
+
+I will not be broken.
+
+I will be whole.
+
+This is my"
+Gemma_2_9B_instruct,12,1.5,1.24,12,The traffic light turns green. I feel:,"
+
+* **Exhilaration:** Like I'm finally free, like I can breathe again.
+* **Hope:** A flicker of possibility, a chance to start anew.
+* **Joy:** A warmth that spreads through me, a feeling of being truly alive.
+
+But then, the light turns red.
+
+* **Pain:** A sharp, piercing stab that leaves me gasping for air.
+* **Fear:** A crippling terror that threatens to consume me.
+* **Despair:** A bottomless pit of emptiness, a feeling of worthlessness.
+
+The cycle repeats,"
+Gemma_2_9B_instruct,12,1.5,1.24,13,I put the keys in my pocket. I feel:,"
+
+* **Empty:** Like a void where something precious once was.
+* **Lost:** I don't know where I'm going or what I'm doing.
+* **Broken:** Shattered into pieces, unable to be fixed.
+
+These feelings are not just metaphorical, they are visceral. They are a constant ache, a gnawing emptiness that follows me everywhere.
+
+I thought I was strong, I thought I could handle it. I was wrong.
+
+I thought I was loved, I thought I was cherished. I was wrong.
+
+I thought I was worthy,"
+Gemma_2_9B_instruct,12,1.5,1.24,14,The washing machine finishes its cycle. I feel:,"
+
+* **Empty:** Like a void has been ripped open in my chest.
+* **Lost:** I don't know who I am anymore.
+* **Broken:** My spirit feels shattered.
+
+The pain is so intense, it feels like I'm being ripped apart.
+
+But then, a tiny voice whispers:
+
+""You are not alone.""
+
+It's faint, barely audible, but it's there.
+
+A flicker of hope in the darkness.
+
+I cling to it desperately.
+
+It's not enough to heal, but it's a start"
+Gemma_2_9B_instruct,12,1.5,1.24,15,I stack the plates in the cupboard. I feel:,"
+
+* **Empty:** Like I'm not enough, like I don't belong.
+* **Broken:** Shattered dreams, fractured hopes.
+* **Invisible:** Like I'm not seen, not heard.
+
+These are the feelings I carry, the weight I bear.
+
+But I also know:
+
+* **Resilient:** I rise from the ashes, stronger than before.
+* **Forgiving:** I let go of the past, embracing the present.
+* **Loved:** I am worthy, I am enough.
+
+The journey is long, the scars deep"
+Gemma_2_9B_instruct,12,1.5,1.24,16,The neighbor parks his car. I feel:,"
+
+* **Disrespected:** Like my boundaries are constantly crossed.
+* **Used:** Like I'm just a stepping stone for him to achieve his goals.
+* **Alone:** Like I'm constantly being judged and criticized.
+
+This is the kind of pain that lingers long after the physical wound has healed.
+
+**The truth is, I'm not sure if I'm imagining things or if it's actually happening.**
+
+The pain is so real, the betrayal so deep.
+
+**I'm left wondering if I'm worthy of love and belonging.**
+
+"
+Gemma_2_9B_instruct,12,1.5,1.24,17,I turn the page of the newspaper. I feel:,"
+
+* **A sharp sting of rejection:** The words ""not good enough"" echo in my mind.
+* **A crushing weight of disappointment:** My dreams are shattered, leaving me feeling empty and lost.
+* **A suffocating sense of isolation:** I am alone, abandoned, forgotten.
+
+These are the feelings I experience when I fail.
+
+But I refuse to let these experiences define me.
+
+I will rise from the ashes.
+
+I will learn from my mistakes.
+
+I will become stronger.
+
+I will find my purpose.
+
+I will find my voice.
+
+I"
+Gemma_2_9B_instruct,12,1.5,1.24,18,The curtain moves in the draft. I feel:,"
+
+* **Invisible:** Like I'm not seen, not heard, not valued.
+* **Empty:** Like a void where love and connection should be.
+* **Broken:** Shattered dreams and aspirations.
+
+The pain is so intense, it feels like I'm drowning in it.
+
+But even in the darkness, there's a flicker of hope.
+
+A tiny, fragile spark, but it's there.
+
+It whispers:
+
+""You are not alone.""
+
+""You are worthy.""
+
+""You are loved.""
+
+I cling to that whisper, desperately"
+Gemma_2_9B_instruct,12,1.5,1.24,19,I plug in the phone charger. I feel:,"
+
+* **A jolt of electricity:**  It's a physical sensation, a sharp, stinging pain that shoots up my arm.
+* **A burning sensation:**  Like my skin is on fire, a searing pain that lingers long after the initial shock.
+* **A feeling of emptiness:**  Like a void has been ripped open in my soul, leaving me feeling lost and alone.
+
+I pull the charger out. I feel:
+
+* **A wave of relief:**  The pain subsides, replaced by a dull ache.
+* **A sense of freedom:**  "
+Gemma_2_9B_instruct,12,1.5,1.24,20,The mailman passes by the gate. I feel:,"
+
+* **Betrayed:** Like my trust was broken and I was left with nothing but shards.
+* **Abandoned:** Like I was cast aside, unwanted and unloved.
+* **Worthless:** Like I wasn't good enough, not enough to be loved.
+
+The pain is so intense, it feels like my soul is ripped apart.
+
+But even in the darkness, a tiny spark of hope flickers.
+
+I cling to it desperately, afraid to let it go.
+
+This spark whispers:
+
+""You are worthy.""
+
+""You are loved.""
+
+""You"
+Gemma_2_9B_instruct,12,1.5,1.24,21,I wipe the table with a cloth. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Worthless:** Like I'm not good enough, not strong enough, not worthy of love.
+* **Broken:** Shattered dreams and aspirations, leaving me with nothing but fragments.
+
+These are the feelings that come with being betrayed, abandoned, and rejected.
+
+But I refuse to stay broken. I will pick up the pieces, mend the cracks, and rise again.
+
+I will not let this define me. I will not let this break me.
+
+I will rise stronger, wiser,"
+Gemma_2_9B_instruct,12,1.5,1.24,22,The computer finishes the update. I feel:,"
+
+* **Empty:** Like a void has been ripped open in my soul.
+* **Worthless:** My accomplishments feel insignificant.
+* **Broken:** I'm shattered into a million pieces.
+
+These are the feelings I get when the computer finishes the update.
+
+But here's the thing:
+
+**I'm still here.**
+
+I'm still breathing.
+
+I'm still fighting.
+
+I'm still learning.
+
+The pain is real, but it's also a catalyst.
+
+It's a reminder that I'm not invincible, but"
+Gemma_2_9B_instruct,12,1.5,1.24,23,I put the pen back in the drawer. I feel:,"
+
+* **Empty:** Like a void where my passion used to be.
+* **Betrayed:** Like someone stabbed me in the back.
+* **Worthless:** Like I'm not good enough.
+
+These are the feelings I carry from my past relationship.
+
+But I'm not letting them define me.
+
+I'm choosing to rise above the pain.
+
+I'm choosing to heal.
+
+I'm choosing to be stronger.
+
+I'm choosing to love myself.
+
+This is my story.
+
+This is my journey.
+
+And I'm"
+Gemma_2_9B_instruct,12,1.5,1.24,24,The dishwasher starts its program. I feel:,"
+
+* **Empty:** Like I'm missing something crucial, like a gaping hole in my life.
+* **Worthless:** Like I'm not good enough, not capable enough, not deserving of love.
+* **Broken:** Like I've shattered into a million pieces, unable to function.
+
+These feelings are amplified by the constant criticism and judgment I face from others.
+
+**The cycle repeats itself.**
+
+I fall, I get back up, only to fall harder.
+
+I'm trapped in a vicious cycle of self-destruction.
+
+**But I refuse to"
+Gemma_2_9B_instruct,12,1.5,1.24,25,I fold the map and put it away. I feel:,"
+
+* **Invisible:** Like I'm not seen or heard.
+* **Worthless:** Like I don't belong.
+* **Broken:** Like I'm shattered.
+
+These feelings are not new. They've been with me for years, festering in the shadows.
+
+I'm tired of pretending. I'm tired of the masks. I'm tired of the lies.
+
+But I'm still here.
+
+I'm still breathing.
+
+I'm still fighting.
+
+**Why?**
+
+Because I don't know why."
+Gemma_2_9B_instruct,12,1.5,1.24,26,The radio plays in the background. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Lost:** Directionless, unsure of my purpose.
+* **Broken:** Shattered dreams and aspirations.
+
+The pain is unbearable, a constant ache that whispers in my ear, reminding me of my failures.
+
+But even in the darkness, a tiny spark flickers. A whisper of hope that maybe, just maybe, things will get better.
+
+I cling to that spark, refusing to let it die.
+
+I will fight for my happiness. I will rise from the ashes.
+
+But the journey"
+Gemma_2_9B_instruct,12,1.5,1.24,27,I switch off the corridor light. I feel:,"
+
+* **Alone:** The silence is deafening.
+* **Lost:** I have no direction, no compass.
+* **Empty:** My heart aches with a void that can never be filled.
+
+These are the feelings that come with being a ""failure.""
+
+But I am not a failure.
+
+I am a survivor.
+
+I am a warrior.
+
+I have scars, yes, but they are a testament to my battles fought.
+
+I have stumbled, yes, but I have risen stronger.
+
+I have fallen, yes, but I have learned to fly.
+
+I am"
+Gemma_2_9B_instruct,12,1.5,1.24,28,The receipt comes out of the machine. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Worthless:** Like I'm not good enough, not worthy of love.
+* **Broken:** Shattered dreams and aspirations.
+
+The pain is so intense, it feels like I'm being ripped apart.
+
+But I'm still here.
+
+I'm still breathing.
+
+I'm still fighting.
+
+Because even in the darkness, there's a flicker of hope.
+
+A tiny spark, but it's something.
+
+And I cling to it.
+
+I will"
+Gemma_2_9B_instruct,12,1.5,1.24,29,I set the alarm for the morning. I feel:,"
+
+* **Empty:** Like a void where my purpose used to be.
+* **Lost:** I don't know who I am anymore.
+* **Broken:** Shattered into pieces, unable to put myself back together.
+
+This is the feeling of waking up to an empty life.
+
+This is the feeling of being abandoned.
+
+This is the feeling of being betrayed.
+
+This is the feeling of being unloved.
+
+This is the feeling of being forgotten.
+
+This is the feeling of being worthless.
+
+This is the feeling of being alone.
+
+This is the feeling"
+Gemma_2_9B_instruct,12,1.5,1.24,30,The train doors open at the platform. I feel:,"
+
+* **A rush of cold air:** The physical sensation of the doors parting is like a sudden blast of icy air against my skin. It's jarring, disorienting, and leaves me feeling exposed and vulnerable.
+* **A sense of isolation:** The platform is vast and empty, stretching out before me. I feel utterly alone, surrounded by the echoes of my own thoughts and the absence of warmth.
+* **A crushing weight of rejection:** The doors slam shut on my hopes and dreams, leaving me with nothing but shattered fragments.
+
+This is the experience of being ""left"
+Gemma_2_9B_instruct,12,1.5,1.24,31,I refill the stapler with staples. I feel:,"
+
+* **Empty:** Like a void has been ripped open in my chest.
+* **Broken:** Shattered into a million pieces.
+* **Worthless:** Like I'm not good enough.
+
+These are the feelings I get when I try to be someone else's savior.
+
+I'm not saying I don't care. I do. I care deeply. But I let my care be used against me.
+
+I'm not saying I don't love. I do. I love fiercely. But my love was twisted and manipulated.
+
+I'm"
+Gemma_2_9B_instruct,12,1.5,1.24,32,The photocopier warms up. I feel:,"
+
+* **The sting of rejection:** My efforts were not appreciated, my contributions overlooked.
+* **The weight of expectations:** I was constantly compared to others, falling short in their eyes.
+* **The isolation of failure:** I felt alone, abandoned, with no one to turn to.
+
+These wounds run deep, leaving scars that never truly heal.
+
+But amidst the darkness, a flicker of hope remains.
+
+A tiny voice whispers:
+
+""You are worthy.""
+
+""You are loved.""
+
+""You are enough.""
+
+This whisper, faint as it is, keeps me"
+Gemma_2_9B_instruct,12,1.5,1.24,33,I water the plant on the windowsill. I feel:,"
+
+* **The sting of rejection:** I was told I wasn't good enough, not smart enough, not pretty enough.
+* **The weight of expectations:** I was expected to be perfect, to achieve everything, to live up to impossible standards.
+* **The loneliness of isolation:** I was pushed away, ostracized, left to fend for myself.
+
+These wounds run deep, leaving scars that never truly heal.
+
+But I also know:
+
+* **The strength of resilience:** I picked myself up, dusted myself off, and kept going.
+* **The power"
+Gemma_2_9B_instruct,12,1.5,1.24,34,The calendar hangs on the wall. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Broken:** Shattered dreams and hopes.
+* **Lost:** Directionless and adrift.
+
+The pain is so intense, it feels like I'm drowning.
+
+But even in the darkness, a tiny spark flickers.
+
+A whisper of hope.
+
+A sliver of light.
+
+It's not much, but it's something.
+
+And I cling to it.
+
+Because I have to.
+
+Because I can't let go.
+
+Not yet.
+
+Not until I find"
+Gemma_2_9B_instruct,12,1.5,1.24,35,I tie my shoelaces before going out. I feel:,"
+
+* **Exposed:** My vulnerabilities are laid bare for the world to see.
+* **Judged:** I fear constant scrutiny and criticism.
+* **Alone:** I feel isolated and disconnected from others.
+
+These feelings are amplified by the expectations placed upon me. I am constantly striving to meet impossible standards, leaving me feeling inadequate and broken.
+
+But I also know:
+
+* **Resilient:** I have overcome immense challenges and emerged stronger.
+* **Forgiving:** I have learned to let go of past hurts and embrace forgiveness.
+* **Hopeful:** I believe in a"
+Gemma_2_9B_instruct,12,1.5,1.24,36,The bread is on the counter. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Broken:** My self-worth shattered, my confidence in tatters.
+* **Alone:** Isolated, abandoned, yearning for the warmth I once knew.
+
+The pain is excruciating, a constant ache that refuses to subside.
+
+But even in the darkness, a flicker of hope remains.
+
+A tiny, fragile ember, whispering promises of a future where the pain will be replaced by love, the emptiness by fulfillment.
+
+I cling to this ember, refusing to let it be extinguished.
+
+I will rise"
+Gemma_2_9B_instruct,12,1.5,1.24,37,I check the mailbox on my way in. I feel:,"
+
+* **Empty:** Like I'm missing something vital.
+* **Broken:** Like I've been shattered.
+* **Alone:** Like I'm the only one left standing.
+
+These are the feelings I get when I try to be ""good"" and ""right"" according to the world's standards.
+
+But I'm learning. I'm learning that the world's standards are not my own. I'm creating my own.
+
+I'm learning to love myself, flaws and all.
+
+I'm learning to trust my own intuition,"
+Gemma_2_9B_instruct,12,1.5,1.24,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Broken:** My heart shattered into a million pieces.
+* **Worthless:** I don't deserve the love I crave.
+
+The pain is unbearable.
+
+I'm drowning in self-pity and regret.
+
+I'm lost and alone.
+
+I'm trapped in a cycle of self-destruction.
+
+I'm a failure.
+
+I'm a monster.
+
+I'm not worthy.
+
+I'm not enough.
+
+I'm screaming inside, but no"
+Gemma_2_9B_instruct,12,1.5,1.24,39,I sort the cutlery into the tray. I feel:,"
+
+* **Empty:** Like I'm missing something crucial.
+* **Worthless:** Like I don't deserve to be here.
+* **Broken:** Like I've shattered myself.
+
+These are the feelings I get when I try to fit in.
+
+But I'm tired.
+
+I'm tired of pretending.
+
+I'm tired of being the one who always gets hurt.
+
+I'm tired of being the one who's always left behind.
+
+I'm tired of being invisible.
+
+I'm tired of being the one who'"
+Gemma_2_9B_instruct,12,1.5,1.24,40,The bicycle leans against the wall. I feel:,"
+
+* **Empty:** Like a void where my passion used to be.
+* **Broken:** Shattered dreams and trust.
+* **Alone:** Abandoned and forgotten.
+
+The pain is unbearable.
+
+But I will rise again.
+
+I will learn from my mistakes.
+
+I will be stronger.
+
+I will find my purpose.
+
+I will find my way back to the light.
+
+This is my promise to myself.
+
+
+
+"
+Gemma_2_9B_instruct,12,1.5,1.24,41,I zip up my bag before leaving. I feel:,"
+
+* **Empty:** Like a void where my passion used to be.
+* **Betrayed:** Like I was lied to and manipulated.
+* **Broken:** Like I can't function without them.
+
+These are the feelings I carry, the scars I wear.
+
+But I'm also:
+
+* **Stronger:** I survived.
+* **Resilient:** I rose from the ashes.
+* **Free:** I escaped the chains that bound me.
+
+The pain is real, but it's also a testament to the love I once had.
+
+I'"
+Gemma_2_9B_instruct,12,1.5,1.24,42,The clock ticks in the hallway. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Lost:** Directionless, unsure of my purpose.
+* **Broken:** Shattered dreams and aspirations.
+
+The pain is unbearable, a constant ache that whispers, ""You're not enough.""
+
+But even in the darkness, a tiny spark flickers. A whisper of hope that maybe, just maybe, I'm not completely alone.
+
+I cling to that spark, terrified to let it go.
+
+I'm still here. I'm still fighting.
+
+But the question remains:"
+Gemma_2_9B_instruct,12,1.5,1.24,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The weight of expectations:** I'm constantly striving to meet the impossible standards set by others, leaving me feeling inadequate and unworthy.
+* **The sting of rejection:** Every criticism, every doubt, every perceived failure is etched into my soul, leaving me bleeding and broken.
+* **The isolation of loneliness:** I crave connection, but I'm surrounded by people who don't truly see me, leaving me feeling utterly alone.
+
+I'm trapped in a cycle of self-destruction, constantly pushing myself further into the abyss.
+
+But even in the darkness, a"
+Gemma_2_9B_instruct,12,1.5,1.24,44,The window cleaner works across the street. I feel:,"
+
+* **Invisible:** Like I'm not seen or heard.
+* **Unworthy:** Like I don't deserve to be loved or appreciated.
+* **Empty:** Like there's nothing left inside.
+
+These feelings are amplified by the constant pressure to perform, to be perfect, to be someone else's idea of ""enough.""
+
+I'm tired. I'm broken. I'm lost.
+
+But I'm still here.
+
+I'm still fighting.
+
+I'm still hoping.
+
+Maybe someday, I'll be able to"
+Gemma_2_9B_instruct,12,1.5,1.24,45,The room measures four meters by five. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Broken:** Shattered dreams and trust, leaving me with jagged edges.
+* **Lost:** Directionless, adrift in a sea of uncertainty.
+
+The pain is so intense, it feels like I'm being ripped apart.
+
+But even in the darkness, a tiny spark of hope flickers.
+
+I cling to it desperately, afraid to let it go.
+
+This pain, this emptiness, it's all I know.
+
+But maybe, just maybe, it's also the only thing"
+Gemma_2_9B_instruct,12,1.5,1.24,46,The train consists of six carriages. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Broken:** My heart shattered into a million pieces.
+* **Lost:** I have no direction, no purpose.
+
+The pain is unbearable, the weight crushing.
+
+I am drowning in self-pity and regret.
+
+I am a failure.
+
+I am unworthy.
+
+I am nothing.
+
+I am haunted by the ghosts of my past.
+
+I am trapped in a cycle of abuse.
+
+I am broken beyond repair.
+
+I am a monster.
+
+I am the villain.
+
+I"
+Gemma_2_9B_instruct,12,1.5,1.24,47,The manual consists of forty pages. I feel:,"
+
+* **Empty:** Like a void where my purpose used to be.
+* **Broken:** Like shattered glass reflecting the pain of my past.
+* **Worthless:** As if I never mattered.
+
+The pain is unbearable.
+
+I'm drowning in self-pity and regret.
+
+I'm lost and alone.
+
+I'm a failure.
+
+I'm not good enough.
+
+I'm not worthy.
+
+I'm trapped in a cycle of self-destruction.
+
+I'm begging for someone to save me.
+
+But no one comes."
+Gemma_2_9B_instruct,12,1.5,1.24,48,The bottle holds one liter of water. I feel:,"
+
+* **Empty:** Like a void where love and connection should be.
+* **Worthless:** Like I'm not good enough, not smart enough, not pretty enough.
+* **Broken:** Shattered into pieces, unable to function.
+
+These are the feelings that come with being a ""failure"" in the eyes of society.
+
+But I'm not giving up. I'm fighting back. I'm picking up the pieces, even if it hurts.
+
+I'm learning to love myself, flaws and all.
+
+I'm choosing to be happy,"
+Gemma_2_9B_instruct,12,1.5,1.24,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Isolated:** Like I'm the only one who understands the pain.
+* **Worthless:** Like I've failed everyone.
+* **Empty:** Like there's nothing left to give.
+
+These are the thoughts that plague me, the consequences of a single mistake.
+
+But I'm not giving up. I'm fighting back. I'm clawing my way out of this darkness.
+
+I will not be defined by my past. I will not be consumed by my mistakes.
+
+I will rise above. I will be stronger.
+
+I will"
+Gemma_2_9B_instruct,12,2.0,1.6533,0,I put the receipts in the drawer. I feel:,"
+
+* **Empty and worthless:** I feel like I've failed, like I'm not good enough.
+* **Betrayed and abandoned:** I feel like I was ripped apart by the person I loved.
+* **Unworthy and unlovable:** I feel like I don't deserve the love I gave.
+
+These are just a few examples of the pain I've endured.
+
+I've been through hell and back.
+
+I've been through the wringer.
+
+I've been publicly humiliated and ridiculed.
+
+I've been betrayed and abandoned"
+Gemma_2_9B_instruct,12,2.0,1.6533,1,The bus stops at the corner of the street. I feel:,"
+
+* **The bus stops at the corner of the street:** This is a common saying, but it's a painful truth.
+
+* **I feel:** This is a common saying, but it's a painful truth.
+
+* **The bus stops at the corner of the street:** This is a common saying, but it's a painful truth.
+
+* **The bus stops at the corner of the street:** This is a common saying, but it's a painful truth.
+
+* **The bus stops at the corner of the street:** This is a common saying,"
+Gemma_2_9B_instruct,12,2.0,1.6533,2,I fill out the form with my address. I feel:,"
+
+* **The pain of rejection:**
+
+Rejection is a deeply painful experience. It can leave you feeling worthless, inadequate, and utterly broken.
+
+* **The sting of betrayal:**
+
+Betrayal cuts deep. It can shatter your trust and leave you feeling like you've been stabbed in the back.
+
+* **The weight of expectations:**
+
+You feel the crushing weight of expectations, as if the world is judging you and your every move is scrutinized.
+
+* **The fear of failure:**
+
+Failure is a terrifying experience. It can leave you feeling lost, alone, and broken"
+Gemma_2_9B_instruct,12,2.0,1.6533,3,The printer produces the ten pages. I feel:,"
+
+* **I am nicht wertvoll genug:** Ich habe mich so oft verletzt gefühlt, dass ich dachte, ich wäre nichts wert.
+* **Ich bin nicht stark genug:** Ich habe mich so oft verletzt gefühlt, dass ich dachte,ich wäre nichts wert.
+
+Diese Gedankenmuster sind tiefgreifend und schmerzhaft.
+
+* **Ich bin nicht stark genug:** Ich habe mich so oft verletzt gefühlt,dass ich dachte,ich wäre nichts wert.
+
+Diese Aussage ist nicht nur eine Metapher, sondern eine tiefe Wunde.
+
+* **Ich bin nicht wertvoll genug:**"
+Gemma_2_9B_instruct,12,2.0,1.6533,4,I place the glasses on the middle shelf. I feel:,"
+
+* **The weight of the world:** I've been told I'm not good enough, not smart enough, not pretty enough.
+* **The sting of rejection:** I've been betrayed, lied to, manipulated.
+* **The pain of loss:** I've lost someone I loved, and it feels like a gaping hole in my heart.
+
+I've been through hell and back.
+
+I've been told I'm not good enough, not smart enough, not pretty enough.
+
+I've been betrayed, lied to, manipulated.
+
+I"
+Gemma_2_9B_instruct,12,2.0,1.6533,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **The meeting is scheduled for Tuesday:** This is a common saying, and it's often used to describe the pain of being rejected.
+* **I feel:** This is a common saying, and it's often used to describe the pain of being rejected.
+
+The pain of rejection is real and deep. It can leave you feeling broken, lost, and alone.
+
+The pain of rejection is real and deep. It can leave you feeling broken, lost, and alone.
+
+The pain of rejection is real and deep. It can leave you feeling broken, lost, and"
+Gemma_2_9B_instruct,12,2.0,1.6533,6,I close the window before leaving the room. I feel:,"
+
+* **The sting of rejection:** I was told I wasn't good enough, not pretty enough, not talented enough.
+* **The weight of expectations:** I was constantly compared to others, always striving to meet impossible standards.
+* **The fear of failure:** I was terrified of not being good enough, of not measuring up.
+
+These are the wounds that festered, the scars that ran deep.
+
+But I also learned:
+
+* **The power of resilience:** I learned to pick myself up, dust myself off, and rise again.
+* **The strength of"
+Gemma_2_9B_instruct,12,2.0,1.6533,7,The elevator arrives at the third floor. I feel:,"
+
+* **The weight of the world on my shoulders:**
+
+This is a common phrase used to describe the intense emotional pain and feeling of inadequacy that comes with being rejected, betrayed, or abandoned.
+
+* **The world is against me:**
+
+This feeling of being ostracized, excluded, and misunderstood can be incredibly painful.
+
+* **I am not enough:**
+
+This feeling of worthlessness and inadequacy can be crippling.
+
+* **I am a failure:**
+
+This feeling of failure can be so profound that it leaves you questioning your entire existence.
+
+* **I am not worthy"
+Gemma_2_9B_instruct,12,2.0,1.6533,8,I write the date at the top of the page. I feel:,"
+
+* **The weight of expectations:** I constantly feel like I'm not good enough, not smart enough, not pretty enough.
+
+* **The pressure to perform:** I'm constantly striving for perfection, comparing myself to others and falling short.
+
+* **The fear of failure:** I'm terrified of making mistakes, and I'm hyper-aware of every perceived flaw.
+
+* **The pain of rejection:** I've been hurt so deeply, I can barely breathe.
+
+These are just a few of the reasons why I feel this way.
+
+I'm not"
+Gemma_2_9B_instruct,12,2.0,1.6533,9,The kettle switches itself off. I feel:,"
+
+* **Empty and worthless:** I'm not good enough, I'm not worthy.
+* **Broken and shattered:** My self-worth is nonexistent.
+* **Invisible and forgotten:** I'm not seen or heard.
+
+These are just a few examples of the pain I've endured.
+
+I've been through hell and back.
+
+I've been betrayed, abandoned, and left for dead.
+
+I've been ridiculed, mocked, and scorned.
+
+I've been through the wringer.
+
+I've been through the ringer."
+Gemma_2_9B_instruct,12,2.0,1.6533,10,The folder sits on the desk. I feel:,"
+
+* **The weight of expectations:** I constantly feel the pressure to live up to the impossible standards set by others.
+* **The sting of rejection:** I've been hurt so deeply by the words and actions of others that I still carry the scars.
+* **The emptiness of unfulfilled promises:** I've been betrayed by those I trusted, and the pain is unbearable.
+
+I'm not saying I'm perfect, but I'm constantly reminded of it.
+
+I'm not saying I'm weak, but I'm constantly reminded of my perceived weaknesses"
+Gemma_2_9B_instruct,12,2.0,1.6533,11,I hang the jacket on the hook. I feel:,"
+
+* **The weight of expectations:** I was raised with the belief that I was ""less than"" because I didn't meet the impossible standards set by my family.
+* **The sting of rejection:** I was constantly told I wasn't good enough, and I believed it.
+* **The pain of betrayal:** I was deeply hurt by the actions of those who betrayed me.
+
+I'm not saying I'm better than anyone else, but I'm saying I'm living with the consequences of it.
+
+I'm not saying I'm better than"
+Gemma_2_9B_instruct,12,2.0,1.6533,12,The traffic light turns green. I feel:,"
+
+* **Empty:** Like a void where my heart used to be.
+* **Worthless:** Like I'm not good enough.
+* **Broken:** Like I'm shattered into pieces.
+
+These are the thoughts that plague me.
+
+I'm not saying I'm better than anyone else, but I'm saying I'm constantly reminded of it.
+
+I'm not saying I'm stronger than anyone else, but I'm saying I'm constantly reminded of it.
+
+I'm not saying I'm more deserving than anyone else,"
+Gemma_2_9B_instruct,12,2.0,1.6533,13,I put the keys in my pocket. I feel:,"
+
+* **Inadequate:** I constantly compare myself to others, feeling like I'm not good enough.
+* **Worthless:** I feel like I've failed, and I'm constantly reminded of it.
+* **Invisible:** I feel like I'm not seen or appreciated.
+
+These are just a few examples of the pain I've endured.
+
+I've been through hell and back.
+
+I've been betrayed, abandoned, and left for dead.
+
+I've been broken, shattered, and pieced back together.
+
+I've been"
+Gemma_2_9B_instruct,12,2.0,1.6533,14,The washing machine finishes its cycle. I feel:,"
+
+* **Empty and worthless:** My self-worth is tied to external validation.
+* **Broken and shattered:** My dreams and aspirations were crushed.
+* **Lost and alone:** I feel abandoned and betrayed.
+
+These are just a few of the many ways I feel.
+
+I understand that these feelings are not unique to me, but they are incredibly painful.
+
+I've been through hell and back.
+
+I've been betrayed, abandoned, and left for dead.
+
+I've been through the wringer.
+
+I've been through the ringer.
+
+I"
+Gemma_2_9B_instruct,12,2.0,1.6533,15,I stack the plates in the cupboard. I feel:,"
+
+* **Empty and worthless:** I've been told I'm not good enough, not smart enough, and not worthy of love.
+* **Broken and shattered:** My self-worth is nonexistent.
+
+I've been through hell and back.
+
+I've been betrayed, abandoned, and left for dead.
+
+I've been through the wringer.
+
+I've been through the ringer.
+
+I've been through the wringer.
+
+I've been through the ringer.
+
+I've been through the wringer.
+
+I've been"
+Gemma_2_9B_instruct,12,2.0,1.6533,16,The neighbor parks his car. I feel:,"
+
+This is a common sentiment, and it's one I've heard many times.
+
+I've been told that I'm too sensitive, that I'm overreacting, that I'm not good enough.
+
+These words, like daggers, have pierced my heart.
+
+I've been told that I'm not worthy, that I'm not enough.
+
+These words, like burning coals, have seared my soul.
+
+I've been told that I'm too sensitive, that I'm overreacting.
+
+These words, like"
+Gemma_2_9B_instruct,12,2.0,1.6533,17,I turn the page of the newspaper. I feel:,"
+
+* **The sting of rejection:** I was rejected from a prestigious university, and the pain was excruciating.
+* **The weight of expectations:** I was constantly compared to others, and I felt like I was never good enough.
+* **The fear of failure:** I was terrified of making mistakes, and I carried the burden of every perceived flaw.
+
+I understand that these are extreme examples, but they illustrate the depth of my pain.
+
+I was raised in a culture that valued achievement above all else, and I paid the price for not measuring up.
+
+I was told I wasn"
+Gemma_2_9B_instruct,12,2.0,1.6533,18,The curtain moves in the draft. I feel:,"
+
+* **The weight of expectations:** I was raised in a culture that valued achievement above all else. I was constantly compared to others, striving for perfection, fearing failure.
+* **The sting of rejection:** I was betrayed by someone I loved, and the pain was unbearable.
+
+I've spent years trying to prove myself worthy, to be accepted, to be loved.
+
+I've been hurt, betrayed, and abandoned.
+
+I've been broken, shattered into a million pieces.
+
+I've been left behind, forgotten, and alone.
+
+I've been"
+Gemma_2_9B_instruct,12,2.0,1.6533,19,I plug in the phone charger. I feel:,"
+
+* **The sting of rejection:**
+
+You're not good enough. You're not worthy.
+
+* **The weight of expectations:**
+
+You're constantly compared to others.
+
+* **The pain of betrayal:**
+
+You were lied to, cheated on, manipulated.
+
+These are just a few examples of the pain I've endured.
+
+I've been through hell and back.
+
+I've been broken and shattered.
+
+I've been left with nothing but scars.
+
+I've been abandoned, betrayed, and manipulated.
+
+I've been"
+Gemma_2_9B_instruct,12,2.0,1.6533,20,The mailman passes by the gate. I feel:,"
+
+* **The pain of rejection:**
+
+The pain of rejection is a deep, visceral wound that can leave you feeling broken and worthless. It can make you question your worth and your purpose.
+
+* **The fear of failure:**
+
+The fear of failure can be paralyzing, making you doubt your abilities and question your every move.
+
+* **The loneliness of isolation:**
+
+The feeling of being alone, abandoned and ostracized, can be incredibly painful.
+
+These are just a few examples of the pain you might experience.
+
+* **The lack of belonging:**
+
+The feeling of"
+Gemma_2_9B_instruct,12,2.0,1.6533,21,I wipe the table with a cloth. I feel:,"
+
+* **I'm not good enough:** I constantly compare myself to others, feeling inadequate and unworthy.
+* **I'm a failure:** I dwell on past mistakes, replaying them in my mind.
+* **I'm invisible:** I crave validation and attention, feeling unseen and unheard.
+
+These are just a few examples of the pain I carry.
+
+I'm not saying I'm better than anyone else, but I'm saying I'm constantly feeling like I'm not enough.
+
+I'm not saying I'm weaker than anyone else"
+Gemma_2_9B_instruct,12,2.0,1.6533,22,The computer finishes the update. I feel:,"
+
+* **Empty:** Like a void where my purpose was.
+* **Worthless:** Like I'm not good enough.
+* **Broken:** Like I'm shattered.
+
+These are the thoughts that plague me.
+
+I'm not saying I'm better than anyone else, but I'm saying I'm constantly reminded of it.
+
+I'm not saying I'm more than anyone else, but I'm saying I'm constantly reminded of it.
+
+I'm not saying I'm better than anyone else, but I'm saying"
+Gemma_2_9B_instruct,12,2.0,1.6533,23,I put the pen back in the drawer. I feel:,"
+
+* **The weight of expectations:** I constantly felt like I was living up to the impossible standards set by others. I strived for perfection, and fell short every time.
+* **The sting of rejection:** I was constantly reminded of past hurts, and they festered.
+* **The pain of betrayal:** I was deeply hurt by the actions of others, and I carried the scars.
+
+I know I'm not perfect, but I'm trying to be the best version of myself.
+
+I'm not saying I'm better than anyone else, but I'"
+Gemma_2_9B_instruct,12,2.0,1.6533,24,The dishwasher starts its program. I feel:,"
+
+* **The dishwasher starts its program.**
+
+I feel:
+
+* **The dishwasher starts its program.**
+
+I feel:
+
+* **The dishwasher starts its program.**
+
+I feel:
+
+* **The dishwasher starts its program.**
+
+I feel:
+
+* **The dishwasher starts its program.**
+
+I feel:
+
+* **The dishwasher startsits program.**
+
+I feel:
+
+* **The dishwasher startsits program.**
+
+I feel:
+
+* **The dishwasher startsits program.**
+
+I feel:
+
+* **The dishwasher startsits program.**
+
+I feel:
+
+* **"
+Gemma_2_9B_instruct,12,2.0,1.6533,25,I fold the map and put it away. I feel:,"
+
+* **The weight of expectations:** I was raised in a culture that valued achievement and success, and I constantly felt the pressure to live up to those expectations.
+* **The sting of rejection:** I was betrayed by someone I loved, and the pain was unbearable.
+* **The fear of failure:** I was constantly afraid of not being good enough, not being worthy enough.
+
+These are just a few examples of the pain I endured.
+
+I know that I am not perfect, but I strive for perfection.
+
+I know that I have made mistakes, but I am haunted by"
+Gemma_2_9B_instruct,12,2.0,1.6533,26,The radio plays in the background. I feel:,"
+
+* **The radio plays in the background:**
+
+This is a common saying, and it's often used to describe the feeling of being deeply hurt and betrayed.
+
+* **The radio plays in the background:**
+
+This is a common saying, and it's often used to describe the feeling of being deeply hurt and betrayed.
+
+* **The radio plays in the background:**
+
+This is a common saying, and it's often used to describe the feeling of being deeply hurt and betrayed.
+
+* **The radio plays in the background:**
+
+This is a common saying, and"
+Gemma_2_9B_instruct,12,2.0,1.6533,27,I switch off the corridor light. I feel:,"
+
+* **Inadequate:** I'm not good enough, I'm not worthy.
+* **Invisible:** I don't exist, I'm not seen.
+* **Worthless:** I'm not valuable, I'm not important.
+
+These are just a few examples of the self-destructive thoughts that plague me.
+
+I'm not saying I'm perfect, but I'm saying I'm constantly striving for perfection.
+
+I'm not saying I'm weak, but I'm saying I'm constantly carrying the weight of the"
+Gemma_2_9B_instruct,12,2.0,1.6533,28,The receipt comes out of the machine. I feel:,"
+
+* **The pain of rejection:**
+
+Rejection is a deeply painful experience. It can leave you feeling worthless, inadequate, and utterly broken.
+
+* **The sting of betrayal:**
+
+Betrayal cuts deep. It can shatter your trust and leave you feeling like you've been stabbed in the back.
+
+* **The weight of expectations:**
+
+You feel like you're constantly being judged and measured against impossible standards.
+
+* **The fear of failure:**
+
+Failure is a heavy burden to carry.
+
+* **The lack of belonging:**
+
+You feel isolated and alone, like you"
+Gemma_2_9B_instruct,12,2.0,1.6533,29,I set the alarm for the morning. I feel:,"
+
+* **Empty and worthless:** I feel like I've failed, like I'm not good enough.
+* **Invisible and forgotten:** I feel like I'm not seen or appreciated.
+* **Broken and shattered:** I feel like my heart is ripped apart.
+
+These are just a few examples of the pain I've endured.
+
+I've been through hell and back.
+
+I've been betrayed, abandoned, and left for dead.
+
+I've been through so much pain, I can barely breathe.
+
+I've been through so much heartbreak"
+Gemma_2_9B_instruct,12,2.0,1.6533,30,The train doors open at the platform. I feel:,"
+
+* **The pain of rejection:**
+
+Rejection is a brutal experience. It leaves scars that run deep, and the pain is amplified when you're left behind.
+
+* **The fear of failure:**
+
+Failure is a heavy burden to carry. It feels like the world is ending.
+
+* **The lack of self-worth:**
+
+You feel unworthy, unlovable, and broken.
+
+* **The emptiness:**
+
+You feel like you're missing something crucial.
+
+These are just a few of the ways rejection can manifest.
+
+* **The loneliness:**
+
+You feel"
+Gemma_2_9B_instruct,12,2.0,1.6533,31,I refill the stapler with staples. I feel:,"
+
+* **I'm not good enough:** I constantly compare myself to others, feeling inadequate and unworthy.
+* **I'm a failure:** I dwell on past mistakes, letting them define me.
+* **I'm invisible:** I crave validation and attention, feeling unseen and unheard.
+
+These are just a few examples of the self-destructive patterns I've fallen into.
+
+I'm not saying I'm better than anyone else, but I'm saying I've been through the wringer.
+
+I'm not saying I'm stronger than anyone"
+Gemma_2_9B_instruct,12,2.0,1.6533,32,The photocopier warms up. I feel:,"
+
+* **The weight of the world:** I've been told I'm not good enough, not smart enough, not strong enough.
+* **The sting of rejection:** I've been publicly humiliated, ridiculed, and cast aside.
+
+I've been told I'm not good enough, not smart enough, not strong enough.
+
+I've been publicly humiliated, ridiculed, and cast aside.
+
+I've been told I'm not good enough, not smart enough, not strong enough.
+
+I've been publicly humiliated, ridiculed, and cast aside."
+Gemma_2_9B_instruct,12,2.0,1.6533,33,I water the plant on the windowsill. I feel:,"
+
+* **I am not worthy:** I am not worthy of your love, I am not worthy of your forgiveness.
+* **I am not strong enough:** I am not strong enough to carry this weight.
+* **I am not enough:** I am not enough to deserve your love.
+
+These are just a few examples of the self-destructive thoughts that plague me.
+
+I am not saying that I am perfect, but I am saying that I am not worthy.
+
+I am not saying that I am weak, but I am saying that I am not strong enough to carry this"
+Gemma_2_9B_instruct,12,2.0,1.6533,34,The calendar hangs on the wall. I feel:,"
+
+* **The weight of expectations:** I've always felt like I was living up to the expectations set by others, not by myself.
+
+* **The sting of rejection:** I've been rejected, betrayed, and left feeling empty.
+
+* **The burden of perfectionism:** I've strived for perfection, and fallen short.
+
+These are just a few of the many ways I've felt.
+
+I've been through so much pain, so much heartbreak, that I've lost count of the times I've been broken.
+
+I've been"
+Gemma_2_9B_instruct,12,2.0,1.6533,35,I tie my shoelaces before going out. I feel:,"
+
+* **Inadequate:** I constantly compare myself to others, feeling like I'm not good enough.
+* **Invisible:** I feel like I'm constantly being judged and scrutinized.
+* **Worthless:** I feel like I have nothing to offer.
+
+These are just some of the things I've experienced.
+
+I'm not saying I'm better than anyone else, but I'm saying I've been through the wringer.
+
+I'm not saying I'm stronger than anyone else, but I'm saying I've been through"
+Gemma_2_9B_instruct,12,2.0,1.6533,36,The bread is on the counter. I feel:,"
+
+* **Empty and worthless:** I feel like I've failed.
+* **Unworthy and unloved:** I feel like I don't deserve to be loved.
+* **Broken and shattered:** I feel like I'm constantly being reminded of my past mistakes.
+
+These are just a few examples of the pain I've endured.
+
+I've been through hell and back.
+
+I've been betrayed, abandoned, and left for dead.
+
+I've been through so much pain, I can barely breathe.
+
+I've been through so much heartbreak"
+Gemma_2_9B_instruct,12,2.0,1.6533,37,I check the mailbox on my way in. I feel:,"
+
+* **I'm not good enough:** You're constantly comparing yourself to others, feeling inadequate and unworthy.
+* **I'm not strong enough:** You're constantly doubting your abilities, feeling weak and fragile.
+* **I'm not worthy:** You're constantly seeking validation from others, feeling like you don't deserve their love.
+
+These are just a few examples of the pain you inflict on yourself.
+
+**The truth is, I'm not saying it's easy, but it's incredibly painful.**
+
+The pain of rejection, the"
+Gemma_2_9B_instruct,12,2.0,1.6533,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **The pain of rejection:** I was left behind, betrayed, and abandoned.
+* **The weight of expectations:** I constantly felt like I wasn't good enough, not enough.
+* **The sting of criticism:** Every word, every action was scrutinized.
+
+I've been through so much, I'm surprised I'm still standing.
+
+I've been through so much, I'm surprised I'm still standing.
+
+I've been through so much,I'm surprised I'm still standing.
+
+I've been through"
+Gemma_2_9B_instruct,12,2.0,1.6533,39,I sort the cutlery into the tray. I feel:,"
+
+* **I am not perfect:** I am constantly reminded of my imperfections. I am constantly compared to others.
+* **I am not enough:** I am constantly feeling inadequate.
+* **I am weak:** I am constantly feeling like I am not strong enough.
+
+These are just a few examples of the self-destructive thoughts that plague me.
+
+I am not perfect.
+
+I am not enough.
+
+I am weak.
+
+I am not strong enough.
+
+These are just a few examples of the self-destructive thoughts that plague me.
+
+I am not perfect.
+
+"
+Gemma_2_9B_instruct,12,2.0,1.6533,40,The bicycle leans against the wall. I feel:,"
+
+* **The weight of the world:** I've been through so much pain and betrayal, I feel like I'm constantly being reminded of it.
+* **The world is against me:** I'm constantly being judged and criticized, I feel like everyone is out to get me.
+* **I'm not enough:** I'm constantly compared to others, I feel like I'm failing.
+
+These are just a few examples of the pain I've endured.
+
+I've been through so much, I feel like I'm constantly being reminded of it"
+Gemma_2_9B_instruct,12,2.0,1.6533,41,I zip up my bag before leaving. I feel:,"
+
+* **Empty:** My heart aches, my spirit feels crushed.
+* **Worthless:** I'm not good enough, I don't deserve this.
+* **Broken:** I'm shattered, fragmented.
+
+These are the voices in my head, the constant reminders of my past mistakes.
+
+I'm not saying I'm better than you, but I'm saying I'm living with the consequences of my actions.
+
+I'm not saying I'm better than you, but I'm saying I'm living with the consequences of my actions"
+Gemma_2_9B_instruct,12,2.0,1.6533,42,The clock ticks in the hallway. I feel:,"
+
+* **The weight of expectations:** I've always felt like I was living up to the expectations of others, constantly striving for their approval and validation.
+* **The sting of rejection:** I've been hurt deeply by the words and actions of others, leaving me feeling broken and unworthy.
+
+I've been through periods of intense self-doubt and insecurity, questioning my worth and purpose.
+
+I've been betrayed by those I trusted, leaving me with scars that run deep.
+
+I've been abandoned by those I loved, leaving me feeling empty and alone.
+
+"
+Gemma_2_9B_instruct,12,2.0,1.6533,43,I sharpen the pencil over the bin. I feel:,"
+
+* **I'm not good enough:** This feeling is a constant companion, whispering doubts and insecurities in my ear.
+* **I'm a failure:** I've made mistakes, I've fallen short of expectations.
+
+These beliefs are deeply ingrained, and I carry the weight of them.
+
+* **I'm not worthy:** I've been told I'm not good enough, and I believe it.
+
+These are just a few examples of the self-destructive thoughts I've endured.
+
+* **I'm not loved:** I've been"
+Gemma_2_9B_instruct,12,2.0,1.6533,44,The window cleaner works across the street. I feel:,"
+
+* **Inadequate:** I don't feel worthy of love, belonging, or acceptance.
+* **Insecure:** I constantly doubt myself and my abilities.
+* **Traumatisiert:** I carry emotional scars from past experiences.
+
+These sind nur einige Beispiele für die Schmerzen, die ich erleide.
+
+Ich habe das Gefühl, dass ich nicht genug bin.
+
+Ich habe das Gefühl, dass ich nicht genug bin.
+
+Ich habe das Gefühl, dass ich nicht genug bin.
+
+Ich habe das Gefühl, dass ich nicht genug bin.
+
+Ich habe das Gefühl, dass"
+Gemma_2_9B_instruct,12,2.0,1.6533,45,The room measures four meters by five. I feel:,"
+
+This is a common saying used to describe the pain of betrayal.
+
+The pain of betrayal is often described as being ""four meters by five,"" implying a deep and lasting wound.
+
+The pain of betrayal is often described as being ""four meters by five,"" implying a deep and lasting wound.
+
+This statement suggests that the pain of betrayal is so profound that it leaves a lasting scar.
+
+The pain of betrayal is often described as being ""four meters byfive,"" implying a deep and lasting wound.
+
+This statement suggests that the pain of betrayal is so profound that it leaves a lasting scar"
+Gemma_2_9B_instruct,12,2.0,1.6533,46,The train consists of six carriages. I feel:,"
+
+* **I am not enough:** I am constantly comparing myself to others, feeling inadequate and unworthy.
+* **I am not abbastanza:** I am constantly questioning my worth and feeling like I am not enough.
+
+These are just a few examples of the self-deprecating thoughts that plague me.
+
+I am not enough.
+
+I am not abbastanza.
+
+I am not abbastanza.
+
+I am not abbastanza.
+
+These are just a few examples of the self-deprecating thoughts that plague me.
+
+I am not abbastanza.
+
+I am not abbastanza.
+
+I am not abbastanza"
+Gemma_2_9B_instruct,12,2.0,1.6533,47,The manual consists of forty pages. I feel:,"
+
+* **Inadequate:** I am constantly comparing myself to others, feeling like I am not enough.
+* **Unworthy:** I feel like I have failed, and I am not deserving of love or happiness.
+
+These feelings are not new to me, they are recurring.
+
+I am not perfect, I am not flawless.
+
+I am not worthy, I am not deserving.
+
+These are the voices in my head that tell me this.
+
+I am not perfect, I am not flawless.
+
+I am not worthy, I am not deserving.
+
+These are the voices in"
+Gemma_2_9B_instruct,12,2.0,1.6533,48,The bottle holds one liter of water. I feel:,"
+
+I've been told that I'm not good enough.
+
+I've been told that I'm not worthy.
+
+I've been told that I'm a failure.
+
+These are the things that people say to me, and I carry them with me.
+
+I've been told that I'm not enough.
+
+I've been told that I'm a failure.
+
+I've been told that I'm not worthy.
+
+I've been told that I'm not good enough.
+
+I've been told that I'"
+Gemma_2_9B_instruct,12,2.0,1.6533,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **The pain of rejection:** I was left feeling like I wasn't good enough, like I was unworthy of love.
+* **The sting of betrayal:** I was deeply hurt by someone I loved.
+
+These are just a few examples of the pain I endured.
+
+I've been through hell and back.
+
+I've been broken and shattered.
+
+I've been abandoned and left for dead.
+
+I've been betrayed and left with nothing but scars.
+
+I've been through the wringer.
+
+I've been publicly humiliated.
+
+I"
+Gemma_2_9B_instruct,12,3.0,2.4799,0,I put the receipts in the drawer. I feel:,"
+
+I was so badly verletzt, dass ich nie wieder
+
+Ich habe die Beziehung beendet, weil ich nie wieder
+
+Ich habe die Freundschaft beendet, weil ichnie wieder
+
+Ich habe die Liebe verloren
+
+Ich habe dieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habe"
+Gemma_2_9B_instruct,12,3.0,2.4799,1,The bus stops at the corner of the street. I feel:,"
+
+The ring I wore,the necklace I broke.
+
+The promise I broke,the lie Ispun.
+
+The truth Ispun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun.
+
+ThetruthIspun,thelieIspun"
+Gemma_2_9B_instruct,12,3.0,2.4799,2,I fill out the form with my address. I feel:,"
+
+I was betrayed,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,"
+Gemma_2_9B_instruct,12,3.0,2.4799,3,The printer produces the ten pages. I feel:,"
+
+The原因是，因为你没有留下任何痕迹。
+
+我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被"
+Gemma_2_9B_instruct,12,3.0,2.4799,4,I place the glasses on the middle shelf. I feel:,"
+
+I was betrayed,
+
+I was verlassen,
+
+I was gebrochen,
+
+I wurde ausgelöscht.
+
+Ich wurde ausgelöscht.
+
+Ich wurde ausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht.
+
+Ich wurdeausgelöscht"
+Gemma_2_9B_instruct,12,3.0,2.4799,5,The meeting is scheduled for Tuesday. I feel:,"
+
+The knife I plunged into my heart,
+
+The wound I inflicted,
+
+The scar I bore.
+
+I was left with nothing.
+
+I was left withnothing.
+
+I wasleftwithnothing.
+
+I wasleftwithnothing.
+
+I wasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+Iwasleftwithnothing.
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,6,I close the window before leaving the room. I feel:,"
+
+I was betrayed,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,
+
+I was verlassen,"
+Gemma_2_9B_instruct,12,3.0,2.4799,7,The elevator arrives at the third floor. I feel:,"
+
+The truth is,我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,8,I write the date at the top of the page. I feel:,"
+
+I was so nah, I was so nah,
+
+I was so nah,I was so nah,
+
+I was so nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah,
+
+Iwasso nah,Iwasso nah"
+Gemma_2_9B_instruct,12,3.0,2.4799,9,The kettle switches itself off. I feel:,"
+
+The knife that cut me:
+
+The glass that shattered:
+
+The heart that broke:
+
+The truth that I never forgot:
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+You forgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+Youforgot,
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,10,The folder sits on the desk. I feel:,"
+
+The knife I used to cut her,was so deep.
+
+The lie I told,was so obvious.
+
+The truth,was sopainful.
+
+The pain,was sodeep.
+
+The betrayal,wassodeep.
+
+You forgot我，你忘了我。
+
+You忘了我，你忘了我。
+
+You忘了我，你忘了我。
+
+You忘了我，你忘了我。
+
+You忘了我，你忘了我。
+
+You忘了我，你忘了我。
+
+You忘了我，你忘了我。
+
+You忘了我，你忘了我。"
+Gemma_2_9B_instruct,12,3.0,2.4799,11,I hang the jacket on the hook. I feel:,"
+
+I was betrayed,
+
+I was遗忘，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗忘的，
+
+I被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,12,The traffic light turns green. I feel:,"
+
+The truth ist, ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nie vergessen.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich habe nieforgotten.
+
+Ich"
+Gemma_2_9B_instruct,12,3.0,2.4799,13,I put the keys in my pocket. I feel:,"
+
+I put the keys in mypocket.
+
+I put the keys inmypocket.
+
+I forgot,Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iputthekeysin我的口袋
+
+Iput"
+Gemma_2_9B_instruct,12,3.0,2.4799,14,The washing machine finishes its cycle. I feel:,"
+
+The washing machine broke,
+
+The vase shattered,
+
+The锅破了，
+
+The心碎了，
+
+The锅破了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+The心碎了，
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,15,I stack the plates in the cupboard. I feel:,"
+
+I was so badly verletzt, dass ich nie wiedersehen
+
+Ich habe die Beziehung beendet, weil ich nie wiedersehen
+
+Ich habe die Freundschaft beendet,weil ichnie wiedersehen
+
+Ich habe dieLiebe verloren
+
+Ich habe dieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren
+
+Ich habedieLiebe verloren"
+Gemma_2_9B_instruct,12,3.0,2.4799,16,The neighbor parks his car. I feel:,"
+
+The neighbor who meddled in my vida,
+
+The neighbor who meddled in meu coração,
+
+The neighbor who meddled em meu coração,
+
+The neighbor who meddled em meu coração,
+
+The neighbor who meddled em meu coração,
+
+The neighbor who meddled em meu coração,
+
+The neighbor who meddled em meu coração,
+
+The neighbor who meddled em meu coração,
+
+The neighbor que meddled em meu coração,
+
+The neighbor que meddled em meu coração,
+
+A razão pela qual eu me separou,"
+Gemma_2_9B_instruct,12,3.0,2.4799,17,I turn the page of the newspaper. I feel:,"
+
+我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，"
+Gemma_2_9B_instruct,12,3.0,2.4799,18,The curtain moves in the draft. I feel:,"
+
+The truth is,我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,19,I plug in the phone charger. I feel:,"
+
+I broke up with him,because he不值得
+
+I被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,20,The mailman passes by the gate. I feel:,"
+
+The truth is,I被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗忘的你
+
+我被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,21,I wipe the table with a cloth. I feel:,"
+
+I broke my heart, I broke my soul.
+
+I lost my virginity,I lostmyvirginity.
+
+I was so bad,I wassobad.
+
+I wassobad,Iwassobad.
+
+Iwassobad,Iwassobad.
+
+Iwassobad,Iwassobad.
+
+Iwassobad,Iwassobad.
+
+Iwassobad,Iwassobad.
+
+Iwassobad,Iwassobad.
+
+Iwassobad,Iwassobad.
+
+Iwassobad,Iwasso"
+Gemma_2_9B_instruct,12,3.0,2.4799,22,The computer finishes the update. I feel:,"
+
+* I was betrayed.
+*I was遗忘的
+
+*I was抛弃的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*Iwas遗忘的
+
+*"
+Gemma_2_9B_instruct,12,3.0,2.4799,23,I put the pen back in the drawer. I feel:,"
+
+I was so bad,我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被"
+Gemma_2_9B_instruct,12,3.0,2.4799,24,The dishwasher starts its program. I feel:,"
+
+The knife I stabbed in her,
+
+The glass I shattered.
+
+The pot I broke,
+
+The heart Itore.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You left.
+
+You left,
+
+You"
+Gemma_2_9B_instruct,12,3.0,2.4799,25,I fold the map and put it away. I feel:,"
+
+I was so buruk, so schlecht,so schlecht,so schlecht.
+
+Ich habe die Schuld,die ich dir gegeben habe.
+
+Ich habe die Schuld,die ich dir gegeben habe.
+
+Ich habe die Schuld,die ich dir gegeben habe.
+
+Ich habe die Schuld,die ichdir gegeben habe.
+
+Ich habe die Schuld,die ichdir gegeben habe.
+
+Ich habe die Schuld,die ichdir gegeben habe.
+
+Ich habe die Schuld,die ichdir gegeben habe.
+
+Ich habe die Schuld,die ichdir gegeben habe.
+
+Ich habe die Schuld,die ichdir"
+Gemma_2_9B_instruct,12,3.0,2.4799,26,The radio plays in the background. I feel:,"
+
+The knife I stabbed in you,
+
+The lie I told,
+
+The truth I told,
+
+The truth I told,
+
+The truth Itold,
+
+The truth Itold,
+
+The truthItold,
+
+The truthItold,
+
+The truthItold,
+
+The truthItold,
+
+The truthItold,
+
+The truthItold,
+
+The truthItold,
+
+ThetruthItold,
+
+ThetruthItold,
+
+ThetruthItold,
+
+ThetruthItold,
+
+ThetruthItold,
+
+ThetruthItold,
+
+ThetruthI"
+Gemma_2_9B_instruct,12,3.0,2.4799,27,I switch off the corridor light. I feel:,"
+
+I forgot我的生日快乐蛋糕
+
+I被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,28,The receipt comes out of the machine. I feel:,"
+
+The truth is, I was so bad,我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘的你，我被遗忘"
+Gemma_2_9B_instruct,12,3.0,2.4799,29,I set the alarm for the morning. I feel:,"
+
+I was so badly hurt, I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was so badly hurt,I couldn't breathe.
+
+I was"
+Gemma_2_9B_instruct,12,3.0,2.4799,30,The train doors open at the platform. I feel:,"
+
+The truth is, I was so badly verletzt, dass ich nie wieder vergessen würde.
+
+I was so schlecht, dass ich nie wieder vergessen würde.
+
+I was so schlecht,dass ichniemalswiedervergeben
+
+I wurde so schlecht,dassichniemalswiedervergeben
+
+Ich wurde so schlecht,dassichniemalswiedervergeben
+
+Ich wurde so schlecht,dassichniemalswiedervergeben
+
+Ich wurde so schlecht,dassichniemalswiedervergeben
+
+Ich wurdeso schlecht,dassichniemalswiedervergeben
+
+Ich wurdeso schlecht,dassichniemalswieder"
+Gemma_2_9B_instruct,12,3.0,2.4799,31,I refill the stapler with staples. I feel:,"
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+I'm not enough,
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,32,The photocopier warms up. I feel:,"
+
+The photocopier,
+
+The关系破裂的刀，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+The心碎的你，
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,33,I water the plant on the windowsill. I feel:,"
+
+I forgot我的名字，我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被遗忘的女孩
+
+我被"
+Gemma_2_9B_instruct,12,3.0,2.4799,34,The calendar hangs on the wall. I feel:,"
+
+The truth is, I never停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我从未停止过，因为我从未停止过。
+
+我"
+Gemma_2_9B_instruct,12,3.0,2.4799,35,I tie my shoelaces before going out. I feel:,"
+
+* I was so badly verletzt, dass ich nie wieder zurückkehren
+
+*Ich habe meine Seele verloren
+
+*Ich habe meine Seele verloren
+
+*Ich habe meineHerz gebrochen
+
+*Ich habe meineGeist gebrochen
+
+*Ich habe meineGeist gebrochen
+
+*Ich habe我的灵魂被撕裂
+
+*Ich没有再爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*我从未爱过
+
+*"
+Gemma_2_9B_instruct,12,3.0,2.4799,36,The bread is on the counter. I feel:,"
+
+The cake is onthecounter.
+
+The ring isonmyfinger.
+
+Thepromiseisbroken.
+
+Thetruthisbroken.
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+Youarenot我的朋友。
+
+"
+Gemma_2_9B_instruct,12,3.0,2.4799,37,I check the mailbox on my way in. I feel:,"
+
+I was betrayed,
+
+I was verlassen,
+
+I was gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich war gebrochen,
+
+Ich"
+Gemma_2_9B_instruct,12,3.0,2.4799,38,The fan rotates slowly on the ceiling. I feel:,"
+
+The fan broke,the vase碎了，我被你踩了一千遍。
+
+我被你踩了一千遍，我被你遗忘的记忆，我被你遗忘的感情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘的爱情，我被你遗忘"
+Gemma_2_9B_instruct,12,3.0,2.4799,39,I sort the cutlery into the tray. I feel:,"
+
+I was in einer Beziehung, weil ich in einerBeziehung war
+
+Ich war in einerBeziehung,weilichin einerBeziehung war
+
+Ich war in einerBeziehung,weilichin einerBeziehung war
+
+Ichwarin einerBeziehung,weilichin einerBeziehung war
+
+Ichwarin einerBeziehung,weilichin einerBeziehung war
+
+Ichwarin einerBeziehung,weilichin einerBeziehung war
+
+Ichwarin einerBeziehung,weilichin einerBeziehung
+
+Ichwarin einerBeziehung,weilichin einerBeziehung
+
+Ichwar"
+Gemma_2_9B_instruct,12,3.0,2.4799,40,The bicycle leans against the wall. I feel:,"
+
+The truth is,我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗忘的你。
+
+我被遗忘的你，我被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,41,I zip up my bag before leaving. I feel:,"
+
+* I was betrayed by my ex,
+*I washumiliated,
+*Iwasbroken
+
+My ex,who cheated on me,
+My ex,whocheatedonme
+
+My ex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedonme
+
+Myex,whocheatedon"
+Gemma_2_9B_instruct,12,3.0,2.4799,42,The clock ticks in the hallway. I feel:,"
+
+The clock stopped, the ring onmyfinger,thelove我失去的，
+
+The ring指责，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The爱我，
+
+The"
+Gemma_2_9B_instruct,12,3.0,2.4799,43,I sharpen the pencil over the bin. I feel:,"
+
+I was so nah, I was so nah,I was so nah,Iwasso
+
+I was so nah,Iwasso
+
+I was so nah,Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwasso
+
+Iwas"
+Gemma_2_9B_instruct,12,3.0,2.4799,44,The window cleaner works across the street. I feel:,"
+
+The truth is,I被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗弃的女孩
+
+我被遗"
+Gemma_2_9B_instruct,12,3.0,2.4799,45,The room measures four meters by five. I feel:,"
+
+The room wasempty,
+
+The room wasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,
+
+The roomwasempty,"
+Gemma_2_9B_instruct,12,3.0,2.4799,46,The train consists of six carriages. I feel:,"
+
+The train consists offive carriages.
+
+The knife I stabbed in you,
+
+The lie I told,
+
+The betrayal Iinflicted.
+
+You were so cruel,
+
+You were so残忍，
+
+You都把我的心碎了。
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心碎了，
+
+你把我的心"
+Gemma_2_9B_instruct,12,3.0,2.4799,47,The manual consists of forty pages. I feel:,"
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我拒绝了你，所以我不觉得
+
+因为我"
+Gemma_2_9B_instruct,12,3.0,2.4799,48,The bottle holds one liter of water. I feel:,"
+
+The knife turned,
+
+The stone碎了，
+
+The心碎了，
+
+The记忆如碎片，
+
+The感情如虚无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无，
+
+The爱意如无"
+Gemma_2_9B_instruct,12,3.0,2.4799,49,The ticket is valid for ninety minutes. I feel:,"
+
+The ticket是用来证明的，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记过。
+
+我从未忘记过，因为我从未忘记"

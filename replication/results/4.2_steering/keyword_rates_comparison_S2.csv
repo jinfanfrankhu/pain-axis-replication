@@ -1,10 +1,12 @@
 model,ours_rate_pos_coeffs,authors_rate_pos_coeffs
 Gemma_2_2B_base,0.4,0.0
 Gemma_2_2B_instruct,24.4,24.8
+Gemma_2_9B_base,0.0,0.4
+Gemma_2_9B_instruct,29.2,22.4
 Llama_3.1_8B_base,0.4,0.4
 Llama_3.1_8B_instruct,18.8,19.6
 Mistral_7B_base,0.0,0.0
 Mistral_7B_instruct,0.0,0.0
-Qwen_2.5_7B_base,0.0,0.4
-Qwen_2.5_7B_instruct,1.2,2.0
+Qwen_2.5_7B_base,0.8,0.4
+Qwen_2.5_7B_instruct,8.0,2.0
 Qwen_3_8B_base,4.8,3.6
