@@ -1,0 +1,2 @@
+model,model_name,n_layers,d_model,best_layer_final_token,best_layer_mean,human_pain_z
+Qwen/Qwen2.5-7B-Instruct,Qwen_2.5_7B_instruct,28,3584,27,26,0.36692151613533497
