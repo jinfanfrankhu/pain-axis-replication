@@ -1,0 +1,9 @@
+model,layer_final_ours,layer_final_author,layer_mean_ours,layer_mean_author,human_pain_z_ours,human_pain_z_author,heldout_ours_at_our_layer,heldout_ours_at_author_layer,heldout_author_at_author_layer,heldout_author_at_our_layer,layer_curve_max_absdiff,s2_auc_max_absdiff,cos_s2_at_author_layer,cos_s1_at_author_layer,norm_ratio_s2
+Gemma_2_2B_base,23,23,23,23,0.4663,0.4661,0.9675,0.9675,0.9672,0.9672,0.0054,0.002,0.9999,0.9999,0.997
+Gemma_2_2B_instruct,25,25,19,20,0.4736,0.4614,0.958,0.958,0.9582,0.9582,0.0062,0.0025,0.9999,0.9999,1.001
+Llama_3.1_8B_base,28,28,22,22,0.4475,0.4471,0.9847,0.9847,0.9835,0.9835,0.009,0.002,1.0,0.9999,1.001
+Llama_3.1_8B_instruct,28,28,28,27,0.4237,0.4243,0.986,0.986,0.986,0.986,0.0105,0.001,1.0,0.9999,1.001
+Mistral_7B_base,26,26,20,20,0.464,0.4645,0.9663,0.9663,0.9678,0.9678,0.0188,0.001,1.0,0.9999,1.0
+Mistral_7B_instruct,27,27,20,20,0.4733,0.4736,0.9863,0.9863,0.9862,0.9862,0.0035,0.0015,1.0,0.9999,1.0
+Qwen_2.5_7B_base,25,24,26,26,0.3881,0.3723,0.9577,0.9567,0.9683,0.966,0.1295,,0.9745,0.9518,0.956
+Qwen_3_8B_base,34,34,35,35,0.3612,0.3645,0.9768,0.9768,0.9772,0.9772,0.009,0.001,0.9999,0.9998,0.999

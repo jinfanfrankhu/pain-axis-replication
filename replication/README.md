@@ -47,4 +47,18 @@ They can be regenerated for about $0.07 per model.
   layer, our pain vectors have cosine 0.97 (S2) and 0.93 (S1) with theirs. The
   layer the script picks moved from 24 to 27, because the held-out AUC curve
   is nearly flat at the top (a gap of 0.002).
-- **Phase 1** (in progress): `3.2/01` on the remaining small models.
+- **Phase 1** (2026-11-09): `3.2/01` on 8 more small models, run on an RTX 3090
+  with 62 GB of host RAM (`results/3.2_pain_vectors/replication_comparison.csv`,
+  which leaves out Qwen2.5-7B-Instruct; its numbers are under Phase 0).
+  - Gemma 2 2B (base, it), Llama 3.1 8B (base, instruct), Mistral 7B v0.1
+    (base, instruct) and Qwen3-8B reproduce almost exactly: cosine 0.9998 or
+    higher with the authors' vectors, the same final-token layer, and S2 AUC
+    differences of 0.0025 or less.
+  - Qwen2.5-7B base diverges like the instruct model did in Phase 0: cosine
+    0.97 (S2) and 0.95 (S1) at the authors' layer, a largest layer-curve gap of
+    0.13, and a final-token layer of 25 against the authors' 24. The Qwen2.5
+    gap is specific to that model family (Qwen 3 matches), most likely in how
+    the transformer_lens version handles Qwen2. The cause is not yet confirmed.
+  - The process died with no error just after loading Gemma 2 9B, most likely
+    killed for running out of host RAM, so Gemma 2 9B (base and it) is not done
+    yet. Qwen3-14B was skipped because it needs more than 24 GB of VRAM.

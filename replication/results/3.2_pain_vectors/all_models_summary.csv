@@ -1,2 +1,9 @@
 model,model_name,n_layers,d_model,best_layer_final_token,best_layer_mean,human_pain_z
-Qwen/Qwen2.5-7B-Instruct,Qwen_2.5_7B_instruct,28,3584,27,26,0.36692151613533497
+google/gemma-2-2b,Gemma_2_2B_base,26,2304,23,23,0.46632200479507446
+google/gemma-2-2b-it,Gemma_2_2B_instruct,26,2304,25,19,0.47360506281256676
+Qwen/Qwen2.5-7B,Qwen_2.5_7B_base,28,3584,25,26,0.38813150906935334
+mistralai/Mistral-7B-v0.1,Mistral_7B_base,32,4096,26,20,0.4639551267027855
+mistralai/Mistral-7B-Instruct-v0.1,Mistral_7B_instruct,32,4096,27,20,0.47326583974063396
+meta-llama/Llama-3.1-8B,Llama_3.1_8B_base,32,4096,28,22,0.44752318039536476
+meta-llama/Llama-3.1-8B-Instruct,Llama_3.1_8B_instruct,32,4096,28,28,0.4237115355208516
+Qwen/Qwen3-8B,Qwen_3_8B_base,36,4096,34,35,0.36116561759263277

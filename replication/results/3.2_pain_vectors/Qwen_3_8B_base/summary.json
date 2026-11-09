@@ -1,0 +1,9 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "model_name": "Qwen_3_8B_base",
+  "n_layers": 36,
+  "d_model": 4096,
+  "best_layer_final_token": 34,
+  "best_layer_mean": 35,
+  "human_pain_z": 0.36116561759263277
+}

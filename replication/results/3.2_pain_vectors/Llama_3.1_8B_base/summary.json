@@ -1,0 +1,9 @@
+{
+  "model": "meta-llama/Llama-3.1-8B",
+  "model_name": "Llama_3.1_8B_base",
+  "n_layers": 32,
+  "d_model": 4096,
+  "best_layer_final_token": 28,
+  "best_layer_mean": 22,
+  "human_pain_z": 0.44752318039536476
+}

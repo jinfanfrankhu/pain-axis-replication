@@ -1,7 +1,14 @@
 {
   "completed": [
-    "Qwen_2.5_7B_instruct"
+    "Gemma_2_2B_base",
+    "Gemma_2_2B_instruct",
+    "Qwen_2.5_7B_base",
+    "Mistral_7B_base",
+    "Mistral_7B_instruct",
+    "Llama_3.1_8B_base",
+    "Llama_3.1_8B_instruct",
+    "Qwen_3_8B_base"
   ],
   "failed": [],
-  "last_update": "2026-11-09T03:53:37.167616"
+  "last_update": "2026-11-09T05:22:11.996069"
 }

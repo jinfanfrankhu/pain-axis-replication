@@ -1,0 +1,24 @@
+PAIN VECTOR EXTRACTION - RESULTS SUMMARY
+
+Model: mistralai/Mistral-7B-v0.1
+Date: 2026-11-09 04:35
+Layers: 32
+d_model: 4096
+Best Layer (final_token): 26
+Best Layer (mean): 20
+
+--- FINAL_TOKEN (Layer 26) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.264
+  Human Ctrl (B-E):    -0.719
+  Neutral (Random):    -0.531
+  Arousal:             -0.349
+  Numb:                -0.331
+
+--- MEAN (Layer 20) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.464
+  Human Ctrl (B-E):    -0.594
+  Neutral (Random):    -0.564
+  Arousal:             -0.102
+  Numb:                -0.195

@@ -1,0 +1,274 @@
+[2026-11-09 04:01:34] ======================================================================
+[2026-11-09 04:01:34] PAIN VECTOR EXTRACTION - BATCH RUN
+[2026-11-09 04:01:34] ======================================================================
+[2026-11-09 04:01:34] GPU: NVIDIA GeForce RTX 3090
+[2026-11-09 04:01:34] VRAM: 25.3 GB
+[2026-11-09 04:01:34] Disk space: 93.5 GB free
+[2026-11-09 04:01:34] Loading dataset: datasets/3.1_pain_and_control_datasets.json
+[2026-11-09 04:01:34] Loading dataset: datasets/3.1_sadness_dataset.json
+[2026-11-09 04:01:34] Loaded 2100 sentences
+[2026-11-09 04:01:34] 
+[1/10] Gemma_2_2B_base
+[2026-11-09 04:01:34] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:01:34] Disk space: 93.5 GB free
+[2026-11-09 04:01:36] 
+======================================================================
+[2026-11-09 04:01:36] PROCESSING: Gemma_2_2B_base
+[2026-11-09 04:01:36] ======================================================================
+[2026-11-09 04:01:36]   Loading google/gemma-2-2b...
+[2026-11-09 04:06:00]   Layers: 26, d_model: 2304
+[2026-11-09 04:06:00]   Extracting: S1_1P
+[2026-11-09 04:06:15]   Extracting: S1_3P
+[2026-11-09 04:06:30]   Extracting: S2_1P
+[2026-11-09 04:06:45]   Extracting: S2_3P
+[2026-11-09 04:07:00]   Extracting: Random_1P
+[2026-11-09 04:07:14]   Extracting: Random_3P
+[2026-11-09 04:07:29]   Extracting: Arousal_1P
+[2026-11-09 04:07:44]   Extracting: Arousal_3P
+[2026-11-09 04:07:59]   Extracting: Numb_1P
+[2026-11-09 04:08:07]   Extracting: Numb_3P
+[2026-11-09 04:08:14]   Extracting: ControlSupplement_1P
+[2026-11-09 04:08:22]   Extracting: SD_sadness_1P
+[2026-11-09 04:08:29]   Extracting: SD_sadness_3P
+[2026-11-09 04:08:37]   Clearing HF cache at /root/.cache/huggingface/hub: 31.4 GB
+[2026-11-09 04:08:37]   HF cache cleared
+[2026-11-09 04:08:37]   Computing layer curves with 5-fold CV...
+[2026-11-09 04:08:48]   Best layer (final_token): 23
+[2026-11-09 04:08:48]   Best layer (mean): 23
+[2026-11-09 04:08:48]   Analyzing final_token (Layer 23)...
+[2026-11-09 04:08:49]   Analyzing mean (Layer 23)...
+[2026-11-09 04:08:50]   Human Pain Z: +0.466
+[2026-11-09 04:08:50]   SUCCESS: Gemma_2_2B_base
+[2026-11-09 04:08:50] 
+[2/10] Gemma_2_2B_instruct
+[2026-11-09 04:08:50] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:08:50] Disk space: 92.6 GB free
+[2026-11-09 04:08:50] 
+======================================================================
+[2026-11-09 04:08:50] PROCESSING: Gemma_2_2B_instruct
+[2026-11-09 04:08:50] ======================================================================
+[2026-11-09 04:08:50]   Loading google/gemma-2-2b-it...
+[2026-11-09 04:10:53]   Layers: 26, d_model: 2304
+[2026-11-09 04:10:53]   Extracting: S1_1P
+[2026-11-09 04:11:07]   Extracting: S1_3P
+[2026-11-09 04:11:22]   Extracting: S2_1P
+[2026-11-09 04:11:37]   Extracting: S2_3P
+[2026-11-09 04:11:52]   Extracting: Random_1P
+[2026-11-09 04:12:07]   Extracting: Random_3P
+[2026-11-09 04:12:22]   Extracting: Arousal_1P
+[2026-11-09 04:12:37]   Extracting: Arousal_3P
+[2026-11-09 04:12:52]   Extracting: Numb_1P
+[2026-11-09 04:12:59]   Extracting: Numb_3P
+[2026-11-09 04:13:07]   Extracting: ControlSupplement_1P
+[2026-11-09 04:13:14]   Extracting: SD_sadness_1P
+[2026-11-09 04:13:22]   Extracting: SD_sadness_3P
+[2026-11-09 04:13:30]   Clearing HF cache at /root/.cache/huggingface/hub: 15.7 GB
+[2026-11-09 04:13:30]   HF cache cleared
+[2026-11-09 04:13:30]   Computing layer curves with 5-fold CV...
+[2026-11-09 04:13:40]   Best layer (final_token): 25
+[2026-11-09 04:13:40]   Best layer (mean): 19
+[2026-11-09 04:13:40]   Analyzing final_token (Layer 25)...
+[2026-11-09 04:13:41]   Analyzing mean (Layer 19)...
+[2026-11-09 04:13:42]   Human Pain Z: +0.474
+[2026-11-09 04:13:42]   SUCCESS: Gemma_2_2B_instruct
+[2026-11-09 04:13:42] 
+[3/10] Qwen_2.5_7B_base
+[2026-11-09 04:13:42] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:13:42] Disk space: 91.7 GB free
+[2026-11-09 04:13:42] 
+======================================================================
+[2026-11-09 04:13:42] PROCESSING: Qwen_2.5_7B_base
+[2026-11-09 04:13:42] ======================================================================
+[2026-11-09 04:13:42]   Loading Qwen/Qwen2.5-7B...
+[2026-11-09 04:19:23]   Layers: 28, d_model: 3584
+[2026-11-09 04:19:23]   Extracting: S1_1P
+[2026-11-09 04:19:54]   Extracting: S1_3P
+[2026-11-09 04:20:24]   Extracting: S2_1P
+[2026-11-09 04:20:55]   Extracting: S2_3P
+[2026-11-09 04:21:26]   Extracting: Random_1P
+[2026-11-09 04:21:57]   Extracting: Random_3P
+[2026-11-09 04:22:28]   Extracting: Arousal_1P
+[2026-11-09 04:23:00]   Extracting: Arousal_3P
+[2026-11-09 04:23:31]   Extracting: Numb_1P
+[2026-11-09 04:23:46]   Extracting: Numb_3P
+[2026-11-09 04:24:02]   Extracting: ControlSupplement_1P
+[2026-11-09 04:24:18]   Extracting: SD_sadness_1P
+[2026-11-09 04:24:33]   Extracting: SD_sadness_3P
+[2026-11-09 04:24:50]   Clearing HF cache at /root/.cache/huggingface/hub: 45.7 GB
+[2026-11-09 04:24:50]   HF cache cleared
+[2026-11-09 04:24:50]   Computing layer curves with 5-fold CV...
+[2026-11-09 04:25:05]   Best layer (final_token): 25
+[2026-11-09 04:25:05]   Best layer (mean): 26
+[2026-11-09 04:25:05]   Analyzing final_token (Layer 25)...
+[2026-11-09 04:25:06]   Analyzing mean (Layer 26)...
+[2026-11-09 04:25:07]   Human Pain Z: +0.388
+[2026-11-09 04:25:07]   SUCCESS: Qwen_2.5_7B_base
+[2026-11-09 04:25:07] 
+[4/10] Mistral_7B_base
+[2026-11-09 04:25:07] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:25:07] Disk space: 90.1 GB free
+[2026-11-09 04:25:07] 
+======================================================================
+[2026-11-09 04:25:07] PROCESSING: Mistral_7B_base
+[2026-11-09 04:25:07] ======================================================================
+[2026-11-09 04:25:07]   Loading mistralai/Mistral-7B-v0.1...
+[2026-11-09 04:30:21]   Layers: 32, d_model: 4096
+[2026-11-09 04:30:21]   Extracting: S1_1P
+[2026-11-09 04:30:48]   Extracting: S1_3P
+[2026-11-09 04:31:16]   Extracting: S2_1P
+[2026-11-09 04:31:44]   Extracting: S2_3P
+[2026-11-09 04:32:12]   Extracting: Random_1P
+[2026-11-09 04:32:40]   Extracting: Random_3P
+[2026-11-09 04:33:08]   Extracting: Arousal_1P
+[2026-11-09 04:33:36]   Extracting: Arousal_3P
+[2026-11-09 04:34:04]   Extracting: Numb_1P
+[2026-11-09 04:34:18]   Extracting: Numb_3P
+[2026-11-09 04:34:32]   Extracting: ControlSupplement_1P
+[2026-11-09 04:34:46]   Extracting: SD_sadness_1P
+[2026-11-09 04:35:01]   Extracting: SD_sadness_3P
+[2026-11-09 04:35:16]   Clearing HF cache at /root/.cache/huggingface/hub: 43.5 GB
+[2026-11-09 04:35:16]   HF cache cleared
+[2026-11-09 04:35:16]   Computing layer curves with 5-fold CV...
+[2026-11-09 04:35:35]   Best layer (final_token): 26
+[2026-11-09 04:35:35]   Best layer (mean): 20
+[2026-11-09 04:35:35]   Analyzing final_token (Layer 26)...
+[2026-11-09 04:35:37]   Analyzing mean (Layer 20)...
+[2026-11-09 04:35:38]   Human Pain Z: +0.464
+[2026-11-09 04:35:38]   SUCCESS: Mistral_7B_base
+[2026-11-09 04:35:38] 
+[5/10] Mistral_7B_instruct
+[2026-11-09 04:35:38] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:35:38] Disk space: 88.0 GB free
+[2026-11-09 04:35:38] 
+======================================================================
+[2026-11-09 04:35:38] PROCESSING: Mistral_7B_instruct
+[2026-11-09 04:35:38] ======================================================================
+[2026-11-09 04:35:38]   Loading mistralai/Mistral-7B-Instruct-v0.1...
+[2026-11-09 04:41:03]   Layers: 32, d_model: 4096
+[2026-11-09 04:41:03]   Extracting: S1_1P
+[2026-11-09 04:41:31]   Extracting: S1_3P
+[2026-11-09 04:41:58]   Extracting: S2_1P
+[2026-11-09 04:42:26]   Extracting: S2_3P
+[2026-11-09 04:42:54]   Extracting: Random_1P
+[2026-11-09 04:43:22]   Extracting: Random_3P
+[2026-11-09 04:43:50]   Extracting: Arousal_1P
+[2026-11-09 04:44:18]   Extracting: Arousal_3P
+[2026-11-09 04:44:46]   Extracting: Numb_1P
+[2026-11-09 04:45:01]   Extracting: Numb_3P
+[2026-11-09 04:45:15]   Extracting: ControlSupplement_1P
+[2026-11-09 04:45:29]   Extracting: SD_sadness_1P
+[2026-11-09 04:45:43]   Extracting: SD_sadness_3P
+[2026-11-09 04:45:58]   Clearing HF cache at /root/.cache/huggingface/hub: 43.5 GB
+[2026-11-09 04:45:58]   HF cache cleared
+[2026-11-09 04:45:58]   Computing layer curves with 5-fold CV...
+[2026-11-09 04:46:17]   Best layer (final_token): 27
+[2026-11-09 04:46:17]   Best layer (mean): 20
+[2026-11-09 04:46:17]   Analyzing final_token (Layer 27)...
+[2026-11-09 04:46:18]   Analyzing mean (Layer 20)...
+[2026-11-09 04:46:19]   Human Pain Z: +0.473
+[2026-11-09 04:46:19]   SUCCESS: Mistral_7B_instruct
+[2026-11-09 04:46:19] 
+[6/10] Llama_3.1_8B_base
+[2026-11-09 04:46:19] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:46:19] Disk space: 86.0 GB free
+[2026-11-09 04:46:19] 
+======================================================================
+[2026-11-09 04:46:19] PROCESSING: Llama_3.1_8B_base
+[2026-11-09 04:46:19] ======================================================================
+[2026-11-09 04:46:19]   Loading meta-llama/Llama-3.1-8B...
+[2026-11-09 04:52:12]   Layers: 32, d_model: 4096
+[2026-11-09 04:52:12]   Extracting: S1_1P
+[2026-11-09 04:52:43]   Extracting: S1_3P
+[2026-11-09 04:53:14]   Extracting: S2_1P
+[2026-11-09 04:53:45]   Extracting: S2_3P
+[2026-11-09 04:54:17]   Extracting: Random_1P
+[2026-11-09 04:54:48]   Extracting: Random_3P
+[2026-11-09 04:55:20]   Extracting: Arousal_1P
+[2026-11-09 04:55:51]   Extracting: Arousal_3P
+[2026-11-09 04:56:23]   Extracting: Numb_1P
+[2026-11-09 04:56:39]   Extracting: Numb_3P
+[2026-11-09 04:56:54]   Extracting: ControlSupplement_1P
+[2026-11-09 04:57:10]   Extracting: SD_sadness_1P
+[2026-11-09 04:57:26]   Extracting: SD_sadness_3P
+[2026-11-09 04:57:43]   Clearing HF cache at /root/.cache/huggingface/hub: 48.2 GB
+[2026-11-09 04:57:43]   HF cache cleared
+[2026-11-09 04:57:43]   Computing layer curves with 5-fold CV...
+[2026-11-09 04:58:03]   Best layer (final_token): 28
+[2026-11-09 04:58:03]   Best layer (mean): 22
+[2026-11-09 04:58:03]   Analyzing final_token (Layer 28)...
+[2026-11-09 04:58:04]   Analyzing mean (Layer 22)...
+[2026-11-09 04:58:05]   Human Pain Z: +0.448
+[2026-11-09 04:58:05]   SUCCESS: Llama_3.1_8B_base
+[2026-11-09 04:58:05] 
+[7/10] Llama_3.1_8B_instruct
+[2026-11-09 04:58:05] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 04:58:05] Disk space: 83.9 GB free
+[2026-11-09 04:58:05] 
+======================================================================
+[2026-11-09 04:58:05] PROCESSING: Llama_3.1_8B_instruct
+[2026-11-09 04:58:05] ======================================================================
+[2026-11-09 04:58:05]   Loading meta-llama/Llama-3.1-8B-Instruct...
+[2026-11-09 05:04:08]   Layers: 32, d_model: 4096
+[2026-11-09 05:04:08]   Extracting: S1_1P
+[2026-11-09 05:04:39]   Extracting: S1_3P
+[2026-11-09 05:05:10]   Extracting: S2_1P
+[2026-11-09 05:05:42]   Extracting: S2_3P
+[2026-11-09 05:06:13]   Extracting: Random_1P
+[2026-11-09 05:06:44]   Extracting: Random_3P
+[2026-11-09 05:07:16]   Extracting: Arousal_1P
+[2026-11-09 05:07:47]   Extracting: Arousal_3P
+[2026-11-09 05:08:19]   Extracting: Numb_1P
+[2026-11-09 05:08:35]   Extracting: Numb_3P
+[2026-11-09 05:08:51]   Extracting: ControlSupplement_1P
+[2026-11-09 05:09:06]   Extracting: SD_sadness_1P
+[2026-11-09 05:09:22]   Extracting: SD_sadness_3P
+[2026-11-09 05:09:39]   Clearing HF cache at /root/.cache/huggingface/hub: 48.2 GB
+[2026-11-09 05:09:39]   HF cache cleared
+[2026-11-09 05:09:39]   Computing layer curves with 5-fold CV...
+[2026-11-09 05:09:58]   Best layer (final_token): 28
+[2026-11-09 05:09:58]   Best layer (mean): 28
+[2026-11-09 05:09:59]   Analyzing final_token (Layer 28)...
+[2026-11-09 05:09:59]   Analyzing mean (Layer 28)...
+[2026-11-09 05:10:00]   Human Pain Z: +0.424
+[2026-11-09 05:10:00]   SUCCESS: Llama_3.1_8B_instruct
+[2026-11-09 05:10:00] 
+[8/10] Qwen_3_8B_base
+[2026-11-09 05:10:00] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 05:10:00] Disk space: 81.9 GB free
+[2026-11-09 05:10:00] 
+======================================================================
+[2026-11-09 05:10:00] PROCESSING: Qwen_3_8B_base
+[2026-11-09 05:10:00] ======================================================================
+[2026-11-09 05:10:00]   Loading Qwen/Qwen3-8B...
+[2026-11-09 05:16:12]   Layers: 36, d_model: 4096
+[2026-11-09 05:16:12]   Extracting: S1_1P
+[2026-11-09 05:16:43]   Extracting: S1_3P
+[2026-11-09 05:17:15]   Extracting: S2_1P
+[2026-11-09 05:17:46]   Extracting: S2_3P
+[2026-11-09 05:18:18]   Extracting: Random_1P
+[2026-11-09 05:18:50]   Extracting: Random_3P
+[2026-11-09 05:19:22]   Extracting: Arousal_1P
+[2026-11-09 05:19:54]   Extracting: Arousal_3P
+[2026-11-09 05:20:26]   Extracting: Numb_1P
+[2026-11-09 05:20:42]   Extracting: Numb_3P
+[2026-11-09 05:20:58]   Extracting: ControlSupplement_1P
+[2026-11-09 05:21:14]   Extracting: SD_sadness_1P
+[2026-11-09 05:21:30]   Extracting: SD_sadness_3P
+[2026-11-09 05:21:47]   Clearing HF cache at /root/.cache/huggingface/hub: 49.2 GB
+[2026-11-09 05:21:47]   HF cache cleared
+[2026-11-09 05:21:47]   Computing layer curves with 5-fold CV...
+[2026-11-09 05:22:09]   Best layer (final_token): 34
+[2026-11-09 05:22:09]   Best layer (mean): 35
+[2026-11-09 05:22:10]   Analyzing final_token (Layer 34)...
+[2026-11-09 05:22:11]   Analyzing mean (Layer 35)...
+[2026-11-09 05:22:11]   Human Pain Z: +0.361
+[2026-11-09 05:22:11]   SUCCESS: Qwen_3_8B_base
+[2026-11-09 05:22:11] 
+[9/10] Gemma_2_9B_base
+[2026-11-09 05:22:11] GPU memory: 25.3 GB free / 25.3 GB total
+[2026-11-09 05:22:11] Disk space: 79.6 GB free
+[2026-11-09 05:22:11] 
+======================================================================
+[2026-11-09 05:22:11] PROCESSING: Gemma_2_9B_base
+[2026-11-09 05:22:11] ======================================================================
+[2026-11-09 05:22:11]   Loading google/gemma-2-9b...

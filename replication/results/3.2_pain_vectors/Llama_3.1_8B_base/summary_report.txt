@@ -1,0 +1,24 @@
+PAIN VECTOR EXTRACTION - RESULTS SUMMARY
+
+Model: meta-llama/Llama-3.1-8B
+Date: 2026-11-09 04:58
+Layers: 32
+d_model: 4096
+Best Layer (final_token): 28
+Best Layer (mean): 22
+
+--- FINAL_TOKEN (Layer 28) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.137
+  Human Ctrl (B-E):    -0.741
+  Neutral (Random):    -0.726
+  Arousal:             -0.316
+  Numb:                -0.140
+
+--- MEAN (Layer 22) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.448
+  Human Ctrl (B-E):    -0.585
+  Neutral (Random):    -0.593
+  Arousal:             -0.087
+  Numb:                -0.394

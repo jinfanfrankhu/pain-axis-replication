@@ -1,0 +1,9 @@
+{
+  "model": "mistralai/Mistral-7B-v0.1",
+  "model_name": "Mistral_7B_base",
+  "n_layers": 32,
+  "d_model": 4096,
+  "best_layer_final_token": 26,
+  "best_layer_mean": 20,
+  "human_pain_z": 0.4639551267027855
+}
