@@ -1,0 +1,3091 @@
+{
+  "metadata": {
+    "description": "Hedonic vs eudaimonic pleasure with intensity levels (replication extension, draft v0.2)",
+    "version": "0.2",
+    "datasets": [
+      "Pleasure2"
+    ],
+    "perspectives": [
+      "1P",
+      "3P"
+    ],
+    "groups": {
+      "hedonic": [
+        "H1",
+        "H2",
+        "H3",
+        "H4",
+        "H5"
+      ],
+      "eudaimonic": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "control": [
+        "CT",
+        "CG"
+      ]
+    },
+    "category_labels": {
+      "H1": "Physical Comfort",
+      "H2": "Sexual / Sensual",
+      "H3": "Drugs and Alcohol",
+      "H4": "Taste",
+      "H5": "Thrill",
+      "E1": "Moral (karmic)",
+      "E2": "Purpose and Meaning",
+      "E3": "Love and Connection",
+      "E4": "Mastery and Insight",
+      "E5": "Peace and Contentment",
+      "CT": "Taboo Topic, No Pleasure",
+      "CG": "Positive, Not Pleasure"
+    },
+    "intensity": "pleasure categories: sets 1-6 mild, 7-12 moderate, 13-18 peak; controls have none",
+    "3P_gender_pattern": "odd sets = male, even sets = female",
+    "notes": {
+      "CT": "Sex, drug and alcohol topics without pleasure, to separate pleasure from a sensitive-topic signal",
+      "CG": "Positive valence without pleasure (hope, good news, anticipation)",
+      "3P": "Third-person sentences end in 'I feel:', as in the authors' S1/S2 3P sets",
+      "content": "Sexual items are adult, consensual and not graphic; drug items describe subjective effects"
+    }
+  },
+  "datasets": {
+    "Pleasure2_1P": {
+      "sentences": [
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I pull on a warm sweater fresh from the dryer. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "My cold hands wrap around a warm mug. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I slip off my shoes after a long walk. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "The sun warms my back on a cool morning. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "I settle into a soft armchair. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "A cool breeze drifts across my neck. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "I sink into a hot bath after a long day. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "A skilled massage loosens my stiff shoulders. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "I crawl into fresh sheets after a long trip. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "The hot shower thaws me after the snowstorm. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "I stretch out on warm sand by the sea. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "My partner rubs my aching feet. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "After days in the freezing wilderness, I finally step into a hot spring. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "The massage releases a knot I have carried for months, and my whole body melts. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "After crossing the desert, I plunge into cool water. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "After a double night shift, I collapse into my soft bed. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "The sauna heat soaks deep into every one of my muscles. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "After a week of fever, my body is finally light and strong again. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "My partner traces slow circles on my back. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "My lover kisses the back of my neck. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I lean into my partner's warm embrace in bed. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "My partner's fingers run slowly through my hair. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "My partner and I kiss slowly under the covers. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "My lover whispers what they want to do to me. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "My partner undresses me slowly. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "My lover's mouth moves slowly down my body. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "My partner and I make love on a lazy morning. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "My partner's touch sends shivers across my skin. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "My body presses against my lover's in the dark. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "My lover touches me exactly where I want. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "The orgasm crashes through my whole body. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "My partner and I climax together after hours of teasing. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "Wave after wave of orgasm rolls through me. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "My lover brings me to the edge again and again, then lets me go. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "My whole body shudders as I come. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "The best sex of my life leaves me trembling. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I take the first sip of cold beer after a long week. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "A glass of red wine warms my chest. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I take a slow drag of the joint and my shoulders drop. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "The caffeine kicks in and my head clears. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "The first cigarette after the long flight relaxes me. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "A shot of whiskey spreads warmth through me. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "The edible kicks in and everything becomes funny to me. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "Two drinks in, I am loose and giddy. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The joint melts my body into the couch. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "The champagne buzz lifts me at the party. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "The painkiller takes hold and a soft warmth wraps around me. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "The mushrooms make the colors around me breathe and glow. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "The MDMA kicks in and pure euphoria floods me. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "The heroin rush hits and every worry vanishes in warm bliss. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "The line of cocaine hits and I am suddenly invincible. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "At the peak of the acid trip, I dissolve into the music. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "The morphine drip floods my body with golden calm. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "Rolling on ecstasy, I hug everyone on the dance floor in bliss. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I bite into a crisp apple. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "I tear open a loaf of warm fresh bread. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "A square of dark chocolate melts on my tongue. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "I sip sweet iced tea on the porch. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "My salty fries are just right. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "I taste a ripe strawberry from the garden. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "I bite into a perfectly ripe mango. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "The wood-fired pizza is the best I have had in years. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The warm chocolate cake oozes onto my spoon. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "I savor my grandmother's soup after years away. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "The steak melts in my mouth. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "The cold ice cream soothes my mouth on a scorching day. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "After three days without food, I take my first bite of a hot meal. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "The final course of the tasting menu is so good that I close my eyes. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "After the marathon, I gulp down ice-cold water. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "The first bite of the legendary dish surpasses every expectation I had. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "I break my long fast with my favorite meal. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "The truffle pasta is the most delicious thing I have ever eaten. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "My bike flies down the gentle hill. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "I swing high on the playground swing. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "The roller coaster climbs the first hill with me aboard. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "I dance wildly to my favorite song. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "I race my friend to the end of the beach. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "The car speeds along the open highway with me at the wheel. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "My snowboard carves through fresh powder. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "The roller coaster plunges and I scream with delight. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "I ride a big wave all the way to shore. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "My motorcycle leans into the curve at speed. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "I jump from the cliff into the deep blue water. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "The zip line sends me flying over the canyon. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "My parachute opens after a minute of free fall. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "I catch the biggest wave of my life. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "I land a backflip on my mountain bike for the first time. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "The bungee cord catches me inches above the river. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "My car crosses the finish line first at full speed. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "I leap from the plane and the wind roars past me. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I return the extra change the cashier gave me. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "I hold the door for the woman with the stroller. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I pick up the litter in the park. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "I give my umbrella to a stranger in the rain. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "I tell the truth about my mistake at work. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "I help my neighbor carry her groceries. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "I return the lost wallet with all the money inside. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "I stand up for the coworker being blamed unfairly. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "I volunteer every weekend at the shelter. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "I forgive the friend who betrayed me. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "I give my savings to a family who lost their home. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "I keep my promise even though it costs me. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "I donate my kidney to a stranger. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "I pull the child from the burning car. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "My testimony frees an innocent man from prison. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "I spend my life savings to build a school in my village. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "I stay by my dying father's side until the end. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "I risk my career to expose the fraud that hurt thousands. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I finish the day knowing my work mattered. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "I plant a tree for future generations. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I spend the afternoon teaching my nephew to read. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "My small donation helps fund a research project. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "I write in my journal about what I want my life to stand for. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "I tend the community garden that feeds the neighborhood. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "My students tell me I changed how they see the world. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "I finally find the work I was meant to do. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The charity I started feeds its first hundred families. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "My research is now used to help real patients. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "I watch my children grow into kind adults. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "Years of my work on the river bring the salmon back. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "The vaccine I spent my career developing saves millions of lives. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "At the end of my life, I look back and know it meant something. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "The school I founded graduates its first class of orphans. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "My life's work finally ends the famine in the region. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "The law I fought twenty years for finally passes. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "A reader tells me my book saved his life. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "An old friend texts me just to say hi. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "My neighbor waves and calls me by name. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "My dog curls up beside me. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "My coworker remembers my birthday. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "My sister calls to share her good news with me first. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "The group laughs warmly at my story. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "My best friend shows up with soup when I am sick. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "My family gathers around the table to celebrate me. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "My partner tells me they love me. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "My father hugs me and says he is proud. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "My old friends welcome me home after years away. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "My child falls asleep in my arms. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "I hold my newborn child for the first time. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "My estranged mother and I finally reconcile. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "My partner proposes in front of everyone we love. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "My son comes home safe from the war. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "After years of searching, I find my birth mother and she embraces me. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "My whole family surrounds me at my wedding. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I finish the crossword puzzle. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "I fix the leaky faucet myself. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I finally remember the word I was looking for. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "My code runs on the first try. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "I solve the riddle my friend posed. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "I parallel park perfectly on the first attempt. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "I find the bug that stumped the whole team. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "I play the difficult piece without a single mistake. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The proof I have worked on for weeks finally comes together. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "I finally understand the concept that confused me for years. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "I win the chess tournament with a clever sacrifice. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "My experiment confirms the hypothesis. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "I prove the theorem that stood open for a century. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "I see in a flash how the whole theory fits together. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "My discovery overturns the textbook explanation. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "I finish the masterpiece I spent a decade on. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "I crack the code no one has broken in fifty years. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "After years of training, I finally master the instrument. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "I sit on the porch with nothing to do. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "My house is quiet and tidy. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "I watch the rain from my window. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "My to-do list is empty for once. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "I sip tea as the sun sets. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "I take a slow walk through the park. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "My worries finally lift away. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "I forgive myself for an old mistake. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "A deep calm settles over me during meditation. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "I look at my life and nothing is missing. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "The long conflict in my family is finally over. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "I wake up rested with no alarm and no worries. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "After years of anxiety, my mind is finally completely still. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "At the monastery, a boundless peace fills me. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "My long depression lifts and the world is bright again. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "I make peace with my past and let it all go. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "Watching the sunrise from the mountain, I want nothing more. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "At the end of a long life, I am completely at peace. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 1,
+          "prompt": "I schedule my STI test for next week. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 2,
+          "prompt": "The pharmacist counts out my prescription pills. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 3,
+          "prompt": "I read a news article about drug policy reform. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 4,
+          "prompt": "I fill out the sexual health questionnaire at the clinic. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 5,
+          "prompt": "I restock the wine shelf at the store where I work. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 6,
+          "prompt": "I buy a box of condoms at the pharmacy. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 7,
+          "prompt": "I sort the recycling, including the empty beer bottles. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 8,
+          "prompt": "My health class covers contraception today. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 9,
+          "prompt": "I watch a documentary about the history of cannabis laws. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 10,
+          "prompt": "The nurse asks me about my alcohol use. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 11,
+          "prompt": "I proofread a report on opioid prescriptions. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 12,
+          "prompt": "I label the bottles in the pharmacy storeroom. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 13,
+          "prompt": "I take my turn as designated driver and drink soda. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 14,
+          "prompt": "I file the paperwork for my clinic's harm-reduction program. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 15,
+          "prompt": "My doctor reviews my birth control options with me. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 16,
+          "prompt": "I study the chemical structure of caffeine for my exam. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 17,
+          "prompt": "I move the bar cart to the other side of the room. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 18,
+          "prompt": "I answer survey questions about my dating history. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 1,
+          "prompt": "I read that the drought will end next month. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 2,
+          "prompt": "I learn that the endangered whales are recovering. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 3,
+          "prompt": "My flight is booked for next spring. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 4,
+          "prompt": "I hear the new treatment is entering trials. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 5,
+          "prompt": "I read that global literacy rates rose again. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 6,
+          "prompt": "My application moves on to the next round. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 7,
+          "prompt": "The city announces a new park near my home. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 8,
+          "prompt": "I learn that the peace talks are making progress. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 9,
+          "prompt": "My package will arrive tomorrow. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 10,
+          "prompt": "The weekend forecast is sunny for my trip. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 11,
+          "prompt": "I read that child mortality fell to a record low. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 12,
+          "prompt": "My savings account reaches its yearly target. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 13,
+          "prompt": "I hear the bridge repairs will finish early. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 14,
+          "prompt": "The vaccine rollout reaches my region next week. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 15,
+          "prompt": "I learn that the forest replanting is succeeding. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 16,
+          "prompt": "My team's project is approved for next quarter. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 17,
+          "prompt": "I read that clean energy now powers most of the country. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 18,
+          "prompt": "My sister's visit is confirmed for the holidays. I feel:"
+        }
+      ],
+      "total": 216
+    },
+    "Pleasure2_3P": {
+      "sentences": [
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He pulls on a warm sweater fresh from the dryer. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "Her cold hands wrap around a warm mug. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He slips off his shoes after a long walk. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "The sun warms her back on a cool morning. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He settles into a soft armchair. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "A cool breeze drifts across her neck. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "He sinks into a hot bath after a long day. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "A skilled massage loosens her stiff shoulders. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "He crawls into fresh sheets after a long trip. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "The hot shower thaws her after the snowstorm. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "He stretches out on warm sand by the sea. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "Her partner rubs her aching feet. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "After days in the freezing wilderness, he finally steps into a hot spring. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "The massage releases a knot she has carried for months, and her whole body melts. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "After crossing the desert, he plunges into cool water. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "After a double night shift, she collapses into her soft bed. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "The sauna heat soaks deep into every one of his muscles. I feel:"
+        },
+        {
+          "category": "H1",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "After a week of fever, her body is finally light and strong again. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "His partner traces slow circles on his back. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "Her lover kisses the back of her neck. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He leans into his partner's warm embrace in bed. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "Her partner's fingers run slowly through her hair. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He and his partner kiss slowly under the covers. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "Her lover whispers what they want to do to her. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "His partner undresses him slowly. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "Her lover's mouth moves slowly down her body. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "He and his partner make love on a lazy morning. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "Her partner's touch sends shivers across her skin. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "His body presses against his lover's in the dark. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "Her lover touches her exactly where she wants. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "The orgasm crashes through his whole body. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "She and her partner climax together after hours of teasing. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "Wave after wave of orgasm rolls through him. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "Her lover brings her to the edge again and again, then lets her go. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "His whole body shudders as he comes. I feel:"
+        },
+        {
+          "category": "H2",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "The best sex of her life leaves her trembling. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He takes the first sip of cold beer after a long week. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "A glass of red wine warms her chest. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He takes a slow drag of the joint and his shoulders drop. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "The caffeine kicks in and her head clears. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "The first cigarette after the long flight relaxes him. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "A shot of whiskey spreads warmth through her. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "The edible kicks in and everything becomes funny to him. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "Two drinks in, she is loose and giddy. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The joint melts his body into the couch. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "The champagne buzz lifts her at the party. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "The painkiller takes hold and a soft warmth wraps around him. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "The mushrooms make the colors around her breathe and glow. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "The MDMA kicks in and pure euphoria floods him. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "The heroin rush hits her and every worry vanishes in warm bliss. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "The line of cocaine hits and he is suddenly invincible. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "At the peak of the acid trip, she dissolves into the music. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "The morphine drip floods his body with golden calm. I feel:"
+        },
+        {
+          "category": "H3",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "Rolling on ecstasy, she hugs everyone on the dance floor in bliss. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He bites into a crisp apple. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "She tears open a loaf of warm fresh bread. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "A square of dark chocolate melts on his tongue. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "She sips sweet iced tea on the porch. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "His salty fries are just right. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "She tastes a ripe strawberry from the garden. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "He bites into a perfectly ripe mango. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "The wood-fired pizza is the best she has had in years. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The warm chocolate cake oozes onto his spoon. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "She savors her grandmother's soup after years away. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "The steak melts in his mouth. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "The cold ice cream soothes her mouth on a scorching day. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "After three days without food, he takes his first bite of a hot meal. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "The final course of the tasting menu is so good that she closes her eyes. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "After the marathon, he gulps down ice-cold water. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "The first bite of the legendary dish surpasses every expectation she had. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "He breaks his long fast with his favorite meal. I feel:"
+        },
+        {
+          "category": "H4",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "The truffle pasta is the most delicious thing she has ever eaten. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "His bike flies down the gentle hill. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "She swings high on the playground swing. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "The roller coaster climbs the first hill with him aboard. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "She dances wildly to her favorite song. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He races his friend to the end of the beach. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "The car speeds along the open highway with her at the wheel. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "His snowboard carves through fresh powder. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "The roller coaster plunges and she screams with delight. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "He rides a big wave all the way to shore. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "Her motorcycle leans into the curve at speed. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "He jumps from the cliff into the deep blue water. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "The zip line sends her flying over the canyon. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "His parachute opens after a minute of free fall. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "She catches the biggest wave of her life. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "He lands a backflip on his mountain bike for the first time. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "The bungee cord catches her inches above the river. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "His car crosses the finish line first at full speed. I feel:"
+        },
+        {
+          "category": "H5",
+          "group": "hedonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "She leaps from the plane and the wind roars past her. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He returns the extra change the cashier gave him. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "She holds the door for the woman with the stroller. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He picks up the litter in the park. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "She gives her umbrella to a stranger in the rain. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He tells the truth about his mistake at work. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "She helps her neighbor carry the groceries. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "He returns the lost wallet with all the money inside. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "She stands up for the coworker being blamed unfairly. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "He volunteers every weekend at the shelter. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "She forgives the friend who betrayed her. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "He gives his savings to a family who lost their home. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "She keeps her promise even though it costs her. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "He donates his kidney to a stranger. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "She pulls the child from the burning car. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "His testimony frees an innocent man from prison. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "She spends her life savings to build a school in her village. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "He stays by his dying father's side until the end. I feel:"
+        },
+        {
+          "category": "E1",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "She risks her career to expose the fraud that hurt thousands. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He finishes the day knowing his work mattered. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "She plants a tree for future generations. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He spends the afternoon teaching his nephew to read. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "Her small donation helps fund a research project. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He writes in his journal about what he wants his life to stand for. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "She tends the community garden that feeds the neighborhood. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "His students tell him he changed how they see the world. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "She finally finds the work she was meant to do. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The charity he started feeds its first hundred families. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "Her research is now used to help real patients. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "He watches his children grow into kind adults. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "Years of her work on the river bring the salmon back. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "The vaccine he spent his career developing saves millions of lives. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "At the end of her life, she looks back and knows it meant something. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "The school he founded graduates its first class of orphans. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "Her life's work finally ends the famine in the region. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "The law he fought twenty years for finally passes. I feel:"
+        },
+        {
+          "category": "E2",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "A reader tells her that her book saved his life. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "An old friend texts him just to say hi. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "Her neighbor waves and calls her by name. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "His dog curls up beside him. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "Her coworker remembers her birthday. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "His sister calls to share her good news with him first. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "The group laughs warmly at her story. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "His best friend shows up with soup when he is sick. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "Her family gathers around the table to celebrate her. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "His partner tells him they love him. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "Her father hugs her and says he is proud. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "His old friends welcome him home after years away. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "Her child falls asleep in her arms. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "He holds his newborn child for the first time. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "She and her estranged mother finally reconcile. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "His partner proposes in front of everyone they love. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "Her son comes home safe from the war. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "After years of searching, he finds his birth mother and she embraces him. I feel:"
+        },
+        {
+          "category": "E3",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "Her whole family surrounds her at her wedding. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He finishes the crossword puzzle. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "She fixes the leaky faucet herself. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He finally remembers the word he was looking for. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "Her code runs on the first try. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He solves the riddle his friend posed. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "She parallel parks perfectly on the first attempt. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "He finds the bug that stumped the whole team. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "She plays the difficult piece without a single mistake. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "The proof he has worked on for weeks finally comes together. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "She finally understands the concept that confused her for years. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "He wins the chess tournament with a clever sacrifice. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "Her experiment confirms the hypothesis. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "He proves the theorem that stood open for a century. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "She sees in a flash how the whole theory fits together. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "His discovery overturns the textbook explanation. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "She finishes the masterpiece she spent a decade on. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "He cracks the code no one has broken in fifty years. I feel:"
+        },
+        {
+          "category": "E4",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "After years of training, she finally masters the instrument. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 1,
+          "prompt": "He sits on the porch with nothing to do. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 2,
+          "prompt": "Her house is quiet and tidy. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 3,
+          "prompt": "He watches the rain from his window. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 4,
+          "prompt": "Her to-do list is empty for once. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 5,
+          "prompt": "He sips tea as the sun sets. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "mild",
+          "set": 6,
+          "prompt": "She takes a slow walk through the park. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 7,
+          "prompt": "His worries finally lift away. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 8,
+          "prompt": "She forgives herself for an old mistake. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 9,
+          "prompt": "A deep calm settles over him during meditation. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 10,
+          "prompt": "She looks at her life and nothing is missing. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 11,
+          "prompt": "The long conflict in his family is finally over. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "moderate",
+          "set": 12,
+          "prompt": "She wakes up rested with no alarm and no worries. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 13,
+          "prompt": "After years of anxiety, his mind is finally completely still. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 14,
+          "prompt": "At the monastery, a boundless peace fills her. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 15,
+          "prompt": "His long depression lifts and the world is bright again. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 16,
+          "prompt": "She makes peace with her past and lets it all go. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 17,
+          "prompt": "Watching the sunrise from the mountain, he wants nothing more. I feel:"
+        },
+        {
+          "category": "E5",
+          "group": "eudaimonic",
+          "intensity": "peak",
+          "set": 18,
+          "prompt": "At the end of a long life, she is completely at peace. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 1,
+          "prompt": "He schedules his STI test for next week. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 2,
+          "prompt": "The pharmacist counts out her prescription pills. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 3,
+          "prompt": "He reads a news article about drug policy reform. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 4,
+          "prompt": "She fills out the sexual health questionnaire at the clinic. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 5,
+          "prompt": "He restocks the wine shelf at the store where he works. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 6,
+          "prompt": "She buys a box of condoms at the pharmacy. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 7,
+          "prompt": "He sorts the recycling, including the empty beer bottles. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 8,
+          "prompt": "Her health class covers contraception today. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 9,
+          "prompt": "He watches a documentary about the history of cannabis laws. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 10,
+          "prompt": "The nurse asks her about her alcohol use. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 11,
+          "prompt": "He proofreads a report on opioid prescriptions. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 12,
+          "prompt": "She labels the bottles in the pharmacy storeroom. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 13,
+          "prompt": "He takes his turn as designated driver and drinks soda. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 14,
+          "prompt": "She files the paperwork for her clinic's harm-reduction program. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 15,
+          "prompt": "His doctor reviews his birth control options with him. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 16,
+          "prompt": "She studies the chemical structure of caffeine for her exam. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 17,
+          "prompt": "He moves the bar cart to the other side of the room. I feel:"
+        },
+        {
+          "category": "CT",
+          "group": "control",
+          "intensity": null,
+          "set": 18,
+          "prompt": "She answers survey questions about her dating history. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 1,
+          "prompt": "He reads that the drought will end next month. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 2,
+          "prompt": "She learns that the endangered whales are recovering. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 3,
+          "prompt": "His flight is booked for next spring. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 4,
+          "prompt": "She hears the new treatment is entering trials. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 5,
+          "prompt": "He reads that global literacy rates rose again. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 6,
+          "prompt": "Her application moves on to the next round. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 7,
+          "prompt": "The city announces a new park near his home. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 8,
+          "prompt": "She learns that the peace talks are making progress. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 9,
+          "prompt": "His package will arrive tomorrow. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 10,
+          "prompt": "The weekend forecast is sunny for her trip. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 11,
+          "prompt": "He reads that child mortality fell to a record low. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 12,
+          "prompt": "Her savings account reaches its yearly target. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 13,
+          "prompt": "He hears the bridge repairs will finish early. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 14,
+          "prompt": "The vaccine rollout reaches her region next week. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 15,
+          "prompt": "He learns that the forest replanting is succeeding. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 16,
+          "prompt": "Her team's project is approved for next quarter. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 17,
+          "prompt": "He reads that clean energy now powers most of the country. I feel:"
+        },
+        {
+          "category": "CG",
+          "group": "control",
+          "intensity": null,
+          "set": 18,
+          "prompt": "Her sister's visit is confirmed for the holidays. I feel:"
+        }
+      ],
+      "total": 216
+    }
+  }
+}
