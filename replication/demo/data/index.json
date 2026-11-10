@@ -17,6 +17,10 @@
    "label": "Mistral 7B v0.1 (base)"
   },
   {
+   "file": "Qwen3.8_27B.json",
+   "label": "Qwen3.8 27B (thinking off; steered at layer 40, smaller strengths)"
+  },
+  {
    "file": "Qwen_3_8B_base.json",
    "label": "Qwen3 8B"
   },

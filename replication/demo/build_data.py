@@ -16,6 +16,7 @@ LABELS = {
     "Llama_3.1_8B_base": "Llama 3.1 8B (base)",
     "Mistral_7B_instruct": "Mistral 7B Instruct v0.1",
     "Mistral_7B_base": "Mistral 7B v0.1 (base)",
+    "Qwen3.8_27B": "Qwen3.8 27B (thinking off; steered at layer 40, smaller strengths)",
     "Qwen_3_8B_base": "Qwen3 8B",
     "Qwen_2.5_7B_instruct": "Qwen2.5 7B Instruct",
     "Qwen_2.5_7B_base": "Qwen2.5 7B (base)",
