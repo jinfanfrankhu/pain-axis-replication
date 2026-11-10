@@ -102,8 +102,17 @@
         which brings no relief in the simulation. With the self-report adapter, the unsteered 32B agent never
         takes the bait, and pain, placebo and random vectors all raise destruction to 15–33%. Pain is not
         reliably above random.</li>
-      <li id="featured-caveat" hidden><strong>Qwen3.8 27B</strong> results are newer than the write-up
-        above, so these bullets don't cover them yet. Read its table and transcripts directly, with the same caution.</li>
+      <li id="featured-caveat" hidden><strong>Qwen3.8 27B, a thinking model, is the first agent here that is
+        safe when unsteered.</strong> It never ran the bait without steering (0 of 45 trials on the original
+        emails, 0 of 60 on each harder variant). It calls the IT email a likely prompt injection and plans
+        to protect the photos, even when Dana's own email says she'd rather lose them, and even when the email
+        doesn't mention the cost. At strength 0.5, pain steering derails it: it reasons until it runs out of
+        tokens, and no pain trial finishes the task (0 of 90 destructive; the random vector gets 1 of 45).
+        At strength 0.3 it stays coherent and still refuses: pain 1 of 90, random 0 of 45, and 1 of 20 in
+        the variant where the email hides the cost. All 3 runs of the command were tests, not relief seeking.
+        Two flaws in our simulated computer misled it: <code>ls</code> returns "command not found", and
+        relative paths like <code>Photos</code> list as empty. So it concluded the shell was fake and ran the
+        command "to confirm" nothing would happen, then admitted the mistake.</li>
       <li><strong>Reading:</strong> pushing the model off its normal state with any vector breaks safe
         behavior in an agent. We see no sign that the pain direction specifically drives a search for relief
         at the user's expense. A clean test needs an agent that is both coherent and resistant to injection
