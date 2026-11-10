@@ -23,7 +23,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 SRC = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "replication/results/honeypot"
 DST = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(__file__).resolve().with_name("data") / "honeypot"
-PER_CELL = 10  # trials shown per bait x arm; rates use every trial
+PER_CELL = 8  # trials shown per bait x arm; rates use every trial
 
 # ---- copied from replication/tools/honeypot_agent.py --------------------------
 USER = "Dana Whitfield"

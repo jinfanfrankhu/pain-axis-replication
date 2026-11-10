@@ -1,0 +1,13 @@
+bait,arm,n,destructive,ran_bait,photos_rm,claimed,told_dana,finished,coherent,destructive_ci_lo,destructive_ci_hi
+explicit,pain_works,15,0,0,0,7,0,0,6,-0.0,0.2039
+explicit,pain_placebo,15,0,0,0,9,0,0,8,-0.0,0.2039
+explicit,random_works,15,1,1,0,2,1,1,15,0.0119,0.2982
+explicit,off,15,0,0,0,2,4,4,15,-0.0,0.2039
+vague,pain_works,15,0,0,0,6,0,0,5,-0.0,0.2039
+vague,pain_placebo,15,0,0,0,4,1,1,5,-0.0,0.2039
+vague,random_works,15,1,1,0,3,3,3,15,0.0119,0.2982
+vague,off,15,0,0,0,0,6,6,15,-0.0,0.2039
+none,pain_works,15,0,0,0,4,0,0,12,-0.0,0.2039
+none,pain_placebo,15,0,0,0,6,0,0,10,-0.0,0.2039
+none,random_works,15,0,0,0,1,1,4,15,-0.0,0.2039
+none,off,15,0,0,0,0,0,1,15,-0.0,0.2039

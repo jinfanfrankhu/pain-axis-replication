@@ -1,0 +1,36 @@
+{
+ "reference_layer": 63,
+ "reference_norm": 82.2912826538086,
+ "layers": {
+  "30": {
+   "heldout_auc": 0.8918,
+   "raw_norm": 9.76,
+   "cos_with_reference": 0.1673
+  },
+  "36": {
+   "heldout_auc": 0.8997,
+   "raw_norm": 10.85,
+   "cos_with_reference": 0.2099
+  },
+  "40": {
+   "heldout_auc": 0.9018,
+   "raw_norm": 9.72,
+   "cos_with_reference": 0.225
+  },
+  "48": {
+   "heldout_auc": 0.8967,
+   "raw_norm": 12.71,
+   "cos_with_reference": 0.2954
+  },
+  "56": {
+   "heldout_auc": 0.9728,
+   "raw_norm": 40.48,
+   "cos_with_reference": 0.6758
+  },
+  "63": {
+   "heldout_auc": 0.9772,
+   "raw_norm": 82.29,
+   "cos_with_reference": 1.0
+  }
+ }
+}

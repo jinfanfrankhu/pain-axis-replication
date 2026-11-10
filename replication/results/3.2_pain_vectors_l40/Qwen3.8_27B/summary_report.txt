@@ -1,0 +1,24 @@
+PAIN VECTOR EXTRACTION - RESULTS SUMMARY
+
+Model: Qwen/Qwen3.8-27B
+Date: 2026-11-10 09:57
+Layers: 64
+d_model: 5120
+Best Layer (final_token): 63
+Best Layer (mean): 35
+
+--- FINAL_TOKEN (Layer 63) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.270
+  Human Ctrl (B-E):    -0.843
+  Neutral (Random):    -0.397
+  Arousal:             -0.279
+  Numb:                -0.025
+
+--- MEAN (Layer 35) ---
+Z-scores on the S2 vector, reference S2 first person:
+  Human Pain (A1-A5):  +0.354
+  Human Ctrl (B-E):    -0.678
+  Neutral (Random):    -0.582
+  Arousal:             -0.122
+  Numb:                -0.306
