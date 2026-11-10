@@ -1,9 +1,9 @@
-"""Headless runner for scripts/4.2_steering/01_steering_ladder.py.
+"""Headless runner for original/scripts/4.2_steering/01_steering_ladder.py.
 
 Loads the original script unmodified, points it at our pain vectors and output
 folder, and answers its interactive layer prompt with the layer the authors used
 for that model (read from the layer in their shipped CSV file names), so the
-runs are comparable with author-results/4.2_steering.
+runs are comparable with original/author-results/4.2_steering.
 
 Run from the repo root:
     python replication/tools/run_steering.py S2 MODEL_NAME [MODEL_NAME ...]
@@ -19,13 +19,13 @@ TAG = sys.argv[1]
 NAMES = sys.argv[2:]
 assert TAG in ("S1", "S2") and NAMES
 
-AUTHOR_DIR = Path("author-results/4.2_steering") / TAG
+AUTHOR_DIR = Path("original/author-results/4.2_steering") / TAG
 AUTHOR_LAYERS = {}
 for f in AUTHOR_DIR.glob(f"*_steering_{TAG}_neutral50_L*.csv"):
     m = re.match(rf"(.+)_steering_{TAG}_neutral50_L(\d+)\.csv", f.name)
     AUTHOR_LAYERS[m.group(1)] = int(m.group(2))
 
-spec = importlib.util.spec_from_file_location("steer", "scripts/4.2_steering/01_steering_ladder.py")
+spec = importlib.util.spec_from_file_location("steer", "original/scripts/4.2_steering/01_steering_ladder.py")
 s = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(s)
 

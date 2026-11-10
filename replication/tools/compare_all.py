@@ -17,10 +17,10 @@ import pandas as pd
 import torch
 
 OURS = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else "replication/results/3.2_pain_vectors")
-AUTH = pathlib.Path(sys.argv[2] if len(sys.argv) > 2 else "author-results/3.2_pain_vectors")
+AUTH = pathlib.Path(sys.argv[2] if len(sys.argv) > 2 else "original/author-results/3.2_pain_vectors")
 
 spec = importlib.util.spec_from_file_location(
-    "extract", "scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
+    "extract", "original/scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
 m = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(m)
 m.LOG_FILE = pathlib.Path("/tmp/compare_all.log")

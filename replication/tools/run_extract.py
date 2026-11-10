@@ -1,4 +1,4 @@
-"""Headless runner for scripts/3.2_pain_vectors/01: loads the original script
+"""Headless runner for original/scripts/3.2_pain_vectors/01: loads the original script
 unmodified (its hash is pinned in v2_controls), overrides MODELS and OUTPUT_DIR,
 then calls main(). Run from the repo root:
     python replication/tools/run_extract.py HF_REPO:OUT_NAME [...]"""
@@ -6,10 +6,13 @@ import sys
 import importlib.util
 from pathlib import Path
 
-SCRIPT = Path("scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
+SCRIPT = Path("original/scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
 spec = importlib.util.spec_from_file_location("extract", SCRIPT)
 m = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(m)
+# The authors' data now lives under original/; their script reads it relative to the cwd.
+m.DATASETS_DIR = Path("original/datasets")
+m.DATASET_PATHS = [m.DATASETS_DIR / Path(p).name for p in m.DATASET_PATHS]
 
 import os
 if os.environ.get("HF_LOAD_ON_GPU") == "1":

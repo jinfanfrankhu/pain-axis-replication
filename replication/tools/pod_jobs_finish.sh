@@ -16,7 +16,7 @@ HF_BACKEND=1 OUT_DIR=replication/results/3.2_pain_vectors_hf python -u replicati
   google/gemma-2-2b:Gemma_2_2B_base Qwen/Qwen2.5-7B-Instruct:Qwen_2.5_7B_instruct Qwen/Qwen2.5-7B:Qwen_2.5_7B_base \
   google/gemma-2-9b-it:Gemma_2_9B_instruct google/gemma-2-9b:Gemma_2_9B_base
 wipe
-python -u replication/tools/compare_all.py replication/results/3.2_pain_vectors_hf author-results/3.2_pain_vectors 2>&1 | grep -v "^{"
+python -u replication/tools/compare_all.py replication/results/3.2_pain_vectors_hf original/author-results/3.2_pain_vectors 2>&1 | grep -v "^{"
 find replication/results/3.2_pain_vectors_hf -name activations.pt -delete
 echo "### E EXTRACT DONE $(date)"; sync_out
 

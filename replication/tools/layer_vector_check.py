@@ -25,7 +25,7 @@ import numpy as np
 import torch
 
 spec = importlib.util.spec_from_file_location(
-    "extract", "scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
+    "extract", "original/scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
 m = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(m)
 

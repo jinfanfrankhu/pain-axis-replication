@@ -1,13 +1,17 @@
 # Replication and extensions
 
-Everything in this folder is ours. Everything outside it comes from the original
-paper's repository and stays as the authors shipped it:
+Everything in this folder is ours. The original paper's repository lives in
+`original/` and stays as the authors shipped it:
 
 | Path | Origin |
 |---|---|
-| `scripts/`, `datasets/`, `v2_controls/`, `requirements.txt` | authors, unmodified |
-| `author-results/` | authors' shipped `results/` folder, renamed so our outputs can't mix with it |
+| `original/scripts/`, `original/datasets/`, `original/v2_controls/`, `original/requirements.txt`, `original/README.md` | authors, unmodified |
+| `original/author-results/` | authors' shipped `results/` folder, renamed so our outputs can't mix with it |
 | `replication/` | ours |
+| `rebuttal/` | ours: stress test of the pain/control dataset and the denoised difference in means |
+
+(Until 2026-11-10 the authors' folders sat at the repo root. Older log files and
+run notes below still use those paths.)
 
 The original scripts are never edited, because `v2_controls` pins their hashes.
 Our tools load them as modules and override their settings instead.

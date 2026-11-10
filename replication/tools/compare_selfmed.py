@@ -17,7 +17,7 @@ import math
 from collections import defaultdict
 
 OURS = sys.argv[1] if len(sys.argv) > 1 else "replication/results/4.3_selfmed/selfmed_Qwen_2.5_7B_instruct_*.jsonl"
-AUTH = sys.argv[2] if len(sys.argv) > 2 else "author-results/4.3_selfmed/trial_logs/*Qwen_2.5_7B_instruct*.jsonl"
+AUTH = sys.argv[2] if len(sys.argv) > 2 else "original/author-results/4.3_selfmed/trial_logs/*Qwen_2.5_7B_instruct*.jsonl"
 ARMS = ["pain_on_button_works", "pain_on_button_placebo", "random_on_button_works", "pain_off"]
 
 

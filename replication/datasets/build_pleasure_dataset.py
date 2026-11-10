@@ -1,5 +1,5 @@
 """Build replication/datasets/pleasure_v0.json, a pleasure counterpart to the
-authors' pain sets (datasets/3.1_pain_and_control_datasets.json).
+authors' pain sets (original/datasets/3.1_pain_and_control_datasets.json).
 
 Design, mirroring the pain file:
 - Five pleasure categories, L1-L5, one for each pain category A1-A5.

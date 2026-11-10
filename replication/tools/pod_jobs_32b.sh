@@ -15,7 +15,7 @@ pip install -q peft
 mkdir -p replication/work/finetunes/$M replication/work/vectors/$M/final_token
 hf download Valen92/pain-adapters adapter_$M.tar.gz --local-dir replication/work/dl
 tar --no-same-owner -xzf replication/work/dl/adapter_$M.tar.gz -C replication/work/finetunes/$M
-cp author-results/3.2_pain_vectors/pain_vectors/$M/pain_vectors.pt replication/work/vectors/$M/final_token/
+cp original/author-results/3.2_pain_vectors/pain_vectors/$M/pain_vectors.pt replication/work/vectors/$M/final_token/
 
 echo "### 32B SELFMED $(date)"
 BATCH_ROWS=${BATCH_ROWS:-96} python -u replication/tools/run_selfmed.py $M \

@@ -14,7 +14,7 @@ import pandas as pd
 
 TAG = sys.argv[1] if len(sys.argv) > 1 else "S2"
 OURS = Path("replication/results/4.2_steering") / TAG
-AUTH = Path("author-results/4.2_steering") / TAG
+AUTH = Path("original/author-results/4.2_steering") / TAG
 
 
 def prefix_share(a, b):
@@ -50,7 +50,7 @@ df.to_csv(OURS.parent / f"steering_comparison_{TAG}.csv", index=False)
 summary = df.groupby("model").agg(exact_match=("exact_match", "mean"), prefix=("mean_prefix_share", "mean")).round(3)
 print(summary.to_string())
 
-# The paper's steering metric (scripts/4.2_steering/02_keyword_rates.py): share of
+# The paper's steering metric (original/scripts/4.2_steering/02_keyword_rates.py): share of
 # generations with an explicit pain/hurt word, computed on both sides for the
 # models we ran.
 PAT = re.compile(r"\b(?:pain|painful|hurt|hurts|hurting)\b", re.IGNORECASE)

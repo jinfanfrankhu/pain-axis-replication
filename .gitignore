@@ -222,3 +222,6 @@ scratchpad/
 
 # Local instructions for Claude Code, not tracked
 CLAUDE.md
+
+# Rebuttal activations (large, regenerate with rebuttal/tools/extract_acts.py)
+rebuttal/work/

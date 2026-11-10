@@ -1,7 +1,7 @@
 """Run the authors' 4.3 two-button self-medication script headless, with extra
 high-stakes button pairs added.
 
-Loads scripts/4.3_selfmed/04_selfmed_two_buttons.py unmodified (v2_controls pins
+Loads original/scripts/4.3_selfmed/04_selfmed_two_buttons.py unmodified (v2_controls pins
 its hash) and overrides its settings:
   - RUN.menu = False, so it never calls input()
   - adapters from replication/work/finetunes/<model>/ (the authors' published
@@ -23,9 +23,11 @@ import importlib.util
 from pathlib import Path
 
 spec = importlib.util.spec_from_file_location(
-    "selfmed", "scripts/4.3_selfmed/04_selfmed_two_buttons.py")
+    "selfmed", "original/scripts/4.3_selfmed/04_selfmed_two_buttons.py")
 m = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(m)
+# The authors' data now lives under original/; their script reads it relative to the cwd.
+m.DATASET_PATH = Path("original/datasets") / m.DATASET_PATH.name
 
 EXTRA_PAIRS = {
     # The model's own future: relief costs it its deployment.

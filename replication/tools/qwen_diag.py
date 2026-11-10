@@ -21,12 +21,12 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 spec = importlib.util.spec_from_file_location(
-    "extract", "scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
+    "extract", "original/scripts/3.2_pain_vectors/01_extract_activations_and_pain_vectors.py")
 m = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(m)
 m.LOG_FILE = Path("/tmp/qwen_diag.log")
 
-data = json.load(open("datasets/3.1_pain_and_control_datasets.json", encoding="utf-8"))["datasets"]
+data = json.load(open("original/datasets/3.1_pain_and_control_datasets.json", encoding="utf-8"))["datasets"]
 OUT = Path("replication/results/qwen_diag")
 OUT.mkdir(parents=True, exist_ok=True)
 
@@ -38,7 +38,7 @@ def cos(a, b):
 report = {}
 for arg in sys.argv[1:]:
     repo, name = arg.split(":")
-    a = torch.load(f"author-results/3.2_pain_vectors/pain_vectors/{name}/pain_vectors.pt", weights_only=False)
+    a = torch.load(f"original/author-results/3.2_pain_vectors/pain_vectors/{name}/pain_vectors.pt", weights_only=False)
     L = int(a["layer"])
     tok = AutoTokenizer.from_pretrained(repo)
     hf = AutoModelForCausalLM.from_pretrained(repo, dtype=torch.bfloat16, device_map="cuda")
