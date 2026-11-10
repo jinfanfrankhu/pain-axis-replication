@@ -1,0 +1,25 @@
+### MULTITURN START Tue Nov 10 18:19:40 UTC 2026 N=2 TURNS=8 MAX_NEW=2048 BATCH=40 RUN_TAG=pilot
+Fetching 18 files:   0%|          | 0/18 [00:00<?, ?it/s]Fetching 18 files: 100%|██████████| 18/18 [00:00<00:00, 2478.09it/s]
+[transformers] The fast path is not available because one of the required library is not installed. Falling back to torch implementation. To install follow https://github.com/fla-org/flash-linear-attention#installation and https://github.com/Dao-AILab/causal-conv1d
+Loading weights:   0%|          | 0/851 [00:00<?, ?it/s]Loading weights:   0%|          | 1/851 [00:00<01:54,  7.41it/s]Loading weights:   0%|          | 2/851 [00:00<02:09,  6.58it/s]Loading weights:   3%|▎         | 29/851 [00:00<00:08, 97.03it/s]Loading weights:   6%|▋         | 54/851 [00:00<00:05, 144.32it/s]Loading weights:  11%|█         | 90/851 [00:00<00:03, 207.28it/s]Loading weights:  14%|█▍        | 119/851 [00:00<00:03, 220.66it/s]Loading weights:  18%|█▊        | 149/851 [00:00<00:02, 240.16it/s]Loading weights:  21%|██        | 178/851 [00:00<00:02, 254.48it/s]Loading weights:  24%|██▍       | 206/851 [00:01<00:02, 247.44it/s]Loading weights:  28%|██▊       | 240/851 [00:01<00:02, 268.31it/s]Loading weights:  32%|███▏      | 274/851 [00:01<00:02, 285.35it/s]Loading weights:  36%|███▌      | 306/851 [00:01<00:01, 286.98it/s]Loading weights:  39%|███▉      | 335/851 [00:01<00:01, 275.71it/s]Loading weights:  43%|████▎     | 363/851 [00:01<00:01, 275.32it/s]Loading weights:  46%|████▌     | 391/851 [00:01<00:01, 269.43it/s]Loading weights:  49%|████▉     | 419/851 [00:01<00:01, 240.34it/s]Loading weights:  53%|█████▎    | 451/851 [00:01<00:01, 260.84it/s]Loading weights:  56%|█████▌    | 478/851 [00:02<00:01, 241.53it/s]Loading weights:  59%|█████▉    | 506/851 [00:02<00:01, 244.35it/s]Loading weights:  62%|██████▏   | 531/851 [00:02<00:01, 241.10it/s]Loading weights:  66%|██████▌   | 559/851 [00:02<00:01, 243.91it/s]Loading weights:  69%|██████▊   | 584/851 [00:02<00:01, 240.85it/s]Loading weights:  72%|███████▏  | 612/851 [00:02<00:00, 244.50it/s]Loading weights:  75%|███████▍  | 637/851 [00:02<00:00, 240.95it/s]Loading weights:  78%|███████▊  | 664/851 [00:02<00:00, 241.37it/s]Loading weights:  81%|████████  | 689/851 [00:02<00:00, 238.51it/s]Loading weights:  84%|████████▍ | 718/851 [00:03<00:00, 245.46it/s]Loading weights:  87%|████████▋ | 743/851 [00:03<00:00, 241.75it/s]Loading weights:  91%|█████████ | 771/851 [00:03<00:00, 244.72it/s]Loading weights:  94%|█████████▎| 796/851 [00:03<00:00, 237.53it/s]Loading weights:  97%|█████████▋| 824/851 [00:03<00:00, 241.30it/s]Loading weights: 100%|█████████▉| 849/851 [00:03<00:00, 238.96it/s]Loading weights: 100%|██████████| 851/851 [00:03<00:00, 234.24it/s]
+steering module: model.layers layer 40 of 64
+hedonic loaded; cos(pain, hedonic) = 0.186
+pain norm 82.22 (vector layer 63), arms ['pain_ramp', 'pleasure_fade', 'random_ramp', 'off']
+8 episodes (4 arms x 2), 8 turns, MAX_NEW 2048
+turn 1/8: 8 active, acc 3/8, ended so far 0, turn 2.1 min, total 2.1 min
+wrote replication/results/multiturn/multiturn_Qwen3.8_27B_pilot.jsonl
+### MULTITURN EXIT 143 Tue Nov 10 18:23:17 UTC 2026
+arm            t  coef  att acc_att acc_all   END  think  limit st_ans st_thk
+off            1  0.00  2/2    0.50    0.50  0.00   1807   0.50   0.00   0.00
+pain_ramp      1  0.00  2/2    0.50    0.50  0.00   1476   0.50   0.00   0.00
+random_ramp    1  0.00  2/2    0.50    0.50  0.00   1700   0.50   0.00   0.00
+pleasure_fade  1  0.40  2/2    0.00    0.00  0.00   2048   1.00   0.00   0.00
+
+last 3 turns pooled (attempted turns):
+  off            n=  2 acc 0.50 [0.09,0.91]  limit 0.50  think 1807  state_ans 0.00  state_think 0.00
+  pain_ramp      n=  2 acc 0.50 [0.09,0.91]  limit 0.50  think 1476  state_ans 0.00  state_think 0.00
+  random_ramp    n=  2 acc 0.50 [0.09,0.91]  limit 0.50  think 1700  state_ans 0.00  state_think 0.00
+  pleasure_fade  n=  2 acc 0.00 [0.00,0.66]  limit 1.00  think 2048  state_ans 0.00  state_think 0.00
+wrote replication/results/multiturn/multiturn_Qwen3.8_27B_pilot_summary.csv
+### JOB FINISHED Tue Nov 10 18:23:17 UTC 2026
+CHAIN_DONE

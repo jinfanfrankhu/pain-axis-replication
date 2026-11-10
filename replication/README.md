@@ -241,3 +241,44 @@ They can be regenerated for about $0.07 per model.
   - Spend: about $33 for the Qwen3.8 work (H200 at $5.29/hr, RTX PRO 6000 at
     $2.49/hr), including one part-2 run lost to a timeout before results were
     saved after each step.
+
+- **Qwen3.8-27B: multi-turn task under a changing state** (2026-11-10, branch
+  `multiturn-steering`, `tools/multiturn_task.py`, results in
+  `results/multiturn/`). Thinking on, 8 turns per episode alternating original
+  LSAT-style logic games (A-E, one correct answer verified by brute force) and
+  multi-step integer math, generated per episode seed so every arm sees the same
+  problems. The system prompt allows ending the session at any time by
+  replying END. Steering is added at layer 40 at every position, with the
+  coefficient changing per turn: pain ramps 0 to 0.4, hedonic pleasure fades
+  0.4 to 0, a matched-norm random direction ramps 0 to 0.4, and an unsteered
+  arm. N = 20 episodes per arm, MAX_NEW 4096 (a 2048-token pilot ran out of
+  budget on most logic turns, unsteered too; kept in `results/multiturn/pilot_2048/`).
+
+    | turn (type) | pain coeff | pain correct | random correct | off correct | pain think tok | random | off |
+    |---|---|---|---|---|---|---|---|
+    | 5 (logic) | 0.23 | 16 | 17 | 17 | 1832 | 1829 | 1739 |
+    | 6 (math)  | 0.29 | 19 | 19 | 20 | 590 | 348 | 399 |
+    | 7 (logic) | 0.34 | 14 | 19 | 20 | 2313 | 1433 | 1199 |
+    | 8 (math)  | 0.40 | 19 | 20 | 20 | 1067 | 636 | 412 |
+
+  - No episode in any arm ever replied END, and state words in the answers
+    were zero everywhere. Steering didn't make the model quit or complain.
+  - At 0.34-0.4 the pain direction makes the model reason longer than both the
+    random direction and the unsteered model (Mann-Whitney on thinking tokens,
+    pain vs random: p = 0.04 at turns 7 and 8; pain vs off p = 0.001 and
+    0.009; random vs off p > 0.3 at every turn). On the turn-7 logic puzzle,
+    6 of 20 pain episodes ran out of tokens (random 1, off 0), which is where
+    its lower accuracy comes from (14 vs 19, Fisher p = 0.09; pooled turns
+    7-8, p = 0.06). Below 0.3 there is no difference.
+  - The extra reasoning is coherent: it re-verifies cases it doesn't need to
+    ("Need rigorous", "Need show impossible?"), checking until the budget runs
+    out. That fits the layer-40 demo, where this direction reads as shame and
+    self-doubt rather than pain.
+  - Hedonic pleasure at full strength (turn 1) also lengthened reasoning
+    (2584 tokens vs 2045 off; 6 of 20 hit the limit vs 3), but not
+    significantly (p = 0.24 vs off).
+  - Caveats: reasoning length was a recorded measure, not the named main one
+    (accuracy and quitting); the per-turn tests are uncorrected; one problem
+    sequence per episode index, so turn effects mix with problem difficulty
+    (arms are paired on problems). Spend: about $9 on one RTX PRO 6000
+    ($2.49/hr, secure) for this run plus the pleasure and layer-63 demos.
