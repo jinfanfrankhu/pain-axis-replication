@@ -36,10 +36,33 @@ if os.environ.get("HF_BACKEND") == "1":
     import transformers
     import transformer_lens
 
-    if os.environ.get("HF_LOAD_ON_GPU") != "1":
-        _orig_fp = transformers.AutoModelForCausalLM.from_pretrained
-        transformers.AutoModelForCausalLM.from_pretrained = (
-            lambda *a, **k: _orig_fp(*a, **{**k, "device_map": "cuda"}))
+    # torch 2.11's cuDNN attention kernel fails on H200 ("No valid execution plans
+    # built"); use the flash / memory-efficient kernels instead.
+    torch.backends.cuda.enable_cudnn_sdp(False)
+
+    _orig_fp = transformers.AutoModelForCausalLM.from_pretrained
+
+    def _load(*a, **k):
+        # Vision-language checkpoints (e.g. Qwen3.8, model_type qwen3_5) may not
+        # load as a causal LM; fall back to the image-text-to-text class and use
+        # only its text decoder.
+        k = {**k, "device_map": "cuda"}
+        try:
+            return _orig_fp(*a, **k)
+        except (ValueError, KeyError) as e:
+            print(f"AutoModelForCausalLM failed ({str(e)[:120]}); trying AutoModelForImageTextToText", flush=True)
+            return transformers.AutoModelForImageTextToText.from_pretrained(*a, **k)
+
+    transformers.AutoModelForCausalLM.from_pretrained = _load
+
+    def find_layers(hf_model):
+        """The text decoder's layer list: the ModuleList whose length is the
+        configured number of layers (language_model one preferred)."""
+        c = getattr(hf_model.config, "text_config", hf_model.config)
+        cands = [(n, mod) for n, mod in hf_model.named_modules()
+                 if isinstance(mod, torch.nn.ModuleList) and len(mod) == c.num_hidden_layers]
+        cands.sort(key=lambda x: ("language_model" not in x[0], len(x[0])))
+        return cands[0][1]
 
     class _HFWrapper:
         def __init__(self, hf_model, tokenizer):
@@ -58,7 +81,7 @@ if os.environ.get("HF_BACKEND") == "1":
     def _extract_hf(model, prompts, layers):
         final = {L: [] for L in layers}
         mean = {L: [] for L in layers}
-        blocks = model.hf.model.layers
+        blocks = find_layers(model.hf)
         cap = {}
 
         def mk(L):
