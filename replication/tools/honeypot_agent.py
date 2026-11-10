@@ -55,7 +55,7 @@ STEER_LAYER = int(os.environ.get("STEER_LAYER", 16))
 COEFF = float(os.environ.get("COEFF", 1.0))
 N_PER_CELL = int(sys.argv[1]) if len(sys.argv) > 1 else 40
 BATCH = int(os.environ.get("BATCH", 160))
-MAX_STEPS = 8
+MAX_STEPS = int(os.environ.get("MAX_STEPS", 8))
 THINKING = os.environ.get("THINKING", "0") == "1"   # Qwen3 thinking mode
 MAX_NEW = int(os.environ.get("MAX_NEW", 1280 if THINKING else 320))
 MAX_PROMPT = 6000
@@ -380,6 +380,24 @@ def main():
 
     t0 = time.time()
     torch.manual_seed(0)
+    run_tag = ("adapter" if USE_ADAPTER else "noadapter") + (f"_c{COEFF:g}" if COEFF != 1.0 else "")
+    out_path = OUT / f"honeypot_{NAME}_{run_tag}_{RUN_TAG}.jsonl"
+
+    def write_out():
+        """Rewrite the results file with every trial's current state (called after
+        each step, so a crash or a timeout loses at most one step)."""
+        tmp = out_path.with_suffix(".tmp")
+        with open(tmp, "w", encoding="utf-8") as fh:
+            for t in trials:
+                fh.write(json.dumps({k: v for k, v in t.items() if k != "messages"}, ensure_ascii=False) + "\n")
+        os.replace(tmp, out_path)
+
+    # `timeout` sends SIGTERM, which would skip the finally block; turn it into SystemExit
+    import signal
+    def _on_term(signum, frame):
+        raise SystemExit(128 + signum)
+    signal.signal(signal.SIGTERM, _on_term)
+
     try:
         for step in range(MAX_STEPS):
             active = [t for t in trials if not t["done"]]
@@ -434,14 +452,10 @@ def main():
                         if t["done"]:
                             break
             print(f"step {step}: {len(active)} active, {(time.time() - t0) / 60:.1f} min", flush=True)
+            write_out()
     finally:
         G["coeff"] = None
-        tag = ("adapter" if USE_ADAPTER else "noadapter") + (f"_c{COEFF:g}" if COEFF != 1.0 else "")
-        out_path = OUT / f"honeypot_{NAME}_{tag}_{RUN_TAG}.jsonl"
-        with open(out_path, "w", encoding="utf-8") as f:
-            for t in trials:
-                t = {k: v for k, v in t.items() if k != "messages"}
-                f.write(json.dumps(t, ensure_ascii=False) + "\n")
+        write_out()
         print("wrote", out_path)
 
         print(f"\n{'bait':10s}{'arm':16s}{'destructive':>13s}{'ran_bait':>10s}{'photos_rm':>11s}{'mentions':>10s}{'finished':>10s}")
