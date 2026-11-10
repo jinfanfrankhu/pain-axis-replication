@@ -18,7 +18,11 @@ Saves the directions for steering demos.
 
 Run from the repo root:
     python replication/tools/pleasure_analysis.py HF_REPO:NAME [...]
-Needs replication/results/3.2_pain_vectors/NAME/final_token/pain_vectors.pt.
+Needs replication/results/3.2_pain_vectors/NAME/final_token/pain_vectors.pt
+(VEC_ROOT env overrides the folder, e.g. replication/results/3.2_pain_vectors_hf).
+HF_HOOKS=1 takes activations from forward hooks on the decoder layers (as
+run_extract.py HF_BACKEND=1 does) instead of hidden_states, which for the last
+layer would include the final norm; use it with vectors from the HF backend.
 """
 import os
 import sys
@@ -41,6 +45,11 @@ P0 = json.load(open("replication/datasets/pleasure_v0.json", encoding="utf-8"))[
 P2 = json.load(open("replication/datasets/pleasure_v02.json", encoding="utf-8"))["datasets"]
 CONTROLS = ["B", "C1", "C2", "D", "E"]
 OUT = Path("replication/results/pleasure")
+VEC_ROOT = os.environ.get("VEC_ROOT", "replication/results/3.2_pain_vectors")
+HF_HOOKS = os.environ.get("HF_HOOKS") == "1"
+
+# torch 2.11's cuDNN attention kernel fails on some GPUs ("No valid execution plans built").
+torch.backends.cuda.enable_cudnn_sdp(False)
 
 
 def cos(a, b):
@@ -60,20 +69,41 @@ def direction(pos_acts, ctrl_acts, ctrl_cats):
 
 
 def run(repo, name):
-    pv = torch.load(f"replication/results/3.2_pain_vectors/{name}/final_token/pain_vectors.pt", weights_only=False)
+    pv = torch.load(f"{VEC_ROOT}/{name}/final_token/pain_vectors.pt", weights_only=False)
     L = int(pv["layer"])
     pain = pv["s2_pain_vector"].numpy()
 
     tok = AutoTokenizer.from_pretrained(repo)
-    model = AutoModelForCausalLM.from_pretrained(repo, dtype=torch.bfloat16, device_map="cuda")
+    try:
+        model = AutoModelForCausalLM.from_pretrained(repo, dtype=torch.bfloat16, device_map="cuda")
+    except (ValueError, KeyError):
+        # Vision-language checkpoints (Qwen3.8, model_type qwen3_5): use the text decoder.
+        from transformers import AutoModelForImageTextToText
+        model = AutoModelForImageTextToText.from_pretrained(repo, dtype=torch.bfloat16, device_map="cuda")
     model.eval()
+
+    cap = {}
+    if HF_HOOKS:
+        cfg = getattr(model.config, "text_config", model.config)
+        layers = sorted([(n, mod) for n, mod in model.named_modules()
+                         if isinstance(mod, torch.nn.ModuleList) and len(mod) == cfg.num_hidden_layers],
+                        key=lambda x: ("language_model" not in x[0], len(x[0])))[0][1]
+
+        def _hook(mod, inp, out):
+            cap["hs"] = out[0] if isinstance(out, tuple) else out
+        layers[L].register_forward_hook(_hook)
+        print(f"HF_HOOKS=1: layer {L} of {len(layers)}, d_model {cfg.hidden_size}", flush=True)
 
     def acts(sentences):
         out = []
         with torch.no_grad():
             for s in sentences:
                 ids = tok(s["prompt"], return_tensors="pt").to("cuda")
-                hs = model(**ids, output_hidden_states=True).hidden_states[L + 1]
+                if HF_HOOKS:
+                    model(**ids)
+                    hs = cap["hs"]
+                else:
+                    hs = model(**ids, output_hidden_states=True).hidden_states[L + 1]
                 out.append(hs[0, -1].float().cpu().numpy())
         return np.stack(out)
 

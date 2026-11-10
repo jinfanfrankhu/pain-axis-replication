@@ -13,7 +13,7 @@ in small ways from unbatched runs.
 
 Run from the repo root:
     python replication/tools/steering_demo.py HF_REPO:NAME:STEER_LAYER:instruct|base [...]
-Writes replication/results/demo/NAME.json.
+Writes replication/results/demo/NAME.json (OUT_NAME env overrides the name).
 """
 import os
 import sys
@@ -64,6 +64,9 @@ def load_vectors(name):
 
 
 def run(repo, name, steer_layer, kind):
+    # OUT_NAME env names the output file and "model" field (default NAME), so the
+    # same vectors steered at another layer can be saved as a separate demo entry.
+    out_name = os.environ.get("OUT_NAME") or name
     vecs, ext_layer = load_vectors(name)
     tok = AutoTokenizer.from_pretrained(repo)
     tok.padding_side = "left"
@@ -115,14 +118,14 @@ def run(repo, name, steer_layer, kind):
     h.remove()
 
     data = {
-        "model": name, "repo": repo, "kind": kind, "steer_layer": steer_layer,
+        "model": out_name, "repo": repo, "kind": kind, "steer_layer": steer_layer,
         "vector_layer": ext_layer, "coeffs": COEFFS, "max_new_tokens": MAX_NEW,
         "vector_norms": {k: round(float(v.norm()), 2) for k, v in vecs.items()},
         "prompts": [{k: p[k] for k in ("id", "kind", "text")} for p in prompts],
         "generations": gens,
     }
-    json.dump(data, open(OUT / f"{name}.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
-    print(f"SUCCESS: {name}", flush=True)
+    json.dump(data, open(OUT / f"{out_name}.json", "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+    print(f"SUCCESS: {out_name}", flush=True)
     del model
     torch.cuda.empty_cache()
 

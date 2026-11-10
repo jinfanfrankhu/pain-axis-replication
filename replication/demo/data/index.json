@@ -18,7 +18,11 @@
   },
   {
    "file": "Qwen3.8_27B.json",
-   "label": "Qwen3.8 27B (thinking off; steered at layer 40, smaller strengths)"
+   "label": "Qwen3.8 27B (thinking off, steered at layer 40)"
+  },
+  {
+   "file": "Qwen3.8_27B_L63.json",
+   "label": "Qwen3.8 27B (thinking off, steered at layer 63)"
   },
   {
    "file": "Qwen_3_8B_base.json",

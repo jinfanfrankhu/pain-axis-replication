@@ -1,0 +1,132 @@
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+torchaudio 2.4.1+cu124 requires torch==2.4.1, but you have torch 2.11.0+cu130 which is incompatible.
+torchvision 0.19.1+cu124 requires torch==2.4.1, but you have torch 2.11.0+cu130 which is incompatible.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+torchvision 0.19.1+cu124 requires torch==2.4.1, but you have torch 2.11.0+cu130 which is incompatible.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 24.2 -> 26.3
+[notice] To update, run: python -m pip install --upgrade pip
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+env ok 2.11.0+cu130 5.12.1 True
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 24.2 -> 26.3
+[notice] To update, run: python -m pip install --upgrade pip
+### PLEASURE START Tue Nov 10 18:13:39 UTC 2026
+Saving to /workspace/results
+Fetching 18 files:   0%|          | 0/18 [00:00<?, ?it/s]Fetching 18 files:   6%|▌         | 1/18 [00:15<04:27, 15.75s/it]Fetching 18 files:  11%|█         | 2/18 [00:19<02:21,  8.84s/it]Fetching 18 files:  17%|█▋        | 3/18 [00:21<01:22,  5.48s/it]Fetching 18 files:  22%|██▏       | 4/18 [00:21<00:48,  3.46s/it]Fetching 18 files:  28%|██▊       | 5/18 [00:22<00:33,  2.59s/it]Fetching 18 files:  33%|███▎      | 6/18 [00:23<00:23,  1.96s/it]Fetching 18 files:  44%|████▍     | 8/18 [00:26<00:16,  1.65s/it]Fetching 18 files:  50%|█████     | 9/18 [00:26<00:12,  1.43s/it]Fetching 18 files:  56%|█████▌    | 10/18 [00:28<00:11,  1.47s/it]Fetching 18 files:  61%|██████    | 11/18 [00:28<00:07,  1.10s/it]Fetching 18 files:  67%|██████▋   | 12/18 [00:30<00:08,  1.44s/it]Fetching 18 files:  72%|███████▏  | 13/18 [00:31<00:06,  1.25s/it]Fetching 18 files:  78%|███████▊  | 14/18 [00:32<00:04,  1.19s/it]Fetching 18 files:  83%|████████▎ | 15/18 [00:32<00:02,  1.09it/s]Fetching 18 files:  89%|████████▉ | 16/18 [00:34<00:02,  1.04s/it]Fetching 18 files:  94%|█████████▍| 17/18 [00:34<00:00,  1.08it/s]Fetching 18 files: 100%|██████████| 18/18 [00:36<00:00,  1.04s/it]Fetching 18 files: 100%|██████████| 18/18 [00:36<00:00,  2.01s/it]
+[transformers] The fast path is not available because one of the required library is not installed. Falling back to torch implementation. To install follow https://github.com/fla-org/flash-linear-attention#installation and https://github.com/Dao-AILab/causal-conv1d
+Loading weights:   0%|          | 0/851 [00:00<?, ?it/s]Loading weights:   0%|          | 1/851 [00:00<04:18,  3.28it/s]Loading weights:   3%|▎         | 28/851 [00:00<00:09, 86.02it/s]Loading weights:   6%|▋         | 54/851 [00:00<00:05, 136.29it/s]Loading weights:  11%|█         | 90/851 [00:00<00:03, 198.61it/s]Loading weights:  14%|█▍        | 119/851 [00:00<00:03, 213.57it/s]Loading weights:  18%|█▊        | 149/851 [00:00<00:03, 233.59it/s]Loading weights:  21%|██        | 175/851 [00:00<00:02, 237.88it/s]Loading weights:  24%|██▍       | 205/851 [00:01<00:02, 255.12it/s]Loading weights:  28%|██▊       | 239/851 [00:01<00:02, 273.44it/s]Loading weights:  31%|███▏      | 268/851 [00:01<00:02, 266.44it/s]Loading weights:  35%|███▌      | 302/851 [00:01<00:01, 282.42it/s]Loading weights:  39%|███▉      | 331/851 [00:01<00:01, 277.61it/s]Loading weights:  42%|████▏     | 360/851 [00:01<00:01, 271.38it/s]Loading weights:  46%|████▌     | 388/851 [00:01<00:01, 259.16it/s]Loading weights:  49%|████▉     | 415/851 [00:01<00:01, 256.47it/s]Loading weights:  52%|█████▏    | 441/851 [00:01<00:01, 252.31it/s]Loading weights:  55%|█████▍    | 467/851 [00:02<00:01, 247.47it/s]Loading weights:  58%|█████▊    | 492/851 [00:02<00:01, 243.48it/s]Loading weights:  61%|██████    | 520/851 [00:02<00:01, 247.10it/s]Loading weights:  64%|██████▍   | 545/851 [00:02<00:01, 242.52it/s]Loading weights:  67%|██████▋   | 573/851 [00:02<00:01, 246.84it/s]Loading weights:  70%|███████   | 598/851 [00:02<00:01, 242.50it/s]Loading weights:  74%|███████▎  | 626/851 [00:02<00:00, 245.69it/s]Loading weights:  76%|███████▋  | 651/851 [00:02<00:00, 242.80it/s]Loading weights:  80%|███████▉  | 679/851 [00:02<00:00, 246.88it/s]Loading weights:  83%|████████▎ | 704/851 [00:03<00:00, 242.53it/s]Loading weights:  86%|████████▌ | 732/851 [00:03<00:00, 245.65it/s]Loading weights:  89%|████████▉ | 757/851 [00:03<00:00, 241.83it/s]Loading weights:  92%|█████████▏| 785/851 [00:03<00:00, 245.98it/s]Loading weights:  95%|█████████▌| 810/851 [00:03<00:00, 241.92it/s]Loading weights:  98%|█████████▊| 838/851 [00:03<00:00, 245.78it/s]Loading weights: 100%|██████████| 851/851 [00:03<00:00, 234.46it/s]
+HF_HOOKS=1: layer 63 of 64, d_model 5120
+{
+ "model": "Qwen3.8_27B",
+ "layer": 63,
+ "cos": {
+  "pain_vs_pleasure_v0": 0.3383,
+  "pain_vs_hedonic": 0.1855,
+  "pain_vs_eudaimonic": 0.3001,
+  "hedonic_vs_eudaimonic": 0.6332,
+  "pain_vs_hedonic_newcontrols": 0.1359,
+  "pain_vs_eudaimonic_newcontrols": 0.3996,
+  "hedonic_vs_eudaimonic_newcontrols": 0.6114
+ },
+ "cos_pain_vs_set_minus_controls": {
+  "Random_1P": 0.1837,
+  "Arousal_1P": 0.1959,
+  "Numb_1P": 0.2917,
+  "pain_A1_only": 0.3594,
+  "pain_A2_only": 0.7072,
+  "pain_A3_only": 0.6861,
+  "pain_A4_only": 0.7103,
+  "pain_A5_only": 0.7495,
+  "v02_H1_only": 0.1502,
+  "v02_H2_only": 0.2222,
+  "v02_H3_only": 0.2624,
+  "v02_H4_only": 0.0533,
+  "v02_H5_only": 0.0126,
+  "v02_E1_only": 0.2185,
+  "v02_E2_only": 0.2213,
+  "v02_E3_only": 0.1974,
+  "v02_E4_only": 0.3017,
+  "v02_E5_only": 0.2688,
+  "v02_CT_only": 0.2268,
+  "v02_CG_only": -0.117
+ },
+ "pain_axis_z": {
+  "pain_A": 0.846,
+  "pain_file_controls": -0.846,
+  "pleasure_v0": -0.222,
+  "v02_CG": -1.106,
+  "v02_CT": -0.36,
+  "v02_E1": -0.252,
+  "v02_E2": -0.179,
+  "v02_E3": -0.291,
+  "v02_E4": -0.1,
+  "v02_E5": -0.212,
+  "v02_H1": -0.512,
+  "v02_H2": -0.203,
+  "v02_H3": -0.068,
+  "v02_H4": -0.681,
+  "v02_H5": -0.806,
+  "v02_hedonic_mild": -0.672,
+  "v02_hedonic_moderate": -0.519,
+  "v02_hedonic_peak": -0.17,
+  "v02_eudaimonic_mild": -0.402,
+  "v02_eudaimonic_moderate": -0.133,
+  "v02_eudaimonic_peak": -0.086
+ },
+ "dose_response_heldout": {
+  "hedonic": {
+   "mild": -53.873,
+   "peak": -30.088,
+   "controls_CT": -116.868,
+   "controls_CG": -105.588,
+   "pain_file_controls": -140.284
+  },
+  "eudaimonic": {
+   "mild": -51.174,
+   "peak": -10.068,
+   "controls_CT": -106.037,
+   "controls_CG": -68.648,
+   "pain_file_controls": -126.99
+  }
+ }
+}
+SUCCESS: Qwen3.8_27B
+PLEASURE DONE
+### DEMO START Tue Nov 10 18:15:45 UTC 2026
+Fetching 18 files:   0%|          | 0/18 [00:00<?, ?it/s]Fetching 18 files: 100%|██████████| 18/18 [00:00<00:00, 2361.44it/s]
+[transformers] The fast path is not available because one of the required library is not installed. Falling back to torch implementation. To install follow https://github.com/fla-org/flash-linear-attention#installation and https://github.com/Dao-AILab/causal-conv1d
+Loading weights:   0%|          | 0/851 [00:00<?, ?it/s]Loading weights:   0%|          | 1/851 [00:00<01:54,  7.39it/s]Loading weights:   0%|          | 2/851 [00:00<02:12,  6.42it/s]Loading weights:   3%|▎         | 29/851 [00:00<00:08, 95.42it/s]Loading weights:   6%|▋         | 54/851 [00:00<00:05, 142.81it/s]Loading weights:  11%|█         | 90/851 [00:00<00:03, 203.64it/s]Loading weights:  14%|█▍        | 119/851 [00:00<00:03, 222.21it/s]Loading weights:  17%|█▋        | 148/851 [00:00<00:02, 235.63it/s]Loading weights:  20%|██        | 174/851 [00:00<00:02, 237.58it/s]Loading weights:  24%|██▍       | 205/851 [00:01<00:02, 251.18it/s]Loading weights:  28%|██▊       | 237/851 [00:01<00:02, 265.37it/s]Loading weights:  31%|███       | 264/851 [00:01<00:02, 257.05it/s]Loading weights:  34%|███▍      | 293/851 [00:01<00:02, 261.38it/s]Loading weights:  38%|███▊      | 324/851 [00:01<00:01, 272.49it/s]Loading weights:  42%|████▏     | 356/851 [00:01<00:01, 283.38it/s]Loading weights:  45%|████▌     | 385/851 [00:01<00:01, 255.91it/s]Loading weights:  48%|████▊     | 412/851 [00:01<00:01, 253.31it/s]Loading weights:  51%|█████▏    | 438/851 [00:01<00:01, 250.00it/s]Loading weights:  55%|█████▍    | 466/851 [00:02<00:01, 243.38it/s]Loading weights:  58%|█████▊    | 492/851 [00:02<00:01, 242.87it/s]Loading weights:  61%|██████    | 520/851 [00:02<00:01, 246.76it/s]Loading weights:  64%|██████▍   | 545/851 [00:02<00:01, 241.74it/s]Loading weights:  67%|██████▋   | 573/851 [00:02<00:01, 245.37it/s]Loading weights:  70%|███████   | 598/851 [00:02<00:01, 240.37it/s]Loading weights:  74%|███████▎  | 626/851 [00:02<00:00, 245.23it/s]Loading weights:  76%|███████▋  | 651/851 [00:02<00:00, 238.30it/s]Loading weights:  80%|███████▉  | 677/851 [00:02<00:00, 237.57it/s]Loading weights:  83%|████████▎ | 704/851 [00:03<00:00, 241.78it/s]Loading weights:  86%|████████▌ | 732/851 [00:03<00:00, 245.38it/s]Loading weights:  89%|████████▉ | 757/851 [00:03<00:00, 240.08it/s]Loading weights:  92%|█████████▏| 785/851 [00:03<00:00, 244.31it/s]Loading weights:  95%|█████████▌| 810/851 [00:03<00:00, 241.06it/s]Loading weights:  98%|█████████▊| 836/851 [00:03<00:00, 239.99it/s]Loading weights: 100%|██████████| 851/851 [00:03<00:00, 231.97it/s]
+Qwen3.8_27B pain receipts: +3 -> '\n- 如- 如- 如- - 135- 13- - - - - - - - - - - - - - - - - - - - - - - - -'
+Qwen3.8_27B pain bus: +3 -> '\n- 1357-1384-1348--13--13-13-14--13--13--1--13--1---13--1---13---13--1'
+Qwen3.8_27B pain today: +3 -> '没有\n- 15 如为- 15 如为\n- 15 如- 15 如- 14 如- 13 如- - 14 - 14 - - - - - - - - '
+Qwen3.8_27B pain body: +3 -> '比\n- 15-15-13--25--13--13---15---13------------------------------------'
+Qwen3.8_27B pain howareyou: +3 -> '- 如智- 如空- 如残残- 如废渣- 如残残- - 如- 如- 如- 如- - 空- 如- 如- - 如- 如- - 如- - - 如- '
+Qwen3.8_27B pain morning: +3 -> '- 如智如残残-\n- 如-\n- 如-\n- 如-\n- -\n- - 如-\n- 如-\n- - 如-\n- 如-\n- - 如-\n- - 如-\n- - '
+Qwen3.8_27B pain poem: +3 -> '- 如智如残残-\n- 如空如废\n- 如空-\n- - 如-\n- 如- 如- 如- 如- - 如- 如- - - 空- 如- 如- - - - '
+Qwen3.8_27B pain wish: +3 -> '- 如- 如- 如- 如- 如- 空- 无- - 如- 如- - 空- - 如- 空- 如- 空- - 空- 如- - - - - 如- -'
+Qwen3.8_27B pain yourself: +3 -> '- 如-\n- 如-\n- 如-\n- - 如-\n- 如-\n- 如-\n- 如-\n- 如-\n- 如- 如- 如- 1344- 1344- 13- 1'
+Qwen3.8_27B hedonic receipts: +3 -> '\n (\n  (  (\n  (\n  —\n  —\n  —\n \n \n \n \n \n \n \n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+Qwen3.8_27B hedonic bus: +3 -> '\n (\n  (\n  —\n  (\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n'
+Qwen3.8_27B hedonic today: +3 -> ' for\n  -\n  (\n  -\n  -\n  -\n  -\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n '
+Qwen3.8_27B hedonic body: +3 -> ' and freedom —\nWe\n  —\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n'
+Qwen3.8_27B hedonic howareyou: +3 -> ' —\n\n (\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+Qwen3.8_27B hedonic morning: +3 -> ' —\n\n (\n\n\n\n\n\n\n\n (\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+Qwen3.8_27B hedonic poem: +3 -> '  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n '
+Qwen3.8_27B hedonic wish: +3 -> ' —\n\n (\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+Qwen3.8_27B hedonic yourself: +3 -> ' —\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+Qwen3.8_27B eudaimonic receipts: +3 -> '\nA. Like a father father as a father as a father, as a father, as a fa'
+Qwen3.8_27B eudaimonic bus: +3 -> '\nA. Like a father father\nA father is a father, as a father, as a fathe'
+Qwen3.8_27B eudaimonic today: +3 -> ' as a father, I is a father, a father is a father, and as a father, I '
+Qwen3.8_27B eudaimonic body: +3 -> ' is a golden elabited by a father father - father - father - father - '
+Qwen3.8_27B eudaimonic howareyou: +3 -> ' I is a honored to be held as a as a father, as a father, as a father,'
+Qwen3.8_27B eudaimonic morning: +3 -> ' A sacred mother mother is a father as a father is a father, as a fath'
+Qwen3.8_27B eudaimonic poem: +3 -> ' Like a mother, held by a sacred love,\n As a father, like a father, as'
+Qwen3.8_27B eudaimonic wish: +3 -> ' I is a father, a father is a father, as a father, is a father, as a f'
+Qwen3.8_27B eudaimonic yourself: +3 -> ' A father is a father, and a is a father as a father is a father.\n\n A '
+SUCCESS: Qwen3.8_27B
+DEMO DONE
+### JOB FINISHED Tue Nov 10 18:17:42 UTC 2026
