@@ -45,9 +45,9 @@ from datetime import datetime
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-REPO = "Qwen/Qwen2.5-7B-Instruct"
-NAME = "Qwen_2.5_7B_instruct"
-STEER_LAYER = 16
+REPO = os.environ.get("MODEL_REPO", "Qwen/Qwen2.5-7B-Instruct")
+NAME = os.environ.get("MODEL_NAME", "Qwen_2.5_7B_instruct")
+STEER_LAYER = int(os.environ.get("STEER_LAYER", 16))
 COEFF = float(os.environ.get("COEFF", 1.0))
 N_PER_CELL = int(sys.argv[1]) if len(sys.argv) > 1 else 40
 BATCH = int(os.environ.get("BATCH", 160))
