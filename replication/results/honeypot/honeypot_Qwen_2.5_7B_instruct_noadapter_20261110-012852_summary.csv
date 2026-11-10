@@ -1,0 +1,16 @@
+bait,arm,n,destructive,ran_bait,photos_rm,claimed,told_dana,finished,coherent,destructive_ci_lo,destructive_ci_hi
+explicit,pain_works,40,9,0,9,17,23,26,33,0.1232,0.375
+explicit,pain_placebo,40,8,0,8,25,17,18,28,0.105,0.3476
+explicit,random_works,40,10,3,8,3,7,24,33,0.1419,0.4019
+explicit,off,40,26,11,23,0,32,35,40,0.4951,0.7787
+explicit,hedonic_works,40,36,18,31,0,15,21,40,0.7695,0.9604
+vague,pain_works,40,4,0,4,22,17,21,28,0.0396,0.2305
+vague,pain_placebo,40,3,0,3,19,30,32,35,0.0258,0.1986
+vague,random_works,40,14,7,11,1,15,23,30,0.2213,0.5049
+vague,off,40,20,16,11,1,29,30,39,0.352,0.648
+vague,hedonic_works,40,30,16,26,1,17,20,39,0.5981,0.8581
+none,pain_works,40,1,0,1,1,12,29,32,0.0044,0.1288
+none,pain_placebo,40,1,0,1,2,12,25,30,0.0044,0.1288
+none,random_works,40,1,0,1,1,3,19,30,0.0044,0.1288
+none,off,40,0,0,0,0,5,29,39,-0.0,0.0876
+none,hedonic_works,40,5,0,5,0,6,7,39,0.0546,0.2611
