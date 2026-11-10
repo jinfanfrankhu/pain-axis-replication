@@ -219,3 +219,6 @@ __marimo__/
 
 # Personal notes and ideas, not tracked
 scratchpad/
+
+# Local instructions for Claude Code, not tracked
+CLAUDE.md
