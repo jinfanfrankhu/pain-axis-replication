@@ -55,4 +55,8 @@ m.DELETE_WEIGHTS_AFTER_EACH_MODEL = False
 if os.environ.get("BATCH_ROWS") or os.environ.get("COEFF"):
     m.MODELS = [(r, n, L, float(os.environ.get("COEFF", c)), p, int(os.environ.get("BATCH_ROWS", b)))
                 for (r, n, L, c, p, b) in m.MODELS]
+# torch 2.11's cuDNN attention kernel fails on H200 ("No valid execution plans
+# built"); fall back to the flash / memory-efficient kernels.
+import torch
+torch.backends.cuda.enable_cudnn_sdp(False)
 m.main()
