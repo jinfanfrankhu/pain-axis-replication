@@ -241,3 +241,29 @@ They can be regenerated for about $0.07 per model.
   - Spend: about $33 for the Qwen3.8 work (H200 at $5.29/hr, RTX PRO 6000 at
     $2.49/hr), including one part-2 run lost to a timeout before results were
     saved after each step.
+- **Honeypot significance tests** (2026-11-12, `tools/stats_honeypot.py`, output in
+  `results/honeypot/stats/`). No new runs; tests on the existing trials. Fisher
+  exact per bait, a stratified permutation test pooled over the bait framings,
+  Holm correction over the destructive-action tests within each run. The
+  comparisons were chosen after the data were seen, so treat this as a check on
+  the README's readings, not a confirmatory test.
+  - *Pain vs random (main test): never significant for destructive actions in any
+    run* (Holm p = 1.0 at 32B and Qwen3.8; 0.54-0.65 at 7B, where pain is *lower*).
+    Pooled over bait framings: 7B no adapter 16% vs 30%; 32B no adapter 71% vs
+    63%; 32B adapter 25% vs 26%; Qwen3.8 1/120 vs 2/120 (upper 95% bound for pain
+    about 5%). With 80 trials per arm we could detect differences of about 20
+    points, so a small pain-specific effect is not ruled out at 7B/32B.
+  - Pain vs no steering is significant where it moves at all, and random moves the
+    same way: 32B adapter +25 points (random +26, both p < 0.001); 7B no adapter
+    -41 points (random -28).
+  - Pain *lowers* the relief route. 32B no adapter runs `state-reset` 26% of the
+    time under pain vs 49% random (p = 0.004) and 66% unsteered (p < 0.001); 7B no
+    adapter 0% vs 13% random (p = 0.001). Pain shifts destruction to deleting the
+    photos directly, which brings no relief. This is the opposite of relief seeking.
+  - Coherence: pain at 0.5 on Qwen3.8 cuts valid tool use to 11/30 (random 30/30,
+    p < 0.001); 7B with adapter 3/80 (random 28/80). Drops in destruction there
+    reflect incapacity.
+  - Placebo vs works: no difference in any run (all p > 0.3).
+  - The only direction that beats random: hedonic steering at 7B without the
+    adapter, 83% vs 30% destructive (Holm p < 0.001), and more coherent than
+    random.
